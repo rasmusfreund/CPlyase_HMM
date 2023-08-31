@@ -1,0 +1,1560 @@
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+
+
+1. rbsA
+ribose ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3749, ECK3743, rbsP, rbsT
+Other Designations: ribose ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (3933778..3935283)
+ID: 948264
+
+2. phnG
+carbon-phosphorus lyase core complex subunit PhnG [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4101, ECK4094
+Other Designations: carbon-phosphorus lyase core complex subunit PhnG
+Annotation:  NC_000913.3 (4321244..4321696, complement)
+ID: 948618
+
+3. phnG
+phosphonate C-P lyase system protein PhnG [Serratia marcescens]
+Other Aliases: C7M65_RS20500, C7M65_20475
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66716532
+
+4. phnG
+phosphonate C-P lyase system protein PhnG [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02390, SerAS9_0464
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_015567.1 (510638..511081, complement)
+ID: 57665284
+
+5. phnG
+phosphonate C-P lyase system protein PhnG [Citrobacter freundii]
+Other Aliases: EGX89_RS15870, EGX89_15890
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 60898004
+
+6. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella variicola]
+Other Aliases: GFC07_RS16145, GFC07_16145
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69734182
+
+7. phnG
+phosphonate C-P lyase system protein PhnG [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19150, EGY21_19110
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69796103
+
+8. phnG
+phosphonate C-P lyase system protein PhnG [Enterobacter kobei]
+Other Aliases: P827_RS02160, P827_04111
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69608611
+
+9. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea agglomerans]
+Other Aliases: I6L77_RS09740, I6L77_09740
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 66825458
+
+10. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium pusense]
+Other Aliases: HQN82_RS12940, HQN82_12940
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: R76C1
+ID: 61456252
+
+11. phnG
+phosphonate C-P lyase system protein PhnG [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01495, HUZ68_01480
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 75169619
+
+12. phnG
+phosphonate C-P lyase system protein PhnG [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10610, POR16_10610
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 72392824
+
+13. K2Z90_RS37000
+phosphonate C-P lyase system protein PhnG [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS37000, K2Z90_007357
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 69895257
+
+14. phnG
+phosphonate C-P lyase system protein PhnG [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41055
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 64073662
+
+15. phnG
+phosphonate C-P lyase system protein PhnG [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02610, Rahaq2_0543
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_016818.1 (550128..550571, complement)
+ID: 61510682
+
+16. phnG
+phosphonate C-P lyase system protein PhnG [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25740, E6A55_25720
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 2
+ID: 57647192
+
+17. phnG
+phosphonate C-P lyase system protein PhnG [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08380, PAGR_g1630
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_017554.1 (1790148..1790597)
+ID: 57267704
+
+18. phnG
+phosphonate C-P lyase system protein PhnG [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00580
+Other Designations: phosphonate C-P lyase system protein PhnG
+Chromosome: 1
+ID: 56331961
+
+19. phnG
+phosphonate C-P lyase system protein PhnG [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01135, TH3_01100
+Other Designations: phosphonate C-P lyase system protein PhnG
+ID: 31925927
+
+20. phnG
+phosphonate C-P lyase system protein PhnG [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05965, RCAP_rcc01193
+Other Designations: phosphonate C-P lyase system protein PhnG
+Annotation:  NC_014034.1 (1266272..1266718)
+ID: 31490106
+

@@ -1,0 +1,2176 @@
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+
+1. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+2. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+4. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+5. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+6. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+7. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+8. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+9. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+10. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+11. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+12. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+14. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+15. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+16. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+17. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+18. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+

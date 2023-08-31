@@ -1,0 +1,1560 @@
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+
+
+1. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+2. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+3. LUA64_RS01110
+ATP-binding cassette domain-containing protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01110
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69509705
+
+4. K2Z90_RS36980
+ATP-binding cassette domain-containing protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36980, K2Z90_007353
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69895253
+
+5. AOLE_RS10000
+ATP-binding cassette domain-containing protein [Acinetobacter oleivorans DR1]
+Other Aliases: AOLE_RS10000, AOLE_09950
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014259.1 (2151621..2152241, complement)
+ID: 9382412
+
+6. DYB71_RS11270
+ATP-binding cassette domain-containing protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11270, NCTC8156_02263
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74302619
+
+7. HMPREF9452_RS04425
+ATP-binding cassette domain-containing protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04425, HMPREF9452_00886
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62758632
+
+8. G4D54_RS15755
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15755, G4D54_15755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927022
+
+9. phnL
+phosphonate C-P lyase system protein PhnL [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02365, SerAS9_0459
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_015567.1 (506603..507307, complement)
+ID: 57665279
+
+10. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23455, I8N75_23455
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 64297529
+
+11. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter kobei]
+Other Aliases: P827_RS02185, P827_04106
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 69608616
+
+12. phnL
+phosphonate C-P lyase system protein PhnL [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25610, THOKLE011_50030
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66562184
+
+13. phnL
+phosphonate C-P lyase system protein PhnL [Agrobacterium pusense]
+Other Aliases: HQN82_RS12915, HQN82_12915
+Other Designations: phosphonate C-P lyase system protein PhnL
+Chromosome: R76C1
+ID: 61456247
+
+14. phnL
+phosphonate C-P lyase system protein PhnL [Enterobacter ludwigii]
+Other Aliases: BH714_RS19305, BH714_19305
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 45817693
+
+15. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10975, BZ17_2052
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66843071
+
+16. phnL
+phosphonate C-P lyase system protein PhnL [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10290, FE661_10320
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 66433035
+
+17. phnL
+phosphonate C-P lyase system protein PhnL [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05990, RCAP_rcc01199
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_014034.1 (1270188..1270871)
+ID: 31490111
+
+18. phnL
+phosphonate C-P lyase system protein PhnL [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13750, SM2011_b20764
+Other Designations: phosphonate C-P lyase system protein PhnL
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555880..1556587)
+ID: 61601365
+
+19. phnL
+phosphonate C-P lyase system protein PhnL [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02585, Rahaq2_0538
+Other Designations: phosphonate C-P lyase system protein PhnL
+Annotation:  NC_016818.1 (546069..546776, complement)
+ID: 61510677
+
+20. phnL
+phosphonate C-P lyase system protein PhnL [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06530, DJ58_1099
+Other Designations: phosphonate C-P lyase system protein PhnL
+ID: 57904661
+

@@ -1,0 +1,1512 @@
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
+
+1. phnJ
+carbon-phosphorus lyase core complex subunit PhnJ [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4098, ECK4091
+Other Designations: carbon-phosphorus lyase core complex subunit PhnJ
+Annotation:  NC_000913.3 (4318761..4319606, complement)
+ID: 948606
+
+2. ileS
+isoleucine--tRNA ligase [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS07985, SPPN_08080
+Other Designations: isoleucine--tRNA ligase
+Annotation:  NC_015875.1 (1557281..1560073, complement)
+ID: 45218839
+
+3. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter ludwigii]
+Other Aliases: BH714_RS19315, BH714_19315
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 45817695
+
+4. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterobacter kobei]
+Other Aliases: P827_RS02175, P827_04108
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69608614
+
+5. I6L77_RS09755
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pantoea agglomerans]
+Other Aliases: I6L77_RS09755, I6L77_09755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66825461
+
+6. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+7. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella boydii]
+Other Aliases: CEH00_RS06990, CEH00_07040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 75203249
+
+8. phnJ
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Shigella sonnei]
+Other Aliases: HUX90_RS07430, HUX90_07430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66671991
+
+9. SERAS9_RS02375
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02375, SerAS9_0461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Annotation:  NC_015567.1 (508115..508975, complement)
+ID: 57665281
+
+10. C7M65_RS20515
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Serratia marcescens]
+Other Aliases: C7M65_RS20515, C7M65_20490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66716535
+
+11. DYB71_RS11260
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11260, NCTC8156_02261
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 74302617
+
+12. G3M83_RS00905
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rouxiella badensis]
+Other Aliases: G3M83_RS00905, G3M83_00900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 68684471
+
+13. KNZ77_RS17785
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Clostridioides difficile]
+Other Aliases: KNZ77_RS17785, KNZ77_17785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 66355995
+
+14. HOP38_RS25495
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Vibrio mediterranei]
+Other Aliases: HOP38_RS25495, HOP38_25495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: II
+ID: 64089627
+
+15. HXT67_RS41040
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64073659
+
+16. Bdiaspc4_RS06050
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06050, Bdiaspc4_06040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64021092
+
+17. BN5_RS07405
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07405, BN5_1517
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+Chromosome: I
+ID: 61799260
+
+18. G6R18_RS19035
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19035
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 60945991
+
+19. GFC07_RS16130
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella variicola]
+Other Aliases: GFC07_RS16130, GFC07_16130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69734179
+
+20. I8N75_RS23445
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23445, I8N75_23445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 64297527
+
