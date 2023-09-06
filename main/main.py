@@ -1,6 +1,7 @@
 import os
-import entrez
 import re
+import entrez
+import phn_parser
 
 GENES = [
     "phnC",
@@ -22,6 +23,9 @@ GENES = [
 
 def download_data(path, GENES) -> None:
     entrez.search_fetch(path, GENES)
+
+def parse_ids(filename):
+    phn_parser.parser(###)
 
 
 def main() -> None:
