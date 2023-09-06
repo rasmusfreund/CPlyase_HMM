@@ -2,8 +2,7 @@ from Bio import Entrez
 
 Entrez.email = "201700273@post.au.dk"
 
-
-def search_fetch(path, genes):
+def search_fetch(path: str, genes: list[str]) -> None:
 
     BATCH_SIZE = 50
 
@@ -43,3 +42,5 @@ def search_fetch(path, genes):
             fetch_handle.close()
             out_handle.write(data)
         out_handle.close()
+
+    return()
