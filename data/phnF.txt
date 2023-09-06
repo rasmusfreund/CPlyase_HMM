@@ -1,0 +1,1479 @@
+
+1. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas chengduensis]
+Other Aliases: MYO55_RS08950
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 83640967
+
+2. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bradyrhizobium liaoningense CCBAU 05525]
+Other Aliases: IC32_RS16660
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 83554484
+
+3. phnF
+phosphonate metabolism transcriptional regulator PhnF [Shimia thalassica]
+Other Aliases: PH7735_RS02075, PH7735_00425
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 83879511
+
+4. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia proteamaculans]
+Other Aliases: QOT07_RS02150
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: EBP3064_c1
+ID: 83697242
+
+5. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter bugandensis]
+Other Aliases: K9O83_RS01790, K9O83_01795
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 83673156
+
+6. phnF
+phosphonate metabolism transcriptional regulator PhnF [Citrobacter youngae]
+Other Aliases: QRZ63_RS01415, QRZ63_01415
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 83644662
+
+7. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bacillus albus]
+Other Aliases: QRY64_RS23200, QRY64_23180
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 83637766
+
+8. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter cloacae]
+Other Aliases: LQ108_RS01740, AI2999V1_0342
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: main
+ID: 83571660
+
+9. phnF
+GntR family transcriptional regulator PhnF [Mycolicibacterium smegmatis]
+Other Aliases: FOB87_RS31635, FOB87_31640
+Other Designations: GntR family transcriptional regulator PhnF
+ID: 66738827
+
+10. FE661_RS10310
+GntR family transcriptional regulator [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10310, FE661_10340
+Other Designations: GntR family transcriptional regulator
+ID: 66433039
+
+11. phnF
+putative transcriptional regulator PhnF [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4102, ECK4095
+Other Designations: putative transcriptional regulator PhnF
+Annotation:  NC_000913.3 (4321697..4322422, complement)
+ID: 948617
+
+12. GNE07_RS15270
+GntR family transcriptional regulator [Hungatella hathewayi]
+Other Aliases: GNE07_RS15270, GNE07_15270
+Other Designations: GntR family transcriptional regulator
+ID: 61912074
+
+13. phnF
+phosphonate metabolism transcriptional regulator PhnF [Phaeobacter inhibens]
+Other Aliases: PhaeoP54_RS01940, PhaeoP54_00394
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 57287258
+
+14. phnF
+phosphonate metabolism transcriptional regulator PhnF [Klebsiella aerogenes]
+Other Aliases: FPV33_RS23140, FPV33_23140
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66605940
+
+15. phnF
+phosphonate metabolism transcriptional regulator PhnF [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23425, I8N75_23425
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 64297523
+
+16. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia marcescens]
+Other Aliases: C7M65_RS20495, C7M65_20470
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66716531
+
+17. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06030, Bdiaspc4_06020
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 64021088
+
+18. phnF
+phosphonate metabolism transcriptional regulator PhnF [Agrobacterium tumefaciens]
+Other Aliases: At12D1_RS14420, At12D1_27540
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: circular
+ID: 60890125
+
+19. phnF
+phosphonate metabolism transcriptional regulator PhnF [Burkholderia pseudomallei]
+Other Aliases: DP58_RS11010, DP58_2152
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 56528340
+
+20. phnF
+phosphonate metabolism transcriptional regulator PhnF [Achromobacter xylosoxidans]
+Other Aliases: I6I48_RS30030, I6I48_30025
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 75278758
+
+21. phnF
+phosphonate metabolism transcriptional regulator PhnF [Paraburkholderia hospita]
+Other Aliases: C2L64_RS21395, C2L64_21395
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 2
+ID: 55530871
+
+22. phnF
+phosphonate metabolism transcriptional regulator PhnF [Brucella suis 1330]
+Other Aliases: BR_RS05115, BR1100
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: I
+Annotation: Chromosome I NC_004310.3 (1074691..1075452)
+ID: 45052148
+
+23. phnF
+phosphonate metabolism transcriptional regulator PhnF [Brucella melitensis bv. 1 str. 16M]
+Other Aliases: BME_RS04390, BMEI0881
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: I
+Annotation: Chromosome I NC_003317.1 (913182..913943, complement)
+ID: 29593696
+
+24. phnF
+phosphonate metabolism transcriptional regulator PhnF [Agrobacterium rhizogenes]
+Other Aliases: EML492_RS10210, EML492_10210
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 66385138
+
+25. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter roggenkampii]
+Other Aliases: BFV67_RS01765, BFV67_01765
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 45794051
+
+26. phnF
+phosphonate metabolism transcriptional regulator PhnF [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05960, RCAP_rcc01192
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Annotation:  NC_014034.1 (1265460..1266194, complement)
+ID: 31490105
+
+27. phnF
+phosphonate metabolism transcriptional regulator PhnF [Brucella abortus 2308]
+Other Aliases: BAB_RS21310, BAB1_1124
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: I
+Annotation: Chromosome I NC_007618.1 (1089187..1089948)
+ID: 3787772
+
+28. phnF
+phosphonate metabolism transcriptional regulator PhnF [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01500, HUZ68_01485
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 75169620
+
+29. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41060
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 64073663
+
+30. phnF
+phosphonate metabolism transcriptional regulator PhnF [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13720, SM2011_b20758
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1551143..1551877, complement)
+ID: 61601359
+
+31. phnF
+phosphonate metabolism transcriptional regulator PhnF [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02615, Rahaq2_0544
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Annotation:  NC_016818.1 (550572..551297, complement)
+ID: 61510683
+
+32. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS23200, DJ58_1105
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 57907675
+
+33. phnF
+phosphonate metabolism transcriptional regulator PhnF [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25745, E6A55_25725
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 2
+ID: 57647193
+
+34. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08375, PAGR_g1629
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Annotation:  NC_017554.1 (1789435..1790148)
+ID: 57267703
+
+35. phnF
+phosphonate metabolism transcriptional regulator PhnF [Burkholderia mallei]
+Other Aliases: NW91_RS00595, NW91_00495
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 56593727
+
+36. phnF
+phosphonate metabolism transcriptional regulator PhnF [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00585
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 56331962
+
+37. phnF
+phosphonate metabolism transcriptional regulator PhnF [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS21370, RALTA_B1192
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (1246701..1247435)
+ID: 29764750
+
+38. phnF
+phosphonate metabolism transcriptional regulator PhnF [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07595, Dda3937_04087
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Annotation:  NC_014500.1 (1714847..1715566)
+ID: 9733024
+
+39. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13240, PSPTO2558, PSPTO_2558
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Annotation:  NC_004578.1 (2826562..2827281)
+ID: 1184210
+
+40. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10945, BZ17_2046
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66843065
+
+41. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia intermedia]
+Other Aliases: FOC38_RS19075, FOC38_19075
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 58049072
+
+42. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia pestis A1122]
+Other Aliases: A1122_RS23285, A1122_08620
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Annotation:  NC_017168.1 (1894557..1895282, complement)
+ID: 57977753
+
+43. phnF
+phosphonate metabolism transcriptional regulator PhnF [Klebsiella grimontii]
+Other Aliases: FN634_RS20325
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 64338776
+
+44. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia nevei]
+Other Aliases: F0338_RS01645
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 79508437
+
+45. phnF
+phosphonate metabolism transcriptional regulator PhnF [Phaeobacter italicus]
+Other Aliases: KUV39_RS05420, KUV39_05420
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 78397148
+
+46. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia enterocolitica]
+Other Aliases: N4222_RS17815, N4222_17815
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 77329703
+
+47. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia bockelmannii]
+Other Aliases: OM395_RS14665, OM395_14665
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 77284133
+
+48. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas syringae]
+Other Aliases: KIJ28_RS10560, KIJ28_10560
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 77278090
+
+49. phnF
+phosphonate metabolism transcriptional regulator PhnF [Roseomonas mucosa]
+Other Aliases: FOB66_RS19870, FOB66_19870
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 4
+ID: 76529110
+
+50. phnF
+phosphonate metabolism transcriptional regulator PhnF [Paracoccus denitrificans PD1222]
+Other Aliases: PDEN_RS23810, Pden_4783
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Genomic context: Plasmid 1
+Annotation:  NC_008688.1 (278877..279608)
+ID: 75504141
+
+
+1. phnF
+phosphonate metabolism transcriptional regulator PhnF [Shigella boydii]
+Other Aliases: CEH00_RS07010, CEH00_07060
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 75203253
+
+2. phnF
+phosphonate metabolism transcriptional regulator PhnF [Stutzerimonas kunmingensis]
+Other Aliases: LW136_RS00475, LW136_00475
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 73728709
+
+3. phnF
+phosphonate metabolism transcriptional regulator PhnF [Achromobacter insuavis]
+Other Aliases: H0522_RS07540, LMG26846_01499
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 71017358
+
+4. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia proxima]
+Other Aliases: FTB57_RS11610
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69701145
+
+5. phnF
+phosphonate metabolism transcriptional regulator PhnF [Hafnia paralvei]
+Other Aliases: K9N75_RS03030, K9N75_03030
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69636979
+
+6. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bacillus pacificus]
+Other Aliases: LMD38_RS06820, LMD38_06820
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69530580
+
+7. phnF
+phosphonate metabolism transcriptional regulator PhnF [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS23215, SIAM614_26421
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 68848879
+
+8. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bacillus mobilis]
+Other Aliases: BACERE00185_RS05610, BACERE00177_01085, CCN64_RS05770
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 68606163
+
+9. phnF
+phosphonate metabolism transcriptional regulator PhnF [Cylindrospermopsis raciborskii N8]
+Other Aliases: J9B92_RS14865
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 67521250
+
+10. phnF
+phosphonate metabolism transcriptional regulator PhnF [Rhodopseudomonas palustris]
+Other Aliases: I8G32_RS03560, I8G32_00711
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66891710
+
+11. phnF
+phosphonate metabolism transcriptional regulator PhnF [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS08370, R7A2020_08370
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66681978
+
+12. phnF
+phosphonate metabolism transcriptional regulator PhnF [Shigella sonnei]
+Other Aliases: HUX90_RS07410, HUX90_07410
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66671987
+
+13. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS36790, BE61_75200
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66429144
+
+14. phnF
+phosphonate metabolism transcriptional regulator PhnF [Kosakonia radicincitans]
+Other Aliases: FEI17_RS24675, FEI17_24665
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66394753
+
+15. phnF
+phosphonate metabolism transcriptional regulator PhnF [Citrobacter braakii]
+Other Aliases: GFC06_RS02590, GFC06_02590
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66271794
+
+16. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas amygdali pv. tabaci str. ATCC 11528]
+Other Aliases: PSYTB_RS12015, PSYTB_12020
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61869637
+
+17. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07385, BN5_1513
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: I
+ID: 61799256
+
+18. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pantoea stewartii]
+Other Aliases: G5574_RS04695, G5574_04695
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61251606
+
+19. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19015
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 60945987
+
+20. phnF
+phosphonate metabolism transcriptional regulator PhnF [Grimontia hollisae]
+Other Aliases: AL542_RS01225, AL542_01195
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 2
+ID: 58894490
+
+21. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas mendocina S5.2]
+Other Aliases: DW68_RS14935, DW68_014935
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 57607177
+
+22. phnF
+phosphonate metabolism transcriptional regulator PhnF [Clavibacter michiganensis subsp. michiganensis]
+Other Aliases: EFE39_RS02050, EFE39_02060
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 56884663
+
+23. phnF
+phosphonate metabolism transcriptional regulator PhnF [Brucella canis ATCC 23365]
+Other Aliases: BCAN_RS05135, BCAN_A1120
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: I
+Annotation: Chromosome I NC_010103.1 (1073583..1074344)
+ID: 55590788
+
+24. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bacillus wiedmannii]
+Other Aliases: D4A37_RS21010
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 51135708
+
+25. phnF
+phosphonate metabolism transcriptional regulator PhnF [Brucella ovis ATCC 25840]
+Other Aliases: BOV_RS05280, BOV_1061
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: I
+Annotation: Chromosome I NC_009505.1 (1076685..1077446)
+ID: 45124481
+
+26. C770_RS26580
+phosphonates metabolism transcriptional regulator PhnF [Sinorhizobium meliloti GR4]
+Other Aliases: C770_RS26580, C770_GR4pD0166
+Genomic context: Plasmid pRmeGR4d
+Annotation:  NC_019849.1 (189985..190719)
+ID: 25012968
+
+27. phnF
+transcriptional regulator of phosphonate uptake and biodegradation [Escherichia coli O157:H7 str. Sakai]
+Other Aliases: ECs_5085
+Other Designations: transcriptional regulator of phosphonate uptake and biodegradation
+Annotation:  NC_002695.2 (5176679..5177404, complement)
+ID: 914249
+
+28. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02395, SerAS9_0465
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Annotation:  NC_015567.1 (511082..511807, complement)
+ID: 57665285
+
+29. phnF
+phosphonate metabolism transcriptional regulator PhnF [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS30460, R7A2020_30460
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66686366
+
+30. phnF
+phosphonate metabolism transcriptional regulator PhnF [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS30425, R7A2020_30425
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66686359
+
+31. phnF
+phosphonate metabolism transcriptional regulator PhnF [Ewingella americana]
+Other Aliases: F4W05_RS11965, F4W05_11965
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 78381186
+
+32. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bordetella hinzii]
+Other Aliases: CBR68_RS00610, CBR68_00610
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 56618630
+
+33. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter ludwigii]
+Other Aliases: BH714_RS19335, BH714_19335
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 45817699
+
+34. phnF
+phosphonate metabolism transcriptional regulator PhnF [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25580, THOKLE011_49970
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66562178
+
+35. phnF
+phosphonate metabolism transcriptional regulator PhnF [Dickeya solani]
+Other Aliases: BJJ98_RS22140, BJJ98_04290
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66645348
+
+36. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia aleksiciae]
+Other Aliases: AP371_RS03245, ERS008671_00675
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61901217
+
+37. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter asburiae]
+Other Aliases: FOY94_RS01725, EAS17NKHM_003310
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 75131969
+
+38. phnF
+phosphonate metabolism transcriptional regulator PhnF [Citrobacter europaeus]
+Other Aliases: C3454_RS20890, C3454_21165
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 73801137
+
+39. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter sichuanensis]
+Other Aliases: C1N69_RS01765, C1N69_01780
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 72830236
+
+40. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10605, POR16_10605
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 72392823
+
+41. phnF
+phosphonate metabolism transcriptional regulator PhnF [Citrobacter werkmanii]
+Other Aliases: FOB24_RS03565, FOB24_03565
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69484785
+
+42. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudosulfitobacter pseudonitzschiae]
+Other Aliases: HT745_RS05995, HT745_05995
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 68869233
+
+43. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter chengduensis]
+Other Aliases: FY206_RS01865, FY206_01865
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 63140372
+
+44. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas avellanae]
+Other Aliases: N010_RS0217340
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61791262
+
+45. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pectobacterium polaris]
+Other Aliases: BJK05_RS22140, BJK05_21480
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61411265
+
+46. phnF
+phosphonate metabolism transcriptional regulator PhnF [Citrobacter freundii]
+Other Aliases: EGX89_RS15875, EGX89_15895
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 60898005
+
+47. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pectobacterium versatile]
+Other Aliases: SCC1_RS17200, SCC1_3409
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 57315593
+
+48. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pandoraea pnomenusa]
+Other Aliases: X636_RS02755, X636_13385
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Annotation:  NC_023018.2 (584475..585263)
+ID: 57197098
+
+49. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas yamanorum]
+Other Aliases: AK972_RS07895, AK972_1533
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 56070646
+
+50. phnF
+phosphonate metabolism transcriptional regulator PhnF [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01140, TH3_01105
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 31925928
+
+
+1. phnF
+phosphonate metabolism transcriptional regulator PhnF [Paraburkholderia caribensis MBA4]
+Other Aliases: K788_RS28585, K788_0000023
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 2
+ID: 69972609
+
+2. phnF
+phosphonate metabolism transcriptional regulator PhnF [Vibrio nigripulchritudo POn4]
+Other Aliases: VIBNIPON4_RS13790, VIBNIPon4_390109
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61875619
+
+3. phnF
+phosphonate metabolism transcriptional regulator PhnF [Paraburkholderia tropica]
+Other Aliases: G5S35_RS20165, G5S35_20115
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: B
+ID: 61304854
+
+4. phnF
+phosphonate metabolism transcriptional regulator PhnF [Neorhizobium galegae bv. orientalis str. HAMBI 540]
+Other Aliases: RG540_RS21475, RG540_CH43370
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: I
+ID: 24255396
+
+5. KPHS_03430
+putative transcriptional regulator [Klebsiella pneumoniae subsp. pneumoniae HS11286]
+Other Aliases: KPHS_03430
+Other Designations: putative transcriptional regulator
+Annotation:  NC_016845.1 (382181..382906, complement)
+ID: 11845330
+
+6. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia rochesterensis]
+Other Aliases: DXZ79_RS02805, DXZ79_02810
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 82549718
+
+7. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter hormaechei]
+Other Aliases: I6L65_RS02365, I6L65_02365
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 72530872
+
+8. phnF
+phosphonate metabolism transcriptional regulator PhnF [Paraburkholderia fungorum]
+Other Aliases: OI25_RS37715, OI25_6537
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 2
+ID: 66520302
+
+9. phnF
+phosphonate metabolism transcriptional regulator PhnF [Burkholderia oklahomensis C6786]
+Other Aliases: BG90_RS21105, BG90_4219
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: II
+ID: 60550340
+
+10. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia aldovae 670-83]
+Other Aliases: AT01_RS21385, AT01_2998
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 45573257
+
+11. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bacillus pseudomycoides DSM 12442]
+Other Aliases: BPMYX0001_RS17155, bpmyx0001_35310
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 34216713
+
+12. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bradyrhizobium ottawaense]
+Other Aliases: GDN72_RS38000, SG09_74650
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 83313808
+
+13. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bradyrhizobium ottawaense]
+Other Aliases: GDN72_RS02055, SG09_04020
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 83307014
+
+14. phnF
+phosphonate metabolism transcriptional regulator PhnF [Agrobacterium salinitolerans]
+Other Aliases: O9X91_RS03010, O9X91_03010
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 79861584
+
+15. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bradyrhizobium yuanmingense]
+Other Aliases: P0R27_RS13345, P0R27_13340
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 79820349
+
+16. phnF
+phosphonate metabolism transcriptional regulator PhnF [Obesumbacterium proteus]
+Other Aliases: XK97_RS16095, XK97_16090
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 78451992
+
+17. phnF
+phosphonate metabolism transcriptional regulator PhnF [Achromobacter spanius]
+Other Aliases: EL258_RS04335, NCTC13519_00877
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 78279418
+
+18. phnF
+phosphonate metabolism transcriptional regulator PhnF [Kalamiella piersonii]
+Other Aliases: D7S44_RS07420, D7S44_07405
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 78233284
+
+19. phnF
+phosphonate metabolism transcriptional regulator PhnF [Nodularia spumigena UHCC 0039]
+Other Aliases: BMF81_RS02515
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 78015886
+
+20. phnF
+phosphonate metabolism transcriptional regulator PhnF [Kosakonia cowanii]
+Other Aliases: ODS25_RS20035
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 77485557
+
+21. phnF
+phosphonate metabolism transcriptional regulator PhnF [Verminephrobacter aporrectodeae subsp. tuberculatae]
+Other Aliases: D5041_RS19575, D5041_19230
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 77323155
+
+22. phnF
+phosphonate metabolism transcriptional regulator PhnF [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20635, KCG39_20635
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 77228406
+
+23. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas paraeruginosa]
+Other Aliases: B7D75_RS08090, B7D75_08090
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 77220103
+
+24. phnF
+phosphonate metabolism transcriptional regulator PhnF [Paraburkholderia aspalathi]
+Other Aliases: KHO30_RS07155, R20943_01452
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 77193636
+
+25. phnF
+phosphonate metabolism transcriptional regulator PhnF [Halomonas venusta]
+Other Aliases: JDS37_RS02170, JDS37_02170
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 77013925
+
+26. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter quasiroggenkampii]
+Other Aliases: EKO03_RS18735, EKO03_18735
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 75416008
+
+27. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia grimesii]
+Other Aliases: SGBXF1_RS02340, SGBXF1_00467
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 75280262
+
+28. phnF
+phosphonate metabolism transcriptional regulator PhnF [Rhizobium anhuiense bv. trifolii]
+Other Aliases: NE851_RS10895, NE851_10885
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 75218002
+
+29. phnF
+phosphonate metabolism transcriptional regulator PhnF [Stutzerimonas frequens]
+Other Aliases: I6G34_RS04435, I6G34_04435
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 75212531
+
+30. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia alsatica]
+Other Aliases: N0H69_RS02495, N0H69_02495
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 75138832
+
+31. phnF
+phosphonate metabolism transcriptional regulator PhnF [Laribacter hongkongensis DSM 14985]
+Other Aliases: G542_RS0109570
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 75109736
+
+32. phnF
+phosphonate metabolism transcriptional regulator PhnF [Cupriavidus pauculus]
+Other Aliases: LDZ25_RS03595
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 75096759
+
+33. phnF
+phosphonate metabolism transcriptional regulator PhnF [Atlantibacter hermannii]
+Other Aliases: FV156_RS08885
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 75062379
+
+34. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia ficaria]
+Other Aliases: CKW09_RS02750, SAMEA4384070_00547
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 75025736
+
+35. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia entomophila]
+Other Aliases: KHA73_RS02055, KHA73_02055
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 75020688
+
+36. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia quinivorans]
+Other Aliases: EL336_RS02135, NCTC13188_00427
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 74948680
+
+37. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas tremae]
+Other Aliases: I9H09_RS14420, I9H09_14385
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 73736048
+
+38. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter mori]
+Other Aliases: L6Y89_RS01615, L6Y89_01615
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 72512935
+
+39. phnF
+phosphonate metabolism transcriptional regulator PhnF [Raoultella planticola]
+Other Aliases: MNO12_RS13080, MNO12_13080
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 72407596
+
+40. phnF
+phosphonate metabolism transcriptional regulator PhnF [Cupriavidus gilardii]
+Other Aliases: FOB47_RS05085, FOB47_05085
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 70687685
+
+41. phnF
+phosphonate metabolism transcriptional regulator PhnF [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24585, NCTC9164_04919
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69887416
+
+42. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas savastanoi]
+Other Aliases: KP808_RS10510, KP808_10480
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69859161
+
+43. phnF
+phosphonate metabolism transcriptional regulator PhnF [Geobacillus stearothermophilus ATCC 7953]
+Other Aliases: Z980_RS0101710
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69833197
+
+44. phnF
+phosphonate metabolism transcriptional regulator PhnF [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19155, EGY21_19115
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69796104
+
+45. phnF
+phosphonate metabolism transcriptional regulator PhnF [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24405, LGM30_24450
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69757612
+
+46. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia bercovieri]
+Other Aliases: LH409_RS06980, LH409_06980
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69737719
+
+47. phnF
+phosphonate metabolism transcriptional regulator PhnF [Klebsiella variicola]
+Other Aliases: GFC07_RS16150, GFC07_16150
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69734183
+
+48. phnF
+phosphonate metabolism transcriptional regulator PhnF [Citrobacter farmeri]
+Other Aliases: EGK65_RS21040, EGK65_21065
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69619701
+
+49. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter kobei]
+Other Aliases: P827_RS02155, P827_04112
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69608610
+
+50. phnF
+phosphonate metabolism transcriptional regulator PhnF [Citrobacter cronae]
+Other Aliases: JSN25_RS07230
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 69429397
+
+
+1. phnF
+phosphonate metabolism transcriptional regulator PhnF [Chromobacterium vaccinii]
+Other Aliases: BKX93_RS22470, BKX93_22470
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 68843964
+
+2. phnF
+phosphonate metabolism transcriptional regulator PhnF [Rouxiella badensis]
+Other Aliases: G3M83_RS00925, G3M83_00920
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 68684475
+
+3. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS17545, I2D83_17540
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 67795340
+
+4. phnF
+phosphonate metabolism transcriptional regulator PhnF [Cylindrospermopsis raciborskii N8]
+Other Aliases: J9B92_RS14370
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 67521151
+
+5. phnF
+phosphonate metabolism transcriptional regulator PhnF [Rhizobium laguerreae]
+Other Aliases: HFO71_RS20165, HFO71_20340
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 67486229
+
+6. phnF
+phosphonate metabolism transcriptional regulator PhnF [Erwinia persicina]
+Other Aliases: K6L24_RS08385, K6L24_08385
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 67476237
+
+7. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pantoea dispersa]
+Other Aliases: K7H94_RS07325, K7H94_07325
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 67451422
+
+8. phnF
+phosphonate metabolism transcriptional regulator PhnF [Variovorax paradoxus NBRC 15149]
+Other Aliases: VPA02S_RS18945
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 67428391
+
+9. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yokenella regensburgei]
+Other Aliases: C7387_RS15450, C7387_3126
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66905114
+
+10. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pantoea agglomerans]
+Other Aliases: I6L77_RS09735, I6L77_09735
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66825457
+
+11. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enterobacter cancerogenus]
+Other Aliases: K3T75_RS03040
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66610009
+
+12. phnF
+phosphonate metabolism transcriptional regulator PhnF [Dickeya fangzhongdai]
+Other Aliases: CVE23_RS08310, CVE23_08310
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66564337
+
+13. phnF
+phosphonate metabolism transcriptional regulator PhnF [Mameliella alba]
+Other Aliases: CDZ96_RS16950, CDZ96_16950
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66502264
+
+14. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bradyrhizobium canariense]
+Other Aliases: FXB41_RS16415, FXB41_16790
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66478936
+
+15. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS00930, BE61_01960
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66421994
+
+16. phnF
+phosphonate metabolism transcriptional regulator PhnF [Lelliottia amnigena]
+Other Aliases: I6L75_RS21285, I6L75_21275
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66412825
+
+17. phnF
+phosphonate metabolism transcriptional regulator PhnF [Agrobacterium rhizogenes]
+Other Aliases: EML492_RS18680, EML492_18680
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 66386832
+
+18. phnF
+phosphonate metabolism transcriptional regulator PhnF [Agrobacterium rhizogenes]
+Other Aliases: EML492_RS17195, EML492_17195
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+ID: 66386535
+
+19. phnF
+phosphonate metabolism transcriptional regulator PhnF [Chromobacterium violaceum]
+Other Aliases: I6K03_RS15530, I6K03_15530
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66367518
+
+20. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bacillus mycoides]
+Other Aliases: EXW63_RS21175, EXW63_21635
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66266378
+
+21. phnF
+phosphonate metabolism transcriptional regulator PhnF [Citrobacter amalonaticus]
+Other Aliases: AL524_RS30830, AL524_05370
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66235762
+
+22. phnF
+phosphonate metabolism transcriptional regulator PhnF [Agrobacterium fabrum]
+Other Aliases: At1D132_RS14065, At1D132_26780
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: circular
+ID: 66223190
+
+23. phnF
+phosphonate metabolism transcriptional regulator PhnF [Rhizobium bangladeshense]
+Other Aliases: J2J98_RS00855, J2J98_00855
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66144358
+
+24. phnF
+phosphonate metabolism transcriptional regulator PhnF [Rhizobium lentis]
+Other Aliases: J0663_RS09525, J0663_09525
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 66139874
+
+25. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pantoea allii]
+Other Aliases: C7431_RS13115, C7431_10549
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 65791384
+
+26. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas congelans]
+Other Aliases: BLR20_RS02255, SAMN05216596_101448
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 65073707
+
+27. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas cannabina pv. alisalensis]
+Other Aliases: JGS08_RS15300, JGS08_15300
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 64466226
+
+28. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia ureilytica]
+Other Aliases: J0X03_RS21635, J0X03_21635
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 64310239
+
+29. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia liquefaciens]
+Other Aliases: F0336_RS02110, F0336_02110
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 64204924
+
+30. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bacillus toyonensis]
+Other Aliases: I0K03_RS19775, I0K03_19775
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 64185367
+
+31. phnF
+phosphonate metabolism transcriptional regulator PhnF [Vibrio mediterranei]
+Other Aliases: HOP38_RS25515, HOP38_25515
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: II
+ID: 64089631
+
+32. phnF
+phosphonate metabolism transcriptional regulator PhnF [Sulfitobacter geojensis]
+Other Aliases: JQV57_RS12395, JQV57_12385
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 63943872
+
+33. phnF
+phosphonate metabolism transcriptional regulator PhnF [Marivita cryptomonadis]
+Other Aliases: MCRY_RS08045, MCRY_08045
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 62640716
+
+34. phnF
+phosphonate metabolism transcriptional regulator PhnF [Marivita cryptomonadis]
+Other Aliases: MCRY_RS06505, MCRY_06510
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 62640412
+
+35. phnF
+phosphonate metabolism transcriptional regulator PhnF [Vibrio coralliirubri]
+Other Aliases: ED654_RS22525
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 62576097
+
+36. phnF
+phosphonate metabolism transcriptional regulator PhnF [Rhodovulum sulfidophilum]
+Other Aliases: A6024_RS09460, A6024_09460
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 62371241
+
+37. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia kristensenii]
+Other Aliases: DX162_RS03565, NCTC11471_00708
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61905438
+
+38. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia massiliensis CCUG 53443]
+Other Aliases: BN68_RS11210, BN68_11460
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61815896
+
+39. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia rubidaea]
+Other Aliases: I6G83_RS09215, I6G83_09215
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61763949
+
+40. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas fluorescens]
+Other Aliases: CPH89_RS20025, SAMN04488487_4118
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: I
+ID: 61637953
+
+41. phnF
+phosphonate metabolism transcriptional regulator PhnF [Sinorhizobium medicae]
+Other Aliases: FB009_RS01810, FB009_101357
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61609360
+
+42. phnF
+phosphonate metabolism transcriptional regulator PhnF [Agrobacterium pusense]
+Other Aliases: HQN82_RS12945, HQN82_12945
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: R76C1
+ID: 61456253
+
+43. phnF
+phosphonate metabolism transcriptional regulator PhnF [Rhizobium leguminosarum]
+Other Aliases: ELH04_RS23065, ELH04_23065
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61426389
+
+44. phnF
+phosphonate metabolism transcriptional regulator PhnF [Brucella anthropi]
+Other Aliases: IR196_RS15285, IR196_15285
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 2
+ID: 61317351
+
+45. phnF
+phosphonate metabolism transcriptional regulator PhnF [Citrobacter portucalensis]
+Other Aliases: FOB25_RS09330, FOB25_09330
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61125718
+
+46. phnF
+phosphonate metabolism transcriptional regulator PhnF [Mesorhizobium loti]
+Other Aliases: C8D77_RS00720, C8D77_101144
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 61049502
+
+47. phnF
+phosphonate metabolism transcriptional regulator PhnF [Dickeya zeae]
+Other Aliases: C1O30_RS07885, C1O30_07885
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 60867824
+
+48. phnF
+phosphonate metabolism transcriptional regulator PhnF [Cupriavidus metallidurans]
+Other Aliases: NDB4MOL1_RS24730, NDB4MOL1_04929
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 60825253
+
+49. phnF
+phosphonate metabolism transcriptional regulator PhnF [Agrobacterium vitis]
+Other Aliases: ASB66_RS05645, ASB66_005645
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 60681175
+
+50. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pantoea vagans]
+Other Aliases: EGO56_RS07285, EGO56_07285
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 58737598
+
+
+1. phnF
+phosphonate metabolism transcriptional regulator PhnF [Chromobacterium haemolyticum]
+Other Aliases: GYH29_RS15590, CH06BL_30940
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 58560818
+
+2. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enhydrobacter aerosaccus]
+Other Aliases: B5D62_RS12740, SAMN02745126_02554
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 58128358
+
+3. phnF
+phosphonate metabolism transcriptional regulator PhnF [Enhydrobacter aerosaccus]
+Other Aliases: B5D62_RS09555, SAMN02745126_01918
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 58127729
+
+4. phnF
+phosphonate metabolism transcriptional regulator PhnF [Yersinia mollaretii ATCC 43969]
+Other Aliases: HRD69_RS08200, HRD69_08200
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 57917761
+
+5. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas gingeri]
+Other Aliases: HX881_RS29205, HX881_29205
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 57664122
+
+6. phnF
+phosphonate metabolism transcriptional regulator PhnF [Raoultella terrigena]
+Other Aliases: HCK03_RS24330, HCK03_24325
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 57507107
+
+7. phnF
+phosphonate metabolism transcriptional regulator PhnF [Ruegeria arenilitoris]
+Other Aliases: GOW72_RS03780
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 57465669
+
+8. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas azotoformans]
+Other Aliases: BLR69_RS30360, SAMN04489799_6196
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: I
+ID: 57378564
+
+9. phnF
+phosphonate metabolism transcriptional regulator PhnF [Brucella intermedia]
+Other Aliases: DX510_RS15625, NCTC12171_03134
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 57307085
+
+10. phnF
+phosphonate metabolism transcriptional regulator PhnF [Hafnia alvei]
+Other Aliases: HBA19_RS02785, HBA19_02785
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 56890337
+
+11. phnF
+phosphonate metabolism transcriptional regulator PhnF [Bacillus cytotoxicus]
+Other Aliases: CG479_RS14685, CG479_014670
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 56418295
+
+12. phnF
+phosphonate metabolism transcriptional regulator PhnF [Achromobacter insolitus]
+Other Aliases: E2544_RS07295, E2544_07300
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 56311146
+
+13. phnF
+phosphonate metabolism transcriptional regulator PhnF [Achromobacter denitrificans]
+Other Aliases: FOC82_RS15780, FOC82_15780
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 56280393
+
+14. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas tolaasii NCPPB 2192]
+Other Aliases: ATI14_RS28875, ATI14_6009
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 55849017
+
+15. phnF
+phosphonate metabolism transcriptional regulator PhnF [Achromobacter ruhlandii]
+Other Aliases: AruCF_RS19715, AruCF_3933
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 55561960
+
+16. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas proteolytica]
+Other Aliases: BLW35_RS15505, SAMN04490200_3108
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 55540221
+
+17. phnF
+phosphonate metabolism transcriptional regulator PhnF [Ruegeria atlantica]
+Other Aliases: RUA4292_RS21300, RUA4292_04291
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 55495417
+
+18. phnF
+phosphonate metabolism transcriptional regulator PhnF [Paracoccus pantotrophus]
+Other Aliases: ESD82_RS09475, ESD82_09475
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Genomic context: Plasmid pPAN2
+ID: 51370796
+
+19. phnF
+phosphonate metabolism transcriptional regulator PhnF [Dickeya dianthicola]
+Other Aliases: DZA65_RS07950, DZA65_01543
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 49321461
+
+20. phnF
+phosphonate metabolism transcriptional regulator PhnF [Sinorhizobium fredii CCBAU 25509]
+Other Aliases: AOX55_RS28960, AOX55_00006397
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Genomic context: Plasmid pSF25509b
+ID: 48976974
+
+21. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas viridiflava]
+Other Aliases: CFBP1590_RS15635, CFBP1590__3166
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: I
+ID: 47764818
+
+22. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pandoraea apista]
+Other Aliases: AT395_RS22130, AT395_13040
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 47016519
+
+23. phnF
+phosphonate metabolism transcriptional regulator PhnF [Rhizobium phaseoli]
+Other Aliases: AMC88_RS01065, AMC88_CH00216
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 45955592
+
+24. phnF
+phosphonate metabolism transcriptional regulator PhnF [Citrobacter koseri ATCC BAA-895]
+Other Aliases: CKO_RS16105, CKO_03768
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Annotation:  NC_009792.1 (3505222..3505947)
+ID: 45137456
+
+25. MPLDJ20_RS20905
+phosphonate metabolism transcriptional regulator PhnF [Mesorhizobium plurifarium]
+Other Aliases: MPLDJ20_RS20905, MPLDJ20_250030
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 31891541
+
+26. phnF
+phosphonate metabolism transcriptional regulator PhnF [Phaeobacter gallaeciensis DSM 26640]
+Other Aliases: GAL_RS15050, Gal_03079
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Annotation:  NC_023137.1 (3124429..3125187)
+ID: 31847438
+
+27. phnF
+phosphonate metabolism transcriptional regulator PhnF [Pseudomonas lurida]
+Other Aliases: A7318_RS07880, A7318_07875
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 31709928
+
+28. phnF
+phosphonate metabolism transcriptional regulator PhnF [Leclercia adecarboxylata]
+Other Aliases: APT61_RS20660, APT61_20660
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 30334356
+
+29. phnF
+phosphonate metabolism transcriptional regulator PhnF [Serratia fonticola]
+Other Aliases: WN53_RS10780, WN53_10780
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 30320651
+
+30. phnF
+phosphonate metabolism transcriptional regulator PhnF [Ensifer adhaerens]
+Other Aliases: FA04_RS25320, FA04_25290
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Genomic context: Plasmid pCasidaAA
+ID: 29521860
+
+31. phnF
+phosphonate metabolism transcriptional regulator PhnF [Tritonibacter mobilis F1926]
+Other Aliases: K529_RS17160, K529_017155
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Genomic context: Plasmid unnamed1
+ID: 28251598
+
+32. phnF
+phosphonate metabolism transcriptional regulator PhnF [Sulfitobacter pontiacus 3SOLIMAR09]
+Other Aliases: PM01_RS07390, PM01_07490
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+ID: 82208158
+
+33. J4031_RS07940
+hypothetical protein [Prevotella ruminicola]
+Other Aliases: J4031_RS07940, J4031_07940
+Other Designations: hypothetical protein
+ID: 69977079
+
+34. phnF
+phosphonate metabolism transcriptional regulator PhnF [Brucella ceti TE10759-12]
+Other Aliases: V910_RS04415, V910_100886
+Other Designations: phosphonate metabolism transcriptional regulator PhnF
+Chromosome: 1
+Annotation: Chromosome 1 NC_022905.1 (913309..914070, complement)
+ID: 58775808
+

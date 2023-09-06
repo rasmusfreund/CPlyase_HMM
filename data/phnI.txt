@@ -1,0 +1,1536 @@
+
+1. PH7735_RS02090
+carbon-phosphorus lyase complex subunit PhnI [Shimia thalassica]
+Other Aliases: PH7735_RS02090, PH7735_00428
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 83879514
+
+2. QOT07_RS02135
+carbon-phosphorus lyase complex subunit PhnI [Serratia proteamaculans]
+Other Aliases: QOT07_RS02135
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: EBP3064_c1
+ID: 83697239
+
+3. K9O83_RS01775
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter bugandensis]
+Other Aliases: K9O83_RS01775, K9O83_01780
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 83673153
+
+4. QRZ63_RS01400
+carbon-phosphorus lyase complex subunit PhnI [Citrobacter youngae]
+Other Aliases: QRZ63_RS01400, QRZ63_01400
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 83644659
+
+5. LQ108_RS01725
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter cloacae]
+Other Aliases: LQ108_RS01725, AI2999V1_0339
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: main
+ID: 83571657
+
+6. QDP65_RS10500
+carbon-phosphorus lyase complex subunit PhnI [Desulfovibrio piger]
+Other Aliases: QDP65_RS10500
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 83732232
+
+7. MYO55_RS08965
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas chengduensis]
+Other Aliases: MYO55_RS08965
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 83640970
+
+8. IC32_RS16645
+carbon-phosphorus lyase complex subunit PhnI [Bradyrhizobium liaoningense CCBAU 05525]
+Other Aliases: IC32_RS16645
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 83554481
+
+9. hemN
+coproporphyrinogen III dehydrogenase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3867, ECK3860, yihJ
+Other Designations: coproporphyrinogen III dehydrogenase
+Annotation:  NC_000913.3 (4052045..4053418)
+ID: 948362
+
+10. phnI
+carbon-phosphorus lyase core complex subunit PhnI [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4099, ECK4092
+Other Designations: carbon-phosphorus lyase core complex subunit PhnI
+Annotation:  NC_000913.3 (4319599..4320663, complement)
+ID: 948605
+
+11. SERAS9_RS02380
+carbon-phosphorus lyase complex subunit PhnI [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02380, SerAS9_0462
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_015567.1 (508968..510053, complement)
+ID: 57665282
+
+12. GFC07_RS16135
+carbon-phosphorus lyase complex subunit PhnI [Klebsiella variicola]
+Other Aliases: GFC07_RS16135, GFC07_16135
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69734180
+
+13. IR196_RS15300
+carbon-phosphorus lyase complex subunit PhnI [Brucella anthropi]
+Other Aliases: IR196_RS15300, IR196_15300
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 2
+ID: 61317354
+
+14. P827_RS02170
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter kobei]
+Other Aliases: P827_RS02170, P827_04109
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69608613
+
+15. RAHAQ2_RS02600
+carbon-phosphorus lyase complex subunit PhnI [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02600, Rahaq2_0541
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_016818.1 (548461..549543, complement)
+ID: 61510680
+
+16. PAGR_RS08390
+carbon-phosphorus lyase complex subunit PhnI [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08390, PAGR_g1632
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_017554.1 (1791169..1792245)
+ID: 57267706
+
+17. DDA3937_RS07610
+carbon-phosphorus lyase complex subunit PhnI [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07610, Dda3937_04090
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_014500.1 (1716588..1717679)
+ID: 9733027
+
+18. K2Z90_RS36990
+carbon-phosphorus lyase complex subunit PhnI [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36990, K2Z90_007355
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69895255
+
+19. DJ58_RS06515
+carbon-phosphorus lyase complex subunit PhnI [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06515, DJ58_1102
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 57904658
+
+20. phnI
+alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI [Shigella boydii]
+Other Aliases: CEH00_RS06995, CEH00_07045
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI
+ID: 75203250
+
+21. phnI
+alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI [Shigella sonnei]
+Other Aliases: HUX90_RS07425, HUX90_07425
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI
+ID: 66671990
+
+22. BMF81_RS02500
+carbon-phosphorus lyase complex subunit PhnI [Nodularia spumigena UHCC 0039]
+Other Aliases: BMF81_RS02500, BMF81_00484
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 78015883
+
+23. KCG39_RS20620
+carbon-phosphorus lyase complex subunit PhnI [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20620, KCG39_20620
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 77228403
+
+24. DYB71_RS11255
+carbon-phosphorus lyase complex subunit PhnI [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11255, NCTC8156_02260
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 74302616
+
+25. FQU00_RS24600
+carbon-phosphorus lyase complex subunit PhnI [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24600, NCTC9164_04922
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69887419
+
+26. YR821_RS02130
+carbon-phosphorus lyase complex subunit PhnI [Yersinia ruckeri]
+Other Aliases: YR821_RS02130, YR821_0431
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66878249
+
+27. GFC06_RS02605
+carbon-phosphorus lyase complex subunit PhnI [Citrobacter braakii]
+Other Aliases: GFC06_RS02605, GFC06_02605
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66271797
+
+28. I8N75_RS23440
+carbon-phosphorus lyase complex subunit PhnI [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23440, I8N75_23440
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 64297526
+
+29. DX162_RS03580
+carbon-phosphorus lyase complex subunit PhnI [Yersinia kristensenii]
+Other Aliases: DX162_RS03580, NCTC11471_00711
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61905441
+
+30. FB009_RS01825
+carbon-phosphorus lyase complex subunit PhnI [Sinorhizobium medicae]
+Other Aliases: FB009_RS01825, FB009_101360
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61609363
+
+31. G5574_RS04680
+carbon-phosphorus lyase complex subunit PhnI [Pantoea stewartii]
+Other Aliases: G5574_RS04680, G5574_04680
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61251603
+
+32. FOC38_RS19090
+carbon-phosphorus lyase complex subunit PhnI [Yersinia intermedia]
+Other Aliases: FOC38_RS19090, FOC38_19090
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 58049075
+
+33. HRD69_RS08185
+carbon-phosphorus lyase complex subunit PhnI [Yersinia mollaretii ATCC 43969]
+Other Aliases: HRD69_RS08185, HRD69_08185
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 57917758
+
+34. DX510_RS15640
+carbon-phosphorus lyase complex subunit PhnI [Brucella intermedia]
+Other Aliases: DX510_RS15640, NCTC12171_03137
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 57307088
+
+35. ATI14_RS28860
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas tolaasii NCPPB 2192]
+Other Aliases: ATI14_RS28860, ATI14_6006
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 55849014
+
+36. AMC88_RS01050
+carbon-phosphorus lyase complex subunit PhnI [Rhizobium phaseoli]
+Other Aliases: AMC88_RS01050, AMC88_CH00213
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 45955589
+
+37. CKO_RS16120
+carbon-phosphorus lyase complex subunit PhnI [Citrobacter koseri ATCC BAA-895]
+Other Aliases: CKO_RS16120, CKO_03771
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_009792.1 (3506985..3508052)
+ID: 45137459
+
+38. FE661_RS10275
+carbon-phosphorus lyase complex subunit PhnI [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10275, FE661_10305
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66433032
+
+39. RCAP_RS05975
+carbon-phosphorus lyase complex subunit PhnI [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05975, RCAP_rcc01195
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_014034.1 (1267287..1268360)
+ID: 31490108
+
+40. HXT67_RS41045
+carbon-phosphorus lyase complex subunit PhnI [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41045
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 64073660
+
+41. SM2011_RS13735
+carbon-phosphorus lyase complex subunit PhnI [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13735, SM2011_b20761
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1553077..1554183)
+ID: 61601362
+
+42. E6A55_RS25730
+carbon-phosphorus lyase complex subunit PhnI [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25730, E6A55_25710
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 2
+ID: 57647190
+
+43. DP58_RS11025
+carbon-phosphorus lyase complex subunit PhnI [Burkholderia pseudomallei]
+Other Aliases: DP58_RS11025, DP58_2155
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 56528343
+
+44. I501_RS00570
+carbon-phosphorus lyase complex subunit PhnI [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00570
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 56331959
+
+45. TH3_RS01125
+carbon-phosphorus lyase complex subunit PhnI [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01125, TH3_01090
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 31925925
+
+46. RALTA_RS21355
+carbon-phosphorus lyase complex subunit PhnI [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS21355, RALTA_B1189
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (1244241..1245401, complement)
+ID: 29764753
+
+47. PSPTO_RS13255
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13255, PSPTO2561, PSPTO_2561
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_004578.1 (2828356..2829435)
+ID: 1184213
+
+48. BZ17_RS10960
+carbon-phosphorus lyase complex subunit PhnI [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10960, BZ17_2049
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66843068
+
+49. A1122_RS08700
+carbon-phosphorus lyase complex subunit PhnI [Yersinia pestis A1122]
+Other Aliases: A1122_RS08700, A1122_08605
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_017168.1 (1892276..1893454, complement)
+ID: 57975253
+
+50. BG90_RS21090
+carbon-phosphorus lyase complex subunit PhnI [Burkholderia oklahomensis C6786]
+Other Aliases: BG90_RS21090, BG90_4216
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: II
+ID: 60550337
+
+
+1. HMPREF0179_RS02145
+carbon-phosphorus lyase complex subunit PhnI [Bilophila wadsworthia 3_1_6]
+Other Aliases: HMPREF0179_RS02145, HMPREF0179_03118
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 78084493
+
+2. B7D75_RS08105
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas paraeruginosa]
+Other Aliases: B7D75_RS08105, B7D75_08105
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 77220106
+
+3. FOB66_RS19885
+carbon-phosphorus lyase complex subunit PhnI [Roseomonas mucosa]
+Other Aliases: FOB66_RS19885, FOB66_19885
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 4
+ID: 76529113
+
+4. VEIS_RS14400
+carbon-phosphorus lyase complex subunit PhnI [Verminephrobacter eiseniae EF01-2]
+Other Aliases: VEIS_RS14400, Veis_2959
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_008786.1 (3310380..3311486)
+ID: 76461436
+
+5. PDEN_RS23795
+carbon-phosphorus lyase complex subunit PhnI [Paracoccus denitrificans PD1222]
+Other Aliases: PDEN_RS23795, Pden_4780
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Genomic context: Plasmid 1
+Annotation:  NC_008688.1 (276661..277743, complement)
+ID: 75504138
+
+6. G542_RS0109585
+carbon-phosphorus lyase complex subunit PhnI [Laribacter hongkongensis DSM 14985]
+Other Aliases: G542_RS0109585
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 75109739
+
+7. KP808_RS10525
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas savastanoi]
+Other Aliases: KP808_RS10525, KP808_10495
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69859164
+
+8. SIAM614_RS23230
+carbon-phosphorus lyase complex subunit PhnI [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS23230, SIAM614_26436
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 68848882
+
+9. I8G32_RS03545
+carbon-phosphorus lyase complex subunit PhnI [Rhodopseudomonas palustris]
+Other Aliases: I8G32_RS03545, I8G32_00708
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66891707
+
+10. R7A2020_RS08355
+carbon-phosphorus lyase complex subunit PhnI [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS08355, R7A2020_08355
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66681975
+
+11. JGS08_RS15285
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas cannabina pv. alisalensis]
+Other Aliases: JGS08_RS15285, JGS08_15285
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 64466223
+
+12. Bdiaspc4_RS06045
+carbon-phosphorus lyase complex subunit PhnI [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06045, Bdiaspc4_06035
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 64021091
+
+13. HMPREF9452_RS04445
+carbon-phosphorus lyase complex subunit PhnI [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04445, HMPREF9452_00890
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 62758636
+
+14. G4D54_RS15780
+carbon-phosphorus lyase complex subunit PhnI [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15780, G4D54_15780
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61927027
+
+15. PSYTB_RS12030
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas amygdali pv. tabaci str. ATCC 11528]
+Other Aliases: PSYTB_RS12030, PSYTB_12035
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61869640
+
+16. BN5_RS07400
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07400, BN5_1516
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: I
+ID: 61799259
+
+17. AL542_RS01240
+carbon-phosphorus lyase complex subunit PhnI [Grimontia hollisae]
+Other Aliases: AL542_RS01240, AL542_01210
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 2
+ID: 58894493
+
+18. DW68_RS14920
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas mendocina S5.2]
+Other Aliases: DW68_RS14920, DW68_014920
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 57607174
+
+19. EFE39_RS02035
+carbon-phosphorus lyase complex subunit PhnI [Clavibacter michiganensis subsp. michiganensis]
+Other Aliases: EFE39_RS02035, EFE39_02045
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 56884660
+
+20. C2L64_RS21380
+carbon-phosphorus lyase complex subunit PhnI [Paraburkholderia hospita]
+Other Aliases: C2L64_RS21380, C2L64_21380
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 2
+ID: 55530868
+
+21. CFBP1590_RS15620
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas viridiflava]
+Other Aliases: CFBP1590_RS15620, CFBP1590__3163
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: I
+ID: 47764815
+
+22. C770_RS26565
+enzyme of phosphonate metabolism [Sinorhizobium meliloti GR4]
+Other Aliases: C770_RS26565, C770_GR4pD0163
+Genomic context: Plasmid pRmeGR4d
+Annotation:  NC_019849.1 (187679..188785, complement)
+ID: 25014080
+
+23. phnI
+ribophosphonate triphosphate synthase complex catalytic subunit [Escherichia coli O157:H7 str. Sakai]
+Other Aliases: ECs_5082
+Other Designations: ribophosphonate triphosphate synthase complex catalytic subunit
+Annotation:  NC_002695.2 (5174581..5175645, complement)
+ID: 914254
+
+24. phnI
+alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01485, HUZ68_01470
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate synthase subunit PhnI
+ID: 75169617
+
+25. EGX89_RS15860
+carbon-phosphorus lyase complex subunit PhnI [Citrobacter freundii]
+Other Aliases: EGX89_RS15860, EGX89_15880
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 60898002
+
+26. BFV67_RS01750
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter roggenkampii]
+Other Aliases: BFV67_RS01750, BFV67_01750
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 45794048
+
+27. DXZ79_RS02790
+carbon-phosphorus lyase complex subunit PhnI [Yersinia rochesterensis]
+Other Aliases: DXZ79_RS02790, DXZ79_02795
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 82549715
+
+28. C3454_RS20905
+carbon-phosphorus lyase complex subunit PhnI [Citrobacter europaeus]
+Other Aliases: C3454_RS20905, C3454_21180
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 73801140
+
+29. C1N69_RS01750
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter sichuanensis]
+Other Aliases: C1N69_RS01750, C1N69_01765
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 72830233
+
+30. FY206_RS01850
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter chengduensis]
+Other Aliases: FY206_RS01850, FY206_01850
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 63140369
+
+31. RG540_RS21460
+carbon-phosphorus lyase complex subunit PhnI [Neorhizobium galegae bv. orientalis str. HAMBI 540]
+Other Aliases: RG540_RS21460, RG540_CH43340
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: I
+ID: 24259578
+
+32. AT01_RS14745
+carbon-phosphorus lyase complex subunit PhnI [Yersinia aldovae 670-83]
+Other Aliases: AT01_RS14745, AT01_2995
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 45572116
+
+33. PhaeoP54_RS01955
+carbon-phosphorus lyase complex subunit PhnI [Phaeobacter inhibens]
+Other Aliases: PhaeoP54_RS01955, PhaeoP54_00397
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 57287261
+
+34. GZ59_RS02465
+carbon-phosphorus lyase complex subunit PhnI [Pectobacterium atrosepticum]
+Other Aliases: GZ59_RS02465, GZ59_05080
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 57207341
+
+35. F0338_RS01660
+carbon-phosphorus lyase complex subunit PhnI [Serratia nevei]
+Other Aliases: F0338_RS01660
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 79508440
+
+36. XK97_RS16080
+carbon-phosphorus lyase complex subunit PhnI [Obesumbacterium proteus]
+Other Aliases: XK97_RS16080, XK97_16075
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 78451989
+
+37. F4W05_RS11980
+carbon-phosphorus lyase complex subunit PhnI [Ewingella americana]
+Other Aliases: F4W05_RS11980, F4W05_11980
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 78381189
+
+38. D7S44_RS07435
+carbon-phosphorus lyase complex subunit PhnI [Kalamiella piersonii]
+Other Aliases: D7S44_RS07435, D7S44_07420
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 78233287
+
+39. N4222_RS17830
+carbon-phosphorus lyase complex subunit PhnI [Yersinia enterocolitica]
+Other Aliases: N4222_RS17830, N4222_17830
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 77329706
+
+40. OM395_RS14650
+carbon-phosphorus lyase complex subunit PhnI [Serratia bockelmannii]
+Other Aliases: OM395_RS14650, OM395_14650
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 77284130
+
+41. DB708_RS10080
+carbon-phosphorus lyase complex subunit PhnI [Mycobacterium montefiorense]
+Other Aliases: DB708_RS10080, MmonteBS_20200
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 76050698
+
+42. EKO03_RS18750
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter quasiroggenkampii]
+Other Aliases: EKO03_RS18750, EKO03_18750
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 75416011
+
+43. SGBXF1_RS02325
+carbon-phosphorus lyase complex subunit PhnI [Serratia grimesii]
+Other Aliases: SGBXF1_RS02325, SGBXF1_00464
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 75280259
+
+44. NE851_RS10880
+carbon-phosphorus lyase complex subunit PhnI [Rhizobium anhuiense bv. trifolii]
+Other Aliases: NE851_RS10880, NE851_10870
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 75217999
+
+45. I6G34_RS20630
+carbon-phosphorus lyase complex subunit PhnI [Stutzerimonas frequens]
+Other Aliases: I6G34_RS20630, I6G34_20630
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 75215752
+
+46. N0H69_RS02480
+carbon-phosphorus lyase complex subunit PhnI [Yersinia alsatica]
+Other Aliases: N0H69_RS02480, N0H69_02480
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 75138829
+
+47. FOY94_RS01710
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter asburiae]
+Other Aliases: FOY94_RS01710, EAS17NKHM_003280
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 75131966
+
+48. CKW09_RS02735
+carbon-phosphorus lyase complex subunit PhnI [Serratia ficaria]
+Other Aliases: CKW09_RS02735, SAMEA4384070_00544
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 75025733
+
+49. KHA73_RS02040
+carbon-phosphorus lyase complex subunit PhnI [Serratia entomophila]
+Other Aliases: KHA73_RS02040, KHA73_02040
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 75020685
+
+50. EL336_RS02120
+carbon-phosphorus lyase complex subunit PhnI [Serratia quinivorans]
+Other Aliases: EL336_RS02120, NCTC13188_00424
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 74948677
+
+
+1. I6L65_RS02380
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter hormaechei]
+Other Aliases: I6L65_RS02380, I6L65_02380
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 72530875
+
+2. L6Y89_RS01600
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter mori]
+Other Aliases: L6Y89_RS01600, L6Y89_01600
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 72512932
+
+3. MNO12_RS13095
+carbon-phosphorus lyase complex subunit PhnI [Raoultella planticola]
+Other Aliases: MNO12_RS13095, MNO12_13095
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 72407599
+
+4. EGY21_RS19140
+carbon-phosphorus lyase complex subunit PhnI [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19140, EGY21_19100
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69796101
+
+5. LGM30_RS24420
+carbon-phosphorus lyase complex subunit PhnI [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24420, LGM30_24465
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69757615
+
+6. LH409_RS06965
+carbon-phosphorus lyase complex subunit PhnI [Yersinia bercovieri]
+Other Aliases: LH409_RS06965, LH409_06965
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69737716
+
+7. FTB57_RS11595
+carbon-phosphorus lyase complex subunit PhnI [Yersinia proxima]
+Other Aliases: FTB57_RS11595
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69701142
+
+8. K9N75_RS03015
+carbon-phosphorus lyase complex subunit PhnI [Hafnia paralvei]
+Other Aliases: K9N75_RS03015, K9N75_03015
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69636976
+
+9. EGK65_RS21055
+carbon-phosphorus lyase complex subunit PhnI [Citrobacter farmeri]
+Other Aliases: EGK65_RS21055, EGK65_21080
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69619704
+
+10. FOB24_RS03550
+carbon-phosphorus lyase complex subunit PhnI [Citrobacter werkmanii]
+Other Aliases: FOB24_RS03550, FOB24_03550
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69484782
+
+11. JSN25_RS07215
+carbon-phosphorus lyase complex subunit PhnI [Citrobacter cronae]
+Other Aliases: JSN25_RS07215
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69429394
+
+12. G3M83_RS00910
+carbon-phosphorus lyase complex subunit PhnI [Rouxiella badensis]
+Other Aliases: G3M83_RS00910, G3M83_00905
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 68684472
+
+13. I2D83_RS17530
+carbon-phosphorus lyase complex subunit PhnI [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS17530, I2D83_17525
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 67795337
+
+14. J9B92_RS14840
+carbon-phosphorus lyase complex subunit PhnI [Cylindrospermopsis raciborskii N8]
+Other Aliases: J9B92_RS14840
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 67521245
+
+15. K6L24_RS08400
+carbon-phosphorus lyase complex subunit PhnI [Erwinia persicina]
+Other Aliases: K6L24_RS08400, K6L24_08400
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 67476240
+
+16. K7H94_RS07340
+carbon-phosphorus lyase complex subunit PhnI [Pantoea dispersa]
+Other Aliases: K7H94_RS07340, K7H94_07340
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 67451425
+
+17. C7387_RS15435
+carbon-phosphorus lyase complex subunit PhnI [Yokenella regensburgei]
+Other Aliases: C7387_RS15435, C7387_3123
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66905111
+
+18. I6L77_RS09750
+carbon-phosphorus lyase complex subunit PhnI [Pantoea agglomerans]
+Other Aliases: I6L77_RS09750, I6L77_09750
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66825460
+
+19. C7M65_RS20510
+carbon-phosphorus lyase complex subunit PhnI [Serratia marcescens]
+Other Aliases: C7M65_RS20510, C7M65_20485
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66716534
+
+20. BJJ98_RS04455
+carbon-phosphorus lyase complex subunit PhnI [Dickeya solani]
+Other Aliases: BJJ98_RS04455, BJJ98_04275
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66641895
+
+21. K3T75_RS03025
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter cancerogenus]
+Other Aliases: K3T75_RS03025
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66610006
+
+22. FPV33_RS23155
+carbon-phosphorus lyase complex subunit PhnI [Klebsiella aerogenes]
+Other Aliases: FPV33_RS23155, FPV33_23155
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66605943
+
+23. CVE23_RS08325
+carbon-phosphorus lyase complex subunit PhnI [Dickeya fangzhongdai]
+Other Aliases: CVE23_RS08325, CVE23_08325
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66564340
+
+24. JLG71_RS25595
+carbon-phosphorus lyase complex subunit PhnI [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25595, THOKLE011_50000
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66562181
+
+25. I6L75_RS21300
+carbon-phosphorus lyase complex subunit PhnI [Lelliottia amnigena]
+Other Aliases: I6L75_RS21300, I6L75_21290
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66412828
+
+26. FEI17_RS24690
+carbon-phosphorus lyase complex subunit PhnI [Kosakonia radicincitans]
+Other Aliases: FEI17_RS24690, FEI17_24680
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66394756
+
+27. AL524_RS30815
+carbon-phosphorus lyase complex subunit PhnI [Citrobacter amalonaticus]
+Other Aliases: AL524_RS30815, AL524_05355
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66235759
+
+28. J2J98_RS00840
+carbon-phosphorus lyase complex subunit PhnI [Rhizobium bangladeshense]
+Other Aliases: J2J98_RS00840, J2J98_00840
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66144355
+
+29. J0663_RS09510
+carbon-phosphorus lyase complex subunit PhnI [Rhizobium lentis]
+Other Aliases: J0663_RS09510, J0663_09510
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66139871
+
+30. C7431_RS13100
+carbon-phosphorus lyase complex subunit PhnI [Pantoea allii]
+Other Aliases: C7431_RS13100, C7431_10546
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 65791381
+
+31. FN634_RS20310
+carbon-phosphorus lyase complex subunit PhnI [Klebsiella grimontii]
+Other Aliases: FN634_RS20310
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 64338773
+
+32. J0X03_RS21650
+carbon-phosphorus lyase complex subunit PhnI [Serratia ureilytica]
+Other Aliases: J0X03_RS21650, J0X03_21650
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 64310242
+
+33. F0336_RS02095
+carbon-phosphorus lyase complex subunit PhnI [Serratia liquefaciens]
+Other Aliases: F0336_RS02095, F0336_02095
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 64204921
+
+34. HOP38_RS25500
+carbon-phosphorus lyase complex subunit PhnI [Vibrio mediterranei]
+Other Aliases: HOP38_RS25500, HOP38_25500
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: II
+ID: 64089628
+
+35. MCRY_RS06520
+carbon-phosphorus lyase complex subunit PhnI [Marivita cryptomonadis]
+Other Aliases: MCRY_RS06520, MCRY_06525
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 62640415
+
+36. ED654_RS22510
+carbon-phosphorus lyase complex subunit PhnI [Vibrio coralliirubri]
+Other Aliases: ED654_RS22510
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 62576094
+
+37. AP371_RS03260
+carbon-phosphorus lyase complex subunit PhnI [Yersinia aleksiciae]
+Other Aliases: AP371_RS03260, ERS008671_00678
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61901220
+
+38. BN68_RS11225
+carbon-phosphorus lyase complex subunit PhnI [Yersinia massiliensis CCUG 53443]
+Other Aliases: BN68_RS11225, BN68_11475
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61815899
+
+39. I6G83_RS09200
+carbon-phosphorus lyase complex subunit PhnI [Serratia rubidaea]
+Other Aliases: I6G83_RS09200, I6G83_09200
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61763946
+
+40. CPH89_RS20040
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas fluorescens]
+Other Aliases: CPH89_RS20040, SAMN04488487_4121
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: I
+ID: 61637956
+
+41. ELH04_RS23050
+carbon-phosphorus lyase complex subunit PhnI [Rhizobium leguminosarum]
+Other Aliases: ELH04_RS23050, ELH04_23050
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61426386
+
+42. BJK05_RS22155
+carbon-phosphorus lyase complex subunit PhnI [Pectobacterium polaris]
+Other Aliases: BJK05_RS22155, BJK05_21495
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61411268
+
+43. FOB25_RS09345
+carbon-phosphorus lyase complex subunit PhnI [Citrobacter portucalensis]
+Other Aliases: FOB25_RS09345, FOB25_09345
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61125721
+
+44. I6N93_RS15675
+carbon-phosphorus lyase complex subunit PhnI [Lonsdalea populi]
+Other Aliases: I6N93_RS15675, I6N93_15675
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61123576
+
+45. C1O30_RS07900
+carbon-phosphorus lyase complex subunit PhnI [Dickeya zeae]
+Other Aliases: C1O30_RS07900, C1O30_07900
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 60867827
+
+46. EGO56_RS07300
+carbon-phosphorus lyase complex subunit PhnI [Pantoea vagans]
+Other Aliases: EGO56_RS07300, EGO56_07300
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 58737601
+
+47. HX881_RS29220
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas gingeri]
+Other Aliases: HX881_RS29220, HX881_29220
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 57664125
+
+48. HCK03_RS24345
+carbon-phosphorus lyase complex subunit PhnI [Raoultella terrigena]
+Other Aliases: HCK03_RS24345, HCK03_24340
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 57507110
+
+49. BLR69_RS30375
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas azotoformans]
+Other Aliases: BLR69_RS30375, SAMN04489799_6199
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: I
+ID: 57378567
+
+50. SCC1_RS17185
+carbon-phosphorus lyase complex subunit PhnI [Pectobacterium versatile]
+Other Aliases: SCC1_RS17185, SCC1_3406
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 57315590
+
+
+1. HBA19_RS02770
+carbon-phosphorus lyase complex subunit PhnI [Hafnia alvei]
+Other Aliases: HBA19_RS02770, HBA19_02770
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 56890334
+
+2. AK972_RS07910
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas yamanorum]
+Other Aliases: AK972_RS07910, AK972_1536
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 56070649
+
+3. BLW35_RS15520
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas proteolytica]
+Other Aliases: BLW35_RS15520, SAMN04490200_3111
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 55540224
+
+4. DZA65_RS07965
+carbon-phosphorus lyase complex subunit PhnI [Dickeya dianthicola]
+Other Aliases: DZA65_RS07965, DZA65_01546
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 49321464
+
+5. AOX55_RS28975
+carbon-phosphorus lyase complex subunit PhnI [Sinorhizobium fredii CCBAU 25509]
+Other Aliases: AOX55_RS28975, AOX55_00006400
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Genomic context: Plasmid pSF25509b
+ID: 48976977
+
+6. BH714_RS19320
+carbon-phosphorus lyase complex subunit PhnI [Enterobacter ludwigii]
+Other Aliases: BH714_RS19320, BH714_19320
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 45817696
+
+7. MPLDJ20_RS20920
+carbon-phosphorus lyase complex subunit PhnI [Mesorhizobium plurifarium]
+Other Aliases: MPLDJ20_RS20920, MPLDJ20_250033
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 31891544
+
+8. A7318_RS07895
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas lurida]
+Other Aliases: A7318_RS07895, A7318_07890
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 31709931
+
+9. APT61_RS20675
+carbon-phosphorus lyase complex subunit PhnI [Leclercia adecarboxylata]
+Other Aliases: APT61_RS20675, APT61_20675
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 30334359
+
+10. WN53_RS10765
+carbon-phosphorus lyase complex subunit PhnI [Serratia fonticola]
+Other Aliases: WN53_RS10765, WN53_10765
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 30320648
+
+11. R7A2020_RS30410
+carbon-phosphorus lyase complex subunit PhnI [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS30410, R7A2020_30410
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66686356
+
+12. At12D1_RS14405
+carbon-phosphorus lyase complex subunit PhnI [Agrobacterium tumefaciens]
+Other Aliases: At12D1_RS14405, At12D1_27510
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: circular
+ID: 60890122
+
+13. C1877_RS01720
+carbon-phosphorus lyase complex subunit PhnI [Gordonibacter pamelaeae]
+Other Aliases: C1877_RS01720, C1877_01720
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 78358432
+
+14. SN16_RS11755
+carbon-phosphorus lyase complex subunit PhnI [Salinicoccus roseus]
+Other Aliases: SN16_RS11755, SN16_11765
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 77846218
+
+15. I6I48_RS30015
+carbon-phosphorus lyase complex subunit PhnI [Achromobacter xylosoxidans]
+Other Aliases: I6I48_RS30015, I6I48_30010
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 75278755
+
+16. LUA64_RS01090
+carbon-phosphorus lyase complex subunit PhnI [Eggerthella lenta]
+Other Aliases: LUA64_RS01090
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69509701
+
+17. C5E18_RS02995
+carbon-phosphorus lyase complex subunit PhnI [Pectobacterium parmentieri]
+Other Aliases: C5E18_RS02995, C5E18_03010
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66800867
+
+18. AEQU_RS08530
+carbon-phosphorus lyase complex subunit PhnI [Adlercreutzia equolifaciens DSM 19450]
+Other Aliases: AEQU_RS08530, AEQU_1674
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_022567.1 (2140311..2141486, complement)
+ID: 62678264
+
+19. POR16_RS10620
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10620, POR16_10620
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 72392826
+
+20. HT745_RS05980
+carbon-phosphorus lyase complex subunit PhnI [Pseudosulfitobacter pseudonitzschiae]
+Other Aliases: HT745_RS05980, HT745_05980
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 68869230
+
+21. N010_RS0217325
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas avellanae]
+Other Aliases: N010_RS0217325
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61791259
+
+22. BJK05_RS20060
+carbon-phosphorus lyase complex subunit PhnI [Pectobacterium polaris]
+Other Aliases: BJK05_RS20060, BJK05_19440
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61410856
+
+23. X636_RS02740
+carbon-phosphorus lyase complex subunit PhnI [Pandoraea pnomenusa]
+Other Aliases: X636_RS02740, X636_13370
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_023018.2 (582078..583271, complement)
+ID: 57197095
+
+24. B5F44_RS11570
+carbon-phosphorus lyase complex subunit PhnI [Gordonibacter urolithinfaciens]
+Other Aliases: B5F44_RS11570, B5F44_11575
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 56996536
+
+25. K788_RS28570
+carbon-phosphorus lyase complex subunit PhnI [Paraburkholderia caribensis MBA4]
+Other Aliases: K788_RS28570, K788_0000026
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 2
+ID: 69972606
+
+26. IQ19_RS02515
+carbon-phosphorus lyase complex subunit PhnI [Cytobacillus oceanisediminis]
+Other Aliases: IQ19_RS02515, IQ19_00501
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 65401788
+
+27. VIBNIPON4_RS13775
+carbon-phosphorus lyase complex subunit PhnI [Vibrio nigripulchritudo POn4]
+Other Aliases: VIBNIPON4_RS13775, VIBNIPon4_390106
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61875616
+
+28. G5S35_RS20180
+carbon-phosphorus lyase complex subunit PhnI [Paraburkholderia tropica]
+Other Aliases: G5S35_RS20180, G5S35_20130
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: B
+ID: 61304857
+
+29. CBR68_RS00595
+carbon-phosphorus lyase complex subunit PhnI [Bordetella hinzii]
+Other Aliases: CBR68_RS00595, CBR68_00595
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 56618627
+
+30. KPHS_03400
+phosphonate metabolism protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]
+Other Aliases: KPHS_03400
+Other Designations: phosphonate metabolism protein
+Annotation:  NC_016845.1 (380082..381146, complement)
+ID: 11845327
+
+31. OI25_RS37700
+carbon-phosphorus lyase complex subunit PhnI [Paraburkholderia fungorum]
+Other Aliases: OI25_RS37700, OI25_6534
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 2
+ID: 66520299
+
+32. PA3378
+hypothetical protein [Pseudomonas aeruginosa PAO1]
+Other Aliases: PA3378
+Other Designations: hypothetical protein
+Annotation:  NC_002516.2 (3785292..3786392, complement)
+ID: 877808
+
+33. GDN72_RS02040
+carbon-phosphorus lyase complex subunit PhnI [Bradyrhizobium ottawaense]
+Other Aliases: GDN72_RS02040, SG09_03990
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 83307011
+
+34. O9X91_RS03025
+carbon-phosphorus lyase complex subunit PhnI [Agrobacterium salinitolerans]
+Other Aliases: O9X91_RS03025, O9X91_03025
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 79861587
+
+35. P0R27_RS13360
+carbon-phosphorus lyase complex subunit PhnI [Bradyrhizobium yuanmingense]
+Other Aliases: P0R27_RS13360, P0R27_13355
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 79820352
+
+36. XK97_RS12390
+sigma-54-dependent Fis family transcriptional regulator [Obesumbacterium proteus]
+Other Aliases: XK97_RS12390, XK97_12380
+Other Designations: sigma-54-dependent Fis family transcriptional regulator
+ID: 78451274
+
+37. KUV39_RS05435
+carbon-phosphorus lyase complex subunit PhnI [Phaeobacter italicus]
+Other Aliases: KUV39_RS05435, KUV39_05435
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 78397151
+
+38. EL258_RS04320
+carbon-phosphorus lyase complex subunit PhnI [Achromobacter spanius]
+Other Aliases: EL258_RS04320, NCTC13519_00874
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 78279415
+
+39. INF29_RS06120
+carbon-phosphorus lyase complex subunit PhnI [Anaerotignum lactatifermentans]
+Other Aliases: INF29_RS06120, INF29_06120
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 78176500
+
+40. D5041_RS19590
+carbon-phosphorus lyase complex subunit PhnI [Verminephrobacter aporrectodeae subsp. tuberculatae]
+Other Aliases: D5041_RS19590, D5041_19245
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 77323158
+
+41. KIJ28_RS10575
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas syringae]
+Other Aliases: KIJ28_RS10575, KIJ28_10575
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 77278093
+
+42. KHO30_RS07140
+carbon-phosphorus lyase complex subunit PhnI [Paraburkholderia aspalathi]
+Other Aliases: KHO30_RS07140, R20943_01449
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 77193633
+
+43. JDS37_RS02155
+carbon-phosphorus lyase complex subunit PhnI [Halomonas venusta]
+Other Aliases: JDS37_RS02155, JDS37_02155
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 77013922
+
+44. L2Z53_RS02535
+carbon-phosphorus lyase complex subunit PhnI [Macrococcus canis]
+Other Aliases: L2Z53_RS02535, L2Z53_02535
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 75265978
+
+45. I6G34_RS04450
+carbon-phosphorus lyase complex subunit PhnI [Stutzerimonas frequens]
+Other Aliases: I6G34_RS04450, I6G34_04450
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 75212534
+
+46. LDZ25_RS03580
+carbon-phosphorus lyase complex subunit PhnI [Cupriavidus pauculus]
+Other Aliases: LDZ25_RS03580
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 75096756
+
+47. I9H09_RS14405
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas tremae]
+Other Aliases: I9H09_RS14405, I9H09_14370
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 73736045
+
+48. LW136_RS00460
+carbon-phosphorus lyase complex subunit PhnI [Stutzerimonas kunmingensis]
+Other Aliases: LW136_RS00460, LW136_00460
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 73728706
+
+49. BME96_RS18370
+carbon-phosphorus lyase complex subunit PhnI [Virgibacillus halodenitrificans]
+Other Aliases: BME96_RS18370, BME96_18200
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 71516346
+
+50. H0522_RS07555
+carbon-phosphorus lyase complex subunit PhnI [Achromobacter insuavis]
+Other Aliases: H0522_RS07555, LMG26846_01502
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 71017361
+
+
+1. FOB47_RS05070
+carbon-phosphorus lyase complex subunit PhnI [Cupriavidus gilardii]
+Other Aliases: FOB47_RS05070, FOB47_05070
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 70687682
+
+2. FY488_RS15495
+carbon-phosphorus lyase complex subunit PhnI [Faecalicatena contorta]
+Other Aliases: FY488_RS15495
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 70045503
+
+3. EYB33_RS13580
+carbon-phosphorus lyase complex subunit PhnI [Lysinibacillus sphaericus]
+Other Aliases: EYB33_RS13580, EYB33_13550
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 69661530
+
+4. CNEONATNEC86_RS01820
+carbon-phosphorus lyase complex subunit PhnI [Clostridium neonatale]
+Other Aliases: CNEONATNEC86_RS01820, CNEONATNEC86_00355
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 68875661
+
+5. BKX93_RS22455
+carbon-phosphorus lyase complex subunit PhnI [Chromobacterium vaccinii]
+Other Aliases: BKX93_RS22455, BKX93_22455
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 68843961
+
+6. I2D83_RS19345
+carbon-phosphorus lyase complex subunit PhnI [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS19345, I2D83_19340
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 67795700
+
+7. HFO71_RS20180
+carbon-phosphorus lyase complex subunit PhnI [Rhizobium laguerreae]
+Other Aliases: HFO71_RS20180, HFO71_20355
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 67486232
+
+8. VPA02S_RS18930
+carbon-phosphorus lyase complex subunit PhnI [Variovorax paradoxus NBRC 15149]
+Other Aliases: VPA02S_RS18930
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 67428388
+
+9. KBP50_RS21025
+carbon-phosphorus lyase complex subunit PhnI [Virgibacillus pantothenticus]
+Other Aliases: KBP50_RS21025, KBP50_21025
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66872946
+
+10. CDZ96_RS16935
+carbon-phosphorus lyase complex subunit PhnI [Mameliella alba]
+Other Aliases: CDZ96_RS16935, CDZ96_16935
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66502261
+
+11. FXB41_RS16400
+carbon-phosphorus lyase complex subunit PhnI [Bradyrhizobium canariense]
+Other Aliases: FXB41_RS16400, FXB41_16775
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66478933
+
+12. BE61_RS36775
+carbon-phosphorus lyase complex subunit PhnI [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS36775, BE61_75170
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66429141
+
+13. BE61_RS00970
+carbon-phosphorus lyase complex subunit PhnI [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS00970, BE61_02040
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66422002
+
+14. EML492_RS18665
+carbon-phosphorus lyase complex subunit PhnI [Agrobacterium rhizogenes]
+Other Aliases: EML492_RS18665, EML492_18665
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 66386829
+
+15. I6K03_RS15515
+carbon-phosphorus lyase complex subunit PhnI [Chromobacterium violaceum]
+Other Aliases: I6K03_RS15515, I6K03_15515
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66367515
+
+16. KNZ77_RS17790
+carbon-phosphorus lyase complex subunit PhnI [Clostridioides difficile]
+Other Aliases: KNZ77_RS17790, KNZ77_17790
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 66355996
+
+17. At1D132_RS14050
+carbon-phosphorus lyase complex subunit PhnI [Agrobacterium fabrum]
+Other Aliases: At1D132_RS14050, At1D132_26750
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: circular
+ID: 66223187
+
+18. BLR20_RS02270
+carbon-phosphorus lyase complex subunit PhnI [Pseudomonas congelans]
+Other Aliases: BLR20_RS02270, SAMN05216596_101451
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 65073710
+
+19. JQV57_RS12410
+carbon-phosphorus lyase complex subunit PhnI [Sulfitobacter geojensis]
+Other Aliases: JQV57_RS12410, JQV57_12400
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 63943875
+
+20. MCRY_RS08030
+carbon-phosphorus lyase complex subunit PhnI [Marivita cryptomonadis]
+Other Aliases: MCRY_RS08030, MCRY_08030
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 62640713
+
+21. HQN82_RS12930
+carbon-phosphorus lyase complex subunit PhnI [Agrobacterium pusense]
+Other Aliases: HQN82_RS12930, HQN82_12930
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: R76C1
+ID: 61456250
+
+22. C8D77_RS00705
+carbon-phosphorus lyase complex subunit PhnI [Mesorhizobium loti]
+Other Aliases: C8D77_RS00705, C8D77_101141
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 61049499
+
+23. G6R18_RS19030
+carbon-phosphorus lyase complex subunit PhnI [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19030
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 60945990
+
+24. NDB4MOL1_RS24715
+carbon-phosphorus lyase complex subunit PhnI [Cupriavidus metallidurans]
+Other Aliases: NDB4MOL1_RS24715, NDB4MOL1_04926
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 60825250
+
+25. GCD22_RS06385
+carbon-phosphorus lyase complex subunit PhnI [Acidithiobacillus thiooxidans ATCC 19377]
+Other Aliases: GCD22_RS06385, GCD22_01327
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 60695701
+
+26. ASB66_RS05660
+carbon-phosphorus lyase complex subunit PhnI [Agrobacterium vitis]
+Other Aliases: ASB66_RS05660, ASB66_005660
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 60681178
+
+27. GYH29_RS15605
+carbon-phosphorus lyase complex subunit PhnI [Chromobacterium haemolyticum]
+Other Aliases: GYH29_RS15605, CH06BL_30970
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 58560821
+
+28. B5D62_RS22970
+carbon-phosphorus lyase complex subunit PhnI [Enhydrobacter aerosaccus]
+Other Aliases: B5D62_RS22970, SAMN02745126_04621
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 58130362
+
+29. F2P57_RS04355
+carbon-phosphorus lyase complex subunit PhnI [[Clostridium] symbiosum]
+Other Aliases: F2P57_RS04355, F2P57_04355
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 57967787
+
+30. GOW72_RS03795
+carbon-phosphorus lyase complex subunit PhnI [Ruegeria arenilitoris]
+Other Aliases: GOW72_RS03795
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 57465672
+
+31. NW91_RS00615
+carbon-phosphorus lyase complex subunit PhnI [Burkholderia mallei]
+Other Aliases: NW91_RS00615, NW91_00510
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Chromosome: 1
+ID: 56593730
+
+32. BS1321_RS19280
+carbon-phosphorus lyase complex subunit PhnI [Peribacillus simplex NBRC 15720 = DSM 1321]
+Other Aliases: BS1321_RS19280, BS1321_18980
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 56474853
+
+33. E2544_RS07310
+carbon-phosphorus lyase complex subunit PhnI [Achromobacter insolitus]
+Other Aliases: E2544_RS07310, E2544_07315
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 56311149
+
+34. FOC82_RS15765
+carbon-phosphorus lyase complex subunit PhnI [Achromobacter denitrificans]
+Other Aliases: FOC82_RS15765, FOC82_15765
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 56280390
+
+35. AruCF_RS19700
+carbon-phosphorus lyase complex subunit PhnI [Achromobacter ruhlandii]
+Other Aliases: AruCF_RS19700, AruCF_3930
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 55561957
+
+36. RUA4292_RS21315
+carbon-phosphorus lyase complex subunit PhnI [Ruegeria atlantica]
+Other Aliases: RUA4292_RS21315, RUA4292_04294
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 55495420
+
+37. ESD82_RS09460
+carbon-phosphorus lyase complex subunit PhnI [Paracoccus pantotrophus]
+Other Aliases: ESD82_RS09460, ESD82_09460
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Genomic context: Plasmid pPAN2
+ID: 51370793
+
+38. PFJ30894_RS01645
+carbon-phosphorus lyase complex subunit PhnI [Phascolarctobacterium faecium]
+Other Aliases: PFJ30894_RS01645, PFJ30894_00328
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 49406018
+
+39. AT395_RS22145
+carbon-phosphorus lyase complex subunit PhnI [Pandoraea apista]
+Other Aliases: AT395_RS22145, AT395_13055
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 47016522
+
+40. BN162_RS05325
+carbon-phosphorus lyase complex subunit PhnI [Holdemania massiliensis AP2]
+Other Aliases: BN162_RS05325, BN162_05425
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 42455905
+
+41. GAL_RS15035
+carbon-phosphorus lyase complex subunit PhnI [Phaeobacter gallaeciensis DSM 26640]
+Other Aliases: GAL_RS15035, Gal_03076
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Annotation:  NC_023137.1 (3122135..3123244, complement)
+ID: 31847435
+
+42. FA04_RS25335
+carbon-phosphorus lyase complex subunit PhnI [Ensifer adhaerens]
+Other Aliases: FA04_RS25335, FA04_25305
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Genomic context: Plasmid pCasidaAA
+ID: 29521902
+
+43. K529_RS17145
+carbon-phosphorus lyase complex subunit PhnI [Tritonibacter mobilis F1926]
+Other Aliases: K529_RS17145, K529_017140
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+Genomic context: Plasmid unnamed1
+ID: 28251595
+
+44. PM01_RS07405
+carbon-phosphorus lyase complex subunit PhnI [Sulfitobacter pontiacus 3SOLIMAR09]
+Other Aliases: PM01_RS07405, PM01_07505
+Other Designations: carbon-phosphorus lyase complex subunit PhnI
+ID: 82208161
+
+45. LCP48_RS02495
+hypothetical protein [Lysinibacillus capsici]
+Other Aliases: LCP48_RS02495
+Other Designations: hypothetical protein
+ID: 74903531
+

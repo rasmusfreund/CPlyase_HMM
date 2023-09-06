@@ -1,0 +1,1639 @@
+
+1. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Shimia thalassica]
+Other Aliases: PH7735_RS02110, PH7735_00433
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 83879518
+
+2. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Desulfovibrio piger]
+Other Aliases: QDP65_RS10475
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 83732227
+
+3. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas alloputida]
+Other Aliases: LU682_RS07960, LU682_007960
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 83678881
+
+4. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas guariconensis]
+Other Aliases: QU617_RS07065, QU617_07065
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 83657071
+
+5. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas chengduensis]
+Other Aliases: MYO55_RS08990
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 83640975
+
+6. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Bradyrhizobium liaoningense CCBAU 05525]
+Other Aliases: IC32_RS16620
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 83554476
+
+7. phnN
+ribose 1,5-bisphosphokinase [Serratia proteamaculans]
+Other Aliases: QOT07_RS02110
+Other Designations: ribose 1,5-bisphosphokinase
+Chromosome: EBP3064_c1
+ID: 83697234
+
+8. phnN
+ribose 1,5-bisphosphokinase [Enterobacter bugandensis]
+Other Aliases: K9O83_RS01750, K9O83_01755
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 83673148
+
+9. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas kurunegalensis]
+Other Aliases: QQ992_RS20490, QQ992_20490
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 83671304
+
+10. phnN
+ribose 1,5-bisphosphokinase [Citrobacter youngae]
+Other Aliases: QRZ63_RS01375, QRZ63_01375
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 83644654
+
+11. phnN
+ribose 1,5-bisphosphokinase [Enterobacter cloacae]
+Other Aliases: LQ108_RS01700, AI2999V1_0334
+Other Designations: ribose 1,5-bisphosphokinase
+Chromosome: main
+ID: 83571652
+
+12. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+13. phnN
+ribose 1,5-bisphosphate phosphokinase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4094, ECK4087
+Other Designations: ribose 1,5-bisphosphate phosphokinase
+Annotation:  NC_000913.3 (4315525..4316082, complement)
+ID: 948608
+
+14. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Brucella suis 1330]
+Other Aliases: BR_RS05110, BR1099
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+Annotation: Chromosome I NC_004310.3 (1073926..1074504, complement)
+ID: 45052147
+
+15. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Brucella melitensis bv. 1 str. 16M]
+Other Aliases: BME_RS04395, BMEI0882
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+Annotation: Chromosome I NC_003317.1 (914130..914708)
+ID: 29593698
+
+16. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Brucella abortus 2308]
+Other Aliases: BAB_RS21305, BAB1_1123
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+Annotation: Chromosome I NC_007618.1 (1088422..1089000, complement)
+ID: 3787771
+
+17. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10645, POR16_10645
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 72392831
+
+18. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41020
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 64073655
+
+19. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas lactis]
+Other Aliases: PFLSS101_RS17810, PflSS101_1772
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 61707861
+
+20. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25755, E6A55_25735
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 2
+ID: 57647195
+
+21. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Cupriavidus necator H16]
+Other Aliases: E6A55_RS21985, E6A55_21965
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 2
+ID: 57646446
+
+22. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas veronii]
+Other Aliases: PverR02_RS09225, PverR02_09140
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 47555313
+
+23. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas simiae]
+Other Aliases: PF1751_RS08770, PF1751_v1c17350
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 45622400
+
+24. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01100, TH3_01065
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 31925920
+
+25. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS17480, RALTA_B0356
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (396012..397817, complement)
+ID: 29765621
+
+26. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS21380, RALTA_B1194
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (1248284..1248874)
+ID: 29764748
+
+27. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13280, PSPTO2566, PSPTO_2566
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Annotation:  NC_004578.1 (2833025..2833591)
+ID: 1184218
+
+28. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS10810, SM2011_b21170
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (916850..917437, complement)
+ID: 61600812
+
+29. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Burkholderia oklahomensis C6786]
+Other Aliases: BG90_RS21120, BG90_4222
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: II
+ID: 60550343
+
+30. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Burkholderia mallei]
+Other Aliases: NW91_RS00585, NW91_00485
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 1
+ID: 56593725
+
+31. phnN
+ribose 1,5-bisphosphokinase [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02355, SerAS9_0457
+Other Designations: ribose 1,5-bisphosphokinase
+Annotation:  NC_015567.1 (504898..505467, complement)
+ID: 57665277
+
+32. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas extremaustralis]
+Other Aliases: BLR63_RS13485, SAMN05216591_2757
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+ID: 78554193
+
+33. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Bilophila wadsworthia 3_1_6]
+Other Aliases: HMPREF0179_RS02120, HMPREF0179_03123
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 78084488
+
+34. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas paraeruginosa]
+Other Aliases: B7D75_RS08130, B7D75_08130
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 77220111
+
+35. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Roseomonas mucosa]
+Other Aliases: FOB66_RS19910, FOB66_19910
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 4
+ID: 76529118
+
+36. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Verminephrobacter eiseniae EF01-2]
+Other Aliases: VEIS_RS14380, Veis_2955
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Annotation:  NC_008786.1 (3307716..3308282, complement)
+ID: 76461432
+
+37. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Paracoccus denitrificans PD1222]
+Other Aliases: PDEN_RS23775, Pden_4776
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Genomic context: Plasmid 1
+Annotation:  NC_008688.1 (273795..274328, complement)
+ID: 75504134
+
+38. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas tremae]
+Other Aliases: I9H09_RS14380, I9H09_14345
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 73736040
+
+39. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS23260, SIAM614_26466
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 68848888
+
+40. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Rhodopseudomonas palustris]
+Other Aliases: I8G32_RS03520, I8G32_00703
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 66891702
+
+41. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas congelans]
+Other Aliases: BLR20_RS02295, SAMN05216596_101456
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 65073715
+
+42. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas cannabina pv. alisalensis]
+Other Aliases: JGS08_RS15260, JGS08_15260
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 64466218
+
+43. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06070, Bdiaspc4_06060
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 64021096
+
+44. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas amygdali pv. tabaci str. ATCC 11528]
+Other Aliases: PSYTB_RS12055, PSYTB_12060
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 61869645
+
+45. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07425, BN5_1521
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+ID: 61799264
+
+46. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Rhizobium leguminosarum]
+Other Aliases: ELH04_RS22995, ELH04_22995
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 61426375
+
+47. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas mendocina S5.2]
+Other Aliases: DW68_RS14895, DW68_014895
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 57607169
+
+48. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas protegens CHA0]
+Other Aliases: PPRCHA0_RS23455, PPRCHA0_4543
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 1
+ID: 57477575
+
+49. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Burkholderia pseudomallei]
+Other Aliases: DP58_RS11000, DP58_2150
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 1
+ID: 56528338
+
+50. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas tolaasii NCPPB 2192]
+Other Aliases: ATI14_RS28835, ATI14_6001
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 55849009
+
+
+1. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Brucella canis ATCC 23365]
+Other Aliases: BCAN_RS05130, BCAN_A1119
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+Annotation: Chromosome I NC_010103.1 (1072818..1073396, complement)
+ID: 55590787
+
+2. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Paraburkholderia hospita]
+Other Aliases: C2L64_RS21405, C2L64_21405
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 2
+ID: 55530873
+
+3. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas monteilii]
+Other Aliases: CHR29_RS19980, CHR29_19875
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 49869996
+
+4. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas viridiflava]
+Other Aliases: CFBP1590_RS15595, CFBP1590__3158
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+ID: 47764810
+
+5. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Rhizobium phaseoli]
+Other Aliases: AMC88_RS00995, AMC88_CH00202
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 45955578
+
+6. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Brucella ovis ATCC 25840]
+Other Aliases: BOV_RS05275, BOV_1060
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+Annotation: Chromosome I NC_009505.1 (1075921..1076499, complement)
+ID: 45124480
+
+7. phnN
+ribose 1,5-bisphosphokinase [Pectobacterium parmentieri]
+Other Aliases: C5E18_RS03020, C5E18_03035
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66800872
+
+8. phnN
+ribose 1,5-bisphosphokinase [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25620, THOKLE011_50050
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66562186
+
+9. phnN
+ribose 1,5-bisphosphokinase [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23465, I8N75_23465
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 64297531
+
+10. phnN
+ribose 1,5-bisphosphokinase [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10985, BZ17_2054
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66843073
+
+11. phnN
+ribose 1,5-bisphosphokinase [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02575, Rahaq2_0536
+Other Designations: ribose 1,5-bisphosphokinase
+Annotation:  NC_016818.1 (544336..544911, complement)
+ID: 61510675
+
+12. phnN
+ribose 1,5-bisphosphokinase [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08415, PAGR_g1637
+Other Designations: ribose 1,5-bisphosphokinase
+Annotation:  NC_017554.1 (1795689..1796225)
+ID: 57267711
+
+13. phnN
+ribose 1,5-bisphosphokinase [Yersinia pestis A1122]
+Other Aliases: A1122_RS08675, A1122_08580
+Other Designations: ribose 1,5-bisphosphokinase
+Annotation:  NC_017168.1 (1887789..1888370, complement)
+ID: 57975248
+
+14. phnN
+ribose 1,5-bisphosphokinase [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19115, EGY21_19075
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 69796096
+
+15. phnN
+ribose 1,5-bisphosphokinase [Klebsiella variicola]
+Other Aliases: GFC07_RS16110, GFC07_16110
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 69734175
+
+16. phnN
+ribose 1,5-bisphosphokinase [Citrobacter freundii]
+Other Aliases: EGX89_RS15835, EGX89_15855
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 60897997
+
+17. phnN
+ribose 1,5-bisphosphokinase [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20595, KCG39_20595
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 77228398
+
+18. phnN
+ribose 1,5-bisphosphokinase [Shigella boydii]
+Other Aliases: CEH00_RS06970, CEH00_07020
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 75203245
+
+19. phnN
+ribose 1,5-bisphosphokinase [Serratia quinivorans]
+Other Aliases: EL336_RS02095, NCTC13188_00419
+Other Designations: ribose 1,5-bisphosphokinase
+Chromosome: 1
+ID: 74948672
+
+20. phnN
+ribose 1,5-bisphosphokinase [Yokenella regensburgei]
+Other Aliases: C7387_RS15410, C7387_3118
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66905106
+
+21. phnN
+ribose 1,5-bisphosphokinase [Pantoea agglomerans]
+Other Aliases: I6L77_RS09775, I6L77_09775
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66825465
+
+22. phnN
+ribose 1,5-bisphosphokinase [Shigella sonnei]
+Other Aliases: HUX90_RS07450, HUX90_07450
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66671995
+
+23. phnN
+ribose 1,5-bisphosphokinase [Citrobacter braakii]
+Other Aliases: GFC06_RS02630, GFC06_02630
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66271802
+
+24. phnN
+ribose 1,5-bisphosphokinase [Serratia rubidaea]
+Other Aliases: I6G83_RS09175, I6G83_09175
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 61763941
+
+25. phnN
+ribose 1,5-bisphosphokinase [Pantoea stewartii]
+Other Aliases: G5574_RS04655, G5574_04655
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 61251598
+
+26. phnN
+ribose 1,5-bisphosphokinase [Citrobacter portucalensis]
+Other Aliases: FOB25_RS09370, FOB25_09370
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 61125726
+
+27. phnN
+ribose 1,5-bisphosphokinase [Grimontia hollisae]
+Other Aliases: AL542_RS01265, AL542_01235
+Other Designations: ribose 1,5-bisphosphokinase
+Chromosome: 2
+ID: 58894498
+
+28. phnN
+ribose 1,5-bisphosphokinase [Citrobacter koseri ATCC BAA-895]
+Other Aliases: CKO_RS16145, CKO_03776
+Other Designations: ribose 1,5-bisphosphokinase
+Annotation:  NC_009792.1 (3511585..3512139)
+ID: 45137464
+
+29. C770_RS29420
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Sinorhizobium meliloti GR4]
+Other Aliases: C770_RS29420, C770_GR4pD0740
+Genomic context: Plasmid pRmeGR4d
+Annotation:  NC_019849.1 (820134..820721)
+ID: 25013739
+
+30. phnN
+ribose 1,5-bisphosphokinase [Escherichia coli O157:H7 str. Sakai]
+Other Aliases: ECs_5077
+Other Designations: ribose 1,5-bisphosphokinase
+Annotation:  NC_002695.2 (5170507..5171064, complement)
+ID: 914257
+
+31. phnN
+ribose 1,5-bisphosphokinase [Serratia marcescens]
+Other Aliases: C7M65_RS20535, C7M65_20510
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66716539
+
+32. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Stutzerimonas balearica DSM 6083]
+Other Aliases: CL52_RS20065, CL52_20385
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 77262237
+
+33. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05995, RCAP_rcc01200
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Annotation:  NC_014034.1 (1270868..1271422)
+ID: 31490112
+
+34. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas citronellolis]
+Other Aliases: PcP3B5_RS07785, PcP3B5_15880
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 72994748
+
+35. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Paraburkholderia caribensis MBA4]
+Other Aliases: K788_RS28595, K788_0000021
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 2
+ID: 69972611
+
+36. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas fulva]
+Other Aliases: XB13_RS07425
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 64091209
+
+37. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pandoraea pnomenusa]
+Other Aliases: X636_RS02765, X636_13395
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Annotation:  NC_023018.2 (586000..586557)
+ID: 57197100
+
+38. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00515
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 1
+ID: 56331948
+
+39. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas putida NBRC 14164]
+Other Aliases: PP4_RS06915, PP4_13530
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Annotation:  NC_021505.1 (1578720..1579313)
+ID: 45522886
+
+40. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Neorhizobium galegae bv. orientalis str. HAMBI 540]
+Other Aliases: RG540_RS21400, RG540_CH43220
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+ID: 24257633
+
+41. phnN
+ribose 1,5-bisphosphokinase [Pectobacterium atrosepticum]
+Other Aliases: GZ59_RS02490, GZ59_05130
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 57207346
+
+42. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Bradyrhizobium ottawaense]
+Other Aliases: GDN72_RS02015, SG09_03940
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 83307006
+
+43. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas nitroreducens]
+Other Aliases: P3T65_RS25575, P3T65_25575
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 79915108
+
+44. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Agrobacterium salinitolerans]
+Other Aliases: O9X91_RS03080, O9X91_03080
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 79861598
+
+45. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Bradyrhizobium yuanmingense]
+Other Aliases: P0R27_RS13385, P0R27_13380
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 79820357
+
+46. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas parafulva NBRC 16636 = DSM 17004]
+Other Aliases: PPA02S_RS17040
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 78504858
+
+47. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Phaeobacter italicus]
+Other Aliases: KUV39_RS05455, KUV39_05455
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 78397155
+
+48. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Achromobacter spanius]
+Other Aliases: EL258_RS04350, NCTC13519_00880
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 1
+ID: 78279421
+
+49. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Verminephrobacter aporrectodeae subsp. tuberculatae]
+Other Aliases: D5041_RS19565, D5041_19220
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 77323153
+
+50. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas syringae]
+Other Aliases: KIJ28_RS10600, KIJ28_10600
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 77278098
+
+
+1. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas carnis]
+Other Aliases: NAG83_RS14450, NAG83_14445
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 77247363
+
+2. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Paraburkholderia aspalathi]
+Other Aliases: KHO30_RS07165, R20943_01454
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 77193638
+
+3. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas capsici]
+Other Aliases: OH707_RS06420, OH707_06425
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 77183359
+
+4. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas atacamensis]
+Other Aliases: JWU58_RS07585, JWU58_07585
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 75524883
+
+5. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Bartonella apis]
+Other Aliases: PEB0149_RS08300, PEB0149_008330
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 75498944
+
+6. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Achromobacter xylosoxidans]
+Other Aliases: I6I48_RS30045, I6I48_30040
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 75278761
+
+7. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Rhizobium anhuiense bv. trifolii]
+Other Aliases: NE851_RS10825, NE851_10815
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 75217988
+
+8. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Stutzerimonas frequens]
+Other Aliases: I6G34_RS04475, I6G34_04475
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 75212539
+
+9. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas siliginis]
+Other Aliases: NF676_RS20300, NF676_20305
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 75195006
+
+10. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Laribacter hongkongensis DSM 14985]
+Other Aliases: G542_RS0109560
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 75109734
+
+11. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Cupriavidus pauculus]
+Other Aliases: LDZ25_RS22105
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 2
+ID: 75100461
+
+12. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Cupriavidus pauculus]
+Other Aliases: LDZ25_RS03610
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 1
+ID: 75096762
+
+13. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Stutzerimonas kunmingensis]
+Other Aliases: LW136_RS00435, LW136_00435
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 73728701
+
+14. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas marginalis]
+Other Aliases: FX984_RS21620, FX984_04247
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 72497524
+
+15. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas moraviensis]
+Other Aliases: BLU71_RS01640, SAMN04490196_0338
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+ID: 72473121
+
+16. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas juntendi]
+Other Aliases: L1P09_RS17575, L1P09_17575
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 72421448
+
+17. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Achromobacter insuavis]
+Other Aliases: H0522_RS07525, LMG26846_01496
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 71017355
+
+18. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Cupriavidus gilardii]
+Other Aliases: FOB47_RS05095, FOB47_05095
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 1
+ID: 70687687
+
+19. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas gessardii]
+Other Aliases: BLQ94_RS09180, SAMN04490207_1910
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 70100999
+
+20. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas savastanoi]
+Other Aliases: KP808_RS10550, KP808_10520
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 69859169
+
+21. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudosulfitobacter pseudonitzschiae]
+Other Aliases: HT745_RS05960, HT745_05960
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 68869226
+
+22. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Chromobacterium vaccinii]
+Other Aliases: BKX93_RS22480, BKX93_22480
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 68843966
+
+23. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Rhizobium laguerreae]
+Other Aliases: HFO71_RS20235, HFO71_20410
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 67486243
+
+24. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Variovorax paradoxus NBRC 15149]
+Other Aliases: VPA02S_RS18955
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 67428393
+
+25. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Stutzerimonas stutzeri]
+Other Aliases: PszF2a_RS20930, PszF2a_41030
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 66823413
+
+26. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas poae]
+Other Aliases: BLT61_RS07300, SAMN04490208_1479
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+ID: 66760632
+
+27. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS02390, R7A2020_02390
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 66680790
+
+28. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas mandelii]
+Other Aliases: K3369_RS23855, K3369_23855
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 66650907
+
+29. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Paraburkholderia fungorum]
+Other Aliases: OI25_RS37725, OI25_6539
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 2
+ID: 66520304
+
+30. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Mameliella alba]
+Other Aliases: CDZ96_RS16910, CDZ96_16910
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 66502256
+
+31. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Bradyrhizobium canariense]
+Other Aliases: FXB41_RS16375, FXB41_16750
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 66478928
+
+32. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS36750, BE61_75120
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 66429136
+
+33. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Agrobacterium rhizogenes]
+Other Aliases: EML492_RS18605, EML492_18605
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 1
+ID: 66386817
+
+34. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Chromobacterium violaceum]
+Other Aliases: I6K03_RS15540, I6K03_15540
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 66367520
+
+35. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Agrobacterium fabrum]
+Other Aliases: At1D132_RS13995, At1D132_26630
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: circular
+ID: 66223176
+
+36. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Rhizobium bangladeshense]
+Other Aliases: J2J98_RS00785, J2J98_00785
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 66144344
+
+37. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Rhizobium lentis]
+Other Aliases: J0663_RS09455, J0663_09455
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 66139860
+
+38. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Sulfitobacter geojensis]
+Other Aliases: JQV57_RS12430, JQV57_12420
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 63943879
+
+39. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Marivita cryptomonadis]
+Other Aliases: MCRY_RS08000, MCRY_08000
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 62640707
+
+40. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas lundensis]
+Other Aliases: IF654_RS16640, IF654_16845
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 61881659
+
+41. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas synxantha]
+Other Aliases: C4K01_RS09690, C4K01_1948
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 61829772
+
+42. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas avellanae]
+Other Aliases: N010_RS0217300
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 61791254
+
+43. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas chlororaphis]
+Other Aliases: HLB40_RS22300, HLB40_22300
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 61652158
+
+44. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas fluorescens]
+Other Aliases: CPH89_RS20065, SAMN04488487_4126
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+ID: 61637961
+
+45. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas orientalis]
+Other Aliases: C4J98_RS08440, C4J98_1691
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 61616907
+
+46. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Sinorhizobium medicae]
+Other Aliases: FB009_RS23215, FB009_11585
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 61613463
+
+47. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Agrobacterium pusense]
+Other Aliases: HQN82_RS12875, HQN82_12875
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: R76C1
+ID: 61456239
+
+48. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Brucella anthropi]
+Other Aliases: IR196_RS15330, IR196_15330
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 2
+ID: 61317360
+
+49. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Paraburkholderia tropica]
+Other Aliases: G5S35_RS20155, G5S35_20105
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: B
+ID: 61304852
+
+50. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Mesorhizobium loti]
+Other Aliases: C8D77_RS20360, C8D77_105133
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 61053342
+
+
+1. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Agrobacterium tumefaciens]
+Other Aliases: At12D1_RS14345, At12D1_27390
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: circular
+ID: 60890111
+
+2. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Cupriavidus metallidurans]
+Other Aliases: NDB4MOL1_RS24745, NDB4MOL1_04932
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 60825256
+
+3. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Agrobacterium vitis]
+Other Aliases: ASB66_RS05715, ASB66_005715
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 60681189
+
+4. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas mosselii]
+Other Aliases: CSH50_RS18755
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 58769473
+
+5. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas rhodesiae]
+Other Aliases: HRH33_RS09720, HRH33_09720
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 58695691
+
+6. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Chromobacterium haemolyticum]
+Other Aliases: GYH29_RS15580, CH06BL_30920
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 58560816
+
+7. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas asiatica]
+Other Aliases: GYA95_RS15740
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 58532260
+
+8. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Enhydrobacter aerosaccus]
+Other Aliases: B5D62_RS22945, SAMN02745126_04616
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 58130357
+
+9. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas gingeri]
+Other Aliases: HX881_RS29245, HX881_29245
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 57664130
+
+10. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas koreensis]
+Other Aliases: BLS19_RS19155, SAMN04490189_3954
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+ID: 57635658
+
+11. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Ruegeria arenilitoris]
+Other Aliases: GOW72_RS03815
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 57465676
+
+12. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas otitidis]
+Other Aliases: PotMrB4_RS20825, PtoMrB4_41550
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 57399373
+
+13. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas azotoformans]
+Other Aliases: BLR69_RS30400, SAMN04489799_6204
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: I
+ID: 57378572
+
+14. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Brucella intermedia]
+Other Aliases: DX510_RS15670, NCTC12171_03143
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 57307094
+
+15. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Phaeobacter inhibens]
+Other Aliases: PhaeoP54_RS01980, PhaeoP54_00402
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 57287265
+
+16. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Clavibacter michiganensis subsp. michiganensis]
+Other Aliases: EFE39_RS02005, EFE39_02015
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 56884654
+
+17. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Bordetella hinzii]
+Other Aliases: CBR68_RS00625, CBR68_00625
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 56618633
+
+18. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Achromobacter insolitus]
+Other Aliases: E2544_RS07280, E2544_07285
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 56311143
+
+19. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Achromobacter denitrificans]
+Other Aliases: FOC82_RS15795, FOC82_15795
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 56280396
+
+20. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas yamanorum]
+Other Aliases: AK972_RS07935, AK972_1541
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 56070654
+
+21. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Achromobacter ruhlandii]
+Other Aliases: AruCF_RS19730, AruCF_3936
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 55561963
+
+22. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas proteolytica]
+Other Aliases: BLW35_RS15545, SAMN04490200_3116
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 55540229
+
+23. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Paracoccus pantotrophus]
+Other Aliases: ESD82_RS09440, ESD82_09440
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Genomic context: Plasmid pPAN2
+ID: 51370789
+
+24. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas plecoglossicida]
+Other Aliases: DVB73_RS23345, DVB73_23340
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 49616361
+
+25. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Sinorhizobium fredii CCBAU 25509]
+Other Aliases: AOX55_RS26135, AOX55_00005820
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Genomic context: Plasmid pSF25509b
+ID: 48976436
+
+26. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pandoraea apista]
+Other Aliases: AT395_RS22120, AT395_13030
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 47016517
+
+27. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas frederiksbergensis]
+Other Aliases: BLL42_RS20920, BLL42_20530
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 46910665
+
+28. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas helleri]
+Other Aliases: TU84_RS05510, TU84_05505
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 45670198
+
+29. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas cichorii JBC1]
+Other Aliases: BH81_RS09975, PCH70_20000
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 45542058
+
+30. MPLDJ20_RS19690
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Mesorhizobium plurifarium]
+Other Aliases: MPLDJ20_RS19690, MPLDJ20_230083
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 31891299
+
+31. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Phaeobacter gallaeciensis DSM 26640]
+Other Aliases: GAL_RS15015, Gal_03072
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Annotation:  NC_023137.1 (3119203..3119775, complement)
+ID: 31847431
+
+32. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Pseudomonas lurida]
+Other Aliases: A7318_RS07920, A7318_07915
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 31709936
+
+33. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Ensifer adhaerens]
+Other Aliases: FA04_RS22620, FA04_22590
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Genomic context: Plasmid pCasidaAA
+ID: 29521271
+
+34. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Tritonibacter mobilis F1926]
+Other Aliases: K529_RS17120, K529_017115
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Genomic context: Plasmid unnamed1
+ID: 28251590
+
+35. phnN
+ribose 1,5-bisphosphokinase [Ewingella americana]
+Other Aliases: F4W05_RS12005, F4W05_12005
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 78381194
+
+36. phnN
+ribose 1,5-bisphosphokinase [Yersinia ruckeri]
+Other Aliases: YR821_RS02105, YR821_0426
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66878244
+
+37. phnN
+ribose 1,5-bisphosphokinase [Dickeya solani]
+Other Aliases: BJJ98_RS04430, BJJ98_04250
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66641890
+
+38. FE661_RS10305
+PhnN protein [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10305, FE661_10335
+Other Designations: PhnN protein
+ID: 66433038
+
+39. phnN
+ribose 1,5-bisphosphokinase [Yersinia aleksiciae]
+Other Aliases: AP371_RS03285, ERS008671_00683
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 61901225
+
+40. phnN
+ribose 1,5-bisphosphokinase [Yersinia rochesterensis]
+Other Aliases: DXZ79_RS02765, DXZ79_02770
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 82549710
+
+41. phnN
+ribose 1,5-bisphosphokinase [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01460, HUZ68_01445
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 75169612
+
+42. phnN
+ribose 1,5-bisphosphokinase [Citrobacter europaeus]
+Other Aliases: C3454_RS20930, C3454_21205
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 73801145
+
+43. phnN
+ribose 1,5-bisphosphokinase [Enterobacter sichuanensis]
+Other Aliases: C1N69_RS01725, C1N69_01740
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 72830228
+
+44. phnN
+ribose 1,5-bisphosphokinase [Raoultella planticola]
+Other Aliases: MNO12_RS13120, MNO12_13120
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 72407604
+
+45. phnN
+ribose 1,5-bisphosphokinase [Enterobacter chengduensis]
+Other Aliases: FY206_RS01825, FY206_01825
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 63140364
+
+46. phnN
+ribose 1,5-bisphosphokinase [Pectobacterium polaris]
+Other Aliases: BJK05_RS20085, BJK05_19465
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 61410861
+
+47. phnN
+ribose 1,5-bisphosphokinase [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06540, DJ58_1097
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 57904663
+
+48. phnN
+ribose 1,5-bisphosphokinase [Pectobacterium versatile]
+Other Aliases: SCC1_RS19370, SCC1_3842
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 57316013
+
+49. phnN
+ribose 1,5-bisphosphokinase [Enterobacter roggenkampii]
+Other Aliases: BFV67_RS01725, BFV67_01725
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 45794043
+
+50. phnN
+ribose 1,5-bisphosphokinase [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07635, Dda3937_04095
+Other Designations: ribose 1,5-bisphosphokinase
+Annotation:  NC_014500.1 (1721223..1721783)
+ID: 9733032
+
+
+1. phnN
+ribose 1,5-bisphosphokinase [Vibrio nigripulchritudo POn4]
+Other Aliases: VIBNIPON4_RS13750, VIBNIPon4_390101
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 61875611
+
+2. phnN
+ribose 1,5-bisphosphokinase [Enterobacter hormaechei]
+Other Aliases: I6L65_RS02405, I6L65_02405
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 72530880
+
+3. phnN
+ribose 1,5-bisphosphokinase [Klebsiella grimontii]
+Other Aliases: FN634_RS20285
+Other Designations: ribose 1,5-bisphosphokinase
+Chromosome: 1
+ID: 64338768
+
+4. phnN
+ribose 1,5-bisphosphokinase [Yersinia aldovae 670-83]
+Other Aliases: AT01_RS14720, AT01_2990
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 45572111
+
+5. phnN
+ribose 1,5-bisphosphokinase [Serratia nevei]
+Other Aliases: F0338_RS01685
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 79508445
+
+6. phnN
+ribose 1,5-bisphosphokinase [Obesumbacterium proteus]
+Other Aliases: XK97_RS16055, XK97_16050
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 78451984
+
+7. phnN
+ribose 1,5-bisphosphokinase [Kalamiella piersonii]
+Other Aliases: D7S44_RS07460, D7S44_07445
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 78233292
+
+8. phnN
+ribose 1,5-bisphosphokinase [Yersinia enterocolitica]
+Other Aliases: N4222_RS17855, N4222_17855
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 77329711
+
+9. phnN
+ribose 1,5-bisphosphokinase [Serratia bockelmannii]
+Other Aliases: OM395_RS14625, OM395_14625
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 77284125
+
+10. phnN
+ribose 1,5-bisphosphokinase [Halomonas venusta]
+Other Aliases: JDS37_RS02130, JDS37_02130
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 77013917
+
+11. phnN
+ribose 1,5-bisphosphokinase [Enterobacter quasiroggenkampii]
+Other Aliases: EKO03_RS18775, EKO03_18775
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 75416016
+
+12. phnN
+ribose 1,5-bisphosphokinase [Serratia grimesii]
+Other Aliases: SGBXF1_RS02300, SGBXF1_00459
+Other Designations: ribose 1,5-bisphosphokinase
+Chromosome: 1
+ID: 75280254
+
+13. phnN
+ribose 1,5-bisphosphokinase [Yersinia alsatica]
+Other Aliases: N0H69_RS02455, N0H69_02455
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 75138824
+
+14. phnN
+ribose 1,5-bisphosphokinase [Enterobacter asburiae]
+Other Aliases: FOY94_RS01685, EAS17NKHM_003230
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 75131961
+
+15. phnN
+ribose 1,5-bisphosphokinase [Serratia ficaria]
+Other Aliases: CKW09_RS02710, SAMEA4384070_00539
+Other Designations: ribose 1,5-bisphosphokinase
+Chromosome: 1
+ID: 75025728
+
+16. phnN
+ribose 1,5-bisphosphokinase [Serratia entomophila]
+Other Aliases: KHA73_RS02015, KHA73_02015
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 75020680
+
+17. phnN
+ribose 1,5-bisphosphokinase [Enterobacter mori]
+Other Aliases: L6Y89_RS01575, L6Y89_01575
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 72512927
+
+18. phnN
+ribose 1,5-bisphosphokinase [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24630, NCTC9164_04927
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 69887424
+
+19. phnN
+ribose 1,5-bisphosphokinase [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24450, LGM30_24495
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 69757621
+
+20. phnN
+ribose 1,5-bisphosphokinase [Yersinia bercovieri]
+Other Aliases: LH409_RS06940, LH409_06940
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 69737711
+
+21. phnN
+ribose 1,5-bisphosphokinase [Yersinia proxima]
+Other Aliases: FTB57_RS11570
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 69701137
+
+22. phnN
+ribose 1,5-bisphosphokinase [Hafnia paralvei]
+Other Aliases: K9N75_RS02990, K9N75_02990
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 69636971
+
+23. phnN
+ribose 1,5-bisphosphokinase [Citrobacter farmeri]
+Other Aliases: EGK65_RS21080, EGK65_21105
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 69619709
+
+24. phnN
+ribose 1,5-bisphosphokinase [Enterobacter kobei]
+Other Aliases: P827_RS02195, P827_04104
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 69608618
+
+25. phnN
+ribose 1,5-bisphosphokinase [Citrobacter werkmanii]
+Other Aliases: FOB24_RS03525, FOB24_03525
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 69484777
+
+26. phnN
+ribose 1,5-bisphosphokinase [Citrobacter cronae]
+Other Aliases: JSN25_RS07190
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 69429389
+
+27. phnN
+ribose 1,5-bisphosphokinase [Rouxiella badensis]
+Other Aliases: G3M83_RS00885, G3M83_00880
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 68684467
+
+28. phnN
+ribose 1,5-bisphosphokinase [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS19320, I2D83_19315
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 67795695
+
+29. phnN
+ribose 1,5-bisphosphokinase [Erwinia persicina]
+Other Aliases: K6L24_RS08425, K6L24_08425
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 67476245
+
+30. phnN
+ribose 1,5-bisphosphokinase [Pantoea dispersa]
+Other Aliases: K7H94_RS07365, K7H94_07365
+Other Designations: ribose 1,5-bisphosphokinase
+Chromosome: 1
+ID: 67451430
+
+31. phnN
+ribose 1,5-bisphosphokinase [Enterobacter cancerogenus]
+Other Aliases: K3T75_RS03000
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66610001
+
+32. phnN
+ribose 1,5-bisphosphokinase [Klebsiella aerogenes]
+Other Aliases: FPV33_RS23180, FPV33_23180
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66605948
+
+33. phnN
+ribose 1,5-bisphosphokinase [Dickeya fangzhongdai]
+Other Aliases: CVE23_RS08350, CVE23_08350
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66564345
+
+34. phnN
+ribose 1,5-bisphosphokinase [Lelliottia amnigena]
+Other Aliases: I6L75_RS21325, I6L75_21315
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66412833
+
+35. phnN
+ribose 1,5-bisphosphokinase [Kosakonia radicincitans]
+Other Aliases: FEI17_RS24715, FEI17_24705
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66394761
+
+36. phnN
+ribose 1,5-bisphosphokinase [Citrobacter amalonaticus]
+Other Aliases: AL524_RS30790, AL524_05330
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 66235754
+
+37. phnN
+ribose 1,5-bisphosphokinase [Pantoea allii]
+Other Aliases: C7431_RS13075, C7431_10541
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 65791376
+
+38. phnN
+ribose 1,5-bisphosphokinase [Serratia ureilytica]
+Other Aliases: J0X03_RS21675, J0X03_21675
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 64310247
+
+39. phnN
+ribose 1,5-bisphosphokinase [Serratia liquefaciens]
+Other Aliases: F0336_RS02070, F0336_02070
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 64204916
+
+40. phnN
+ribose 1,5-bisphosphokinase [Vibrio mediterranei]
+Other Aliases: HOP38_RS25475, HOP38_25475
+Other Designations: ribose 1,5-bisphosphokinase
+Chromosome: II
+ID: 64089623
+
+41. phnN
+ribose 1,5-bisphosphokinase [Vibrio coralliirubri]
+Other Aliases: ED654_RS22485
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 62576089
+
+42. phnN
+ribose 1,5-bisphosphokinase [Yersinia kristensenii]
+Other Aliases: DX162_RS03605, NCTC11471_00716
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 61905446
+
+43. phnN
+ribose 1,5-bisphosphokinase [Yersinia massiliensis CCUG 53443]
+Other Aliases: BN68_RS11250, BN68_11500
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 61815904
+
+44. phnN
+ribose 1,5-bisphosphokinase [Pectobacterium carotovorum]
+Other Aliases: HER17_RS18935, HER17_18985
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 61349693
+
+45. phnN
+ribose 1,5-bisphosphokinase [Lonsdalea populi]
+Other Aliases: I6N93_RS15700, I6N93_15700
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 61123581
+
+46. phnN
+ribose 1,5-bisphosphokinase [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19055
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 60945995
+
+47. phnN
+ribose 1,5-bisphosphokinase [Dickeya zeae]
+Other Aliases: C1O30_RS07925, C1O30_07925
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 60867832
+
+48. GCD22_RS06355
+PhnN protein [Acidithiobacillus thiooxidans ATCC 19377]
+Other Aliases: GCD22_RS06355, GCD22_01321
+Other Designations: PhnN protein
+ID: 60695695
+
+49. phnN
+ribose 1,5-bisphosphokinase [Pantoea vagans]
+Other Aliases: EGO56_RS07325, EGO56_07325
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 58737606
+
+50. phnN
+ribose 1,5-bisphosphokinase [Yersinia intermedia]
+Other Aliases: FOC38_RS19115, FOC38_19115
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 58049080
+
+
+1. phnN
+ribose 1,5-bisphosphokinase [Yersinia mollaretii ATCC 43969]
+Other Aliases: HRD69_RS08160, HRD69_08160
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 57917753
+
+2. phnN
+ribose 1,5-bisphosphokinase [Raoultella terrigena]
+Other Aliases: HCK03_RS24370, HCK03_24365
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 57507115
+
+3. phnN
+ribose 1,5-bisphosphokinase [Hafnia alvei]
+Other Aliases: HBA19_RS02745, HBA19_02745
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 56890329
+
+4. phnN
+ribose 1,5-bisphosphokinase [Dickeya dianthicola]
+Other Aliases: DZA65_RS07990, DZA65_01551
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 49321469
+
+5. phnN
+ribose 1,5-bisphosphokinase [Enterobacter ludwigii]
+Other Aliases: BH714_RS19295, BH714_19295
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 45817691
+
+6. phnN
+ribose 1,5-bisphosphokinase [Leclercia adecarboxylata]
+Other Aliases: APT61_RS20700, APT61_20700
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 30334364
+
+7. phnN
+ribose 1,5-bisphosphokinase [Serratia fonticola]
+Other Aliases: WN53_RS10740, WN53_10740
+Other Designations: ribose 1,5-bisphosphokinase
+ID: 30320643
+
+8. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Sulfitobacter pontiacus 3SOLIMAR09]
+Other Aliases: PM01_RS07425, PM01_07525
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+ID: 82208165
+
+9. phnN
+phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN [Brucella ceti TE10759-12]
+Other Aliases: V910_RS04420, V910_100887
+Other Designations: phosphonate metabolism protein/1,5-bisphosphokinase (PRPP-forming) PhnN
+Chromosome: 1
+Annotation: Chromosome 1 NC_022905.1 (914257..914835)
+ID: 58775809
+

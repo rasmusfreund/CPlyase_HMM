@@ -1,0 +1,1572 @@
+
+1. phnH
+phosphonate C-P lyase system protein PhnH [Desulfovibrio piger]
+Other Aliases: QDP65_RS10505
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 83732233
+
+2. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas chengduensis]
+Other Aliases: MYO55_RS08960
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 83640969
+
+3. phnH
+phosphonate C-P lyase system protein PhnH [Cronobacter turicensis]
+Other Aliases: QLY60_RS11145, QLY60_11145
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 83588127
+
+4. phnH
+phosphonate C-P lyase system protein PhnH [Bradyrhizobium liaoningense CCBAU 05525]
+Other Aliases: IC32_RS16650
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 83554482
+
+5. phnH
+phosphonate C-P lyase system protein PhnH [Shimia thalassica]
+Other Aliases: PH7735_RS02085, PH7735_00427
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 83879513
+
+6. phnH
+phosphonate C-P lyase system protein PhnH [Serratia proteamaculans]
+Other Aliases: QOT07_RS02140
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: EBP3064_c1
+ID: 83697240
+
+7. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter bugandensis]
+Other Aliases: K9O83_RS01780, K9O83_01785
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 83673154
+
+8. phnH
+phosphonate C-P lyase system protein PhnH [Citrobacter youngae]
+Other Aliases: QRZ63_RS01405, QRZ63_01405
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 83644660
+
+9. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter cloacae]
+Other Aliases: LQ108_RS01730, AI2999V1_0340
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: main
+ID: 83571658
+
+10. phnH
+carbon-phosphorus lyase core complex subunit PhnH [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4100, ECK4093
+Other Designations: carbon-phosphorus lyase core complex subunit PhnH
+Annotation:  NC_000913.3 (4320663..4321247, complement)
+ID: 948619
+
+11. phnH
+phosphonate C-P lyase system protein PhnH [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02385, SerAS9_0463
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_015567.1 (510053..510634, complement)
+ID: 57665283
+
+12. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter ludwigii]
+Other Aliases: BH714_RS19325, BH714_19325
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 45817697
+
+13. phnH
+phosphonate C-P lyase system protein PhnH [Klebsiella variicola]
+Other Aliases: GFC07_RS16140, GFC07_16140
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69734181
+
+14. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter kobei]
+Other Aliases: P827_RS02165, P827_04110
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69608612
+
+15. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10955, BZ17_2048
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66843067
+
+16. phnH
+phosphonate C-P lyase system protein PhnH [Raoultella planticola]
+Other Aliases: MNO12_RS13090, MNO12_13090
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 72407598
+
+17. phnH
+phosphonate C-P lyase system protein PhnH [Citrobacter werkmanii]
+Other Aliases: FOB24_RS03555, FOB24_03555
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69484783
+
+18. phnH
+phosphonate C-P lyase system protein PhnH [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02605, Rahaq2_0542
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_016818.1 (549543..550124, complement)
+ID: 61510681
+
+19. phnH
+phosphonate C-P lyase system protein PhnH [Citrobacter freundii]
+Other Aliases: EGX89_RS15865, EGX89_15885
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 60898003
+
+20. phnH
+phosphonate C-P lyase system protein PhnH [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25735, E6A55_25715
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 2
+ID: 57647191
+
+21. phnH
+phosphonate C-P lyase system protein PhnH [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08385, PAGR_g1631
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_017554.1 (1790594..1791178)
+ID: 57267705
+
+22. phnH
+phosphonate C-P lyase system protein PhnH [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01130, TH3_01095
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 31925926
+
+23. phnH
+phosphonate C-P lyase system protein PhnH [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05970, RCAP_rcc01194
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_014034.1 (1266721..1267287)
+ID: 31490107
+
+24. phnH
+phosphonate C-P lyase system protein PhnH [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07605, Dda3937_04089
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_014500.1 (1716013..1716588)
+ID: 9733026
+
+25. phnH
+phosphonate C-P lyase system protein PhnH [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13730, SM2011_b20760
+Other Designations: phosphonate C-P lyase system protein PhnH
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1552470..1553072)
+ID: 61601361
+
+26. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13250, PSPTO2560, PSPTO_2560
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_004578.1 (2827760..2828356)
+ID: 1184212
+
+27. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter hormaechei]
+Other Aliases: I6L65_RS02375, I6L65_02375
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 72530874
+
+28. phnH
+phosphonate C-P lyase system protein PhnH [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19145, EGY21_19105
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69796102
+
+29. phnH
+phosphonate C-P lyase system protein PhnH [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25590, THOKLE011_49990
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66562180
+
+30. phnH
+phosphonate C-P lyase system protein PhnH [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23435, I8N75_23435
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 64297525
+
+31. phnH
+phosphonate C-P lyase system protein PhnH [Burkholderia oklahomensis C6786]
+Other Aliases: BG90_RS21095, BG90_4217
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: II
+ID: 60550338
+
+32. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia pestis A1122]
+Other Aliases: A1122_RS08705, A1122_08610
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_017168.1 (1893454..1894080, complement)
+ID: 57975254
+
+33. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter roggenkampii]
+Other Aliases: BFV67_RS01755, BFV67_01755
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 45794049
+
+34. phnH
+phosphonate C-P lyase system protein PhnH [Bilophila wadsworthia 3_1_6]
+Other Aliases: HMPREF0179_RS02150, HMPREF0179_03117
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 78084494
+
+35. phnH
+phosphonate C-P lyase system protein PhnH [Nodularia spumigena UHCC 0039]
+Other Aliases: BMF81_RS02505, BMF81_00485
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 78015884
+
+36. phnH
+phosphonate C-P lyase system protein PhnH [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20625, KCG39_20625
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 77228404
+
+37. phnH
+phosphonate C-P lyase system protein PhnH [Roseomonas mucosa]
+Other Aliases: FOB66_RS19880, FOB66_19880
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 4
+ID: 76529112
+
+38. phnH
+phosphonate C-P lyase system protein PhnH [Verminephrobacter eiseniae EF01-2]
+Other Aliases: VEIS_RS14395, Veis_2958
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_008786.1 (3309670..3310377)
+ID: 76461435
+
+39. phnH
+phosphonate C-P lyase system protein PhnH [Paracoccus denitrificans PD1222]
+Other Aliases: PDEN_RS23800, Pden_4781
+Other Designations: phosphonate C-P lyase system protein PhnH
+Genomic context: Plasmid 1
+Annotation:  NC_008688.1 (277743..278309, complement)
+ID: 75504139
+
+40. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter quasiroggenkampii]
+Other Aliases: EKO03_RS18745, EKO03_18745
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75416010
+
+41. phnH
+phosphonate C-P lyase system protein PhnH [Shigella boydii]
+Other Aliases: CEH00_RS07000, CEH00_07050
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75203251
+
+42. phnH
+phosphonate C-P lyase system protein PhnH [Atlantibacter hermannii]
+Other Aliases: FV156_RS08890
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75062380
+
+43. phnH
+phosphonate C-P lyase system protein PhnH [Serratia quinivorans]
+Other Aliases: EL336_RS02125, NCTC13188_00425
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 74948678
+
+44. DYB71_RS11250
+phosphonate C-P lyase system protein PhnH [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11250, NCTC8156_02259
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 74302615
+
+45. phnH
+phosphonate C-P lyase system protein PhnH [Virgibacillus halodenitrificans]
+Other Aliases: BME96_RS18375, BME96_18205
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 71516347
+
+46. phnH
+phosphonate C-P lyase system protein PhnH [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24595, NCTC9164_04921
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69887418
+
+47. phnH
+phosphonate C-P lyase system protein PhnH [Citrobacter cronae]
+Other Aliases: JSN25_RS07220
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69429395
+
+48. phnH
+phosphonate C-P lyase system protein PhnH [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS23225, SIAM614_26431
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 68848881
+
+49. phnH
+phosphonate C-P lyase system protein PhnH [Rouxiella badensis]
+Other Aliases: G3M83_RS00915, G3M83_00910
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 68684473
+
+50. phnH
+phosphonate C-P lyase system protein PhnH [Yokenella regensburgei]
+Other Aliases: C7387_RS15440, C7387_3124
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66905112
+
+
+1. phnH
+phosphonate C-P lyase system protein PhnH [Rhodopseudomonas palustris]
+Other Aliases: I8G32_RS03550, I8G32_00709
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66891708
+
+2. phnH
+phosphonate C-P lyase system protein PhnH [Shigella sonnei]
+Other Aliases: HUX90_RS07420, HUX90_07420
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66671989
+
+3. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter cancerogenus]
+Other Aliases: K3T75_RS03030
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66610007
+
+4. phnH
+phosphonate C-P lyase system protein PhnH [Kosakonia radicincitans]
+Other Aliases: FEI17_RS24685, FEI17_24675
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66394755
+
+5. phnH
+phosphonate C-P lyase system protein PhnH [Citrobacter braakii]
+Other Aliases: GFC06_RS02600, GFC06_02600
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66271796
+
+6. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas cannabina pv. alisalensis]
+Other Aliases: JGS08_RS15290, JGS08_15290
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 64466224
+
+7. phnH
+phosphonate C-P lyase system protein PhnH [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41050
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 64073661
+
+8. phnH
+phosphonate C-P lyase system protein PhnH [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15785, G4D54_15785
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61927028
+
+9. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas amygdali pv. tabaci str. ATCC 11528]
+Other Aliases: PSYTB_RS12025, PSYTB_12030
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61869639
+
+10. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07395, BN5_1515
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: I
+ID: 61799258
+
+11. phnH
+phosphonate C-P lyase system protein PhnH [Sinorhizobium medicae]
+Other Aliases: FB009_RS01820, FB009_101359
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61609362
+
+12. phnH
+phosphonate C-P lyase system protein PhnH [Citrobacter portucalensis]
+Other Aliases: FOB25_RS09340, FOB25_09340
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61125720
+
+13. phnH
+phosphonate C-P lyase system protein PhnH [Grimontia hollisae]
+Other Aliases: AL542_RS01235, AL542_01205
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 2
+ID: 58894492
+
+14. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas mendocina S5.2]
+Other Aliases: DW68_RS14925, DW68_014925
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 57607175
+
+15. phnH
+phosphonate C-P lyase system protein PhnH [Clavibacter michiganensis subsp. michiganensis]
+Other Aliases: EFE39_RS02040, EFE39_02050
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 56884661
+
+16. phnH
+phosphonate C-P lyase system protein PhnH [Cronobacter sakazakii]
+Other Aliases: CsakCS931_RS18500, CsakCS931_33565
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 56733120
+
+17. phnH
+phosphonate C-P lyase system protein PhnH [Burkholderia mallei]
+Other Aliases: NW91_RS00610, NW91_00505
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 56593729
+
+18. phnH
+phosphonate C-P lyase system protein PhnH [Burkholderia pseudomallei]
+Other Aliases: DP58_RS11020, DP58_2154
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 56528342
+
+19. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas tolaasii NCPPB 2192]
+Other Aliases: ATI14_RS28865, ATI14_6007
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 55849015
+
+20. phnH
+phosphonate C-P lyase system protein PhnH [Paraburkholderia hospita]
+Other Aliases: C2L64_RS21385, C2L64_21385
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 2
+ID: 55530869
+
+21. phnH
+phosphonate C-P lyase system protein PhnH [Citrobacter koseri ATCC BAA-895]
+Other Aliases: CKO_RS16115, CKO_03770
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_009792.1 (3506401..3506985)
+ID: 45137458
+
+22. PA3379
+carbon-phosphorus lyase complex subunit [Pseudomonas aeruginosa PAO1]
+Other Aliases: PA3379
+Other Designations: carbon-phosphorus lyase complex subunit
+Annotation:  NC_002516.2 (3786392..3787021, complement)
+ID: 878393
+
+23. C770_RS26570
+phosphonate C-P lyase system protein PhnH [Sinorhizobium meliloti GR4]
+Other Aliases: C770_RS26570, C770_GR4pD0164
+Genomic context: Plasmid pRmeGR4d
+Annotation:  NC_019849.1 (188790..189392, complement)
+ID: 25014152
+
+24. DEHOM01_RS09285
+alkaline phosphatase family protein [Dermabacter hominis NBRC 106157]
+Other Aliases: DEHOM01_RS09285
+Other Designations: alkaline phosphatase family protein
+ID: 74909479
+
+25. phnH
+phosphonate C-P lyase system protein PhnH [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS30415, R7A2020_30415
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66686357
+
+26. phnH
+ribophosphonate triphosphate synthase subunit [Escherichia coli O157:H7 str. Sakai]
+Other Aliases: ECs_5083
+Other Designations: ribophosphonate triphosphate synthase subunit
+Annotation:  NC_002695.2 (5175645..5176229, complement)
+ID: 914253
+
+27. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter sichuanensis]
+Other Aliases: C1N69_RS01755, C1N69_01770
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 72830234
+
+28. phnH
+phosphonate C-P lyase system protein PhnH [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10270, FE661_10300
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66433031
+
+29. phnH
+phosphonate C-P lyase system protein PhnH [Adlercreutzia equolifaciens DSM 19450]
+Other Aliases: AEQU_RS08535, AEQU_1675
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_022567.1 (2141474..2142097, complement)
+ID: 62678265
+
+30. phnH
+phosphonate C-P lyase system protein PhnH [Stutzerimonas balearica DSM 6083]
+Other Aliases: CL52_RS20060, CL52_20380
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 77262236
+
+31. phnH
+phosphonate C-P lyase system protein PhnH [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01490, HUZ68_01475
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75169618
+
+32. phnH
+phosphonate C-P lyase system protein PhnH [Citrobacter europaeus]
+Other Aliases: C3454_RS20900, C3454_21175
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 73801139
+
+33. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10615, POR16_10615
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 72392825
+
+34. phnH
+phosphonate C-P lyase system protein PhnH [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36995, K2Z90_007356
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69895256
+
+35. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter chengduensis]
+Other Aliases: FY206_RS01855, FY206_01855
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 63140370
+
+36. phnH
+phosphonate C-P lyase system protein PhnH [Vibrio nigripulchritudo POn4]
+Other Aliases: VIBNIPON4_RS13780, VIBNIPon4_390107
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61875617
+
+37. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas avellanae]
+Other Aliases: N010_RS0217330
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61791260
+
+38. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06510, DJ58_1103
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 57904657
+
+39. phnH
+phosphonate C-P lyase system protein PhnH [Pandoraea pnomenusa]
+Other Aliases: X636_RS02745, X636_13375
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_023018.2 (583271..583924, complement)
+ID: 57197096
+
+40. phnH
+phosphonate C-P lyase system protein PhnH [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00575
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 56331960
+
+41. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas yamanorum]
+Other Aliases: AK972_RS07905, AK972_1535
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 56070648
+
+42. phnH
+phosphonate C-P lyase system protein PhnH [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS21360, RALTA_B1190
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (1245403..1246020, complement)
+ID: 29764752
+
+43. phnH
+phosphonate C-P lyase system protein PhnH [Neorhizobium galegae bv. orientalis str. HAMBI 540]
+Other Aliases: RG540_RS21465, RG540_CH43350
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: I
+ID: 24259013
+
+44. phnH
+phosphonate C-P lyase system protein PhnH [Paraburkholderia caribensis MBA4]
+Other Aliases: K788_RS28575, K788_0000025
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 2
+ID: 69972607
+
+45. phnH
+phosphonate C-P lyase system protein PhnH [Cronobacter malonaticus LMG 23826]
+Other Aliases: AFK66_RS01575, AFK66_002255
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 45714015
+
+46. phnH
+phosphonate C-P lyase system protein PhnH [Cronobacter dublinensis subsp. dublinensis LMG 23823]
+Other Aliases: AFK67_RS18250, AFK67_18265
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 45668307
+
+47. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia aldovae 670-83]
+Other Aliases: AT01_RS14750, AT01_2996
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 45572117
+
+48. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter asburiae]
+Other Aliases: FOY94_RS01715, EAS17NKHM_003290
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75131967
+
+49. phnH
+phosphonate C-P lyase system protein PhnH [Klebsiella grimontii]
+Other Aliases: FN634_RS20315
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 64338774
+
+50. phnH
+phosphonate C-P lyase system protein PhnH [Bradyrhizobium ottawaense]
+Other Aliases: GDN72_RS02045, SG09_04000
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 83307012
+
+
+1. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia rochesterensis]
+Other Aliases: DXZ79_RS02795, DXZ79_02800
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 82549716
+
+2. phnH
+phosphonate C-P lyase system protein PhnH [Agrobacterium salinitolerans]
+Other Aliases: O9X91_RS03020, O9X91_03020
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 79861586
+
+3. phnH
+phosphonate C-P lyase system protein PhnH [Bradyrhizobium yuanmingense]
+Other Aliases: P0R27_RS13355, P0R27_13350
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 79820351
+
+4. phnH
+phosphonate C-P lyase system protein PhnH [Serratia nevei]
+Other Aliases: F0338_RS01655
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 79508439
+
+5. phnH
+phosphonate C-P lyase system protein PhnH [Obesumbacterium proteus]
+Other Aliases: XK97_RS16085, XK97_16080
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 78451990
+
+6. phnH
+phosphonate C-P lyase system protein PhnH [Phaeobacter italicus]
+Other Aliases: KUV39_RS05430, KUV39_05430
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 78397150
+
+7. phnH
+phosphonate C-P lyase system protein PhnH [Ewingella americana]
+Other Aliases: F4W05_RS11975, F4W05_11975
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 78381188
+
+8. phnH
+phosphonate C-P lyase system protein PhnH [Gordonibacter pamelaeae]
+Other Aliases: C1877_RS01715, C1877_01715
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 78358431
+
+9. phnH
+phosphonate C-P lyase system protein PhnH [Achromobacter spanius]
+Other Aliases: EL258_RS04325, NCTC13519_00875
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 78279416
+
+10. phnH
+phosphonate C-P lyase system protein PhnH [Kalamiella piersonii]
+Other Aliases: D7S44_RS07430, D7S44_07415
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 78233286
+
+11. phnH
+phosphonate C-P lyase system protein PhnH [Anaerotignum lactatifermentans]
+Other Aliases: INF29_RS06115, INF29_06115
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 78176499
+
+12. BMF81_RS15415
+phosphonate C-P lyase system protein PhnH [Nodularia spumigena UHCC 0039]
+Other Aliases: BMF81_RS15415
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 78018309
+
+13. phnH
+phosphonate C-P lyase system protein PhnH [Salinicoccus roseus]
+Other Aliases: SN16_RS11750, SN16_11760
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 77846217
+
+14. phnH
+phosphonate C-P lyase system protein PhnH [Kosakonia cowanii]
+Other Aliases: ODS25_RS20040
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 77485558
+
+15. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia enterocolitica]
+Other Aliases: N4222_RS17825, N4222_17825
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 77329705
+
+16. phnH
+phosphonate C-P lyase system protein PhnH [Verminephrobacter aporrectodeae subsp. tuberculatae]
+Other Aliases: D5041_RS19585, D5041_19240
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 77323157
+
+17. phnH
+phosphonate C-P lyase system protein PhnH [Serratia bockelmannii]
+Other Aliases: OM395_RS14655, OM395_14655
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 77284131
+
+18. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas syringae]
+Other Aliases: KIJ28_RS10570, KIJ28_10570
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 77278092
+
+19. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas paraeruginosa]
+Other Aliases: B7D75_RS08100, B7D75_08100
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 77220105
+
+20. phnH
+phosphonate C-P lyase system protein PhnH [Paraburkholderia aspalathi]
+Other Aliases: KHO30_RS07145, R20943_01450
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 77193634
+
+21. phnH
+phosphonate C-P lyase system protein PhnH [Halomonas venusta]
+Other Aliases: JDS37_RS02160, JDS37_02160
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 77013923
+
+22. phnH
+phosphonate C-P lyase system protein PhnH [Mycobacterium montefiorense]
+Other Aliases: DB708_RS10075, MmonteBS_20190
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 76050697
+
+23. phnH
+phosphonate C-P lyase system protein PhnH [Serratia grimesii]
+Other Aliases: SGBXF1_RS02330, SGBXF1_00465
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 75280260
+
+24. phnH
+phosphonate C-P lyase system protein PhnH [Achromobacter xylosoxidans]
+Other Aliases: I6I48_RS30020, I6I48_30015
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75278756
+
+25. phnH
+phosphonate C-P lyase system protein PhnH [Macrococcus canis]
+Other Aliases: L2Z53_RS02530, L2Z53_02530
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 75265977
+
+26. phnH
+phosphonate C-P lyase system protein PhnH [Rhizobium anhuiense bv. trifolii]
+Other Aliases: NE851_RS10885, NE851_10875
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75218000
+
+27. I6G34_RS20625
+phosphonate C-P lyase system protein PhnH [Stutzerimonas frequens]
+Other Aliases: I6G34_RS20625, I6G34_20625
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75215751
+
+28. phnH
+phosphonate C-P lyase system protein PhnH [Stutzerimonas frequens]
+Other Aliases: I6G34_RS04445, I6G34_04445
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75212533
+
+29. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia alsatica]
+Other Aliases: N0H69_RS02485, N0H69_02485
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75138830
+
+30. phnH
+phosphonate C-P lyase system protein PhnH [Laribacter hongkongensis DSM 14985]
+Other Aliases: G542_RS0109580
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75109738
+
+31. phnH
+phosphonate C-P lyase system protein PhnH [Cupriavidus pauculus]
+Other Aliases: LDZ25_RS03585
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 75096757
+
+32. phnH
+phosphonate C-P lyase system protein PhnH [Serratia ficaria]
+Other Aliases: CKW09_RS02740, SAMEA4384070_00545
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 75025734
+
+33. phnH
+phosphonate C-P lyase system protein PhnH [Serratia entomophila]
+Other Aliases: KHA73_RS02045, KHA73_02045
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 75020686
+
+34. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas tremae]
+Other Aliases: I9H09_RS14410, I9H09_14375
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 73736046
+
+35. phnH
+phosphonate C-P lyase system protein PhnH [Stutzerimonas kunmingensis]
+Other Aliases: LW136_RS00465, LW136_00465
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 73728707
+
+36. phnH
+phosphonate C-P lyase system protein PhnH [Enterobacter mori]
+Other Aliases: L6Y89_RS01605, L6Y89_01605
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 72512933
+
+37. phnH
+phosphonate C-P lyase system protein PhnH [Achromobacter insuavis]
+Other Aliases: H0522_RS07550, LMG26846_01501
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 71017360
+
+38. phnH
+phosphonate C-P lyase system protein PhnH [Cupriavidus gilardii]
+Other Aliases: FOB47_RS05075, FOB47_05075
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 70687683
+
+39. phnH
+phosphonate C-P lyase system protein PhnH [Faecalicatena contorta]
+Other Aliases: FY488_RS15500
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 70045504
+
+40. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas savastanoi]
+Other Aliases: KP808_RS10520, KP808_10490
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69859163
+
+41. phnH
+phosphonate C-P lyase system protein PhnH [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24415, LGM30_24460
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69757614
+
+42. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia bercovieri]
+Other Aliases: LH409_RS06970, LH409_06970
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69737717
+
+43. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia proxima]
+Other Aliases: FTB57_RS11600
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69701143
+
+44. phnH
+phosphonate C-P lyase system protein PhnH [Lysinibacillus sphaericus]
+Other Aliases: EYB33_RS13585, EYB33_13555
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69661531
+
+45. phnH
+phosphonate C-P lyase system protein PhnH [Hafnia paralvei]
+Other Aliases: K9N75_RS03020, K9N75_03020
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69636977
+
+46. phnH
+phosphonate C-P lyase system protein PhnH [Citrobacter farmeri]
+Other Aliases: EGK65_RS21050, EGK65_21075
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69619703
+
+47. phnH
+phosphonate C-P lyase system protein PhnH [Eggerthella lenta]
+Other Aliases: LUA64_RS01085
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 69509700
+
+48. phnH
+phosphonate C-P lyase system protein PhnH [Clostridium neonatale]
+Other Aliases: CNEONATNEC86_RS01815, CNEONATNEC86_00354
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 68875660
+
+49. phnH
+phosphonate C-P lyase system protein PhnH [Pseudosulfitobacter pseudonitzschiae]
+Other Aliases: HT745_RS05985, HT745_05985
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 68869231
+
+50. phnH
+phosphonate C-P lyase system protein PhnH [Chromobacterium vaccinii]
+Other Aliases: BKX93_RS22460, BKX93_22460
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 68843962
+
+
+1. phnH
+phosphonate C-P lyase system protein PhnH [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS19350, I2D83_19345
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 67795701
+
+2. phnH
+phosphonate C-P lyase system protein PhnH [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS17535, I2D83_17530
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 67795338
+
+3. phnH
+phosphonate C-P lyase system protein PhnH [Cylindrospermopsis raciborskii N8]
+Other Aliases: J9B92_RS14860
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 67521249
+
+4. phnH
+phosphonate C-P lyase system protein PhnH [Rhizobium laguerreae]
+Other Aliases: HFO71_RS20175, HFO71_20350
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 67486231
+
+5. phnH
+phosphonate C-P lyase system protein PhnH [Erwinia persicina]
+Other Aliases: K6L24_RS08395, K6L24_08395
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 67476239
+
+6. phnH
+phosphonate C-P lyase system protein PhnH [Pantoea dispersa]
+Other Aliases: K7H94_RS07335, K7H94_07335
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 67451424
+
+7. phnH
+phosphonate C-P lyase system protein PhnH [Variovorax paradoxus NBRC 15149]
+Other Aliases: VPA02S_RS18935
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 67428389
+
+8. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia ruckeri]
+Other Aliases: YR821_RS02135, YR821_0432
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66878250
+
+9. phnH
+phosphonate C-P lyase system protein PhnH [Virgibacillus pantothenticus]
+Other Aliases: KBP50_RS21030, KBP50_21030
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66872947
+
+10. phnH
+phosphonate C-P lyase system protein PhnH [Pantoea agglomerans]
+Other Aliases: I6L77_RS09745, I6L77_09745
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66825459
+
+11. phnH
+phosphonate C-P lyase system protein PhnH [Pectobacterium parmentieri]
+Other Aliases: C5E18_RS02990, C5E18_03005
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66800866
+
+12. phnH
+phosphonate C-P lyase system protein PhnH [Serratia marcescens]
+Other Aliases: C7M65_RS20505, C7M65_20480
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66716533
+
+13. phnH
+phosphonate C-P lyase system protein PhnH [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS08360, R7A2020_08360
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66681976
+
+14. phnH
+phosphonate C-P lyase system protein PhnH [Dickeya solani]
+Other Aliases: BJJ98_RS04460, BJJ98_04280
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66641896
+
+15. phnH
+phosphonate C-P lyase system protein PhnH [Klebsiella aerogenes]
+Other Aliases: FPV33_RS23150, FPV33_23150
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66605942
+
+16. phnH
+phosphonate C-P lyase system protein PhnH [Dickeya fangzhongdai]
+Other Aliases: CVE23_RS08320, CVE23_08320
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66564339
+
+17. phnH
+phosphonate C-P lyase system protein PhnH [Paraburkholderia fungorum]
+Other Aliases: OI25_RS37705, OI25_6535
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 2
+ID: 66520300
+
+18. phnH
+phosphonate C-P lyase system protein PhnH [Mameliella alba]
+Other Aliases: CDZ96_RS16940, CDZ96_16940
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66502262
+
+19. phnH
+phosphonate C-P lyase system protein PhnH [Bradyrhizobium canariense]
+Other Aliases: FXB41_RS16405, FXB41_16780
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66478934
+
+20. phnH
+phosphonate C-P lyase system protein PhnH [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS36780, BE61_75180
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66429142
+
+21. phnH
+phosphonate C-P lyase system protein PhnH [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS00965, BE61_02030
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66422001
+
+22. phnH
+phosphonate C-P lyase system protein PhnH [Lelliottia amnigena]
+Other Aliases: I6L75_RS21295, I6L75_21285
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66412827
+
+23. phnH
+phosphonate C-P lyase system protein PhnH [Agrobacterium rhizogenes]
+Other Aliases: EML492_RS18670, EML492_18670
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 1
+ID: 66386830
+
+24. phnH
+phosphonate C-P lyase system protein PhnH [Chromobacterium violaceum]
+Other Aliases: I6K03_RS15520, I6K03_15520
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66367516
+
+25. phnH
+phosphonate C-P lyase system protein PhnH [Clostridioides difficile]
+Other Aliases: KNZ77_RS17795, KNZ77_17795
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66355997
+
+26. phnH
+phosphonate C-P lyase system protein PhnH [Citrobacter amalonaticus]
+Other Aliases: AL524_RS30820, AL524_05360
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66235760
+
+27. phnH
+phosphonate C-P lyase system protein PhnH [Agrobacterium fabrum]
+Other Aliases: At1D132_RS14055, At1D132_26760
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: circular
+ID: 66223188
+
+28. phnH
+phosphonate C-P lyase system protein PhnH [Rhizobium bangladeshense]
+Other Aliases: J2J98_RS00845, J2J98_00845
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66144356
+
+29. phnH
+phosphonate C-P lyase system protein PhnH [Rhizobium lentis]
+Other Aliases: J0663_RS09515, J0663_09515
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 66139872
+
+30. phnH
+phosphonate C-P lyase system protein PhnH [Pantoea allii]
+Other Aliases: C7431_RS13105, C7431_10547
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 65791382
+
+31. phnH
+phosphonate C-P lyase system protein PhnH [Cytobacillus oceanisediminis]
+Other Aliases: IQ19_RS02520, IQ19_00502
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 65401789
+
+32. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas congelans]
+Other Aliases: BLR20_RS02265, SAMN05216596_101450
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 65073709
+
+33. phnH
+phosphonate C-P lyase system protein PhnH [Serratia ureilytica]
+Other Aliases: J0X03_RS21645, J0X03_21645
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 64310241
+
+34. phnH
+phosphonate C-P lyase system protein PhnH [Serratia liquefaciens]
+Other Aliases: F0336_RS02100, F0336_02100
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 64204922
+
+35. phnH
+phosphonate C-P lyase system protein PhnH [Vibrio mediterranei]
+Other Aliases: HOP38_RS25505, HOP38_25505
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: II
+ID: 64089629
+
+36. phnH
+phosphonate C-P lyase system protein PhnH [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06040, Bdiaspc4_06030
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 64021090
+
+37. phnH
+phosphonate C-P lyase system protein PhnH [Sulfitobacter geojensis]
+Other Aliases: JQV57_RS12405, JQV57_12395
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 63943874
+
+38. phnH
+phosphonate C-P lyase system protein PhnH [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04450, HMPREF9452_00891
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 62758637
+
+39. phnH
+phosphonate C-P lyase system protein PhnH [Marivita cryptomonadis]
+Other Aliases: MCRY_RS08035, MCRY_08035
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 62640714
+
+40. phnH
+phosphonate C-P lyase system protein PhnH [Marivita cryptomonadis]
+Other Aliases: MCRY_RS06515, MCRY_06520
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 62640414
+
+41. phnH
+phosphonate C-P lyase system protein PhnH [Vibrio coralliirubri]
+Other Aliases: ED654_RS22515
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 62576095
+
+42. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia kristensenii]
+Other Aliases: DX162_RS03575, NCTC11471_00710
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61905440
+
+43. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia aleksiciae]
+Other Aliases: AP371_RS03255, ERS008671_00677
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61901219
+
+44. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia massiliensis CCUG 53443]
+Other Aliases: BN68_RS11220, BN68_11470
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61815898
+
+45. phnH
+phosphonate C-P lyase system protein PhnH [Serratia rubidaea]
+Other Aliases: I6G83_RS09205, I6G83_09205
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61763947
+
+46. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas fluorescens]
+Other Aliases: CPH89_RS20035, SAMN04488487_4120
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: I
+ID: 61637955
+
+47. phnH
+phosphonate C-P lyase system protein PhnH [Agrobacterium pusense]
+Other Aliases: HQN82_RS12935, HQN82_12935
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: R76C1
+ID: 61456251
+
+48. phnH
+phosphonate C-P lyase system protein PhnH [Rhizobium leguminosarum]
+Other Aliases: ELH04_RS23055, ELH04_23055
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61426387
+
+49. phnH
+phosphonate C-P lyase system protein PhnH [Pectobacterium polaris]
+Other Aliases: BJK05_RS22150, BJK05_21490
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61411267
+
+50. phnH
+phosphonate C-P lyase system protein PhnH [Pectobacterium polaris]
+Other Aliases: BJK05_RS20055, BJK05_19435
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61410855
+
+
+1. phnH
+phosphonate C-P lyase system protein PhnH [Brucella anthropi]
+Other Aliases: IR196_RS15295, IR196_15295
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: 2
+ID: 61317353
+
+2. phnH
+phosphonate C-P lyase system protein PhnH [Paraburkholderia tropica]
+Other Aliases: G5S35_RS20175, G5S35_20125
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: B
+ID: 61304856
+
+3. phnH
+phosphonate C-P lyase system protein PhnH [Pantoea stewartii]
+Other Aliases: G5574_RS04685, G5574_04685
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61251604
+
+4. phnH
+phosphonate C-P lyase system protein PhnH [Lonsdalea populi]
+Other Aliases: I6N93_RS15670, I6N93_15670
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61123575
+
+5. phnH
+phosphonate C-P lyase system protein PhnH [Mesorhizobium loti]
+Other Aliases: C8D77_RS00710, C8D77_101142
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 61049500
+
+6. phnH
+phosphonate C-P lyase system protein PhnH [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19025
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 60945989
+
+7. phnH
+phosphonate C-P lyase system protein PhnH [Agrobacterium tumefaciens]
+Other Aliases: At12D1_RS14410, At12D1_27520
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: circular
+ID: 60890123
+
+8. phnH
+phosphonate C-P lyase system protein PhnH [Dickeya zeae]
+Other Aliases: C1O30_RS07895, C1O30_07895
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 60867826
+
+9. phnH
+phosphonate C-P lyase system protein PhnH [Cupriavidus metallidurans]
+Other Aliases: NDB4MOL1_RS24720, NDB4MOL1_04927
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 60825251
+
+10. phnH
+phosphonate C-P lyase system protein PhnH [Acidithiobacillus thiooxidans ATCC 19377]
+Other Aliases: GCD22_RS06390, GCD22_01328
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 60695702
+
+11. phnH
+phosphonate C-P lyase system protein PhnH [Agrobacterium vitis]
+Other Aliases: ASB66_RS05655, ASB66_005655
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 60681177
+
+12. phnH
+phosphonate C-P lyase system protein PhnH [Pantoea vagans]
+Other Aliases: EGO56_RS07295, EGO56_07295
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 58737600
+
+13. phnH
+phosphonate C-P lyase system protein PhnH [Chromobacterium haemolyticum]
+Other Aliases: GYH29_RS15600, CH06BL_30960
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 58560820
+
+14. phnH
+phosphonate C-P lyase system protein PhnH [Enhydrobacter aerosaccus]
+Other Aliases: B5D62_RS22975, SAMN02745126_04622
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 58130363
+
+15. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia intermedia]
+Other Aliases: FOC38_RS19085, FOC38_19085
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 58049074
+
+16. F2P57_RS04360
+phosphonate C-P lyase system protein PhnH [[Clostridium] symbiosum]
+Other Aliases: F2P57_RS04360, F2P57_04360
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 57967788
+
+17. phnH
+phosphonate C-P lyase system protein PhnH [Yersinia mollaretii ATCC 43969]
+Other Aliases: HRD69_RS08190, HRD69_08190
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 57917759
+
+18. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas gingeri]
+Other Aliases: HX881_RS29215, HX881_29215
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 57664124
+
+19. phnH
+phosphonate C-P lyase system protein PhnH [Raoultella terrigena]
+Other Aliases: HCK03_RS24340, HCK03_24335
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 57507109
+
+20. phnH
+phosphonate C-P lyase system protein PhnH [Ruegeria arenilitoris]
+Other Aliases: GOW72_RS03790
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 57465671
+
+21. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas azotoformans]
+Other Aliases: BLR69_RS30370, SAMN04489799_6198
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: I
+ID: 57378566
+
+22. phnH
+phosphonate C-P lyase system protein PhnH [Pectobacterium versatile]
+Other Aliases: SCC1_RS17190, SCC1_3407
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 57315591
+
+23. phnH
+phosphonate C-P lyase system protein PhnH [Brucella intermedia]
+Other Aliases: DX510_RS15635, NCTC12171_03136
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 57307087
+
+24. phnH
+phosphonate C-P lyase system protein PhnH [Phaeobacter inhibens]
+Other Aliases: PhaeoP54_RS01950, PhaeoP54_00396
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 57287260
+
+25. phnH
+phosphonate C-P lyase system protein PhnH [Pectobacterium atrosepticum]
+Other Aliases: GZ59_RS02460, GZ59_05070
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 57207340
+
+26. phnH
+phosphonate C-P lyase system protein PhnH [Gordonibacter urolithinfaciens]
+Other Aliases: B5F44_RS11565, B5F44_11570
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 56996535
+
+27. phnH
+phosphonate C-P lyase system protein PhnH [Hafnia alvei]
+Other Aliases: HBA19_RS02775, HBA19_02775
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 56890335
+
+28. phnH
+phosphonate C-P lyase system protein PhnH [Bordetella hinzii]
+Other Aliases: CBR68_RS00600, CBR68_00600
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 56618628
+
+29. phnH
+phosphonate C-P lyase system protein PhnH [Peribacillus simplex NBRC 15720 = DSM 1321]
+Other Aliases: BS1321_RS19275, BS1321_18975
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 56474852
+
+30. phnH
+phosphonate C-P lyase system protein PhnH [Achromobacter insolitus]
+Other Aliases: E2544_RS07305, E2544_07310
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 56311148
+
+31. phnH
+phosphonate C-P lyase system protein PhnH [Achromobacter denitrificans]
+Other Aliases: FOC82_RS15770, FOC82_15770
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 56280391
+
+32. phnH
+phosphonate C-P lyase system protein PhnH [Achromobacter ruhlandii]
+Other Aliases: AruCF_RS19705, AruCF_3931
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 55561958
+
+33. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas proteolytica]
+Other Aliases: BLW35_RS15515, SAMN04490200_3110
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 55540223
+
+34. phnH
+phosphonate C-P lyase system protein PhnH [Ruegeria atlantica]
+Other Aliases: RUA4292_RS21310, RUA4292_04293
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 55495419
+
+35. phnH
+phosphonate C-P lyase system protein PhnH [Paracoccus pantotrophus]
+Other Aliases: ESD82_RS09465, ESD82_09465
+Other Designations: phosphonate C-P lyase system protein PhnH
+Genomic context: Plasmid pPAN2
+ID: 51370794
+
+36. phnH
+phosphonate C-P lyase system protein PhnH [Phascolarctobacterium faecium]
+Other Aliases: PFJ30894_RS01650, PFJ30894_00329
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 49406019
+
+37. phnH
+phosphonate C-P lyase system protein PhnH [Dickeya dianthicola]
+Other Aliases: DZA65_RS07960, DZA65_01545
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 49321463
+
+38. phnH
+phosphonate C-P lyase system protein PhnH [Sinorhizobium fredii CCBAU 25509]
+Other Aliases: AOX55_RS28970, AOX55_00006399
+Other Designations: phosphonate C-P lyase system protein PhnH
+Genomic context: Plasmid pSF25509b
+ID: 48976976
+
+39. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas viridiflava]
+Other Aliases: CFBP1590_RS15625, CFBP1590__3164
+Other Designations: phosphonate C-P lyase system protein PhnH
+Chromosome: I
+ID: 47764816
+
+40. phnH
+phosphonate C-P lyase system protein PhnH [Pandoraea apista]
+Other Aliases: AT395_RS22140, AT395_13050
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 47016521
+
+41. phnH
+phosphonate C-P lyase system protein PhnH [Rhizobium phaseoli]
+Other Aliases: AMC88_RS01055, AMC88_CH00214
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 45955590
+
+42. phnH
+phosphonate C-P lyase system protein PhnH [Holdemania massiliensis AP2]
+Other Aliases: BN162_RS05330, BN162_05430
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 42455906
+
+43. phnH
+phosphonate C-P lyase system protein PhnH [Phaeobacter gallaeciensis DSM 26640]
+Other Aliases: GAL_RS15040, Gal_03077
+Other Designations: phosphonate C-P lyase system protein PhnH
+Annotation:  NC_023137.1 (3123248..3123844, complement)
+ID: 31847436
+
+44. phnH
+phosphonate C-P lyase system protein PhnH [Pseudomonas lurida]
+Other Aliases: A7318_RS07890, A7318_07885
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 31709930
+
+45. phnH
+phosphonate C-P lyase system protein PhnH [Leclercia adecarboxylata]
+Other Aliases: APT61_RS20670, APT61_20670
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 30334358
+
+46. phnH
+phosphonate C-P lyase system protein PhnH [Serratia fonticola]
+Other Aliases: WN53_RS10770, WN53_10770
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 30320649
+
+47. phnH
+phosphonate C-P lyase system protein PhnH [Ensifer adhaerens]
+Other Aliases: FA04_RS25330, FA04_25300
+Other Designations: phosphonate C-P lyase system protein PhnH
+Genomic context: Plasmid pCasidaAA
+ID: 29521580
+
+48. phnH
+phosphonate C-P lyase system protein PhnH [Tritonibacter mobilis F1926]
+Other Aliases: K529_RS17150, K529_017145
+Other Designations: phosphonate C-P lyase system protein PhnH
+Genomic context: Plasmid unnamed1
+ID: 28251596
+
+49. KPHS_03410
+carbon-phosphorus lyase complex subunit [Klebsiella pneumoniae subsp. pneumoniae HS11286]
+Other Aliases: KPHS_03410
+Other Designations: carbon-phosphorus lyase complex subunit
+Annotation:  NC_016845.1 (381147..381731, complement)
+ID: 11845328
+
+50. MPLDJ20_RS20915
+phosphonate C-P lyase system protein PhnH [Mesorhizobium plurifarium]
+Other Aliases: MPLDJ20_RS20915, MPLDJ20_250032
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 31891543
+
+
+1. phnH
+phosphonate C-P lyase system protein PhnH [Sulfitobacter pontiacus 3SOLIMAR09]
+Other Aliases: PM01_RS07400, PM01_07500
+Other Designations: phosphonate C-P lyase system protein PhnH
+ID: 82208160
+

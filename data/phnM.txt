@@ -1,0 +1,1729 @@
+
+1. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia proteamaculans]
+Other Aliases: QOT07_RS02115
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: EBP3064_c1
+ID: 83697235
+
+2. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter bugandensis]
+Other Aliases: K9O83_RS01755, K9O83_01760
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 83673149
+
+3. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Citrobacter youngae]
+Other Aliases: QRZ63_RS01380, QRZ63_01380
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 83644655
+
+4. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter cloacae]
+Other Aliases: LQ108_RS01705, AI2999V1_0335
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: main
+ID: 83571653
+
+5. phnM
+RPnTP hydrolase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4095, ECK4088
+Other Designations: RPnTP hydrolase
+Annotation:  NC_000913.3 (4316082..4317218, complement)
+ID: 948613
+
+6. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02360, SerAS9_0458
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_015567.1 (505467..506603, complement)
+ID: 57665278
+
+7. KNZ77_RS17770
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Clostridioides difficile]
+Other Aliases: KNZ77_RS17770, KNZ77_17770
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66355992
+
+8. DP58_RS11045
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Burkholderia pseudomallei]
+Other Aliases: DP58_RS11045, DP58_2159
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 56528347
+
+9. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Klebsiella variicola]
+Other Aliases: GFC07_RS16115, GFC07_16115
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69734176
+
+10. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter kobei]
+Other Aliases: P827_RS02190, P827_04105
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69608617
+
+11. At12D1_RS14350
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Agrobacterium tumefaciens]
+Other Aliases: At12D1_RS14350, At12D1_27400
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: circular
+ID: 60890112
+
+12. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter ludwigii]
+Other Aliases: BH714_RS19300, BH714_19300
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 45817692
+
+13. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10980, BZ17_2053
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66843072
+
+14. C2L64_RS21360
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Paraburkholderia hospita]
+Other Aliases: C2L64_RS21360, C2L64_21360
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 2
+ID: 55530864
+
+15. BR_RS03965
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Brucella suis 1330]
+Other Aliases: BR_RS03965, BR0860
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: I
+Annotation: Chromosome I NC_004310.3 (833852..834991)
+ID: 45051924
+
+16. BME_RS05545
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Brucella melitensis bv. 1 str. 16M]
+Other Aliases: BME_RS05545, BMEI1106
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: I
+Annotation: Chromosome I NC_003317.1 (1150660..1151799, complement)
+ID: 29593941
+
+17. LUA64_RS01105
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Eggerthella lenta]
+Other Aliases: LUA64_RS01105
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69509704
+
+18. FE661_RS10295
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10295, FE661_10325
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66433036
+
+19. RCAP_RS06005
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS06005, RCAP_rcc01202
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_014034.1 (1272150..1273292)
+ID: 31490114
+
+20. BAB_RS20125
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Brucella abortus 2308]
+Other Aliases: BAB_RS20125, BAB1_0879
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: I
+Annotation: Chromosome I NC_007618.1 (851818..852957)
+ID: 3788854
+
+21. POR16_RS10640
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10640, POR16_10640
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 72392830
+
+22. K2Z90_RS36975
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36975, K2Z90_007352
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69895252
+
+23. HXT67_RS41095
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41095
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 64073670
+
+24. HXT67_RS41025
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41025
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 64073656
+
+25. SM2011_RS10815
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS10815, SM2011_b21171
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (917434..918573, complement)
+ID: 61600813
+
+26. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02580, Rahaq2_0537
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_016818.1 (544936..546072, complement)
+ID: 61510676
+
+27. E6A55_RS25710
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25710, E6A55_25690
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 2
+ID: 57647186
+
+28. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08410, PAGR_g1636
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_017554.1 (1794553..1795689)
+ID: 57267710
+
+29. NW91_RS00635
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Burkholderia mallei]
+Other Aliases: NW91_RS00635, NW91_00530
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 56593734
+
+30. TH3_RS01105
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01105, TH3_01070
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 31925921
+
+31. RALTA_RS21335
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS21335, RALTA_B1185
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (1240593..1241810, complement)
+ID: 29763940
+
+32. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07630, Dda3937_04094
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_014500.1 (1720054..1721223)
+ID: 9733031
+
+33. PSPTO_RS13275
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13275, PSPTO2565, PSPTO_2565
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_004578.1 (2831880..2833025)
+ID: 1184217
+
+34. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia pestis A1122]
+Other Aliases: A1122_RS08680, A1122_08585
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_017168.1 (1888370..1889506, complement)
+ID: 57975249
+
+35. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19120, EGY21_19080
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69796097
+
+36. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Citrobacter freundii]
+Other Aliases: EGX89_RS15840, EGX89_15860
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 60897998
+
+37. BG90_RS21110
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Burkholderia oklahomensis C6786]
+Other Aliases: BG90_RS21110, BG90_4220
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: II
+ID: 60550341
+
+38. BG90_RS21070
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Burkholderia oklahomensis C6786]
+Other Aliases: BG90_RS21070, BG90_4212
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: II
+ID: 60550333
+
+39. HMPREF0179_RS02125
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Bilophila wadsworthia 3_1_6]
+Other Aliases: HMPREF0179_RS02125, HMPREF0179_03122
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 78084489
+
+40. phnM
+phosphonate metabolism protein PhnM [Nodularia spumigena UHCC 0039]
+Other Aliases: BMF81_RS02475, BMF81_00479
+Other Designations: phosphonate metabolism protein PhnM
+ID: 78015878
+
+41. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia enterocolitica]
+Other Aliases: N4222_RS17850, N4222_17850
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 77329710
+
+42. B7D75_RS08125
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas paraeruginosa]
+Other Aliases: B7D75_RS08125, B7D75_08125
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 77220110
+
+43. FOB66_RS19905
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Roseomonas mucosa]
+Other Aliases: FOB66_RS19905, FOB66_19905
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 4
+ID: 76529117
+
+44. PDEN_RS23765
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Paracoccus denitrificans PD1222]
+Other Aliases: PDEN_RS23765, Pden_4774
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Genomic context: Plasmid 1
+Annotation:  NC_008688.1 (271895..273037, complement)
+ID: 75504132
+
+45. PDEN_RS22020
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Paracoccus denitrificans PD1222]
+Other Aliases: PDEN_RS22020, Pden_4421
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 2
+Annotation: Chromosome 2 NC_008687.1 (1623017..1624159)
+ID: 75503800
+
+46. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Shigella boydii]
+Other Aliases: CEH00_RS06975, CEH00_07025
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75203246
+
+47. G542_RS0109605
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Laribacter hongkongensis DSM 14985]
+Other Aliases: G542_RS0109605
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75109743
+
+48. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia quinivorans]
+Other Aliases: EL336_RS02100, NCTC13188_00420
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 74948673
+
+49. I9H09_RS14385
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas tremae]
+Other Aliases: I9H09_RS14385, I9H09_14350
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 73736041
+
+50. phnM
+phosphonate metabolism protein PhnM [Virgibacillus halodenitrificans]
+Other Aliases: BME96_RS18355, BME96_18185
+Other Designations: phosphonate metabolism protein PhnM
+ID: 71516343
+
+
+1. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24625, NCTC9164_04926
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69887423
+
+2. SIAM614_RS27835
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS27835, SIAM614_16782
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 68849710
+
+3. SIAM614_RS23255
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS23255, SIAM614_26461
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 68848887
+
+4. phnM
+phosphonate metabolism protein PhnM [Cylindrospermopsis raciborskii N8]
+Other Aliases: J9B92_RS14820
+Other Designations: phosphonate metabolism protein PhnM
+ID: 67521241
+
+5. I8G32_RS03595
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhodopseudomonas palustris]
+Other Aliases: I8G32_RS03595, I8G32_00718
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66891717
+
+6. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Shigella sonnei]
+Other Aliases: HUX90_RS07445, HUX90_07445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66671994
+
+7. FXB41_RS16380
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Bradyrhizobium canariense]
+Other Aliases: FXB41_RS16380, FXB41_16755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66478929
+
+8. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Citrobacter braakii]
+Other Aliases: GFC06_RS02625, GFC06_02625
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66271801
+
+9. At1D132_RS14000
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Agrobacterium fabrum]
+Other Aliases: At1D132_RS14000, At1D132_26640
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: circular
+ID: 66223177
+
+10. BLR20_RS02290
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas congelans]
+Other Aliases: BLR20_RS02290, SAMN05216596_101455
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 65073714
+
+11. JGS08_RS15265
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas cannabina pv. alisalensis]
+Other Aliases: JGS08_RS15265, JGS08_15265
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 64466219
+
+12. Bdiaspc4_RS41950
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS41950, Bdiaspc4_42045
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 64027697
+
+13. Bdiaspc4_RS06065
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06065, Bdiaspc4_06055
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 64021095
+
+14. HMPREF9452_RS04430
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04430, HMPREF9452_00887
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 62758633
+
+15. phnM
+phosphonate metabolism protein PhnM [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15765, G4D54_15765
+Other Designations: phosphonate metabolism protein PhnM
+ID: 61927024
+
+16. PSYTB_RS12050
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas amygdali pv. tabaci str. ATCC 11528]
+Other Aliases: PSYTB_RS12050, PSYTB_12055
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61869644
+
+17. BN5_RS07420
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07420, BN5_1520
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: I
+ID: 61799263
+
+18. FB009_RS23210
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Sinorhizobium medicae]
+Other Aliases: FB009_RS23210, FB009_11584
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61613462
+
+19. FY486_RS05670
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Ralstonia pickettii]
+Other Aliases: FY486_RS05670
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61387892
+
+20. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Grimontia hollisae]
+Other Aliases: AL542_RS01260, AL542_01230
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 2
+ID: 58894497
+
+21. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pantoea vagans]
+Other Aliases: EGO56_RS07320, EGO56_07320
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 58737605
+
+22. DW68_RS14900
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas mendocina S5.2]
+Other Aliases: DW68_RS14900, DW68_014900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57607170
+
+23. DX510_RS15665
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Brucella intermedia]
+Other Aliases: DX510_RS15665, NCTC12171_03142
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57307093
+
+24. DX510_RS14960
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Brucella intermedia]
+Other Aliases: DX510_RS14960, NCTC12171_03000
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57306954
+
+25. ATI14_RS28840
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas tolaasii NCPPB 2192]
+Other Aliases: ATI14_RS28840, ATI14_6002
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 55849010
+
+26. BCAN_RS03975
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Brucella canis ATCC 23365]
+Other Aliases: BCAN_RS03975, BCAN_A0873
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: I
+Annotation: Chromosome I NC_010103.1 (832216..833355)
+ID: 55590566
+
+27. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Citrobacter koseri ATCC BAA-895]
+Other Aliases: CKO_RS16140, CKO_03775
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_009792.1 (3510446..3511582)
+ID: 45137463
+
+28. BOV_RS04240
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Brucella ovis ATCC 25840]
+Other Aliases: BOV_RS04240, BOV_0853
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: I
+Annotation: Chromosome I NC_009505.1 (859051..860190)
+ID: 45124287
+
+29. K529_RS10365
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Tritonibacter mobilis F1926]
+Other Aliases: K529_RS10365, K529_010365
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 28250239
+
+30. C770_RS29415
+phosphonate metabolism protein PhnM [Sinorhizobium meliloti GR4]
+Other Aliases: C770_RS29415, C770_GR4pD0739
+Genomic context: Plasmid pRmeGR4d
+Annotation:  NC_019849.1 (818998..820137)
+ID: 25013468
+
+31. phnM
+carbon-phosphorus lyase complex subunit PhnM [Escherichia coli O157:H7 str. Sakai]
+Other Aliases: ECs_5078
+Other Designations: carbon-phosphorus lyase complex subunit PhnM
+Annotation:  NC_002695.2 (5171064..5172200, complement)
+ID: 916538
+
+32. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pectobacterium parmentieri]
+Other Aliases: C5E18_RS03015, C5E18_03030
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66800871
+
+33. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia rochesterensis]
+Other Aliases: DXZ79_RS02770, DXZ79_02775
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 82549711
+
+34. PhaeoP54_RS11600
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Phaeobacter inhibens]
+Other Aliases: PhaeoP54_RS11600, PhaeoP54_02373
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57289170
+
+35. PhaeoP54_RS01990
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Phaeobacter inhibens]
+Other Aliases: PhaeoP54_RS01990, PhaeoP54_00404
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57287267
+
+36. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pectobacterium atrosepticum]
+Other Aliases: GZ59_RS02485, GZ59_05120
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57207345
+
+37. phnM
+phosphonate metabolism protein PhnM [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS30395, R7A2020_30395
+Other Designations: phosphonate metabolism protein PhnM
+ID: 66686353
+
+38. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23460, I8N75_23460
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 64297530
+
+39. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia ruckeri]
+Other Aliases: YR821_RS02110, YR821_0427
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66878245
+
+40. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25615, THOKLE011_50040
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66562185
+
+41. C1877_RS01735
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Gordonibacter pamelaeae]
+Other Aliases: C1877_RS01735, C1877_01735
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 78358435
+
+42. phnM
+phosphonate metabolism protein PhnM [Salinicoccus roseus]
+Other Aliases: SN16_RS11770, SN16_11780
+Other Designations: phosphonate metabolism protein PhnM
+ID: 77846221
+
+43. I6I48_RS30035
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter xylosoxidans]
+Other Aliases: I6I48_RS30035, I6I48_30030
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75278759
+
+44. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Dickeya solani]
+Other Aliases: BJJ98_RS04435, BJJ98_04255
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66641891
+
+45. AEQU_RS08515
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Adlercreutzia equolifaciens DSM 19450]
+Other Aliases: AEQU_RS08515, AEQU_1671
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_022567.1 (2137221..2138540, complement)
+ID: 62678261
+
+46. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia aleksiciae]
+Other Aliases: AP371_RS03280, ERS008671_00682
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61901224
+
+47. E2544_RS07330
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter insolitus]
+Other Aliases: E2544_RS07330, E2544_07335
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 56311153
+
+48. E2544_RS07290
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter insolitus]
+Other Aliases: E2544_RS07290, E2544_07295
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 56311145
+
+49. DB708_RS10095
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Mycobacterium montefiorense]
+Other Aliases: DB708_RS10095, MmonteBS_20230
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 76050701
+
+50. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01465, HUZ68_01450
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75169613
+
+
+1. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Citrobacter europaeus]
+Other Aliases: C3454_RS20925, C3454_21200
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 73801144
+
+2. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter sichuanensis]
+Other Aliases: C1N69_RS01730, C1N69_01745
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 72830229
+
+3. HT745_RS05955
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudosulfitobacter pseudonitzschiae]
+Other Aliases: HT745_RS05955, HT745_05955
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 68869225
+
+4. HT745_RS05105
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudosulfitobacter pseudonitzschiae]
+Other Aliases: HT745_RS05105, HT745_05105
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 68869055
+
+5. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter chengduensis]
+Other Aliases: FY206_RS01830, FY206_01830
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 63140365
+
+6. N010_RS0217305
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas avellanae]
+Other Aliases: N010_RS0217305
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61791255
+
+7. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pectobacterium polaris]
+Other Aliases: BJK05_RS22175, BJK05_21515
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61411272
+
+8. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pectobacterium polaris]
+Other Aliases: BJK05_RS20080, BJK05_19460
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61410860
+
+9. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06535, DJ58_1098
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57904662
+
+10. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pectobacterium versatile]
+Other Aliases: SCC1_RS17165, SCC1_3402
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57315586
+
+11. X636_RS02720
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pandoraea pnomenusa]
+Other Aliases: X636_RS02720, X636_13350
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_023018.2 (578429..579565, complement)
+ID: 57197091
+
+12. B5F44_RS11585
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Gordonibacter urolithinfaciens]
+Other Aliases: B5F44_RS11585, B5F44_11590
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 56996539
+
+13. I501_RS00520
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00520
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 56331949
+
+14. AK972_RS07930
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas yamanorum]
+Other Aliases: AK972_RS07930, AK972_1540
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 56070653
+
+15. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter roggenkampii]
+Other Aliases: BFV67_RS01730, BFV67_01730
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 45794044
+
+16. K788_RS28550
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Paraburkholderia caribensis MBA4]
+Other Aliases: K788_RS28550, K788_0000030
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 2
+ID: 69972602
+
+17. phnM
+phosphonate metabolism protein PhnM [Cytobacillus oceanisediminis]
+Other Aliases: IQ19_RS02500, IQ19_00498
+Other Designations: phosphonate metabolism protein PhnM
+ID: 65401785
+
+18. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Vibrio nigripulchritudo POn4]
+Other Aliases: VIBNIPON4_RS13755, VIBNIPon4_390102
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61875612
+
+19. G5S35_RS20200
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Paraburkholderia tropica]
+Other Aliases: G5S35_RS20200, G5S35_20150
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: B
+ID: 61304861
+
+20. RG540_RS21405
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Neorhizobium galegae bv. orientalis str. HAMBI 540]
+Other Aliases: RG540_RS21405, RG540_CH43230
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: I
+ID: 24258576
+
+21. KPHS_03360
+phosphonate metabolism protein PhnM [Klebsiella pneumoniae subsp. pneumoniae HS11286]
+Other Aliases: KPHS_03360
+Other Designations: phosphonate metabolism protein PhnM
+Annotation:  NC_016845.1 (376565..377701, complement)
+ID: 11845323
+
+22. OI25_RS37680
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Paraburkholderia fungorum]
+Other Aliases: OI25_RS37680, OI25_6530
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 2
+ID: 66520295
+
+23. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Klebsiella grimontii]
+Other Aliases: FN634_RS20290
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 64338769
+
+24. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia aldovae 670-83]
+Other Aliases: AT01_RS14725, AT01_2991
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 45572112
+
+25. PA3374
+hypothetical protein [Pseudomonas aeruginosa PAO1]
+Other Aliases: PA3374
+Other Designations: hypothetical protein
+Annotation:  NC_002516.2 (3781680..3782843, complement)
+ID: 877999
+
+26. O9X91_RS03075
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Agrobacterium salinitolerans]
+Other Aliases: O9X91_RS03075, O9X91_03075
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 79861597
+
+27. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia nevei]
+Other Aliases: F0338_RS01680
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 79508444
+
+28. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Obesumbacterium proteus]
+Other Aliases: XK97_RS16060, XK97_16055
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 78451985
+
+29. KUV39_RS07735
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Phaeobacter italicus]
+Other Aliases: KUV39_RS07735, KUV39_07735
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 78397610
+
+30. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Ewingella americana]
+Other Aliases: F4W05_RS12000, F4W05_12000
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 78381193
+
+31. EL258_RS04340
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter spanius]
+Other Aliases: EL258_RS04340, NCTC13519_00878
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 78279419
+
+32. EL258_RS04300
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter spanius]
+Other Aliases: EL258_RS04300, NCTC13519_00870
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 78279411
+
+33. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Kalamiella piersonii]
+Other Aliases: D7S44_RS07455, D7S44_07440
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 78233291
+
+34. phnM
+phosphonate metabolism protein PhnM [Anaerotignum lactatifermentans]
+Other Aliases: INF29_RS06135, INF29_06135
+Other Designations: phosphonate metabolism protein PhnM
+ID: 78176503
+
+35. BLV93_RS07085
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Lentibacter algarum]
+Other Aliases: BLV93_RS07085, SAMN05444486_102126
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 78124204
+
+36. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia bockelmannii]
+Other Aliases: OM395_RS14630, OM395_14630
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 77284126
+
+37. KIJ28_RS10595
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas syringae]
+Other Aliases: KIJ28_RS10595, KIJ28_10595
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 77278097
+
+38. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20600, KCG39_20600
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 77228399
+
+39. KHO30_RS07120
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Paraburkholderia aspalathi]
+Other Aliases: KHO30_RS07120, R20943_01445
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 77193629
+
+40. JDS37_RS02135
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Halomonas venusta]
+Other Aliases: JDS37_RS02135, JDS37_02135
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 77013918
+
+41. FOB66_RS10950
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Roseomonas mucosa]
+Other Aliases: FOB66_RS10950, FOB66_10950
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 4
+ID: 76527366
+
+42. VEIS_RS14420
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Verminephrobacter eiseniae EF01-2]
+Other Aliases: VEIS_RS14420, Veis_2963
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_008786.1 (3313952..3315106)
+ID: 76461440
+
+43. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter quasiroggenkampii]
+Other Aliases: EKO03_RS18770, EKO03_18770
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75416015
+
+44. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia grimesii]
+Other Aliases: SGBXF1_RS02305, SGBXF1_00460
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 75280255
+
+45. I6I48_RS29995
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter xylosoxidans]
+Other Aliases: I6I48_RS29995, I6I48_29990
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75278751
+
+46. phnM
+phosphonate metabolism protein PhnM [Macrococcus canis]
+Other Aliases: L2Z53_RS02550, L2Z53_02550
+Other Designations: phosphonate metabolism protein PhnM
+Chromosome: 1
+ID: 75265981
+
+47. NE851_RS17780
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhizobium anhuiense bv. trifolii]
+Other Aliases: NE851_RS17780, NE851_17755
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75219379
+
+48. NE851_RS10830
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhizobium anhuiense bv. trifolii]
+Other Aliases: NE851_RS10830, NE851_10820
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75217989
+
+49. I6G34_RS04470
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Stutzerimonas frequens]
+Other Aliases: I6G34_RS04470, I6G34_04470
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75212538
+
+50. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia alsatica]
+Other Aliases: N0H69_RS02460, N0H69_02460
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75138825
+
+
+1. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter asburiae]
+Other Aliases: FOY94_RS01690, EAS17NKHM_003240
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75131962
+
+2. LDZ25_RS03560
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Cupriavidus pauculus]
+Other Aliases: LDZ25_RS03560
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 75096752
+
+3. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia ficaria]
+Other Aliases: CKW09_RS02715, SAMEA4384070_00540
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 75025729
+
+4. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia entomophila]
+Other Aliases: KHA73_RS02020, KHA73_02020
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 75020681
+
+5. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter hormaechei]
+Other Aliases: I6L65_RS02400, I6L65_02400
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 72530879
+
+6. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter mori]
+Other Aliases: L6Y89_RS01580, L6Y89_01580
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 72512928
+
+7. JNX02_RS09630
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Sulfitobacter mediterraneus]
+Other Aliases: JNX02_RS09630, JNX02_09630
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 72438688
+
+8. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Raoultella planticola]
+Other Aliases: MNO12_RS13115, MNO12_13115
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 72407603
+
+9. H0522_RS07575
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter insuavis]
+Other Aliases: H0522_RS07575, LMG26846_01506
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 71017365
+
+10. H0522_RS07535
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter insuavis]
+Other Aliases: H0522_RS07535, LMG26846_01498
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 71017357
+
+11. FOB47_RS05050
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Cupriavidus gilardii]
+Other Aliases: FOB47_RS05050, FOB47_05050
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 70687678
+
+12. phnM
+phosphonate metabolism protein PhnM [Faecalicatena contorta]
+Other Aliases: FY488_RS15480
+Other Designations: phosphonate metabolism protein PhnM
+ID: 70045500
+
+13. KP808_RS10545
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas savastanoi]
+Other Aliases: KP808_RS10545, KP808_10515
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69859168
+
+14. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24445, LGM30_24490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69757620
+
+15. GbCGDNIH7_RS05820
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Granulibacter bethesdensis]
+Other Aliases: GbCGDNIH7_RS05820, GbCGDNIH7_1119
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69745387
+
+16. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia bercovieri]
+Other Aliases: LH409_RS06945, LH409_06945
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69737712
+
+17. phnM
+pseudo [Yersinia proxima]
+Other Aliases: FTB57_RS11575
+ID: 69701138
+
+18. phnM
+phosphonate metabolism protein PhnM [Lysinibacillus sphaericus]
+Other Aliases: EYB33_RS13565, EYB33_13535
+Other Designations: phosphonate metabolism protein PhnM
+ID: 69661527
+
+19. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Hafnia paralvei]
+Other Aliases: K9N75_RS02995, K9N75_02995
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69636972
+
+20. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Citrobacter farmeri]
+Other Aliases: EGK65_RS21075, EGK65_21100
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69619708
+
+21. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Citrobacter werkmanii]
+Other Aliases: FOB24_RS03530, FOB24_03530
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69484778
+
+22. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Citrobacter cronae]
+Other Aliases: JSN25_RS07195
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 69429390
+
+23. phnM
+phosphonate metabolism protein PhnM [Clostridium neonatale]
+Other Aliases: CNEONATNEC86_RS01835, CNEONATNEC86_00358
+Other Designations: phosphonate metabolism protein PhnM
+ID: 68875664
+
+24. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rouxiella badensis]
+Other Aliases: G3M83_RS00890, G3M83_00885
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 68684468
+
+25. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS19325, I2D83_19320
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 67795696
+
+26. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS17510, I2D83_17505
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 67795333
+
+27. HFO71_RS20230
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhizobium laguerreae]
+Other Aliases: HFO71_RS20230, HFO71_20405
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 67486242
+
+28. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Erwinia persicina]
+Other Aliases: K6L24_RS08420, K6L24_08420
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 67476244
+
+29. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pantoea dispersa]
+Other Aliases: K7H94_RS07360, K7H94_07360
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 67451429
+
+30. VPA02S_RS18910
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Variovorax paradoxus NBRC 15149]
+Other Aliases: VPA02S_RS18910
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 67428384
+
+31. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yokenella regensburgei]
+Other Aliases: C7387_RS15415, C7387_3119
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66905107
+
+32. I8G32_RS03525
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhodopseudomonas palustris]
+Other Aliases: I8G32_RS03525, I8G32_00704
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66891703
+
+33. phnM
+phosphonate metabolism protein PhnM [Virgibacillus pantothenticus]
+Other Aliases: KBP50_RS21010, KBP50_21010
+Other Designations: phosphonate metabolism protein PhnM
+ID: 66872943
+
+34. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pantoea agglomerans]
+Other Aliases: I6L77_RS09770, I6L77_09770
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66825464
+
+35. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia marcescens]
+Other Aliases: C7M65_RS20530, C7M65_20505
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66716538
+
+36. R7A2020_RS12355
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS12355, R7A2020_12355
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66682772
+
+37. R7A2020_RS02385
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS02385, R7A2020_02385
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66680789
+
+38. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterobacter cancerogenus]
+Other Aliases: K3T75_RS03005
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66610002
+
+39. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Klebsiella aerogenes]
+Other Aliases: FPV33_RS23175, FPV33_23175
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66605947
+
+40. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Dickeya fangzhongdai]
+Other Aliases: CVE23_RS08345, CVE23_08345
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66564344
+
+41. CDZ96_RS16955
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Mameliella alba]
+Other Aliases: CDZ96_RS16955, CDZ96_16955
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66502265
+
+42. CDZ96_RS16900
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Mameliella alba]
+Other Aliases: CDZ96_RS16900, CDZ96_16900
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66502254
+
+43. CDZ96_RS11785
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Mameliella alba]
+Other Aliases: CDZ96_RS11785, CDZ96_11785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66501247
+
+44. BE61_RS36755
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS36755, BE61_75130
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66429137
+
+45. BE61_RS00955
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS00955, BE61_02010
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66421999
+
+46. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Lelliottia amnigena]
+Other Aliases: I6L75_RS21320, I6L75_21310
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66412832
+
+47. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Kosakonia radicincitans]
+Other Aliases: FEI17_RS24710, FEI17_24700
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66394760
+
+48. EML492_RS18610
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Agrobacterium rhizogenes]
+Other Aliases: EML492_RS18610, EML492_18610
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 66386818
+
+49. I6K03_RS15495
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Chromobacterium violaceum]
+Other Aliases: I6K03_RS15495, I6K03_15495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66367511
+
+50. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Citrobacter amalonaticus]
+Other Aliases: AL524_RS30795, AL524_05335
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66235755
+
+
+1. J2J98_RS00790
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhizobium bangladeshense]
+Other Aliases: J2J98_RS00790, J2J98_00790
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66144345
+
+2. J0663_RS09460
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhizobium lentis]
+Other Aliases: J0663_RS09460, J0663_09460
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 66139861
+
+3. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pantoea allii]
+Other Aliases: C7431_RS13080, C7431_10542
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 65791377
+
+4. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia ureilytica]
+Other Aliases: J0X03_RS21670, J0X03_21670
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 64310246
+
+5. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia liquefaciens]
+Other Aliases: F0336_RS02075, F0336_02075
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 64204917
+
+6. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Vibrio mediterranei]
+Other Aliases: HOP38_RS25480, HOP38_25480
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: II
+ID: 64089624
+
+7. JQV57_RS13360
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Sulfitobacter geojensis]
+Other Aliases: JQV57_RS13360, JQV57_13350
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 63944065
+
+8. JQV57_RS12465
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Sulfitobacter geojensis]
+Other Aliases: JQV57_RS12465, JQV57_12455
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 63943886
+
+9. JQV57_RS12440
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Sulfitobacter geojensis]
+Other Aliases: JQV57_RS12440, JQV57_12430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 63943881
+
+10. MCRY_RS06590
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Marivita cryptomonadis]
+Other Aliases: MCRY_RS06590, MCRY_06595
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 62640428
+
+11. MCRY_RS06540
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Marivita cryptomonadis]
+Other Aliases: MCRY_RS06540, MCRY_06545
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 62640419
+
+12. MCRY_RS02855
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Marivita cryptomonadis]
+Other Aliases: MCRY_RS02855, MCRY_02850
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 62639687
+
+13. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Vibrio coralliirubri]
+Other Aliases: ED654_RS22490
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 62576090
+
+14. A6024_RS09470
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhodovulum sulfidophilum]
+Other Aliases: A6024_RS09470, A6024_09470
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 62371243
+
+15. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia kristensenii]
+Other Aliases: DX162_RS03600, NCTC11471_00715
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61905445
+
+16. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia massiliensis CCUG 53443]
+Other Aliases: BN68_RS11245, BN68_11495
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61815903
+
+17. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia rubidaea]
+Other Aliases: I6G83_RS09180, I6G83_09180
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61763942
+
+18. CPH89_RS20060
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas fluorescens]
+Other Aliases: CPH89_RS20060, SAMN04488487_4125
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: I
+ID: 61637960
+
+19. A9Y76_RS02830
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Ralstonia insidiosa]
+Other Aliases: A9Y76_RS02830, A9Y76_02830
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 61524943
+
+20. HQN82_RS12880
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Agrobacterium pusense]
+Other Aliases: HQN82_RS12880, HQN82_12880
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: R76C1
+ID: 61456240
+
+21. ELH04_RS23000
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhizobium leguminosarum]
+Other Aliases: ELH04_RS23000, ELH04_23000
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61426376
+
+22. ELH04_RS06705
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhizobium leguminosarum]
+Other Aliases: ELH04_RS06705, ELH04_06705
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61423224
+
+23. IR196_RS15325
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Brucella anthropi]
+Other Aliases: IR196_RS15325, IR196_15325
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 2
+ID: 61317359
+
+24. IR196_RS14440
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Brucella anthropi]
+Other Aliases: IR196_RS14440, IR196_14440
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 2
+ID: 61317182
+
+25. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pantoea stewartii]
+Other Aliases: G5574_RS04660, G5574_04660
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61251599
+
+26. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Citrobacter portucalensis]
+Other Aliases: FOB25_RS09365, FOB25_09365
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61125725
+
+27. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Lonsdalea populi]
+Other Aliases: I6N93_RS15695, I6N93_15695
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61123580
+
+28. C8D77_RS20355
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Mesorhizobium loti]
+Other Aliases: C8D77_RS20355, C8D77_105132
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 61053341
+
+29. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19050
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 60945994
+
+30. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Dickeya zeae]
+Other Aliases: C1O30_RS07920, C1O30_07920
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 60867831
+
+31. NDB4MOL1_RS24735
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Cupriavidus metallidurans]
+Other Aliases: NDB4MOL1_RS24735, NDB4MOL1_04930
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 60825254
+
+32. NDB4MOL1_RS24695
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Cupriavidus metallidurans]
+Other Aliases: NDB4MOL1_RS24695, NDB4MOL1_04922
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 60825246
+
+33. GCD22_RS06365
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Acidithiobacillus thiooxidans ATCC 19377]
+Other Aliases: GCD22_RS06365, GCD22_01323
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 60695697
+
+34. ASB66_RS05710
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Agrobacterium vitis]
+Other Aliases: ASB66_RS05710, ASB66_005710
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 60681188
+
+35. GYH29_RS15625
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Chromobacterium haemolyticum]
+Other Aliases: GYH29_RS15625, CH06BL_31010
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 58560825
+
+36. B5D62_RS22950
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Enhydrobacter aerosaccus]
+Other Aliases: B5D62_RS22950, SAMN02745126_04617
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 58130358
+
+37. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia intermedia]
+Other Aliases: FOC38_RS19110, FOC38_19110
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 58049079
+
+38. F2P57_RS04340
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [[Clostridium] symbiosum]
+Other Aliases: F2P57_RS04340, F2P57_04340
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57967784
+
+39. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Yersinia mollaretii ATCC 43969]
+Other Aliases: HRD69_RS08165, HRD69_08165
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57917754
+
+40. HX881_RS29240
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas gingeri]
+Other Aliases: HX881_RS29240, HX881_29240
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57664129
+
+41. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Raoultella terrigena]
+Other Aliases: HCK03_RS24365, HCK03_24360
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57507114
+
+42. GOW72_RS04440
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Ruegeria arenilitoris]
+Other Aliases: GOW72_RS04440
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57465801
+
+43. GOW72_RS03825
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Ruegeria arenilitoris]
+Other Aliases: GOW72_RS03825
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 57465678
+
+44. BLR69_RS30395
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas azotoformans]
+Other Aliases: BLR69_RS30395, SAMN04489799_6203
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: I
+ID: 57378571
+
+45. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Hafnia alvei]
+Other Aliases: HBA19_RS02750, HBA19_02750
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 56890330
+
+46. EFE39_RS02010
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Clavibacter michiganensis subsp. michiganensis]
+Other Aliases: EFE39_RS02010, EFE39_02020
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 56884655
+
+47. CBR68_RS00615
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Bordetella hinzii]
+Other Aliases: CBR68_RS00615, CBR68_00615
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 56618631
+
+48. CBR68_RS00575
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Bordetella hinzii]
+Other Aliases: CBR68_RS00575, CBR68_00575
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 56618623
+
+49. phnM
+phosphonate metabolism protein PhnM [Peribacillus simplex NBRC 15720 = DSM 1321]
+Other Aliases: BS1321_RS19295, BS1321_18995
+Other Designations: phosphonate metabolism protein PhnM
+ID: 56474856
+
+50. FOC82_RS15785
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter denitrificans]
+Other Aliases: FOC82_RS15785, FOC82_15785
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 56280394
+
+
+1. FOC82_RS15745
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter denitrificans]
+Other Aliases: FOC82_RS15745, FOC82_15745
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 56280386
+
+2. AruCF_RS19720
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter ruhlandii]
+Other Aliases: AruCF_RS19720, AruCF_3934
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 55561961
+
+3. AruCF_RS19680
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Achromobacter ruhlandii]
+Other Aliases: AruCF_RS19680, AruCF_3926
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 55561953
+
+4. BLW35_RS15540
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas proteolytica]
+Other Aliases: BLW35_RS15540, SAMN04490200_3115
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 55540228
+
+5. RUA4292_RS21345
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Ruegeria atlantica]
+Other Aliases: RUA4292_RS21345, RUA4292_04301
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 55495426
+
+6. RUA4292_RS01430
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Ruegeria atlantica]
+Other Aliases: RUA4292_RS01430, RUA4292_00288
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 55491611
+
+7. ESD82_RS09430
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Paracoccus pantotrophus]
+Other Aliases: ESD82_RS09430, ESD82_09430
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Genomic context: Plasmid pPAN2
+ID: 51370787
+
+8. ESD82_RS02475
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Paracoccus pantotrophus]
+Other Aliases: ESD82_RS02475, ESD82_02475
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 2
+ID: 51369405
+
+9. PFJ30894_RS01625
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Phascolarctobacterium faecium]
+Other Aliases: PFJ30894_RS01625, PFJ30894_00324
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 49406014
+
+10. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Dickeya dianthicola]
+Other Aliases: DZA65_RS07985, DZA65_01550
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 49321468
+
+11. AOX55_RS26140
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Sinorhizobium fredii CCBAU 25509]
+Other Aliases: AOX55_RS26140, AOX55_00005821
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Genomic context: Plasmid pSF25509b
+ID: 48976437
+
+12. CFBP1590_RS15600
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas viridiflava]
+Other Aliases: CFBP1590_RS15600, CFBP1590__3159
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: I
+ID: 47764811
+
+13. AT395_RS22165
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pandoraea apista]
+Other Aliases: AT395_RS22165, AT395_13075
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 47016526
+
+14. AMC88_RS01000
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Rhizobium phaseoli]
+Other Aliases: AMC88_RS01000, AMC88_CH00203
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 45955579
+
+15. phnM
+phosphonate metabolism protein PhnM [Holdemania massiliensis AP2]
+Other Aliases: BN162_RS05310, BN162_05410
+Other Designations: phosphonate metabolism protein PhnM
+ID: 42455902
+
+16. TK49_RS07050
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Ralstonia mannitolilytica]
+Other Aliases: TK49_RS07050, TK49_07055
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Chromosome: 1
+ID: 34791125
+
+17. MPLDJ20_RS19695
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Mesorhizobium plurifarium]
+Other Aliases: MPLDJ20_RS19695, MPLDJ20_230084
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 31891300
+
+18. GAL_RS15005
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Phaeobacter gallaeciensis DSM 26640]
+Other Aliases: GAL_RS15005, Gal_03070
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_023137.1 (3117343..3118485, complement)
+ID: 31847429
+
+19. GAL_RS04415
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Phaeobacter gallaeciensis DSM 26640]
+Other Aliases: GAL_RS04415, Gal_00904
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Annotation:  NC_023137.1 (917724..918872)
+ID: 31845347
+
+20. A7318_RS07915
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Pseudomonas lurida]
+Other Aliases: A7318_RS07915, A7318_07910
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 31709935
+
+21. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Leclercia adecarboxylata]
+Other Aliases: APT61_RS20695, APT61_20695
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 30334363
+
+22. phnM
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Serratia fonticola]
+Other Aliases: WN53_RS10745, WN53_10745
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+ID: 30320644
+
+23. FA04_RS22625
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Ensifer adhaerens]
+Other Aliases: FA04_RS22625, FA04_22595
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Genomic context: Plasmid pCasidaAA
+ID: 29520767
+
+24. K529_RS17110
+alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase [Tritonibacter mobilis F1926]
+Other Aliases: K529_RS17110, K529_017105
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-triphosphate diphosphatase
+Genomic context: Plasmid unnamed1
+ID: 28251588
+

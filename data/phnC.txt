@@ -1,0 +1,3550 @@
+
+1. phnC
+phosphonate ABC transporter ATP-binding protein [Shimia thalassica]
+Other Aliases: PH7735_RS02040, PH7735_00418
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83879504
+
+2. phnC
+phosphonate ABC transporter ATP-binding protein [Mycolicibacterium fortuitum]
+Other Aliases: OF855_RS03135, OF855_03140
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83873426
+
+3. phnC
+phosphonate ABC transporter ATP-binding protein [Peptoniphilus harei]
+Other Aliases: I6I93_RS05515, I6I93_05515
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83862512
+
+4. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus helveticus]
+Other Aliases: DB332_RS02980, DB332_02980
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83725158
+
+5. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter bugandensis]
+Other Aliases: K9O83_RS01805, K9O83_01810
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83673159
+
+6. phnC
+phosphonate ABC transporter ATP-binding protein [Citrobacter youngae]
+Other Aliases: QRZ63_RS01430, QRZ63_01430
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83644665
+
+7. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas chengduensis]
+Other Aliases: MYO55_RS03090
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83639799
+
+8. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus albus]
+Other Aliases: QRY64_RS21035, QRY64_21020
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83637333
+
+9. phnC
+phosphonate ABC transporter ATP-binding protein [Rhodococcus aetherivorans]
+Other Aliases: OCS65_RS22090, OCS65_22085
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83623165
+
+10. phnC
+phosphonate ABC transporter ATP-binding protein [Carnobacterium maltaromaticum]
+Other Aliases: QOS94_RS05445
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: SF2022_c1
+ID: 83605526
+
+11. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter cloacae]
+Other Aliases: LQ108_RS01755, AI2999V1_0345
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: main
+ID: 83571663
+
+12. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus johnsonii]
+Other Aliases: H0I41_RS00745, H0I41_00745
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83569583
+
+13. phnC
+phosphonate ABC transporter ATP-binding protein [Bradyrhizobium liaoningense CCBAU 05525]
+Other Aliases: IC32_RS16680
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83554488
+
+14. phnC
+phosphonate ABC transporter ATP-binding protein [Desulfovibrio piger]
+Other Aliases: QDP65_RS10530
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83732238
+
+15. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia proteamaculans]
+Other Aliases: QOT07_RS07050
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: EBP3064_c1
+ID: 83698222
+
+16. phnC
+phosphonate ABC transporter ATP-binding protein [Delftia tsuruhatensis]
+Other Aliases: PW274_RS09695, PW274_09695
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83662680
+
+17. phnC
+phosphonate ABC transporter ATP-binding protein [Delftia tsuruhatensis]
+Other Aliases: PW274_RS06145, PW274_06145
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83661970
+
+18. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas chengduensis]
+Other Aliases: MYO55_RS08935
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83640964
+
+19. phnC
+phosphonate ABC transporter ATP-binding protein [Paenibacillus amylolyticus]
+Other Aliases: OGI70_RS19095, OGI70_19095
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83563448
+
+20. phnC
+phosphonate/phosphate ABC transporter ATP binding subunit [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4106, ECK4099
+Other Designations: phosphonate/phosphate ABC transporter ATP binding subunit
+Annotation:  NC_000913.3 (4324377..4325165, complement)
+ID: 948623
+
+21. MMCAP2_RS03505
+ATP-binding cassette domain-containing protein [Mycoplasma mycoides subsp. capri str. GM12]
+Other Aliases: MMCAP2_RS03505, MMCAP2_0707
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 58110697
+
+22. HFMG94VAA_RS01330
+ATP-binding cassette domain-containing protein [Mycoplasmoides gallisepticum VA94_7994-1-7P]
+Other Aliases: HFMG94VAA_RS01330, HFMG94VAA_1904
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_018406.1 (319029..319775)
+ID: 57203534
+
+23. MHP168L_RS02065
+ATP-binding cassette domain-containing protein [Mesomycoplasma hyopneumoniae 168-L]
+Other Aliases: MHP168L_RS02065, MHP168L_387
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_021283.1 (467739..468509)
+ID: 57101247
+
+24. ELZ14_RS12505
+ATP-binding cassette domain-containing protein [Pseudomonas brassicacearum]
+Other Aliases: ELZ14_RS12505, ELZ14_12505
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57259034
+
+25. P9515_RS03695
+ATP-binding cassette domain-containing protein [Prochlorococcus marinus str. MIT 9515]
+Other Aliases: P9515_RS03695, P9515_07451
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_008817.1 (674343..675074, complement)
+ID: 60201344
+
+26. FBAL_RS10855
+ATP-binding cassette domain-containing protein [Ferrimonas balearica DSM 9799]
+Other Aliases: FBAL_RS10855, Fbal_2139
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014541.1 (2385510..2386163, complement)
+ID: 67182342
+
+27. PSPTO_RS04185
+ATP-binding cassette domain-containing protein [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS04185, PSPTO0790, PSPTO_0790
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_004578.1 (857195..857992, complement)
+ID: 1182415
+
+28. MARG145_RS02335
+ATP-binding cassette domain-containing protein [Mycoplasmopsis arginini]
+Other Aliases: MARG145_RS02335, MARG145_0612
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 80703605
+
+29. L1P09_RS03965
+ATP-binding cassette domain-containing protein [Pseudomonas juntendi]
+Other Aliases: L1P09_RS03965, L1P09_03965
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 72418726
+
+30. KQI_RS0118050
+ATP-binding cassette domain-containing protein [Paenibacillus peoriae KCTC 3763]
+Other Aliases: KQI_RS0118050
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 71025524
+
+31. E4L58_RS00305
+ATP-binding cassette domain-containing protein [Mycoplasmopsis agalactiae]
+Other Aliases: E4L58_RS00305, E4L58_00305
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69276392
+
+32. FGY93_RS20050
+ATP-binding cassette domain-containing protein [Paenibacillus polymyxa]
+Other Aliases: FGY93_RS20050, FGY93_20050
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66577282
+
+33. JGS08_RS22435
+ATP-binding cassette domain-containing protein [Pseudomonas cannabina pv. alisalensis]
+Other Aliases: JGS08_RS22435, JGS08_22435
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 64467653
+
+34. PSYTB_RS03455
+ATP-binding cassette domain-containing protein [Pseudomonas amygdali pv. tabaci str. ATCC 11528]
+Other Aliases: PSYTB_RS03455, PSYTB_03455
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61868032
+
+35. F801_RS0100015
+ATP-binding cassette domain-containing protein [Mesomycoplasma hyorhinis ATCC 17981]
+Other Aliases: F801_RS0100015
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61335298
+
+36. DW68_RS07400
+ATP-binding cassette domain-containing protein [Pseudomonas mendocina S5.2]
+Other Aliases: DW68_RS07400, DW68_007405
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57605688
+
+37. MCAP_RS03665
+ATP-binding cassette domain-containing protein [Mycoplasma capricolum subsp. capricolum ATCC 27343]
+Other Aliases: MCAP_RS03665, MCAP_0730
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_007633.1 (850877..851626, complement)
+ID: 23778316
+
+38. NQ491_RS02545
+ABC transporter ATP-binding protein [Alistipes ihumii AP11]
+Other Aliases: NQ491_RS02545, NQ491_02545
+Other Designations: ABC transporter ATP-binding protein
+ID: 82890577
+
+39. phnC
+phosphonate ABC transporter ATP-binding protein [Phaeobacter inhibens]
+Other Aliases: PhaeoP54_RS01915, PhaeoP54_00389
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57287253
+
+40. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS07045, SerAS9_1389
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_015567.1 (1504817..1505650)
+ID: 57666202
+
+41. GCWU000321_RS06750
+metal ABC transporter ATP-binding protein [Dialister invisus DSM 15470]
+Other Aliases: GCWU000321_RS06750, GCWU000321_01475
+Other Designations: metal ABC transporter ATP-binding protein
+ID: 78278050
+
+42. HMPREF1060_RS09945
+ABC transporter ATP-binding protein [Parabacteroides merdae CL03T12C32]
+Other Aliases: HMPREF1060_RS09945, HMPREF1060_02024
+Other Designations: ABC transporter ATP-binding protein
+ID: 69716361
+
+43. phnC
+phosphonate ABC transporter ATP-binding protein [Burkholderia pseudomallei]
+Other Aliases: DP58_RS11050, DP58_2160
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 56528348
+
+44. phnC
+phosphonate ABC transporter ATP-binding protein [Lactiplantibacillus plantarum]
+Other Aliases: C7M33_RS09180, C7M33_01843
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77217250
+
+45. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter hormaechei]
+Other Aliases: I6L65_RS02350, I6L65_02350
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72530869
+
+46. phnC
+phosphonate ABC transporter ATP-binding protein [Mycoplasmopsis arginini]
+Other Aliases: MARG145_RS01360, MARG145_0347
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 80703414
+
+47. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia ruckeri]
+Other Aliases: YR821_RS05720, YR821_1165
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66878967
+
+48. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus argenteus]
+Other Aliases: SAMSHR1132_RS00610, SAMSHR1132_01180
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_016941.1 (135849..136622, complement)
+ID: 66838451
+
+49. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus capitis subsp. capitis]
+Other Aliases: NF392_RS00840
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77312546
+
+50. phnC
+phosphonate ABC transporter ATP-binding protein [Klebsiella variicola]
+Other Aliases: GFC07_RS19755, GFC07_19755
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69734897
+
+
+1. phnC
+phosphonate ABC transporter ATP-binding protein [Weissella cibaria]
+Other Aliases: AUC62_RS10815, AUC62_02196
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66963403
+
+2. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus mycoides]
+Other Aliases: EXW63_RS23175, EXW63_23685
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66266778
+
+3. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus haemolyticus]
+Other Aliases: AV904_RS10985, AV904_11005
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 58063458
+
+4. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus cereus]
+Other Aliases: FORC47_RS19000, FORC47_3606
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72450366
+
+5. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter kobei]
+Other Aliases: P827_RS02140, P827_04115
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69608607
+
+6. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia marcescens]
+Other Aliases: C7M65_RS15955, C7M65_15940
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66715630
+
+7. phnC
+phosphonate ABC transporter ATP-binding protein [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS20130, I8N75_20130
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64296864
+
+8. phnC
+phosphonate ABC transporter ATP-binding protein [Mammaliicoccus vitulinus]
+Other Aliases: I6J10_RS00475, I6J10_00475
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64115557
+
+9. phnC
+phosphonate ABC transporter ATP-binding protein [Brucella anthropi]
+Other Aliases: IR196_RS15335, IR196_15335
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 61317361
+
+10. phnC
+phosphonate ABC transporter ATP-binding protein [Citrobacter freundii]
+Other Aliases: EGX89_RS15890, EGX89_15910
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 60898008
+
+11. phnC
+phosphonate ABC transporter ATP-binding protein [Mycoplasma mycoides subsp. capri str. GM12]
+Other Aliases: MMCAP2_RS00390, MMCAP2_0074
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 58110110
+
+12. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus epidermidis]
+Other Aliases: EQW00_RS01445, EQW00_01445
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 50017680
+
+13. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter ludwigii]
+Other Aliases: BH714_RS19350, BH714_19350
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 45817702
+
+14. phnC
+phosphonate ABC transporter ATP-binding protein [Ligilactobacillus saerimneri 30a]
+Other Aliases: D271_RS02265, D271_02269
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 80986351
+
+15. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter xylosoxidans]
+Other Aliases: I6I48_RS30080, I6I48_30075
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75278768
+
+16. phnC
+phosphonate ABC transporter ATP-binding protein [Pantoea agglomerans]
+Other Aliases: I6L77_RS09785, I6L77_09785
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66825467
+
+17. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus amylovorus GRL1118]
+Other Aliases: LAB52_RS00755, LAB52_00775
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_017470.1 (149754..150527)
+ID: 66522945
+
+18. phnC
+phosphonate ABC transporter ATP-binding protein [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS41940, Bdiaspc4_42035
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64027695
+
+19. phnC
+phosphonate ABC transporter ATP-binding protein [Agrobacterium pusense]
+Other Aliases: HQN82_RS12905, HQN82_12905
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: R76C1
+ID: 61456245
+
+20. phnC
+phosphonate ABC transporter ATP-binding protein [Leuconostoc gelidum JB7]
+Other Aliases: C269_RS08525, C269_08435
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_018631.1 (1761115..1761864, complement)
+ID: 61038367
+
+21. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus lugdunensis]
+Other Aliases: AL499_RS09215, AL499_09220
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 58091236
+
+22. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus acidophilus La-14]
+Other Aliases: LA14_RS00755, LA14_0152
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_021181.2 (144262..145035)
+ID: 56941761
+
+23. phnC
+phosphonate ABC transporter ATP-binding protein [Paraburkholderia hospita]
+Other Aliases: C2L64_RS42240, C2L64_42235
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 3
+ID: 55534924
+
+24. phnC
+phosphonate ABC transporter ATP-binding protein [Leuconostoc gasicomitatum LMG 18811]
+Other Aliases: LEGAS_RS08890, LEGAS_1759
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_014319.1 (1797251..1798000, complement)
+ID: 34300335
+
+25. phnC
+phosphonate ABC transporter ATP-binding protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS11230, NCTC8156_02255
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 74302611
+
+26. phnC
+phosphonate ABC transporter ATP-binding protein [Comamonas thiooxydans]
+Other Aliases: Cthiooxydans_RS09260, Cthiooxydans_17750
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69559508
+
+27. phnC
+phosphonate ABC transporter ATP-binding protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01065
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69509696
+
+28. miaA
+tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA [Helicobacter cinaedi PAGU611]
+Other Aliases: HCN_RS08950, HCN_1781
+Other Designations: tRNA (adenosine(37)-N6)-dimethylallyltransferase MiaA
+Annotation:  NC_017761.1 (1764177..1765178, complement)
+ID: 66540207
+
+29. phnC
+phosphonate ABC transporter ATP-binding protein [Lactococcus cremoris subsp. cremoris KW2]
+Other Aliases: KW2_RS01485, kw2_0301
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_022369.1 (291615..292355)
+ID: 61108621
+
+30. phnC
+phosphonate ABC transporter ATP-binding protein [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05935, RCAP_rcc01187
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_014034.1 (1260801..1261622)
+ID: 31490100
+
+31. phnC
+phosphonate ABC transporter ATP-binding protein [Treponema denticola ATCC 35405]
+Other Aliases: TDE_RS04465, TDE0928, TDE_0928
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_002967.9 (950960..951730, complement)
+ID: 2740393
+
+32. phnC
+phosphonate ABC transporter ATP-binding protein [Coprobacillus cateniformis]
+Other Aliases: HMPREF0273_RS0109590
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78229734
+
+33. phnC
+phosphonate ABC transporter ATP-binding protein [Stutzerimonas balearica DSM 6083]
+Other Aliases: CL52_RS03115, CL52_03175
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77258916
+
+34. phnC
+phosphonate ABC transporter ATP-binding protein [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01515, HUZ68_01500
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75169623
+
+35. PcP3B5_RS07270
+phosphonate ABC transporter ATP-binding protein [Pseudomonas citronellolis]
+Other Aliases: PcP3B5_RS07270, PcP3B5_14800
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72994645
+
+36. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10590, POR16_10590
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72392820
+
+37. phnC
+phosphonate ABC transporter ATP-binding protein [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36965, K2Z90_007350
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69895250
+
+38. phnC
+phosphonate ABC transporter ATP-binding protein [Mycolicibacterium smegmatis]
+Other Aliases: FOB87_RS31625, FOB87_31630
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66738825
+
+39. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio mediterranei]
+Other Aliases: HOP38_RS05695, HOP38_05695
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: I
+ID: 64085667
+
+40. phnC
+phosphonate ABC transporter ATP-binding protein [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41085
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64073668
+
+41. phnC
+phosphonate ABC transporter ATP-binding protein [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS10840, SM2011_b21177
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (923274..924113, complement)
+ID: 61600818
+
+42. phnC
+phosphonate ABC transporter ATP-binding protein [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS14955, Rahaq2_3096
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_016818.1 (3315898..3316734, complement)
+ID: 61513111
+
+43. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS02375, DJ58_3391
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57903839
+
+44. phnC
+phosphonate ABC transporter ATP-binding protein [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25780, E6A55_25760
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 57647200
+
+45. phnC
+phosphonate ABC transporter ATP-binding protein [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08425, PAGR_g1639
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_017554.1 (1797166..1797996)
+ID: 57267713
+
+46. phnC
+phosphonate ABC transporter ATP-binding protein [Burkholderia mallei]
+Other Aliases: NW91_RS00640, NW91_00535
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 56593735
+
+47. phnC
+phosphonate ABC transporter ATP-binding protein [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00545
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 56331954
+
+48. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas putida NBRC 14164]
+Other Aliases: PP4_RS16400, PP4_32620
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_021505.1 (3707294..3708094)
+ID: 45524746
+
+49. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus anthracis str. 'Ames Ancestor']
+Other Aliases: GBAA_RS18225, GBAA3749, GBAA_3749
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_007530.2 (3449247..3450020, complement)
+ID: 45023466
+
+50. phnC
+phosphonate ABC transporter ATP-binding protein [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS03230, TH3_03195
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 31926341
+
+
+1. phnC
+phosphonate ABC transporter ATP-binding protein [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01075, TH3_01040
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 31925915
+
+2. phnC
+phosphonate ABC transporter ATP-binding protein [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS21400, RALTA_B1198
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (1251318..1252172, complement)
+ID: 29764744
+
+3. phnC
+phosphonate ABC transporter ATP-binding protein [Delftia acidovorans SPH-1]
+Other Aliases: DACI_RS13430, Daci_2676
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_010002.1 (2945745..2946584, complement)
+ID: 24119472
+
+4. phnC
+phosphonate ABC transporter ATP-binding protein [Delftia acidovorans SPH-1]
+Other Aliases: DACI_RS12040, Daci_2409
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_010002.1 (2658976..2659854)
+ID: 24116849
+
+5. DACI_RS16805
+phosphonate ABC transporter ATP-binding protein [Delftia acidovorans SPH-1]
+Other Aliases: DACI_RS16805, Daci_3337
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_010002.1 (3661334..3662158, complement)
+ID: 24115138
+
+6. phnC
+phosphonate ABC transporter ATP-binding protein [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07655, Dda3937_04099
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_014500.1 (1724836..1725693)
+ID: 9733036
+
+7. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13225, PSPTO2555, PSPTO_2555
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_004578.1 (2823826..2824659)
+ID: 1184207
+
+8. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio chagasii]
+Other Aliases: OCV52_RS19395
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 77343730
+
+9. phnC
+phosphonate ABC transporter ATP-binding protein [Bordetella parapertussis]
+Other Aliases: CWR63_RS04345, CWR63_04320
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69420232
+
+10. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus thuringiensis serovar berliner ATCC 10792]
+Other Aliases: BTHUR0008_RS17005, bthur0008_34100
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 67467910
+
+11. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS07120, BZ17_1303
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66842342
+
+12. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia intermedia]
+Other Aliases: FOC38_RS07390, FOC38_07390
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 58046735
+
+13. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia pestis A1122]
+Other Aliases: A1122_RS19870, A1122_19800
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_017168.1 (4252888..4253724)
+ID: 57977322
+
+14. phnC
+phosphonate ABC transporter ATP-binding protein [Bordetella holmesii]
+Other Aliases: FYA69_RS05265, FYA69_05270
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56624028
+
+15. phnC
+phosphonate ABC transporter ATP-binding protein [Bordetella bronchiseptica]
+Other Aliases: EL288_RS19490, NCTC10543_03899
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 56480386
+
+16. phnC
+phosphonate ABC transporter ATP-binding protein [Klebsiella oxytoca]
+Other Aliases: EGY21_RS22930, EGY21_22885
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69796832
+
+17. phnC
+phosphonate ABC transporter ATP-binding protein [Burkholderia oklahomensis C6786]
+Other Aliases: BG90_RS21060, BG90_4210
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: II
+ID: 60550331
+
+18. PA3314
+phosphonates ABC transporter ATP-binding protein [Pseudomonas aeruginosa PAO1]
+Other Aliases: PA3314
+Other Designations: phosphonates ABC transporter ATP-binding protein
+Annotation:  NC_002516.2 (3716808..3717611)
+ID: 882479
+
+19. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas aeruginosa PAO1]
+Other Aliases: PA3384
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_002516.2 (3790150..3790986, complement)
+ID: 880003
+
+20. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus hominis DSM 23910 = CRBIP 24.179]
+Other Aliases: BN55_RS02610, BN55_07525
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 82846673
+
+21. phnC
+phosphonate ABC transporter ATP-binding protein [Gemella morbillorum]
+Other Aliases: FOC49_RS06600, FOC49_06600
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 81710749
+
+22. phnC
+phosphonate ABC transporter ATP-binding protein [Ruthenibacterium lactatiformans]
+Other Aliases: PGS05_RS03485
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79920164
+
+23. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio metschnikovii]
+Other Aliases: DYH36_RS08565, NCTC8443_01762
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79888242
+
+24. phnC
+phosphonate ABC transporter ATP-binding protein [Fusobacterium animalis]
+Other Aliases: RO08_RS05940, RO08_05940
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79810072
+
+25. phnC
+phosphonate ABC transporter ATP-binding protein [Fusobacterium vincentii]
+Other Aliases: JY399_RS08170, JY399_08170
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79800246
+
+26. phnC
+phosphonate ABC transporter ATP-binding protein [Fusobacterium nucleatum subsp. nucleatum]
+Other Aliases: C7Y58_RS08710, C7Y58_08700
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79784116
+
+27. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas extremaustralis]
+Other Aliases: BLR63_RS26845, SAMN05216591_5481
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: I
+ID: 78556792
+
+28. phnC
+phosphonate ABC transporter ATP-binding protein [Fusobacterium periodonticum ATCC 33693]
+Other Aliases: FUSPEROL_RS09045, FUSPEROL_01895
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78420096
+
+29. phnC
+phosphonate ABC transporter ATP-binding protein [Succinatimonas hippei YIT 12066]
+Other Aliases: HMPREF9444_RS05105, HMPREF9444_01112
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78339581
+
+30. phnC
+phosphonate ABC transporter ATP-binding protein [Kalamiella piersonii]
+Other Aliases: D7S44_RS16130, D7S44_16115
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78234980
+
+31. phnC
+phosphonate ABC transporter ATP-binding protein [Bilophila wadsworthia 3_1_6]
+Other Aliases: HMPREF0179_RS02175, HMPREF0179_03112
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78084499
+
+32. phnC
+phosphonate ABC transporter ATP-binding protein [Nodularia spumigena UHCC 0039]
+Other Aliases: BMF81_RS15355
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78018300
+
+33. phnC
+phosphonate ABC transporter ATP-binding protein [Nodularia spumigena UHCC 0039]
+Other Aliases: BMF81_RS02455, BMF81_00474
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78015874
+
+34. phnC
+phosphonate ABC transporter ATP-binding protein [Gemella haemolysans]
+Other Aliases: EL214_RS03650, NCTC10459_00746
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 78010177
+
+35. phnC
+phosphonate ABC transporter ATP-binding protein [Roseburia hominis]
+Other Aliases: FYB86_RS15845
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 77460724
+
+36. phnC
+phosphonate ABC transporter ATP-binding protein [Enterocloster citroniae]
+Other Aliases: BM366_RS03795, SAMN05216568_101765
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77446146
+
+37. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia enterocolitica]
+Other Aliases: N4222_RS06235, N4222_06235
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77327387
+
+38. phnC
+phosphonate ABC transporter ATP-binding protein [Verminephrobacter aporrectodeae subsp. tuberculatae]
+Other Aliases: D5041_RS05975, D5041_05955
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77320435
+
+39. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia bockelmannii]
+Other Aliases: OM395_RS10920, OM395_10920
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77283384
+
+40. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas syringae]
+Other Aliases: KIJ28_RS10545, KIJ28_10545
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77278087
+
+41. phnC
+phosphonate ABC transporter ATP-binding protein [Klebsiella pasteurii]
+Other Aliases: KCG39_RS24185, KCG39_24185
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77229109
+
+42. B7D75_RS08400
+phosphonate ABC transporter ATP-binding protein [Pseudomonas paraeruginosa]
+Other Aliases: B7D75_RS08400, B7D75_08400
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77220164
+
+43. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas paraeruginosa]
+Other Aliases: B7D75_RS08075, B7D75_08075
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77220100
+
+44. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus mulieris]
+Other Aliases: ONZ79_RS07615, ONZ79_07615
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77201583
+
+45. phnC
+phosphonate ABC transporter ATP-binding protein [Oxalobacter formigenes]
+Other Aliases: BRW83_RS01645, BRW83_0324
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77134234
+
+46. phnC
+phosphonate ABC transporter ATP-binding protein [Roseomonas mucosa]
+Other Aliases: FOB66_RS19850, FOB66_19850
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 4
+ID: 76529106
+
+47. phnC
+phosphonate ABC transporter ATP-binding protein [Paracoccus denitrificans PD1222]
+Other Aliases: PDEN_RS23830, Pden_4787
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Genomic context: Plasmid 1
+Annotation:  NC_008688.1 (282787..283605, complement)
+ID: 75504145
+
+48. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter xylosoxidans]
+Other Aliases: I6I48_RS12940, I6I48_12940
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75275369
+
+49. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter xylosoxidans]
+Other Aliases: I6I48_RS00045, I6I48_00045
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75272800
+
+50. phnC
+phosphonate ABC transporter ATP-binding protein [Stutzerimonas frequens]
+Other Aliases: I6G34_RS20690, I6G34_20690
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75215764
+
+
+1. phnC
+phosphonate ABC transporter ATP-binding protein [Shigella boydii]
+Other Aliases: CEH00_RS07025, CEH00_07075
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75203256
+
+2. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus intestinalis]
+Other Aliases: KBW87_RS00700, KBW87_00695
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75115933
+
+3. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus paranthracis]
+Other Aliases: NLJ82_RS17480, NLJ82_17480
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75086753
+
+4. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia quinivorans]
+Other Aliases: EL336_RS07185, NCTC13188_01440
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 74949667
+
+5. phnC
+phosphonate ABC transporter ATP-binding protein [Stutzerimonas kunmingensis]
+Other Aliases: LW136_RS13140, LW136_13140
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 73731242
+
+6. phnC
+phosphonate ABC transporter ATP-binding protein [Methylorubrum extorquens DM4]
+Other Aliases: METD_RS01590, METDI0353, METD_I0353
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_012988.1 (335773..336582)
+ID: 72987697
+
+7. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus kefiranofaciens]
+Other Aliases: ICI50_RS00800, ICI50_00795
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72686037
+
+8. phnC
+phosphonate ABC transporter ATP-binding protein [Weissella paramesenteroides]
+Other Aliases: I2E55_RS04060, I2E55_04060
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72403723
+
+9. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio splendidus]
+Other Aliases: LTQ54_RS18235, LTQ54_18235
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 72399591
+
+10. phnC
+phosphonate ABC transporter ATP-binding protein [Paenibacillus peoriae KCTC 3763]
+Other Aliases: KQI_RS0100035
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 71022254
+
+11. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter insuavis]
+Other Aliases: H0522_RS17600, LMG26846_03486
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 71019364
+
+12. phnC
+phosphonate ABC transporter ATP-binding protein [Cupriavidus gilardii]
+Other Aliases: FOB47_RS25185, FOB47_25185
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 70691695
+
+13. phnC
+phosphonate ABC transporter ATP-binding protein [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS21275, NCTC9164_04251
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69886768
+
+14. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas savastanoi]
+Other Aliases: KP808_RS10495, KP808_10465
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69859158
+
+15. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus crispatus]
+Other Aliases: E6A57_RS00720, E6A57_00725
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69822547
+
+16. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia bercovieri]
+Other Aliases: LH409_RS17110, LH409_17110
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69739745
+
+17. phnC
+phosphonate ABC transporter ATP-binding protein [Lactococcus lactis]
+Other Aliases: H0A38_RS01345, H0A38_01345
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69712344
+
+18. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus delbrueckii subsp. jakobsenii ZN7a-9 = DSM 26046]
+Other Aliases: LJ046_RS02900, LJ046_02880
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69668287
+
+19. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus gasseri]
+Other Aliases: F8244_RS06930, F8244_06930
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69667246
+
+20. phnC
+phosphonate ABC transporter ATP-binding protein [Hafnia paralvei]
+Other Aliases: K9N75_RS03045, K9N75_03045
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69636982
+
+21. phnC
+phosphonate ABC transporter ATP-binding protein [Corynebacterium glutamicum SCgG2]
+Other Aliases: C629_RS11350, C629_11220
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_021352.1 (2430042..2430884, complement)
+ID: 69622585
+
+22. phnC
+phosphonate ABC transporter ATP-binding protein [Corynebacterium glutamicum SCgG2]
+Other Aliases: C629_RS08180, C629_08100
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_021352.1 (1728756..1729562, complement)
+ID: 69621973
+
+23. phnC
+phosphonate ABC transporter ATP-binding protein [Enterococcus avium]
+Other Aliases: AUF14_RS09640, AUF14_09640
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69568806
+
+24. phnC
+phosphonate ABC transporter ATP-binding protein [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS27800, SIAM614_16747
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 68849703
+
+25. phnC
+phosphonate ABC transporter ATP-binding protein [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS26745, SIAM614_08534
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 68849523
+
+26. phnC
+phosphonate ABC transporter ATP-binding protein [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS01515, SIAM614_10178
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 68844727
+
+27. phnC
+phosphonate ABC transporter ATP-binding protein [Rhodopseudomonas palustris]
+Other Aliases: I8G32_RS03585, I8G32_00716
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66891715
+
+28. phnC
+phosphonate ABC transporter ATP-binding protein [Rhodococcus ruber]
+Other Aliases: F1734_RS07590, F1734_07560
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66834617
+
+29. phnC
+phosphonate ABC transporter ATP-binding protein [Shigella sonnei]
+Other Aliases: HUX90_RS07395, HUX90_07395
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66671984
+
+30. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter cancerogenus]
+Other Aliases: K3T75_RS03055
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66610012
+
+31. phnC
+phosphonate ABC transporter ATP-binding protein [Klebsiella michiganensis]
+Other Aliases: JLG71_RS22180, THOKLE011_43380
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66561498
+
+32. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus paragasseri JV-V03]
+Other Aliases: FFA26_RS00670
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66534125
+
+33. phnC
+phosphonate ABC transporter ATP-binding protein [Bradyrhizobium canariense]
+Other Aliases: FXB41_RS16435, FXB41_16810
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66478940
+
+34. phnC
+phosphonate ABC transporter ATP-binding protein [Enterococcus gallinarum]
+Other Aliases: EB54_RS07310, EB54_01456
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66473593
+
+35. phnC
+phosphonate ABC transporter ATP-binding protein [Citrobacter braakii]
+Other Aliases: GFC06_RS02575, GFC06_02575
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66271791
+
+36. phnC
+phosphonate ABC transporter ATP-binding protein [Agrobacterium fabrum]
+Other Aliases: At1D132_RS14025, At1D132_26690
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: circular
+ID: 66223182
+
+37. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas congelans]
+Other Aliases: BLR20_RS02240, SAMN05216596_101445
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 65073704
+
+38. phnC
+phosphonate ABC transporter ATP-binding protein [Comamonas testosteroni]
+Other Aliases: IYN88_RS13715, IYN88_13715
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 63998050
+
+39. phnC
+phosphonate ABC transporter ATP-binding protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04470, HMPREF9452_00895
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 62758640
+
+40. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio coralliirubri]
+Other Aliases: ED654_RS22540
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 62576100
+
+41. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio coralliirubri]
+Other Aliases: ED654_RS09365
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 62573515
+
+42. phnC
+phosphonate ABC transporter ATP-binding protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS07060, G4D54_07060
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61925283
+
+43. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia kristensenii]
+Other Aliases: DX162_RS12905, NCTC11471_02549
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61907245
+
+44. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas amygdali pv. tabaci str. ATCC 11528]
+Other Aliases: PSYTB_RS12000, PSYTB_12005
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61869634
+
+45. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07370, BN5_1510
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: I
+ID: 61799253
+
+46. phnC
+phosphonate ABC transporter ATP-binding protein [Roseburia intestinalis L1-82]
+Other Aliases: RIL182_RS19810, RIL182_03918
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 61435136
+
+47. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio kanaloae]
+Other Aliases: BTD91_RS16205, BTD91_16205
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 61414644
+
+48. phnC
+phosphonate ABC transporter ATP-binding protein [Ralstonia pickettii]
+Other Aliases: FY486_RS03680
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61387504
+
+49. phnC
+phosphonate ABC transporter ATP-binding protein [Pantoea stewartii]
+Other Aliases: G5574_RS04645, G5574_04645
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61251596
+
+50. phnC
+phosphonate ABC transporter ATP-binding protein [Leuconostoc carnosum]
+Other Aliases: FGL89_RS04225, FGL89_04225
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61186941
+
+
+1. phnC
+phosphonate ABC transporter ATP-binding protein [Citrobacter portucalensis]
+Other Aliases: FOB25_RS09315, FOB25_09315
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61125715
+
+2. phnC
+phosphonate ABC transporter ATP-binding protein [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19000
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 60945984
+
+3. phnC
+phosphonate ABC transporter ATP-binding protein [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS14000
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 60944994
+
+4. phnC
+phosphonate ABC transporter ATP-binding protein [Brevibacterium aurantiacum]
+Other Aliases: CXR25_RS01240, CXR25_01265
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 60904661
+
+5. FJSC11DRAFT_RS12315
+phosphonate ABC transporter ATP-binding protein [Fischerella thermalis JSC-11]
+Other Aliases: FJSC11DRAFT_RS12315, FJSC11DRAFT_2554
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 60766631
+
+6. FJSC11DRAFT_RS05930
+phosphonate ABC transporter ATP-binding protein [Fischerella thermalis JSC-11]
+Other Aliases: FJSC11DRAFT_RS05930, FJSC11DRAFT_1223
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 60765416
+
+7. phnC
+phosphonate ABC transporter ATP-binding protein [Turicibacter sanguinis]
+Other Aliases: HLK68_RS03025, HLK68_03035
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 60057840
+
+8. phnC
+phosphonate ABC transporter ATP-binding protein [Grimontia hollisae]
+Other Aliases: AL542_RS01210, AL542_01180
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 58894487
+
+9. GYA95_RS00650
+phosphonate ABC transporter ATP-binding protein [Pseudomonas asiatica]
+Other Aliases: GYA95_RS00650
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 58529256
+
+10. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus hominis]
+Other Aliases: EGX58_RS05460, EGX58_05470
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 58106290
+
+11. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus warneri]
+Other Aliases: D3P10_RS01130, D3P10_01130
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: st_war_22.1
+ID: 58058991
+
+12. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus caprae]
+Other Aliases: JMUB898_RS01065, JMUB898_0213
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 58049997
+
+13. phnC
+phosphonate ABC transporter ATP-binding protein [Weissella confusa]
+Other Aliases: C6P13_RS09625, C6P13_09645
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57979754
+
+14. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia mollaretii ATCC 43969]
+Other Aliases: HRD69_RS12475, HRD69_12475
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57918616
+
+15. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas mendocina S5.2]
+Other Aliases: DW68_RS14950, DW68_014950
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57607180
+
+16. phnC
+phosphonate ABC transporter ATP-binding protein [Lacticaseibacillus paracasei subsp. paracasei 8700:2]
+Other Aliases: LBPG_RS11840, LBPG_02359
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_022112.1 (2432978..2433751)
+ID: 57091029
+
+17. phnC
+phosphonate ABC transporter ATP-binding protein [Melissococcus plutonius]
+Other Aliases: DAT869_RS01875, DAT561_0382
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57042943
+
+18. phnC
+phosphonate ABC transporter ATP-binding protein [Clavibacter michiganensis subsp. michiganensis]
+Other Aliases: EFE39_RS11395, EFE39_11370
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56886532
+
+19. phnC
+phosphonate ABC transporter ATP-binding protein [Clavibacter michiganensis subsp. michiganensis]
+Other Aliases: EFE39_RS01985, EFE39_01995
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56884650
+
+20. phnC
+phosphonate ABC transporter ATP-binding protein [Brevundimonas diminuta]
+Other Aliases: DY220_RS13780, NCTC8545_02760
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56578253
+
+21. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus cytotoxicus]
+Other Aliases: CG479_RS12575, CG479_012550
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56417888
+
+22. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas tolaasii NCPPB 2192]
+Other Aliases: ATI14_RS28890, ATI14_6012
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 55849020
+
+23. phnC
+phosphonate ABC transporter ATP-binding protein [Paraburkholderia hospita]
+Other Aliases: C2L64_RS21500, C2L64_21500
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 55530892
+
+24. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus wiedmannii]
+Other Aliases: D4A37_RS18710
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 51135258
+
+25. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio cyclitrophicus]
+Other Aliases: FAZ90_RS16845, FAZ90_16845
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 50231830
+
+26. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio cyclitrophicus]
+Other Aliases: FAZ90_RS06460, FAZ90_06460
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 50229788
+
+27. DVB73_RS20340
+phosphonate ABC transporter ATP-binding protein [Pseudomonas plecoglossicida]
+Other Aliases: DVB73_RS20340, DVB73_20335
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 49615772
+
+28. phnC
+phosphonate ABC transporter ATP-binding protein [Fusobacterium polymorphum]
+Other Aliases: AT688_RS05220, ERS445057_01060
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 45634846
+
+29. phnC
+phosphonate ABC transporter ATP-binding protein [Citrobacter koseri ATCC BAA-895]
+Other Aliases: CKO_RS16090, CKO_03765
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_009792.1 (3502489..3503277)
+ID: 45137453
+
+30. phnC
+phosphonate ABC transporter ATP-binding protein [Ralstonia mannitolilytica]
+Other Aliases: TK49_RS01790, TK49_01790
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 34790089
+
+31. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus jensenii]
+Other Aliases: BUE77_RS01230, BUE77_01230
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 31742321
+
+32. phnC
+phosphonate ABC transporter ATP-binding protein [Tritonibacter mobilis F1926]
+Other Aliases: K529_RS19670, K529_019660
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Genomic context: Plasmid unnamed1
+ID: 28252100
+
+33. phnC
+phosphonate ABC transporter ATP-binding protein [Tritonibacter mobilis F1926]
+Other Aliases: K529_RS17185, K529_017180
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Genomic context: Plasmid unnamed1
+ID: 28251603
+
+34. C770_RS29390
+phosphonates import ATP-binding protein PhnC [Sinorhizobium meliloti GR4]
+Other Aliases: C770_RS29390, C770_GR4pD0734
+Genomic context: Plasmid pRmeGR4d
+Annotation:  NC_019849.1 (813458..814297)
+ID: 25013787
+
+35. phnC
+phosphonate ABC transporter ATP-binding protein [Mycoplasma capricolum subsp. capricolum ATCC 27343]
+Other Aliases: MCAP_RS04135, MCAP_0826
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_007633.1 (954106..954858)
+ID: 23778222
+
+36. phnC
+phosphonate ABC transporter ATP-binding protein [Bordetella holmesii ATCC 51541]
+Other Aliases: D560_RS01820, D560_0392
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 23430794
+
+37. phnC
+phosphonate ABC transporter ATP-binding protein [Enterococcus casseliflavus EC20]
+Other Aliases: ECBG_RS14835, ECBG_03122
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_020995.1 (3198287..3199078, complement)
+ID: 15143579
+
+38. phnC
+phosphonate ABC transporter ATP-binding protein [Enterococcus casseliflavus EC20]
+Other Aliases: ECBG_RS06210, ECBG_00635
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_020995.1 (1382235..1383023)
+ID: 15141845
+
+39. phnC
+phosphonate ABC transporter ATP-binding protein [Enterococcus casseliflavus EC20]
+Other Aliases: ECBG_RS00815, ECBG_01312
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_020995.1 (176103..176921)
+ID: 15140765
+
+40. phnC
+phosphonate ABC transporter ATP-binding protein [Mesoplasma florum L1]
+Other Aliases: MFL_RS03060, Mfl572
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_006055.1 (666751..667500, complement)
+ID: 2898016
+
+41. POR16_RS21175
+ATP-binding cassette domain-containing protein [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS21175, POR16_21175
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 72394880
+
+42. RG540_RS21095
+ATP-binding cassette domain-containing protein [Neorhizobium galegae bv. orientalis str. HAMBI 540]
+Other Aliases: RG540_RS21095, RG540_CH42600
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: I
+ID: 24259420
+
+43. phnC
+phosphonate ABC transporter ATPase [Escherichia coli O157:H7 str. Sakai]
+Other Aliases: ECs_5088
+Other Designations: phosphonate ABC transporter ATPase
+Annotation:  NC_002695.2 (5179351..5180139, complement)
+ID: 914244
+
+44. VHAB30_RS18930
+ATP-binding cassette domain-containing protein [Variovorax boronicumulans]
+Other Aliases: VHAB30_RS18930, VHAB30_38020
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 82270073
+
+45. KIJ28_RS03160
+ATP-binding cassette domain-containing protein [Pseudomonas syringae]
+Other Aliases: KIJ28_RS03160, KIJ28_03160
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77276617
+
+46. DYE26_RS06575
+ATP-binding cassette domain-containing protein [Paenibacillus macerans]
+Other Aliases: DYE26_RS06575, NCTC6355_01334
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77007299
+
+47. FLT43_RS04540
+ATP-binding cassette domain-containing protein [Paenibacillus thiaminolyticus]
+Other Aliases: FLT43_RS04540, FLT43_04540
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 76995241
+
+48. JWU58_RS12385
+ATP-binding cassette domain-containing protein [Pseudomonas atacamensis]
+Other Aliases: JWU58_RS12385, JWU58_12385
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 75525842
+
+49. LK433_RS15015
+ATP-binding cassette domain-containing protein [Segatella copri DSM 18205]
+Other Aliases: LK433_RS15015
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 75431543
+
+50. I6G34_RS19335
+ATP-binding cassette domain-containing protein [Stutzerimonas frequens]
+Other Aliases: I6G34_RS19335, I6G34_19335
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 75215495
+
+
+1. NF676_RS15095
+ATP-binding cassette domain-containing protein [Pseudomonas siliginis]
+Other Aliases: NF676_RS15095, NF676_15095
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 75193965
+
+2. I9H09_RS02485
+ATP-binding cassette domain-containing protein [Pseudomonas tremae]
+Other Aliases: I9H09_RS02485, I9H09_02495
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 73733661
+
+3. L6439_RS15345
+ATP-binding cassette domain-containing protein [Paenibacillus dendritiformis]
+Other Aliases: L6439_RS15345
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 73385605
+
+4. KP808_RS03475
+ATP-binding cassette domain-containing protein [Pseudomonas savastanoi]
+Other Aliases: KP808_RS03475, KP808_03445
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69857754
+
+5. VJ45_RS02100
+ATP-binding cassette domain-containing protein [Metamycoplasma hominis]
+Other Aliases: VJ45_RS02100, VE09_RS02100
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69703469
+
+6. PszF2a_RS15415
+ATP-binding cassette domain-containing protein [Stutzerimonas stutzeri]
+Other Aliases: PszF2a_RS15415, PszF2a_30180
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66822310
+
+7. K3369_RS12045
+ATP-binding cassette domain-containing protein [Pseudomonas mandelii]
+Other Aliases: K3369_RS12045, K3369_12045
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66648545
+
+8. MBOVA_RS02155
+ATP-binding cassette domain-containing protein [Mycoplasmopsis bovis 8790]
+Other Aliases: MBOVA_RS02155, MBOVa_4320
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66645779
+
+9. DP067_RS02545
+ATP-binding cassette domain-containing protein [Mycoplasmopsis anatis]
+Other Aliases: DP067_RS02545, DP067_02545
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 65653874
+
+10. BLR20_RS24450
+ATP-binding cassette domain-containing protein [Pseudomonas congelans]
+Other Aliases: BLR20_RS24450, SAMN05216596_11114
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 65077916
+
+11. XB13_RS04735
+ATP-binding cassette domain-containing protein [Pseudomonas fulva]
+Other Aliases: XB13_RS04735
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 64090677
+
+12. JQV57_RS12450
+ATP-binding cassette domain-containing protein [Sulfitobacter geojensis]
+Other Aliases: JQV57_RS12450, JQV57_12440
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 63943883
+
+13. DEH79_RS00485
+ATP-binding cassette domain-containing protein [Mycoplasmopsis synoviae]
+Other Aliases: DEH79_RS00485, DEH79_00495
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61970307
+
+14. ACG10_RS12080
+ATP-binding cassette domain-containing protein [Azotobacter chroococcum]
+Other Aliases: ACG10_RS12080, ACG10_11820
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61931399
+
+15. N010_RS0216005
+ATP-binding cassette domain-containing protein [Pseudomonas avellanae]
+Other Aliases: N010_RS0216005
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61791013
+
+16. KQK_RS00425
+ATP-binding cassette domain-containing protein [Mesomycoplasma ovipneumoniae ATCC 29419]
+Other Aliases: KQK_RS00425
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61272554
+
+17. BLS19_RS27635
+ATP-binding cassette domain-containing protein [Pseudomonas koreensis]
+Other Aliases: BLS19_RS27635, SAMN04490189_5696
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: I
+ID: 57637319
+
+18. FSV80_RS07235
+ATP-binding cassette domain-containing protein [Pseudomonas oryzihabitans]
+Other Aliases: FSV80_RS07235
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57558670
+
+19. PotMrB4_RS13910
+ATP-binding cassette domain-containing protein [Pseudomonas otitidis]
+Other Aliases: PotMrB4_RS13910, PtoMrB4_27720
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57397990
+
+20. CFBP1590_RS04500
+ATP-binding cassette domain-containing protein [Pseudomonas viridiflava]
+Other Aliases: CFBP1590_RS04500, CFBP1590_0957
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: I
+ID: 47762623
+
+21. A0T30_RS14785
+ATP-binding cassette domain-containing protein [Pseudomonas alcaligenes]
+Other Aliases: A0T30_RS14785, A0T30_14785
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 42931065
+
+22. BS614_RS21130
+ATP-binding cassette domain-containing protein [Paenibacillus xylanexedens]
+Other Aliases: BS614_RS21130, BS614_21130
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 32217973
+
+23. K529_RS22570
+ATP-binding cassette domain-containing protein [Tritonibacter mobilis F1926]
+Other Aliases: K529_RS22570, K529_022555
+Other Designations: ATP-binding cassette domain-containing protein
+Genomic context: Plasmid unnamed3
+ID: 28252680
+
+24. aztA
+zinc ABC transporter ATP-binding protein AztA [Nocardia abscessus NBRC 100374]
+Other Aliases: ON19_RS35125
+Other Designations: zinc ABC transporter ATP-binding protein AztA
+ID: 80358298
+
+25. aztA
+zinc ABC transporter ATP-binding protein AztA [Nocardia carnea]
+Other Aliases: OO61_RS23615
+Other Designations: zinc ABC transporter ATP-binding protein AztA
+ID: 80342129
+
+26. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio lentus]
+Other Aliases: BCT95_RS18515, BCT95_018395
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69651180
+
+27. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio lentus]
+Other Aliases: BCT95_RS05740, BCT95_005700
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69648625
+
+28. HFELIS_RS01895
+ABC transporter ATP-binding protein [Helicobacter felis ATCC 49179]
+Other Aliases: HFELIS_RS01895, HFELIS_03930
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_014810.2 (364796..365686)
+ID: 36134924
+
+29. L870_RS0115965
+ABC transporter ATP-binding protein [Ruminococcus flavefaciens ATCC 19208]
+Other Aliases: L870_RS0115965
+Other Designations: ABC transporter ATP-binding protein
+ID: 42539369
+
+30. phnC
+phosphonate ABC transporter ATP-binding protein [Macrococcus canis]
+Other Aliases: L2Z53_RS11620, L2Z53_11620
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 75267793
+
+31. phnC
+phosphonate ABC transporter ATP-binding protein [Comamonas kerstersii]
+Other Aliases: B5M06_RS08525, B5M06_08525
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83039363
+
+32. phnC
+phosphonate ABC transporter ATP-binding protein [Marinobacter salarius]
+Other Aliases: MARSALSMR5_RS05480, MARSALSMR5_01123
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77255095
+
+33. phnC
+phosphonate ABC transporter ATP-binding protein [Bordetella hinzii]
+Other Aliases: CBR68_RS04525, CBR68_04505
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56619413
+
+34. phnC
+phosphonate ABC transporter ATP-binding protein [Bordetella hinzii]
+Other Aliases: CBR68_RS00640, CBR68_00640
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56618636
+
+35. phnC
+phosphonate ABC transporter ATP-binding protein [Leuconostoc suionicum]
+Other Aliases: LES8484_RS07105, LES8484_01467
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75155479
+
+36. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus taiwanensis]
+Other Aliases: H1A07_RS00715, H1A07_00715
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64332932
+
+37. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia rubidaea]
+Other Aliases: I6G83_RS13635, I6G83_13635
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61764833
+
+38. phnC
+phosphonate ABC transporter ATP-binding protein [Shewanella algae]
+Other Aliases: GMX02_RS02070, GMX02_02070
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61691598
+
+39. phnC
+phosphonate ABC transporter ATP-binding protein [Fusobacterium pseudoperiodonticum]
+Other Aliases: CTM86_RS04370, CTM86_04340
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56856630
+
+40. H7U37_RS01335
+phosphonate ABC transporter ATP-binding protein [Pseudoflavonifractor phocaeensis]
+Other Aliases: H7U37_RS01335, H7U37_01330
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78368500
+
+41. phnC
+phosphonate ABC transporter ATP-binding protein [Gordonibacter pamelaeae]
+Other Aliases: C1877_RS01695, C1877_01695
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78358427
+
+42. phnC
+phosphonate ABC transporter ATP-binding protein [Salinicoccus roseus]
+Other Aliases: SN16_RS11790, SN16_11800
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77846225
+
+43. phnC
+phosphonate ABC transporter ATP-binding protein [Anaerotruncus colihominis]
+Other Aliases: K5I23_RS13280, K5I23_13280
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72464997
+
+44. phnC
+phosphonate ABC transporter ATP-binding protein [Megasphaera elsdenii]
+Other Aliases: C6Y28_RS02495, C6Y28_02495
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69663949
+
+45. phnC
+phosphonate ABC transporter ATP-binding protein [Dickeya solani]
+Other Aliases: BJJ98_RS04410, BJJ98_04230
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66641886
+
+46. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia liquefaciens]
+Other Aliases: F0336_RS06680, F0336_06670
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64205835
+
+47. phnC
+phosphonate ABC transporter ATP-binding protein [Adlercreutzia equolifaciens DSM 19450]
+Other Aliases: AEQU_RS08555, AEQU_1679
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_022567.1 (2144296..2145195, complement)
+ID: 62678269
+
+48. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia aleksiciae]
+Other Aliases: AP371_RS05125, ERS008671_01061
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61901586
+
+49. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter insolitus]
+Other Aliases: E2544_RS07245, E2544_07250
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56311136
+
+50. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter insolitus]
+Other Aliases: E2544_RS04685, E2544_04690
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56310624
+
+
+1. phnC
+phosphonate ABC transporter ATP-binding protein [[Eubacterium] eligens ATCC 27750]
+Other Aliases: EUBELI_RS12285, EUBELI_20418
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Genomic context: Plasmid unnamed
+Annotation:  NC_012780.1 (380377..381129, complement)
+ID: 41357137
+
+2. phnC
+phosphonate ABC transporter ATP-binding protein [Aerococcus urinae]
+Other Aliases: AWM73_RS00325, AWM73_00325
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 35767445
+
+3. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia rochesterensis]
+Other Aliases: DXZ79_RS07175, DXZ79_07160
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 82550555
+
+4. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus gallinarum]
+Other Aliases: B5E95_RS07060, B5E95_07010
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78203476
+
+5. CL52_RS14230
+phosphonate ABC transporter ATP-binding protein [Stutzerimonas balearica DSM 6083]
+Other Aliases: CL52_RS14230, CL52_14480
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77261104
+
+6. phnC
+phosphonate ABC transporter ATP-binding protein [Mycobacterium montefiorense]
+Other Aliases: DB708_RS10055, MmonteBS_20150
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 76050693
+
+7. phnC
+phosphonate ABC transporter ATP-binding protein [Mycobacterium montefiorense]
+Other Aliases: DB708_RS08200, MmonteBS_16440
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 76050330
+
+8. phnC
+phosphonate ABC transporter ATP-binding protein [Pediococcus ethanolidurans]
+Other Aliases: IV87_RS09140, IV87_GL001099
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 76044288
+
+9. phnC
+phosphonate ABC transporter ATP-binding protein [Citrobacter europaeus]
+Other Aliases: C3454_RS20875, C3454_21150
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 73801134
+
+10. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter sichuanensis]
+Other Aliases: C1N69_RS01780, C1N69_01795
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72830239
+
+11. phnC
+phosphonate ABC transporter ATP-binding protein [Raoultella planticola]
+Other Aliases: MNO12_RS09810, MNO12_09810
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72406942
+
+12. phnC
+phosphonate ABC transporter ATP-binding protein [Comamonas thiooxydans]
+Other Aliases: Cthiooxydans_RS17775, Cthiooxydans_34450
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69561211
+
+13. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudosulfitobacter pseudonitzschiae]
+Other Aliases: HT745_RS14705, HT745_14710
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 68870972
+
+14. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudosulfitobacter pseudonitzschiae]
+Other Aliases: HT745_RS06085, HT745_06085
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 68869251
+
+15. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter chengduensis]
+Other Aliases: FY206_RS01880, FY206_01880
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 63140375
+
+16. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas avellanae]
+Other Aliases: N010_RS0217355
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61791265
+
+17. phnC
+phosphonate ABC transporter ATP-binding protein [Pectobacterium polaris]
+Other Aliases: BJK05_RS22180, BJK05_21520
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61411273
+
+18. phnC
+phosphonate ABC transporter ATP-binding protein [Pectobacterium versatile]
+Other Aliases: SCC1_RS17160, SCC1_3401
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57315585
+
+19. phnC
+phosphonate ABC transporter ATP-binding protein [Pandoraea pnomenusa]
+Other Aliases: X636_RS02685, X636_13315
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_023018.2 (573277..574152)
+ID: 57197084
+
+20. phnC
+phosphonate ABC transporter ATP-binding protein [Gordonibacter urolithinfaciens]
+Other Aliases: B5F44_RS11540, B5F44_11545
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56996531
+
+21. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus tropicus]
+Other Aliases: GM610_RS14910, GM610_14760
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56653432
+
+22. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas yamanorum]
+Other Aliases: AK972_RS07880, AK972_1530
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56070643
+
+23. phnC
+phosphonate ABC transporter ATP-binding protein [Clostridium saccharobutylicum DSM 13864]
+Other Aliases: CLSA_RS11660, CLSA_c24120
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_022571.1 (2723909..2724673, complement)
+ID: 55474835
+
+24. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter roggenkampii]
+Other Aliases: BFV67_RS01780, BFV67_01780
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 45794054
+
+25. phnC
+phosphonate ABC transporter ATP-binding protein [Marinobacter nauticus ATCC 49840]
+Other Aliases: MARHY_RS09170, MARHY1926
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_017067.1 (1991143..1991961, complement)
+ID: 31821354
+
+26. phnC
+phosphonate ABC transporter ATP-binding protein [Ligilactobacillus aviarius subsp. aviarius DSM 20655]
+Other Aliases: FC33_RS02410, FC33_GL000867
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 29934419
+
+27. phnC
+phosphonate ABC transporter ATP-binding protein [Heyndrickxia coagulans DSM 1 = ATCC 7050]
+Other Aliases: BF29_RS14415, BF29_2973
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 29814150
+
+28. phnC
+phosphonate ABC transporter ATP-binding protein [Rhodococcus fascians D188]
+Other Aliases: A3L23_RS17820, A3L23_03610
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 29798363
+
+29. CCNA_00366
+phosphonates transport ATP-binding protein phnC [Caulobacter vibrioides NA1000]
+Other Aliases: CCNA_00366
+Other Designations: phosphonates transport ATP-binding protein phnC
+Annotation:  NC_011916.1 (383009..383803)
+ID: 7331065
+
+30. phnC
+phosphonate/organophosphate ester transporter subunit [Shigella flexneri 2a str. 301]
+Other Aliases: SF4117
+Annotation:  NC_004337.2 (4282893..4283681)
+ID: 1026572
+
+31. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio breoganii]
+Other Aliases: OCU35_RS05595
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 77305482
+
+32. phnC
+phosphonate ABC transporter ATP-binding protein [Paraburkholderia caribensis MBA4]
+Other Aliases: K788_RS28700, K788_0004773
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 69972630
+
+33. phnC
+phosphonate ABC transporter ATP-binding protein [Cytobacillus oceanisediminis]
+Other Aliases: IQ19_RS12560, IQ19_02599
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 65403771
+
+34. phnC
+phosphonate ABC transporter ATP-binding protein [Cytobacillus oceanisediminis]
+Other Aliases: IQ19_RS02485, IQ19_00495
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 65401782
+
+35. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio nigripulchritudo POn4]
+Other Aliases: VIBNIPON4_RS24880, VIBNIPon4_870036
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61877806
+
+36. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio nigripulchritudo POn4]
+Other Aliases: VIBNIPON4_RS13805, VIBNIPon4_390112
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61875622
+
+37. phnC
+phosphonate ABC transporter ATP-binding protein [Paraburkholderia tropica]
+Other Aliases: G5S35_RS20075, G5S35_20030
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: B
+ID: 61304836
+
+38. phnC
+phosphonate ABC transporter ATP-binding protein [Nocardia farcinica IFM 10152]
+Other Aliases: NFA_RS17620, NFA_35290, nfa35290
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_006361.1 (3741676..3742491, complement)
+ID: 61134230
+
+39. phnC
+phosphonate ABC transporter ATP-binding protein [Bordetella trematum]
+Other Aliases: DY259_RS17510, NCTC12995_03525
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56590856
+
+40. phnC
+phosphonate ABC transporter ATP-binding protein [Neorhizobium galegae bv. orientalis str. HAMBI 540]
+Other Aliases: RG540_RS21430, RG540_CH43280
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: I
+ID: 24256236
+
+41. KPHS_10250
+phosphonate transport ATP-binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]
+Other Aliases: KPHS_10250
+Other Designations: phosphonate transport ATP-binding protein
+Annotation:  NC_016845.1 (1084067..1084909, complement)
+ID: 11846023
+
+42. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter asburiae]
+Other Aliases: FOY94_RS01740, EAS17NKHM_003340
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75131972
+
+43. phnC
+phosphonate ABC transporter ATP-binding protein [Paraburkholderia fungorum]
+Other Aliases: OI25_RS37985, OI25_6590
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 66520354
+
+44. phnC
+phosphonate ABC transporter ATP-binding protein [Klebsiella grimontii]
+Other Aliases: FN634_RS00455
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 64334879
+
+45. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia aldovae 670-83]
+Other Aliases: AT01_RS19105, AT01_3878
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 45572962
+
+46. phnC
+phosphonate ABC transporter ATP-binding protein [Bradyrhizobium ottawaense]
+Other Aliases: GDN72_RS02075, SG09_04060
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 83307018
+
+47. phnC
+phosphonate ABC transporter ATP-binding protein [Variovorax boronicumulans]
+Other Aliases: VHAB30_RS14835, VHAB30_29790
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 82269257
+
+48. phnC
+phosphonate ABC transporter ATP-binding protein [Enterocloster aldenensis]
+Other Aliases: DW886_RS01090, DW886_01090
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 82195540
+
+49. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus badius]
+Other Aliases: K7T73_RS09520, K7T73_09515
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 82145619
+
+50. phnC
+phosphonate ABC transporter ATP-binding protein [Comamonas terrigena NBRC 13299]
+Other Aliases: CT3_RS15570, CT3_30720
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 80802582
+
+
+1. phnC
+phosphonate ABC transporter ATP-binding protein [Nocardia carnea]
+Other Aliases: OO61_RS27280
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 80342830
+
+2. P3T65_RS27705
+phosphonate ABC transporter ATP-binding protein [Pseudomonas nitroreducens]
+Other Aliases: P3T65_RS27705, P3T65_27705
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79915534
+
+3. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas nitroreducens]
+Other Aliases: P3T65_RS22835, P3T65_22835
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79914560
+
+4. phnC
+phosphonate ABC transporter ATP-binding protein [Heyndrickxia oleronia]
+Other Aliases: KI370_RS15755, J19TS1_31450
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79868869
+
+5. phnC
+phosphonate ABC transporter ATP-binding protein [Agrobacterium salinitolerans]
+Other Aliases: O9X91_RS03050, O9X91_03050
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79861592
+
+6. phnC
+phosphonate ABC transporter ATP-binding protein [Lactiplantibacillus argentoratensis]
+Other Aliases: LPL03_RS08250, LPL03_16020
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79830984
+
+7. phnC
+phosphonate ABC transporter ATP-binding protein [Bradyrhizobium yuanmingense]
+Other Aliases: P0R27_RS13325, P0R27_13320
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79820345
+
+8. phnC
+phosphonate ABC transporter ATP-binding protein [Lactiplantibacillus paraplantarum]
+Other Aliases: PWO93_RS02795, PWO93_02795
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79806420
+
+9. phnC
+phosphonate ABC transporter ATP-binding protein [Enterococcus malodoratus]
+Other Aliases: PGP85_RS00745
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79784655
+
+10. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia nevei]
+Other Aliases: F0338_RS19050
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79511874
+
+11. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter mucicolens]
+Other Aliases: K9D24_RS16755, K9D24_16715
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 79233831
+
+12. phnC
+phosphonate ABC transporter ATP-binding protein [Schleiferilactobacillus harbinensis]
+Other Aliases: FMM01_RS14170, FMM01_14165
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78510997
+
+13. phnC
+phosphonate ABC transporter ATP-binding protein [Schleiferilactobacillus harbinensis]
+Other Aliases: FMM01_RS08750, FMM01_08750
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78509934
+
+14. PPA02S_RS10430
+phosphonate ABC transporter ATP-binding protein [Pseudomonas parafulva NBRC 16636 = DSM 17004]
+Other Aliases: PPA02S_RS10430
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78503558
+
+15. phnC
+phosphonate ABC transporter ATP-binding protein [Obesumbacterium proteus]
+Other Aliases: XK97_RS16110, XK97_16105
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78451995
+
+16. phnC
+phosphonate ABC transporter ATP-binding protein [Phaeobacter italicus]
+Other Aliases: KUV39_RS05395, KUV39_05395
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78397143
+
+17. phnC
+phosphonate ABC transporter ATP-binding protein [Ewingella americana]
+Other Aliases: F4W05_RS01990, F4W05_01990
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78379210
+
+18. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudobutyrivibrio ruminis DSM 9787]
+Other Aliases: CRN97_RS04845, SAMN02910411_1570
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78376952
+
+19. phnC
+pseudo [Pseudoflavonifractor phocaeensis]
+Other Aliases: H7U37_RS07325, H7U37_07320
+ID: 78369682
+
+20. phnC
+phosphonate ABC transporter ATP-binding protein [Thermoflexus hugenholtzii JAD2]
+Other Aliases: CFB18_RS10775, SAMN02746019_00011450
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78324485
+
+21. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter spanius]
+Other Aliases: EL258_RS06635, NCTC13519_01340
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 78279875
+
+22. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter spanius]
+Other Aliases: EL258_RS04385, NCTC13519_00887
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 78279428
+
+23. phnC
+phosphonate ABC transporter ATP-binding protein [Kalamiella piersonii]
+Other Aliases: D7S44_RS07470, D7S44_07455
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78233294
+
+24. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus panisapium]
+Other Aliases: GYM71_RS09320, GYM71_09295
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78216137
+
+25. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus acetotolerans]
+Other Aliases: LA749_RS00850, LA749_00850
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78211523
+
+26. phnC
+phosphonate ABC transporter ATP-binding protein [Anaerotignum lactatifermentans]
+Other Aliases: INF29_RS06095, INF29_06095
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78176495
+
+27. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus apis]
+Other Aliases: DKL56_RS07180, DKL56_07180
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78160965
+
+28. phnC
+phosphonate ABC transporter ATP-binding protein [Lactobacillus helsingborgensis]
+Other Aliases: DLD54_RS07800, DLD54_07800
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78129960
+
+29. phnC
+phosphonate ABC transporter ATP-binding protein [Bifidobacterium tibiigranuli]
+Other Aliases: DDE84_RS03445, DDE84_03470
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78126752
+
+30. phnC
+phosphonate ABC transporter ATP-binding protein [Brevundimonas naejangsanensis DSM 23858]
+Other Aliases: H556_RS0115250
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78119192
+
+31. phnC
+phosphonate ABC transporter ATP-binding protein [Bacteriovorax stolpii]
+Other Aliases: DOM21_RS10245, DOM21_10260
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78104001
+
+32. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio europaeus]
+Other Aliases: AZ468_RS19555, AZ468_19170
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 78077846
+
+33. phnC
+phosphonate ABC transporter ATP-binding protein [Nodularia spumigena UHCC 0039]
+Other Aliases: BMF81_RS15395
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78018306
+
+34. BMF81_RS09760
+phosphonate ABC transporter ATP-binding protein [Nodularia spumigena UHCC 0039]
+Other Aliases: BMF81_RS09760
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 78017254
+
+35. phnC
+phosphonate ABC transporter ATP-binding protein [Microbacterium algeriense]
+Other Aliases: F6A08_RS05135, F6A08_05135
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77475821
+
+36. phnC
+phosphonate ABC transporter ATP-binding protein [Microbacterium algeriense]
+Other Aliases: F6A08_RS04285, F6A08_04285
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77475652
+
+37. F6A08_RS00250
+phosphonate ABC transporter ATP-binding protein [Microbacterium algeriense]
+Other Aliases: F6A08_RS00250, F6A08_00250
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77474851
+
+38. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus simulans]
+Other Aliases: MUA87_RS11295, MUA87_11290
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77332514
+
+39. phnC
+phosphonate ABC transporter ATP-binding protein [Marinobacter salarius]
+Other Aliases: MARSALSMR5_RS19370, MARSALSMR5_03931
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77257847
+
+40. phnC
+phosphonate ABC transporter ATP-binding protein [Marinobacter salarius]
+Other Aliases: MARSALSMR5_RS14650, MARSALSMR5_02984
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77256911
+
+41. phnC
+phosphonate ABC transporter ATP-binding protein [Leuconostoc falkenbergense]
+Other Aliases: EFT43_RS03020, EFT43_03010
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77208853
+
+42. phnC
+phosphonate ABC transporter ATP-binding protein [Paraburkholderia aspalathi]
+Other Aliases: KHO30_RS07455, R20943_01511
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77193696
+
+43. phnC
+phosphonate ABC transporter ATP-binding protein [Halomonas venusta]
+Other Aliases: JDS37_RS18470, JDS37_18475
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77017167
+
+44. phnC
+phosphonate ABC transporter ATP-binding protein [Halomonas venusta]
+Other Aliases: JDS37_RS02185, JDS37_02185
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77013928
+
+45. phnC
+phosphonate ABC transporter ATP-binding protein [Paenibacillus macerans]
+Other Aliases: DYE26_RS25335, NCTC6355_05109
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 77010869
+
+46. phnC
+phosphonate ABC transporter ATP-binding protein [Paenibacillus thiaminolyticus]
+Other Aliases: FLT43_RS21465, FLT43_21465
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 76998532
+
+47. phnC
+phosphonate ABC transporter ATP-binding protein [Verminephrobacter eiseniae EF01-2]
+Other Aliases: VEIS_RS14425, Veis_2964
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_008786.1 (3315225..3316115)
+ID: 76461441
+
+48. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter quasiroggenkampii]
+Other Aliases: EKO03_RS18720, EKO03_18720
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75416005
+
+49. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia grimesii]
+Other Aliases: SGBXF1_RS06810, SGBXF1_01358
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 75281151
+
+50. phnC
+phosphonate ABC transporter ATP-binding protein [Macrococcus canis]
+Other Aliases: L2Z53_RS02570, L2Z53_02570
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 75265985
+
+
+1. phnC
+phosphonate ABC transporter ATP-binding protein [Rhizobium anhuiense bv. trifolii]
+Other Aliases: NE851_RS10855, NE851_10845
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75217994
+
+2. phnC
+phosphonate ABC transporter ATP-binding protein [Stutzerimonas frequens]
+Other Aliases: I6G34_RS04420, I6G34_04420
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75212528
+
+3. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia alsatica]
+Other Aliases: N0H69_RS17915, N0H69_17915
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75141916
+
+4. phnC
+phosphonate ABC transporter ATP-binding protein [Corynebacterium macginleyi]
+Other Aliases: GWO70_RS07600, GWO70_007605
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75125997
+
+5. phnC
+phosphonate ABC transporter ATP-binding protein [Cupriavidus pauculus]
+Other Aliases: LDZ25_RS03630
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 75096766
+
+6. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia ficaria]
+Other Aliases: CKW09_RS07325, SAMEA4384070_01462
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 75026633
+
+7. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia entomophila]
+Other Aliases: KHA73_RS07250, KHA73_07265
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 75021727
+
+8. phnC
+phosphonate ABC transporter ATP-binding protein [Fructilactobacillus fructivorans]
+Other Aliases: LfDm3_RS01915, LfDm3_0391
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 74913077
+
+9. phnC
+phosphonate ABC transporter ATP-binding protein [Brevibacterium luteolum]
+Other Aliases: EW640_RS10570, EW640_10535
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 74911706
+
+10. phnC
+phosphonate ABC transporter ATP-binding protein [Mycolicibacterium phlei]
+Other Aliases: DYB71_RS24980, NCTC8156_05033
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 74305320
+
+11. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus borealis]
+Other Aliases: AK212_RS07090
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 74186373
+
+12. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas tremae]
+Other Aliases: I9H09_RS14435, I9H09_14400
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 73736051
+
+13. phnC
+phosphonate ABC transporter ATP-binding protein [Stutzerimonas kunmingensis]
+Other Aliases: LW136_RS00490, LW136_00490
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 73728712
+
+14. phnC
+phosphonate ABC transporter ATP-binding protein [Kerstersia gyiorum]
+Other Aliases: EV679_RS13900, EV679_2803
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 73002180
+
+15. phnC
+phosphonate ABC transporter ATP-binding protein [Priestia endophytica]
+Other Aliases: A4R27_RS06695, A4R27_06660
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72759213
+
+16. phnC
+phosphonate ABC transporter ATP-binding protein [Enterobacter mori]
+Other Aliases: L6Y89_RS01630, L6Y89_01630
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72512938
+
+17. phnC
+phosphonate ABC transporter ATP-binding protein [Sulfitobacter mediterraneus]
+Other Aliases: JNX02_RS04965, JNX02_04965
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72437775
+
+18. phnC
+phosphonate ABC transporter ATP-binding protein [Weissella hellenica]
+Other Aliases: HF960_RS07130, HF960_07135
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72424573
+
+19. phnC
+phosphonate ABC transporter ATP-binding protein [Vagococcus lutrae]
+Other Aliases: M2919_RS07245, M2919_07245
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 72385546
+
+20. phnC
+phosphonate ABC transporter ATP-binding protein [Parvimonas micra]
+Other Aliases: DYJ31_RS04650, DYJ31_04650
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 71955317
+
+21. phnC
+phosphonate ABC transporter ATP-binding protein [Lactococcus carnosus]
+Other Aliases: BHS00_RS08245, BHS00_08210
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 71636638
+
+22. phnC
+phosphonate ABC transporter ATP-binding protein [Virgibacillus halodenitrificans]
+Other Aliases: BME96_RS18335, BME96_18165
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 71516339
+
+23. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter insuavis]
+Other Aliases: H0522_RS07490, LMG26846_01489
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 71017348
+
+24. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter insuavis]
+Other Aliases: H0522_RS05135, LMG26846_01020
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 71016879
+
+25. phnC
+phosphonate ABC transporter ATP-binding protein [Brenneria goodwinii]
+Other Aliases: AWC36_RS23170, AWC36_22705
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 70909638
+
+26. phnC
+phosphonate ABC transporter ATP-binding protein [Corynebacterium minutissimum]
+Other Aliases: DQN65_RS07825, NCTC10288_01594
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 70783483
+
+27. phnC
+phosphonate ABC transporter ATP-binding protein [Cupriavidus gilardii]
+Other Aliases: FOB47_RS05110, FOB47_05110
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 70687690
+
+28. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio cincinnatiensis]
+Other Aliases: DX498_RS10830, NCTC12012_02206
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 70583539
+
+29. H2677_RS06725
+DUF3465 domain-containing protein [Acinetobacter junii]
+Other Aliases: H2677_RS06725, H2677_06725
+Other Designations: DUF3465 domain-containing protein
+ID: 70092199
+
+30. phnC
+phosphonate ABC transporter ATP-binding protein [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS00005, NCTC9164_00001
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69882620
+
+31. phnC
+phosphonate ABC transporter ATP-binding protein [Vagococcus fluvialis]
+Other Aliases: K5K99_RS09180, K5K99_09155
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69881506
+
+32. phnC
+phosphonate ABC transporter ATP-binding protein [Vagococcus fluvialis]
+Other Aliases: K5K99_RS06490, K5K99_06465
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69880968
+
+33. phnC
+phosphonate ABC transporter ATP-binding protein [Lentilactobacillus parabuchneri]
+Other Aliases: ILQ00_RS06380, ILQ00_06380
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69803102
+
+34. phnC
+phosphonate ABC transporter ATP-binding protein [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS20780, LGM30_20815
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69756887
+
+35. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia proxima]
+Other Aliases: FTB57_RS18800
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69702583
+
+36. phnC
+phosphonate ABC transporter ATP-binding protein [Lysinibacillus sphaericus]
+Other Aliases: EYB33_RS13545, EYB33_13515
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69661523
+
+37. phnC
+phosphonate ABC transporter ATP-binding protein [Microbacterium oxydans]
+Other Aliases: MOX01_RS05585, MOX01_11370
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69642024
+
+38. phnC
+phosphonate ABC transporter ATP-binding protein [Microbacterium oxydans]
+Other Aliases: MOX01_RS04750, MOX01_09680
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69641859
+
+39. MOX01_RS00260
+phosphonate ABC transporter ATP-binding protein [Microbacterium oxydans]
+Other Aliases: MOX01_RS00260, MOX01_00560
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69640973
+
+40. phnC
+phosphonate ABC transporter ATP-binding protein [Citrobacter farmeri]
+Other Aliases: EGK65_RS21025, EGK65_21050
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69619698
+
+41. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus pacificus]
+Other Aliases: LMD38_RS08655, LMD38_08655
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69530947
+
+42. phnC
+phosphonate ABC transporter ATP-binding protein [Blautia faecis]
+Other Aliases: LIZ66_RS12125, LIZ66_12130
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69514950
+
+43. phnC
+phosphonate ABC transporter ATP-binding protein [Citrobacter werkmanii]
+Other Aliases: FOB24_RS03580, FOB24_03580
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69484788
+
+44. phnC
+phosphonate ABC transporter ATP-binding protein [Citrobacter cronae]
+Other Aliases: JSN25_RS07245
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69429400
+
+45. phnC
+phosphonate ABC transporter ATP-binding protein [Halomonas titanicae]
+Other Aliases: HZS52_RS06025, HZS52_06025
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69280956
+
+46. phnC
+phosphonate ABC transporter ATP-binding protein [Halomonas titanicae]
+Other Aliases: HZS52_RS02895, HZS52_02895
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 69280331
+
+47. phnC
+pseudo [Halomonas meridiana]
+Other Aliases: BUR06_RS11570, SAMN05878438_2384
+ID: 68922738
+
+48. phnC
+phosphonate ABC transporter ATP-binding protein [Clostridium neonatale]
+Other Aliases: CNEONATNEC86_RS01860, CNEONATNEC86_00363
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 68875669
+
+49. phnC
+phosphonate ABC transporter ATP-binding protein [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS27810, SIAM614_16757
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 68849705
+
+50. phnC
+phosphonate ABC transporter ATP-binding protein [Rouxiella badensis]
+Other Aliases: G3M83_RS04680, G3M83_04675
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 68685226
+
+
+1. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus mobilis]
+Other Aliases: BACERE00185_RS19460, BACERE00177_03777, CCN64_RS19905
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 68608840
+
+2. phnC
+phosphonate ABC transporter ATP-binding protein [Intestinibacter bartlettii]
+Other Aliases: FXW45_RS08795
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 68214962
+
+3. phnC
+phosphonate ABC transporter ATP-binding protein [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS17505, I2D83_17500
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 67795332
+
+4. phnC
+phosphonate ABC transporter ATP-binding protein [Cytobacillus firmus]
+Other Aliases: DY227_RS11695, NCTC10335_02399
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 67523997
+
+5. phnC
+phosphonate ABC transporter ATP-binding protein [Cylindrospermopsis raciborskii N8]
+Other Aliases: J9B92_RS14425
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 67521162
+
+6. J9B92_RS02525
+phosphonate ABC transporter ATP-binding protein [Cylindrospermopsis raciborskii N8]
+Other Aliases: J9B92_RS02525
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 67518782
+
+7. phnC
+phosphonate ABC transporter ATP-binding protein [Rhizobium laguerreae]
+Other Aliases: HFO71_RS20205, HFO71_20380
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 67486237
+
+8. phnC
+phosphonate ABC transporter ATP-binding protein [Erwinia persicina]
+Other Aliases: K6L24_RS08445, K6L24_08445
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 67476249
+
+9. phnC
+phosphonate ABC transporter ATP-binding protein [Pantoea dispersa]
+Other Aliases: K7H94_RS07375, K7H94_07375
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 67451432
+
+10. phnC
+phosphonate ABC transporter ATP-binding protein [Variovorax paradoxus NBRC 15149]
+Other Aliases: VPA02S_RS18905
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 67428383
+
+11. phnC
+phosphonate ABC transporter ATP-binding protein [Enterococcus raffinosus]
+Other Aliases: J9537_RS15475, J9537_15475
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Genomic context: Plasmid pF162_2_1
+ID: 67041593
+
+12. phnC
+phosphonate ABC transporter ATP-binding protein [Microbacterium esteraromaticum]
+Other Aliases: JOE67_RS05590, JOE67_001091
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 67036529
+
+13. phnC
+phosphonate ABC transporter ATP-binding protein [Yokenella regensburgei]
+Other Aliases: C7387_RS15465, C7387_3129
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66905117
+
+14. phnC
+phosphonate ABC transporter ATP-binding protein [Virgibacillus pantothenticus]
+Other Aliases: KBP50_RS20990, KBP50_20990
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66872939
+
+15. phnC
+phosphonate ABC transporter ATP-binding protein [Virgibacillus pantothenticus]
+Other Aliases: KBP50_RS18995, KBP50_18995
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66872540
+
+16. phnC
+phosphonate ABC transporter ATP-binding protein [Virgibacillus pantothenticus]
+Other Aliases: KBP50_RS12540, KBP50_12540
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66871249
+
+17. phnC
+phosphonate ABC transporter ATP-binding protein [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS08320, R7A2020_08320
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66681968
+
+18. J1G47_RS10365
+phosphonate ABC transporter ATP-binding protein [Glaesserella parasuis]
+Other Aliases: J1G47_RS10365, J1G47_10365
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66619692
+
+19. phnC
+phosphonate ABC transporter ATP-binding protein [Klebsiella aerogenes]
+Other Aliases: FPV33_RS19685, FPV33_19685
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66605265
+
+20. phnC
+phosphonate ABC transporter ATP-binding protein [Paenibacillus polymyxa]
+Other Aliases: FGY93_RS12030, FGY93_12030
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66575712
+
+21. phnC
+phosphonate ABC transporter ATP-binding protein [Dickeya fangzhongdai]
+Other Aliases: CVE23_RS08375, CVE23_08375
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66564349
+
+22. phnC
+phosphonate ABC transporter ATP-binding protein [Leuconostoc lactis]
+Other Aliases: FGL83_RS03855, FGL83_03855
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66531316
+
+23. phnC
+phosphonate ABC transporter ATP-binding protein [Mameliella alba]
+Other Aliases: CDZ96_RS16980, CDZ96_16980
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66502270
+
+24. phnC
+phosphonate ABC transporter ATP-binding protein [Enterococcus gallinarum]
+Other Aliases: EB54_RS01805, EB54_00354
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66472513
+
+25. phnC
+phosphonate ABC transporter ATP-binding protein [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS36810, BE61_75240
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66429148
+
+26. phnC
+phosphonate ABC transporter ATP-binding protein [Lelliottia amnigena]
+Other Aliases: I6L75_RS21270, I6L75_21260
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66412822
+
+27. phnC
+phosphonate ABC transporter ATP-binding protein [Kosakonia radicincitans]
+Other Aliases: FEI17_RS06135, FEI17_06135
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66391082
+
+28. phnC
+phosphonate ABC transporter ATP-binding protein [Agrobacterium rhizogenes]
+Other Aliases: EML492_RS18635, EML492_18635
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 66386823
+
+29. phnC
+phosphonate ABC transporter ATP-binding protein [Citrobacter amalonaticus]
+Other Aliases: AL524_RS30850, AL524_05385
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66235765
+
+30. phnC
+phosphonate ABC transporter ATP-binding protein [Rhizobium bangladeshense]
+Other Aliases: J2J98_RS00815, J2J98_00815
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66144350
+
+31. phnC
+phosphonate ABC transporter ATP-binding protein [Rhizobium lentis]
+Other Aliases: J0663_RS09485, J0663_09485
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 66139866
+
+32. phnC
+phosphonate ABC transporter ATP-binding protein [Pantoea allii]
+Other Aliases: C7431_RS13065, C7431_10539
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 65791374
+
+33. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas cannabina pv. alisalensis]
+Other Aliases: JGS08_RS15315, JGS08_15315
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64466229
+
+34. phnC
+phosphonate ABC transporter ATP-binding protein [Kocuria rosea]
+Other Aliases: E2R59_RS06280, E2R59_06285
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64347015
+
+35. phnC
+phosphonate ABC transporter ATP-binding protein [Leuconostoc pseudomesenteroides]
+Other Aliases: I6H60_RS00940, I6H60_00940
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64343849
+
+36. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia ureilytica]
+Other Aliases: J0X03_RS16825, J0X03_16825
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64309277
+
+37. phnC
+phosphonate ABC transporter ATP-binding protein [Bacillus toyonensis]
+Other Aliases: I0K03_RS17545, I0K03_17545
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64184921
+
+38. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio mediterranei]
+Other Aliases: HOP38_RS25210, HOP38_25210
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: II
+ID: 64089570
+
+39. phnC
+phosphonate ABC transporter ATP-binding protein [Corynebacterium amycolatum]
+Other Aliases: I6I65_RS03060, I6I65_03060
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 64051381
+
+40. phnC
+phosphonate ABC transporter ATP-binding protein [Sulfitobacter geojensis]
+Other Aliases: JQV57_RS12350, JQV57_12340
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 63943863
+
+41. phnC
+phosphonate ABC transporter ATP-binding protein [Sulfitobacter geojensis]
+Other Aliases: JQV57_RS03345, JQV57_03350
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 63942062
+
+42. phnC
+phosphonate ABC transporter ATP-binding protein [Marivita cryptomonadis]
+Other Aliases: MCRY_RS08070, MCRY_08070
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 62640721
+
+43. phnC
+phosphonate ABC transporter ATP-binding protein [Marivita cryptomonadis]
+Other Aliases: MCRY_RS06545, MCRY_06550
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 62640420
+
+44. phnC
+phosphonate ABC transporter ATP-binding protein [Marivita cryptomonadis]
+Other Aliases: MCRY_RS06465, MCRY_06470
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 62640404
+
+45. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio coralliirubri]
+Other Aliases: ED654_RS17915
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 62575190
+
+46. phnC
+phosphonate ABC transporter ATP-binding protein [Heyndrickxia sporothermodurans]
+Other Aliases: B5V89_RS11430, B5V89_11370
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 62499019
+
+47. phnC
+phosphonate ABC transporter ATP-binding protein [Rhodovulum sulfidophilum]
+Other Aliases: A6024_RS02555, A6024_02555
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 62369905
+
+48. phnC
+phosphonate ABC transporter ATP-binding protein [Yersinia massiliensis CCUG 53443]
+Other Aliases: BN68_RS07955, BN68_08130
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61815271
+
+49. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas fluorescens]
+Other Aliases: CPH89_RS20010, SAMN04488487_4115
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: I
+ID: 61637950
+
+50. phnC
+phosphonate ABC transporter ATP-binding protein [Sinorhizobium medicae]
+Other Aliases: FB009_RS23185, FB009_11579
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61613457
+
+
+1. phnC
+phosphonate ABC transporter ATP-binding protein [Shouchella clausii]
+Other Aliases: CHH52_RS15570, CHH52_15565
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61574336
+
+2. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio crassostreae]
+Other Aliases: EDB33_RS16975, EDB33_111142
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61506055
+
+3. phnC
+phosphonate ABC transporter ATP-binding protein [Rhizobium leguminosarum]
+Other Aliases: ELH04_RS23025, ELH04_23025
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61426381
+
+4. phnC
+phosphonate ABC transporter ATP-binding protein [Moritella viscosa]
+Other Aliases: BT797_RS00080, LFI5006_0016, concatenated_sequence_orf00018
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61293748
+
+5. phnC
+phosphonate ABC transporter ATP-binding protein [Oligella urethralis]
+Other Aliases: DXZ51_RS05860, NCTC11008_01191
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61260624
+
+6. phnC
+phosphonate ABC transporter ATP-binding protein [Leuconostoc citreum]
+Other Aliases: FGL72_RS09045, FGL72_09045
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61103192
+
+7. phnC
+phosphonate ABC transporter ATP-binding protein [Mesorhizobium loti]
+Other Aliases: C8D77_RS00670, C8D77_101134
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61049493
+
+8. phnC
+phosphonate ABC transporter ATP-binding protein [Enterococcus mundtii]
+Other Aliases: EM4838_RS11035, EM4838_10845
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 61000186
+
+9. phnC
+phosphonate ABC transporter ATP-binding protein [Agrobacterium tumefaciens]
+Other Aliases: At12D1_RS14380, At12D1_27450
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: circular
+ID: 60890117
+
+10. phnC
+phosphonate ABC transporter ATP-binding protein [Dickeya zeae]
+Other Aliases: C1O30_RS07935, C1O30_07935
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 60867834
+
+11. phnC
+phosphonate ABC transporter ATP-binding protein [Cupriavidus metallidurans]
+Other Aliases: NDB4MOL1_RS24770, NDB4MOL1_04938
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 60825261
+
+12. phnC
+phosphonate ABC transporter ATP-binding protein [Agrobacterium vitis]
+Other Aliases: ASB66_RS05685, ASB66_005685
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 60681183
+
+13. phnC
+phosphonate ABC transporter ATP-binding protein [Fusobacterium hwasookii ChDC F206]
+Other Aliases: RN92_RS09395, RN92_09385
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 60659821
+
+14. phnC
+phosphonate ABC transporter ATP-binding protein [Pantoea vagans]
+Other Aliases: EGO56_RS07335, EGO56_07335
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 58737608
+
+15. GSQ19_RS06045
+phosphonate ABC transporter ATP-binding protein [Trichormus variabilis 0441]
+Other Aliases: GSQ19_RS06045, GSQ19_06045
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 58722825
+
+16. phnC
+phosphonate ABC transporter ATP-binding protein [Enhydrobacter aerosaccus]
+Other Aliases: B5D62_RS22920, SAMN02745126_04611
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 58130352
+
+17. phnC
+phosphonate ABC transporter ATP-binding protein [Enhydrobacter aerosaccus]
+Other Aliases: B5D62_RS18975, SAMN02745126_03822
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 58129587
+
+18. phnC
+phosphonate ABC transporter ATP-binding protein [[Clostridium] symbiosum]
+Other Aliases: F2P57_RS04380, F2P57_04380
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57967792
+
+19. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas gingeri]
+Other Aliases: HX881_RS29190, HX881_29190
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57664119
+
+20. phnC
+phosphonate ABC transporter ATP-binding protein [Raoultella terrigena]
+Other Aliases: HCK03_RS21165, HCK03_21160
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57506474
+
+21. phnC
+phosphonate ABC transporter ATP-binding protein [Ruegeria arenilitoris]
+Other Aliases: GOW72_RS03755
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57465664
+
+22. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas azotoformans]
+Other Aliases: BLR69_RS30345, SAMN04489799_6193
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: I
+ID: 57378561
+
+23. phnC
+phosphonate ABC transporter ATP-binding protein [Brucella intermedia]
+Other Aliases: DX510_RS15675, NCTC12171_03144
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57307095
+
+24. phnC
+phosphonate ABC transporter ATP-binding protein [Microbacterium testaceum]
+Other Aliases: MTE01_RS11855, MTE01_23790
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57145066
+
+25. phnC
+phosphonate ABC transporter ATP-binding protein [Latilactobacillus sakei]
+Other Aliases: GJ664_RS02600, GJ664_02600
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57132583
+
+26. phnC
+phosphonate ABC transporter ATP-binding protein [Fructilactobacillus sanfranciscensis]
+Other Aliases: LS451_RS05975, LS451_05975
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57100643
+
+27. phnC
+phosphonate ABC transporter ATP-binding protein [Halanaerobium congolense]
+Other Aliases: C7954_RS02830, C7954_1054
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 57011978
+
+28. phnC
+phosphonate ABC transporter ATP-binding protein [Hafnia alvei]
+Other Aliases: HBA19_RS02800, HBA19_02800
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56890340
+
+29. phnC
+phosphonate ABC transporter ATP-binding protein [Eisenbergiella tayi]
+Other Aliases: BEH84_RS18780, BEH84_03703
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56723751
+
+30. phnC
+phosphonate ABC transporter ATP-binding protein [Peribacillus simplex NBRC 15720 = DSM 1321]
+Other Aliases: BS1321_RS19310, BS1321_19010
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56474859
+
+31. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter insolitus]
+Other Aliases: E2544_RS24240, E2544_24245
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56314535
+
+32. FOC82_RS28920
+phosphonate ABC transporter ATP-binding protein [Achromobacter denitrificans]
+Other Aliases: FOC82_RS28920, FOC82_28920
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56283021
+
+33. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter denitrificans]
+Other Aliases: FOC82_RS18340, FOC82_18340
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56280905
+
+34. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter denitrificans]
+Other Aliases: FOC82_RS15830, FOC82_15830
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 56280403
+
+35. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter ruhlandii]
+Other Aliases: AruCF_RS21805, AruCF_4350
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 55562374
+
+36. phnC
+phosphonate ABC transporter ATP-binding protein [Achromobacter ruhlandii]
+Other Aliases: AruCF_RS19765, AruCF_3943
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 55561970
+
+37. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas proteolytica]
+Other Aliases: BLW35_RS15490, SAMN04490200_3105
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 55540218
+
+38. phnC
+phosphonate ABC transporter ATP-binding protein [Paracoccus pantotrophus]
+Other Aliases: ESD82_RS09520, ESD82_09520
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Genomic context: Plasmid pPAN2
+ID: 51370805
+
+39. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas monteilii]
+Other Aliases: CHR29_RS00990, CHR29_00980
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 49866271
+
+40. phnC
+phosphonate ABC transporter ATP-binding protein [Phascolarctobacterium faecium]
+Other Aliases: PFJ30894_RS01670, PFJ30894_00333
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 49406023
+
+41. phnC
+phosphonate ABC transporter ATP-binding protein [Lactiplantibacillus pentosus]
+Other Aliases: LP314_RS03555, LP314_03555
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 49393053
+
+42. phnC
+phosphonate ABC transporter ATP-binding protein [Dickeya dianthicola]
+Other Aliases: DZA65_RS08015, DZA65_01555
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 49321473
+
+43. phnC
+phosphonate ABC transporter ATP-binding protein [Sinorhizobium fredii CCBAU 25509]
+Other Aliases: AOX55_RS26165, AOX55_00005826
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Genomic context: Plasmid pSF25509b
+ID: 48976442
+
+44. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus devriesei]
+Other Aliases: DYD94_RS01175, NCTC13828_00249
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 48886922
+
+45. phnC
+phosphonate ABC transporter ATP-binding protein [Staphylococcus devriesei]
+Other Aliases: DYD94_RS01155, NCTC13828_00245
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 48886918
+
+46. phnC
+phosphonate ABC transporter ATP-binding protein [Paenibacillus ihbetae]
+Other Aliases: BBD41_RS00670, BBD41_00645
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 48306724
+
+47. phnC
+phosphonate ABC transporter ATP-binding protein [Vibrio jasicida 090810c]
+Other Aliases: C1S73_RS20900
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 48231457
+
+48. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas viridiflava]
+Other Aliases: CFBP1590_RS15650, CFBP1590__3169
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: I
+ID: 47764821
+
+49. phnC
+phosphonate ABC transporter ATP-binding protein [Lactococcus raffinolactis]
+Other Aliases: CMV25_RS07230, CMV25_07230
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 47268405
+
+50. phnC
+phosphonate ABC transporter ATP-binding protein [Pandoraea apista]
+Other Aliases: AT395_RS22180, AT395_13090
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 47016529
+
+
+1. phnC
+phosphonate ABC transporter ATP-binding protein [Rhizobium phaseoli]
+Other Aliases: AMC88_RS01025, AMC88_CH00208
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 45955584
+
+2. phnC
+phosphonate ABC transporter ATP-binding protein [Mycolicibacterium conceptionense]
+Other Aliases: AWB98_RS25525, AWB98_27750
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 44299304
+
+3. phnC
+phosphonate ABC transporter ATP-binding protein [Holdemania massiliensis AP2]
+Other Aliases: BN162_RS05285, BN162_05385
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 42455897
+
+4. phnC
+phosphonate ABC transporter ATP-binding protein [Microbacterium paraoxydans]
+Other Aliases: BLU02_RS07125, SAMN04489809_1451
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Chromosome: I
+ID: 36298495
+
+5. phnC
+phosphonate ABC transporter ATP-binding protein [Paenibacillus xylanexedens]
+Other Aliases: BS614_RS09000, BS614_09000
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 32215571
+
+6. MPLDJ20_RS20960
+phosphonate ABC transporter ATP-binding protein [Mesorhizobium plurifarium]
+Other Aliases: MPLDJ20_RS20960, MPLDJ20_250041
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 31891552
+
+7. MPLDJ20_RS11310
+sugar ABC transporter ATP-binding protein [Mesorhizobium plurifarium]
+Other Aliases: MPLDJ20_RS11310, MPLDJ20_150382
+Other Designations: sugar ABC transporter ATP-binding protein
+ID: 31889664
+
+8. phnC
+phosphonate ABC transporter ATP-binding protein [Phaeobacter gallaeciensis DSM 26640]
+Other Aliases: GAL_RS15075, Gal_03084
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Annotation:  NC_023137.1 (3129237..3130055, complement)
+ID: 31847443
+
+9. phnC
+phosphonate ABC transporter ATP-binding protein [Pseudomonas lurida]
+Other Aliases: A7318_RS07865, A7318_07860
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 31709925
+
+10. phnC
+phosphonate ABC transporter ATP-binding protein [Paenibacillus odorifer]
+Other Aliases: PODO_RS04935, PODO_05080
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 31569625
+
+11. phnC
+phosphonate ABC transporter ATP-binding protein [Leclercia adecarboxylata]
+Other Aliases: APT61_RS20645, APT61_20645
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 30334353
+
+12. phnC
+phosphonate ABC transporter ATP-binding protein [Serratia fonticola]
+Other Aliases: WN53_RS16455, WN53_16460
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 30321767
+
+13. phnC
+phosphonate ABC transporter ATP-binding protein [Ensifer adhaerens]
+Other Aliases: FA04_RS22650, FA04_22620
+Other Designations: phosphonate ABC transporter ATP-binding protein
+Genomic context: Plasmid pCasidaAA
+ID: 29521518
+
+14. phnC
+phosphonate ABC transporter ATP-binding protein [Alcaligenes faecalis]
+Other Aliases: UZ73_RS14055, UZ73_14055
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 29369211
+
+15. SAOUHSC_00104
+amino acid ABC transporter ATP-binding protein [Staphylococcus aureus subsp. aureus NCTC 8325]
+Other Aliases: SAOUHSC_00104
+Annotation:  NC_007795.1 (108121..108894, complement)
+ID: 3919813
+
+16. FY292_RS01745
+hypothetical protein [Amedibacillus dolichus]
+Other Aliases: FY292_RS01745
+Other Designations: hypothetical protein
+ID: 83059799
+
+17. phnC
+phosphonate ABC transporter ATP-binding protein [Sulfitobacter pontiacus 3SOLIMAR09]
+Other Aliases: PM01_RS07365, PM01_07465
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 82208153
+
+18. phnC
+phosphonate ABC transporter ATP-binding protein [Sulfitobacter pontiacus 3SOLIMAR09]
+Other Aliases: PM01_RS00935, PM01_00950
+Other Designations: phosphonate ABC transporter ATP-binding protein
+ID: 82206882
+
+19. C7385_RS04790
+hypothetical protein [Acholeplasma laidlawii]
+Other Aliases: C7385_RS04790, C7385_0966
+Other Designations: hypothetical protein
+ID: 66294020
+

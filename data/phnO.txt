@@ -1,0 +1,255 @@
+
+1. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter bugandensis]
+Other Aliases: K9O83_RS01745, K9O83_01750
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 83673147
+
+2. phnO
+aminoalkylphosphonate N-acetyltransferase [Citrobacter youngae]
+Other Aliases: QRZ63_RS01370, QRZ63_01370
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 83644653
+
+3. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter cloacae]
+Other Aliases: LQ108_RS01695, AI2999V1_0333
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+Chromosome: main
+ID: 83571651
+
+4. nrdR
+NrdR transcriptional repressor [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b0413, ECK0407, ybaD
+Other Designations: NrdR transcriptional repressor
+Annotation:  NC_000913.3 (433002..433451)
+ID: 947437
+
+5. phnO
+aminoalkylphosphonate N-acetyltransferase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4093, ECK4086
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+Annotation:  NC_000913.3 (4315104..4315538, complement)
+ID: 948599
+
+6. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter ludwigii]
+Other Aliases: BH714_RS19290, BH714_19290
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 45817690
+
+7. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter kobei]
+Other Aliases: P827_RS02200, P827_04103
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 69608619
+
+8. phnO
+aminoalkylphosphonate N-acetyltransferase [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01455, HUZ68_01440
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 75169611
+
+9. phnO
+aminoalkylphosphonate N-acetyltransferase [Cronobacter dublinensis subsp. dublinensis LMG 23823]
+Other Aliases: AFK67_RS17565, AFK67_17580
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 45668170
+
+10. phnO
+aminoalkylphosphonate N-acetyltransferase [Citrobacter freundii]
+Other Aliases: EGX89_RS15830, EGX89_15850
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 60897996
+
+11. phnO
+aminoalkylphosphonate N-acetyltransferase [Shigella boydii]
+Other Aliases: CEH00_RS06965, CEH00_07015
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 75203244
+
+12. phnO
+aminoalkylphosphonate N-acetyltransferase [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24635, NCTC9164_04928
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 69887425
+
+13. phnO
+aminoalkylphosphonate N-acetyltransferase [Salmonella bongori N268-08]
+Other Aliases: A464_RS20725, A464_4280
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+Annotation:  NC_021870.1 (4320569..4321003, complement)
+ID: 66758504
+
+14. phnO
+aminoalkylphosphonate N-acetyltransferase [Shigella sonnei]
+Other Aliases: HUX90_RS07455, HUX90_07455
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 66671996
+
+15. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter cancerogenus]
+Other Aliases: K3T75_RS02995
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 66610000
+
+16. phnO
+aminoalkylphosphonate N-acetyltransferase [Citrobacter portucalensis]
+Other Aliases: FOB25_RS09375, FOB25_09375
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 61125727
+
+17. phnO
+aminoalkylphosphonate N-acetyltransferase [Citrobacter koseri ATCC BAA-895]
+Other Aliases: CKO_RS16150, CKO_03777
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+Annotation:  NC_009792.1 (3512126..3512560)
+ID: 45137465
+
+18. phnO
+aminoalkylphosphonate N-acetyltransferase [Citrobacter europaeus]
+Other Aliases: C3454_RS20935, C3454_21210
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 73801146
+
+19. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter chengduensis]
+Other Aliases: FY206_RS01820, FY206_01820
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 63140363
+
+20. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter hormaechei]
+Other Aliases: I6L65_RS02410, I6L65_02410
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 72530881
+
+21. phnO
+aminoalkylphosphonate N-acetyltransferase [Obesumbacterium proteus]
+Other Aliases: XK97_RS16050, XK97_16045
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 78451983
+
+22. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter quasiroggenkampii]
+Other Aliases: EKO03_RS18780, EKO03_18780
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 75416017
+
+23. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter asburiae]
+Other Aliases: FOY94_RS01680, EAS17NKHM_003220
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 75131960
+
+24. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter sichuanensis]
+Other Aliases: C1N69_RS01720, C1N69_01735
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 72830227
+
+25. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter mori]
+Other Aliases: L6Y89_RS01570, L6Y89_01570
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 72512926
+
+26. phnO
+aminoalkylphosphonate N-acetyltransferase [Raoultella planticola]
+Other Aliases: MNO12_RS13125, MNO12_13125
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 72407605
+
+27. phnO
+aminoalkylphosphonate N-acetyltransferase [Hafnia paralvei]
+Other Aliases: K9N75_RS02985, K9N75_02985
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 69636970
+
+28. phnO
+aminoalkylphosphonate N-acetyltransferase [Citrobacter farmeri]
+Other Aliases: EGK65_RS21085, EGK65_21110
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 69619710
+
+29. phnO
+aminoalkylphosphonate N-acetyltransferase [Citrobacter werkmanii]
+Other Aliases: FOB24_RS03520, FOB24_03520
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 69484776
+
+30. phnO
+aminoalkylphosphonate N-acetyltransferase [Citrobacter cronae]
+Other Aliases: JSN25_RS07185
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 69429388
+
+31. phnO
+aminoalkylphosphonate N-acetyltransferase [Yokenella regensburgei]
+Other Aliases: C7387_RS15405, C7387_3117
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 66905105
+
+32. phnO
+aminoalkylphosphonate N-acetyltransferase [Lelliottia amnigena]
+Other Aliases: I6L75_RS21330, I6L75_21320
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 66412834
+
+33. phnO
+aminoalkylphosphonate N-acetyltransferase [Citrobacter braakii]
+Other Aliases: GFC06_RS02635, GFC06_02635
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 66271803
+
+34. phnO
+aminoalkylphosphonate N-acetyltransferase [Citrobacter amalonaticus]
+Other Aliases: AL524_RS30785, AL524_05325
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 66235753
+
+35. phnO
+aminoalkylphosphonate N-acetyltransferase [Hafnia alvei]
+Other Aliases: HBA19_RS02740, HBA19_02740
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 56890328
+
+36. phnO
+aminoalkylphosphonate N-acetyltransferase [Enterobacter roggenkampii]
+Other Aliases: BFV67_RS01720, BFV67_01720
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 45794042
+
+37. phnO
+aminoalkylphosphonate N-acetyltransferase [Leclercia adecarboxylata]
+Other Aliases: APT61_RS20705, APT61_20705
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+ID: 30334365
+
+38. phnO
+aminoalkylphosphonate N-acetyltransferase [Escherichia coli O157:H7 str. Sakai]
+Other Aliases: ECs_5076
+Other Designations: aminoalkylphosphonate N-acetyltransferase
+Annotation:  NC_002695.2 (5170085..5170510, complement)
+ID: 916349
+
+39. phnO
+aminoalkylphosphonic acid N-acetyltransferase [Acinetobacter pittii PHEA-2]
+Other Aliases: BDGL_000436
+Annotation:  NC_016603.1 (475345..475770)
+ID: 11638614
+
+40. phnO
+putative regulator in phn operon [Salmonella enterica subsp. enterica serovar Typhimurium str. LT2]
+Other Aliases: STM4287
+Other Designations: putative regulator in phn operon
+Annotation:  NC_003197.2 (4529034..4529512, complement)
+ID: 1255813
+
+41. K5642_RS04425
+GNAT family N-acetyltransferase [Pseudoalteromonas piscicida]
+Other Aliases: K5642_RS04425, K5642_04425
+Other Designations: GNAT family N-acetyltransferase
+Chromosome: 1
+ID: 67500875
+

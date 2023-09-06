@@ -1,0 +1,4446 @@
+
+1. phnK
+phosphonate C-P lyase system protein PhnK [Shimia thalassica]
+Other Aliases: PH7735_RS02100, PH7735_00431
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 83879516
+
+2. phnK
+phosphonate C-P lyase system protein PhnK [Serratia proteamaculans]
+Other Aliases: QOT07_RS02125
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: EBP3064_c1
+ID: 83697237
+
+3. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter bugandensis]
+Other Aliases: K9O83_RS01765, K9O83_01770
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 83673151
+
+4. phnK
+phosphonate C-P lyase system protein PhnK [Citrobacter youngae]
+Other Aliases: QRZ63_RS01390, QRZ63_01390
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 83644657
+
+5. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter cloacae]
+Other Aliases: LQ108_RS01715, AI2999V1_0337
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: main
+ID: 83571655
+
+6. phnK
+phosphonate C-P lyase system protein PhnK [Desulfovibrio piger]
+Other Aliases: QDP65_RS10490
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 83732230
+
+7. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas chengduensis]
+Other Aliases: MYO55_RS08975
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 83640972
+
+8. phnK
+phosphonate C-P lyase system protein PhnK [Bradyrhizobium liaoningense CCBAU 05525]
+Other Aliases: IC32_RS16635
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 83554479
+
+9. phnK
+carbon-phosphorus lyase subunit PhnK [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4097, ECK4090
+Other Designations: carbon-phosphorus lyase subunit PhnK
+Annotation:  NC_000913.3 (4318006..4318764, complement)
+ID: 948611
+
+10. phnL
+methylphosphonate degradation complex subunit PhnL [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4096, ECK4089
+Other Designations: methylphosphonate degradation complex subunit PhnL
+Annotation:  NC_000913.3 (4317215..4317895, complement)
+ID: 948612
+
+11. TZ90_RS09105
+ATP-binding cassette domain-containing protein [Streptococcus mitis]
+Other Aliases: TZ90_RS09105, TZ90_01793
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61381532
+
+12. C7M33_RS01860
+ATP-binding cassette domain-containing protein [Lactiplantibacillus plantarum]
+Other Aliases: C7M33_RS01860, C7M33_00374
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77215813
+
+13. C6H63_RS03175
+ATP-binding cassette domain-containing protein [Limosilactobacillus reuteri]
+Other Aliases: C6H63_RS03175, C6H63_03180
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77190688
+
+14. AUC62_RS03445
+ATP-binding cassette domain-containing protein [Weissella cibaria]
+Other Aliases: AUC62_RS03445, AUC62_00698
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66961954
+
+15. AMM49_RS09855
+ATP-binding cassette domain-containing protein [Streptococcus agalactiae]
+Other Aliases: AMM49_RS09855, AMM49_09845
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66886816
+
+16. BZI99_RS02895
+ATP-binding cassette domain-containing protein [Rickettsia japonica]
+Other Aliases: BZI99_RS02895
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57452223
+
+17. AMM49_RS06205
+ATP-binding cassette domain-containing protein [Streptococcus agalactiae]
+Other Aliases: AMM49_RS06205, AMM49_06190
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66886111
+
+18. E6A31_RS13380
+ATP-binding cassette domain-containing protein [Enterococcus faecium]
+Other Aliases: E6A31_RS13380, E6A31_14185
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66455674
+
+19. E6A31_RS06425
+ATP-binding cassette domain-containing protein [Enterococcus faecium]
+Other Aliases: E6A31_RS06425, E6A31_06860
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66454292
+
+20. D271_RS02535
+ATP-binding cassette domain-containing protein [Ligilactobacillus saerimneri 30a]
+Other Aliases: D271_RS02535, D271_02549
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 80986397
+
+21. OLSU_RS02440
+ATP-binding cassette domain-containing protein [Olsenella uli DSM 7084]
+Other Aliases: OLSU_RS02440, Olsu_0494
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014363.1 (543729..544523, complement)
+ID: 78511932
+
+22. KJS44_RS13810
+ATP-binding cassette domain-containing protein [Longicatena caecimuris]
+Other Aliases: KJS44_RS13810, L3BBH23_27350
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 73796932
+
+23. KJS44_RS02485
+ATP-binding cassette domain-containing protein [Longicatena caecimuris]
+Other Aliases: KJS44_RS02485, L3BBH23_05000
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 73794691
+
+24. LAB52_RS00190
+ATP-binding cassette domain-containing protein [Lactobacillus amylovorus GRL1118]
+Other Aliases: LAB52_RS00190, LAB52_00190
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_017470.1 (37079..37840, complement)
+ID: 66522832
+
+25. NPD4_RS10725
+ATP-binding cassette domain-containing protein [Clostridium butyricum]
+Other Aliases: NPD4_RS10725, NPD4_1424
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66380983
+
+26. C269_RS08755
+ATP-binding cassette domain-containing protein [Leuconostoc gelidum JB7]
+Other Aliases: C269_RS08755, C269_08665
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_018631.1 (1803584..1804339)
+ID: 61038413
+
+27. LA14_RS00235
+ATP-binding cassette domain-containing protein [Lactobacillus acidophilus La-14]
+Other Aliases: LA14_RS00235, LA14_0046
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_021181.2 (42204..42965, complement)
+ID: 56941662
+
+28. SPPN_RS02500
+ATP-binding cassette domain-containing protein [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS02500, SPPN_02535
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_015875.1 (443396..444199)
+ID: 45217842
+
+29. LEGAS_RS09155
+ATP-binding cassette domain-containing protein [Leuconostoc gasicomitatum LMG 18811]
+Other Aliases: LEGAS_RS09155, LEGAS_1813
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014319.1 (1845222..1845977)
+ID: 34301214
+
+30. PEPE_RS01365
+ATP-binding cassette domain-containing protein [Pediococcus pentosaceus ATCC 25745]
+Other Aliases: PEPE_RS01365, PEPE_0277
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_008525.1 (322916..323674, complement)
+ID: 33063005
+
+31. SSUBM407_RS03755
+ATP-binding cassette domain-containing protein [Streptococcus suis BM407]
+Other Aliases: SSUBM407_RS03755, SSUBM407_0699
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_012926.1 (771841..772641)
+ID: 8153518
+
+32. ELI_RS20090
+ATP-binding cassette domain-containing protein [Eubacterium callanderi]
+Other Aliases: ELI_RS20090, ELI_4519
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_014624.2 (4240164..4240961, complement)
+ID: 68365275
+
+33. CBO_RS05885
+ATP-binding cassette domain-containing protein [Clostridium botulinum A str. ATCC 3502]
+Other Aliases: CBO_RS05885, CBO1164
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_009495.1 (1277743..1278537)
+ID: 5185419
+
+34. CBO_RS03485
+ATP-binding cassette domain-containing protein [Clostridium botulinum A str. ATCC 3502]
+Other Aliases: CBO_RS03485, CBO0669
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_009495.1 (768033..768788)
+ID: 5184924
+
+35. TDE_RS02295
+ATP-binding cassette domain-containing protein [Treponema denticola ATCC 35405]
+Other Aliases: TDE_RS02295, TDE0475, TDE_0475
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_002967.9 (531243..532298, complement)
+ID: 2740522
+
+36. NQ503_RS10260
+ATP-binding cassette domain-containing protein [Blautia obeum ATCC 29174]
+Other Aliases: NQ503_RS10260, NQ503_10260
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 79804403
+
+37. FY292_RS00225
+ATP-binding cassette domain-containing protein [Amedibacillus dolichus]
+Other Aliases: FY292_RS00225
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 83059505
+
+38. BN55_RS02005
+ATP-binding cassette domain-containing protein [Lactobacillus hominis DSM 23910 = CRBIP 24.179]
+Other Aliases: BN55_RS02005, BN55_06875
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 82846554
+
+39. FOC49_RS02535
+ATP-binding cassette domain-containing protein [Gemella morbillorum]
+Other Aliases: FOC49_RS02535, FOC49_02535
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 81709953
+
+40. KPH58_RS04170
+ATP-binding cassette domain-containing protein [Taylorella equigenitalis]
+Other Aliases: KPH58_RS04170, KPH58_04170
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 79939071
+
+41. PND65_RS02425
+ATP-binding cassette domain-containing protein [Faecalitalea cylindroides]
+Other Aliases: PND65_RS02425, PND65_02425
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 79876052
+
+42. PND65_RS02405
+ATP-binding cassette domain-containing protein [Faecalitalea cylindroides]
+Other Aliases: PND65_RS02405, PND65_02405
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 79876048
+
+43. LPL03_RS01750
+ATP-binding cassette domain-containing protein [Lactiplantibacillus argentoratensis]
+Other Aliases: LPL03_RS01750, LPL03_03320
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 79829720
+
+44. PGP85_RS04840
+ATP-binding cassette domain-containing protein [Enterococcus malodoratus]
+Other Aliases: PGP85_RS04840
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 79785474
+
+45. M5E81_RS10195
+ATP-binding cassette domain-containing protein [Phascolarctobacterium succinatutens]
+Other Aliases: M5E81_RS10195, M5E81_10195
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78525311
+
+46. FUSPEROL_RS12255
+ATP-binding cassette domain-containing protein [Fusobacterium periodonticum ATCC 33693]
+Other Aliases: FUSPEROL_RS12255, FUSPEROL_02575
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78420714
+
+47. I579_RS12275
+ATP-binding cassette domain-containing protein [Enterococcus asini ATCC 700915]
+Other Aliases: I579_RS12275, I579_02480
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78366119
+
+48. NQ490_RS14375
+ATP-binding cassette domain-containing protein [Subdoligranulum variabile]
+Other Aliases: NQ490_RS14375, NQ490_14375
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78308424
+
+49. GCWU000321_RS01565
+ATP-binding cassette domain-containing protein [Dialister invisus DSM 15470]
+Other Aliases: GCWU000321_RS01565, GCWU000321_00321
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78277071
+
+50. HMPREF0273_RS0104695
+ATP-binding cassette domain-containing protein [Coprobacillus cateniformis]
+Other Aliases: HMPREF0273_RS0104695
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78228806
+
+
+1. EL214_RS01710
+ATP-binding cassette domain-containing protein [Gemella haemolysans]
+Other Aliases: EL214_RS01710, NCTC10459_00349
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: 1
+ID: 78009797
+
+2. A7A96_RS06955
+ATP-binding cassette domain-containing protein [Streptococcus vestibularis]
+Other Aliases: A7A96_RS06955
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77298454
+
+3. APT62_RS05015
+ATP-binding cassette domain-containing protein [Aerococcus urinaeequi]
+Other Aliases: APT62_RS05015, APT62_05015
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77094796
+
+4. CYK21_RS09155
+ATP-binding cassette domain-containing protein [Streptococcus macedonicus]
+Other Aliases: CYK21_RS09155, CYK21_09155
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 76469142
+
+5. I6G34_RS20640
+ATP-binding cassette domain-containing protein [Stutzerimonas frequens]
+Other Aliases: I6G34_RS20640, I6G34_20640
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 75215754
+
+6. FAEPRAM212_RS00945
+ATP-binding cassette domain-containing protein [Faecalibacterium prausnitzii M21/2]
+Other Aliases: FAEPRAM212_RS00945, FAEPRAM212_02143
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 75066998
+
+7. J3U91_RS01230
+ATP-binding cassette domain-containing protein [Oenococcus oeni]
+Other Aliases: J3U91_RS01230, J3U91_00253
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 75065098
+
+8. KDJ91_RS01590
+ATP-binding cassette domain-containing protein [Anaerobutyricum hallii]
+Other Aliases: KDJ91_RS01590, KDJ91_01590
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 75047224
+
+9. I532_RS04435
+ATP-binding cassette domain-containing protein [Brevibacillus borstelensis AK1]
+Other Aliases: I532_RS04435, I532_04425
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 72734047
+
+10. BME96_RS18360
+ATP-binding cassette domain-containing protein [Virgibacillus halodenitrificans]
+Other Aliases: BME96_RS18360, BME96_18190
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 71516344
+
+11. I6H76_RS04975
+ATP-binding cassette domain-containing protein [Streptococcus infantarius]
+Other Aliases: I6H76_RS04975, I6H76_04975
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69902666
+
+12. E6A57_RS00200
+ATP-binding cassette domain-containing protein [Lactobacillus crispatus]
+Other Aliases: E6A57_RS00200, E6A57_00200
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69822445
+
+13. LI335_RS02205
+ATP-binding cassette domain-containing protein [Lactobacillus iners]
+Other Aliases: LI335_RS02205, LI335_02205
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69785233
+
+14. CSCING10_RS09750
+ATP-binding cassette domain-containing protein [[Clostridium] scindens]
+Other Aliases: CSCING10_RS09750, CSCING10_018860
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69694207
+
+15. LJ046_RS04655
+ATP-binding cassette domain-containing protein [Lactobacillus delbrueckii subsp. jakobsenii ZN7a-9 = DSM 26046]
+Other Aliases: LJ046_RS04655, LJ046_04645
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69668621
+
+16. LJ046_RS00875
+ATP-binding cassette domain-containing protein [Lactobacillus delbrueckii subsp. jakobsenii ZN7a-9 = DSM 26046]
+Other Aliases: LJ046_RS00875, LJ046_00865
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69667909
+
+17. LCQ53_RS13785
+ATP-binding cassette domain-containing protein [Anaerostipes caccae]
+Other Aliases: LCQ53_RS13785, LCQ53_13785
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69470610
+
+18. GQR93_RS11835
+ATP-binding cassette domain-containing protein [Lentilactobacillus hilgardii]
+Other Aliases: GQR93_RS11835, GQR93_11835
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69059064
+
+19. FY306_RS07630
+ATP-binding cassette domain-containing protein [Thomasclavelia spiroformis]
+Other Aliases: FY306_RS07630
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 67386898
+
+20. H0506_RS01175
+ATP-binding cassette domain-containing protein [Streptococcus thermophilus]
+Other Aliases: H0506_RS01175, STHERMO_0222
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: STHERMO
+ID: 66898138
+
+21. FFA26_RS01325
+ATP-binding cassette domain-containing protein [Lactobacillus paragasseri JV-V03]
+Other Aliases: FFA26_RS01325
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66534256
+
+22. KU781_RS06595
+ATP-binding cassette domain-containing protein [Enterococcus lactis]
+Other Aliases: KU781_RS06595, KU781_06595
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66497578
+
+23. A966_RS10560
+ATP-binding cassette domain-containing protein [Brachyspira hampsonii 30446]
+Other Aliases: A966_RS10560, A966_11142
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66488631
+
+24. EGU21_RS11580
+ATP-binding cassette domain-containing protein [Levilactobacillus brevis]
+Other Aliases: EGU21_RS11580
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66421687
+
+25. KNZ77_RS04695
+ATP-binding cassette domain-containing protein [Clostridioides difficile]
+Other Aliases: KNZ77_RS04695, KNZ77_04695
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66353377
+
+26. KEC93_RS05825
+ATP-binding cassette domain-containing protein [Clostridium beijerinckii]
+Other Aliases: KEC93_RS05825, KEC93_05825
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66344022
+
+27. E4P33_RS01835
+ATP-binding cassette domain-containing protein [Kocuria rhizophila]
+Other Aliases: E4P33_RS01835, E4P33_01835
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 64263144
+
+28. I6I62_RS00435
+ATP-binding cassette domain-containing protein [Thomasclavelia ramosa]
+Other Aliases: I6I62_RS00435, I6I62_00435
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 64194806
+
+29. AC806_RS05205
+ATP-binding cassette domain-containing protein [Tetragenococcus halophilus]
+Other Aliases: AC806_RS05205, AC806_05195
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 64054000
+
+30. E8M05_RS00980
+ATP-binding cassette domain-containing protein [Streptococcus pasteurianus]
+Other Aliases: E8M05_RS00980, E8M05_00975
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 64017929
+
+31. AQ990_RS02215
+ATP-binding cassette domain-containing protein [Dorea longicatena]
+Other Aliases: AQ990_RS02215, ERS852408_00460
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 64015238
+
+32. GXM20_RS08095
+ATP-binding cassette domain-containing protein [Flavonifractor plautii]
+Other Aliases: GXM20_RS08095, GXM20_08095
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 63972803
+
+33. HMPREF1086_RS16315
+ATP-binding cassette domain-containing protein [[Clostridium] clostridioforme 90B1]
+Other Aliases: HMPREF1086_RS16315, HMPREF1086_03153
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 63967160
+
+34. GQX59_RS01425
+ATP-binding cassette domain-containing protein [Brachyspira hyodysenteriae]
+Other Aliases: GQX59_RS01425, GQX59_01430
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 63961626
+
+35. C4N19_RS03535
+ATP-binding cassette domain-containing protein [Fusobacterium mortiferum ATCC 9817]
+Other Aliases: C4N19_RS03535, C4N19_03535
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 62762579
+
+36. G4D54_RS19425
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS19425, G4D54_19425
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61927756
+
+37. G4D54_RS02920
+ATP-binding cassette domain-containing protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS02920, G4D54_02920
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61924455
+
+38. CGC65_RS17530
+ATP-binding cassette domain-containing protein [Enterocloster bolteae]
+Other Aliases: CGC65_RS17530, CGC65_17535
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61860108
+
+39. FGL23_RS09315
+ATP-binding cassette domain-containing protein [Streptococcus gordonii]
+Other Aliases: FGL23_RS09315, NCTC10231_01862
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: 1
+ID: 61441250
+
+40. RIL182_RS08215
+ATP-binding cassette domain-containing protein [Roseburia intestinalis L1-82]
+Other Aliases: RIL182_RS08215, RIL182_01611
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: 1
+ID: 61432888
+
+41. FGL89_RS05500
+ATP-binding cassette domain-containing protein [Leuconostoc carnosum]
+Other Aliases: FGL89_RS05500, FGL89_05500
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61187195
+
+42. C7M43_RS08135
+ATP-binding cassette domain-containing protein [Leuconostoc mesenteroides]
+Other Aliases: C7M43_RS08135, C7M43_01639
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61177441
+
+43. FGL72_RS08890
+ATP-binding cassette domain-containing protein [Leuconostoc citreum]
+Other Aliases: FGL72_RS08890, FGL72_08890
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61103162
+
+44. HWX23_RS28195
+ATP-binding cassette domain-containing protein [Burkholderia pseudomultivorans]
+Other Aliases: HWX23_RS28195
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 60979266
+
+45. WMS_RS09830
+ATP-binding cassette domain-containing protein [Enterococcus faecalis EnGen0336]
+Other Aliases: WMS_RS09830, WMS_01340
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 60893641
+
+46. HV374_RS01025
+ATP-binding cassette domain-containing protein [Streptococcus salivarius]
+Other Aliases: HV374_RS01025
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 58024088
+
+47. C6P13_RS03065
+ATP-binding cassette domain-containing protein [Weissella confusa]
+Other Aliases: C6P13_RS03065, C6P13_03065
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57978446
+
+48. F2P57_RS17395
+ATP-binding cassette domain-containing protein [[Clostridium] symbiosum]
+Other Aliases: F2P57_RS17395, F2P57_17395
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57970395
+
+49. FOC63_RS04765
+ATP-binding cassette domain-containing protein [Streptococcus gallolyticus]
+Other Aliases: FOC63_RS04765, FOC63_04765
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57921173
+
+50. RGna_RS10760
+ATP-binding cassette domain-containing protein [[Ruminococcus] gnavus ATCC 29149]
+Other Aliases: RGna_RS10760, RGna_10790
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57434101
+
+
+1. LBPG_RS09025
+ATP-binding cassette domain-containing protein [Lacticaseibacillus paracasei subsp. paracasei 8700:2]
+Other Aliases: LBPG_RS09025, LBPG_01070
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_022112.1 (1825322..1826074, complement)
+ID: 57090496
+
+2. LBPG_RS02995
+ATP-binding cassette domain-containing protein [Lacticaseibacillus paracasei subsp. paracasei 8700:2]
+Other Aliases: LBPG_RS02995, LBPG_02771
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_022112.1 (655277..656080)
+ID: 57089323
+
+3. AT688_RS07740
+ATP-binding cassette domain-containing protein [Fusobacterium polymorphum]
+Other Aliases: AT688_RS07740, ERS445057_01571
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: 1
+ID: 45635344
+
+4. CL2_RS15005
+ATP-binding cassette domain-containing protein [Anaerostipes hadrus]
+Other Aliases: CL2_RS15005, CL2_30790
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_021016.1 (3038171..3038944)
+ID: 15232933
+
+5. CL2_RS11430
+ATP-binding cassette domain-containing protein [Anaerostipes hadrus]
+Other Aliases: CL2_RS11430, CL2_23340
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_021016.1 (2319452..2320246)
+ID: 15232284
+
+6. ECBG_RS07935
+ATP-binding cassette domain-containing protein [Enterococcus casseliflavus EC20]
+Other Aliases: ECBG_RS07935, ECBG_00977
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_020995.1 (1744307..1745065, complement)
+ID: 15142191
+
+7. phnK
+phosphonate C-P lyase system protein PhnK [Phaeobacter inhibens]
+Other Aliases: PhaeoP54_RS01970, PhaeoP54_00400
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 57287263
+
+8. phnK
+phosphonate C-P lyase system protein PhnK [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02370, SerAS9_0460
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_015567.1 (507327..508115, complement)
+ID: 57665280
+
+9. phnK
+phosphonate C-P lyase system protein PhnK [Burkholderia pseudomallei]
+Other Aliases: DP58_RS11035, DP58_2157
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 56528345
+
+10. phnK
+phosphonate C-P lyase system protein PhnK [Klebsiella variicola]
+Other Aliases: GFC07_RS16125, GFC07_16125
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69734178
+
+11. phnK
+phosphonate C-P lyase system protein PhnK [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25605, THOKLE011_50020
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66562183
+
+12. phnK
+phosphonate C-P lyase system protein PhnK [Brucella anthropi]
+Other Aliases: IR196_RS15310, IR196_15310
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 2
+ID: 61317356
+
+13. phnK
+phosphonate C-P lyase system protein PhnK [Agrobacterium tumefaciens]
+Other Aliases: At12D1_RS14395, At12D1_27480
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: circular
+ID: 60890120
+
+14. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter kobei]
+Other Aliases: P827_RS02180, P827_04107
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69608615
+
+15. phnK
+phosphonate C-P lyase system protein PhnK [Bradyrhizobium diazoefficiens]
+Other Aliases: Bdiaspc4_RS06055, Bdiaspc4_06045
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 64021093
+
+16. phnK
+phosphonate C-P lyase system protein PhnK [Achromobacter xylosoxidans]
+Other Aliases: I6I48_RS30005, I6I48_30000
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 75278753
+
+17. K2Z90_RS36985
+alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ [Rhodococcus opacus PD630]
+Other Aliases: K2Z90_RS36985, K2Z90_007354
+Other Designations: alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase PhnJ
+ID: 69895254
+
+18. phnK
+phosphonate C-P lyase system protein PhnK [Acidithiobacillus ferrooxidans]
+Other Aliases: FE661_RS10285, FE661_10315
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66433034
+
+19. phnK
+phosphonate C-P lyase system protein PhnK [Agrobacterium rhizogenes]
+Other Aliases: EML492_RS18655, EML492_18655
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 66386827
+
+20. phnK
+phosphonate C-P lyase system protein PhnK [Citrobacter freundii]
+Other Aliases: EGX89_RS15850, EGX89_15870
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 60898000
+
+21. phnK
+phosphonate C-P lyase system protein PhnK [Rhodobacter capsulatus SB 1003]
+Other Aliases: RCAP_RS05985, RCAP_rcc01198
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_014034.1 (1269377..1270183)
+ID: 31490110
+
+22. phnK
+phosphonate C-P lyase system protein PhnK [Citrobacter europaeus]
+Other Aliases: C3454_RS20915, C3454_21190
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 73801142
+
+23. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10630, POR16_10630
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 72392828
+
+24. phnK
+phosphonate C-P lyase system protein PhnK [Serratia ureilytica]
+Other Aliases: J0X03_RS21660, J0X03_21660
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 64310244
+
+25. phnK
+phosphonate C-P lyase system protein PhnK [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS13745, SM2011_b20763
+Other Designations: phosphonate C-P lyase system protein PhnK
+Genomic context: Plasmid pSymB
+Annotation:  NC_020560.1 (1555070..1555846)
+ID: 61601364
+
+26. phnK
+phosphonate C-P lyase system protein PhnK [Rahnella aquatilis CIP 78.65 = ATCC 33071]
+Other Aliases: RAHAQ2_RS02590, Rahaq2_0539
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_016818.1 (546805..547596, complement)
+ID: 61510678
+
+27. phnK
+phosphonate C-P lyase system protein PhnK [Cupriavidus necator H16]
+Other Aliases: E6A55_RS25720, E6A55_25700
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 2
+ID: 57647188
+
+28. phnK
+phosphonate C-P lyase system protein PhnK [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08400, PAGR_g1634
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_017554.1 (1793076..1793837)
+ID: 57267708
+
+29. phnK
+phosphonate C-P lyase system protein PhnK [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS00560
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 56331957
+
+30. phnK
+phosphonate C-P lyase system protein PhnK [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS01115, TH3_01080
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 31925923
+
+31. phnK
+phosphonate C-P lyase system protein PhnK [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS21345, RALTA_B1187
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (1242569..1243345, complement)
+ID: 29764755
+
+32. phnK
+phosphonate C-P lyase system protein PhnK [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07620, Dda3937_04092
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_014500.1 (1718498..1719310)
+ID: 9733029
+
+33. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13265, PSPTO2563, PSPTO_2563
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_004578.1 (2830316..2831137)
+ID: 1184215
+
+34. RC_RS02545
+ABC transporter ATP-binding protein [Rickettsia conorii str. Malish 7]
+Other Aliases: RC_RS02545, RC0500
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_003103.1 (494321..495043)
+ID: 928717
+
+35. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10970, BZ17_2051
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66843070
+
+36. phnK
+phosphonate C-P lyase system protein PhnK [Burkholderia oklahomensis C6786]
+Other Aliases: BG90_RS21080, BG90_4214
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: II
+ID: 60550335
+
+37. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia pestis A1122]
+Other Aliases: A1122_RS08690, A1122_08595
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_017168.1 (1890611..1891402, complement)
+ID: 57975251
+
+38. phnK
+phosphonate C-P lyase system protein PhnK [Burkholderia mallei]
+Other Aliases: NW91_RS00625, NW91_00520
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 56593732
+
+39. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter hormaechei]
+Other Aliases: I6L65_RS02390, I6L65_02390
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 72530877
+
+40. VP_RS10105
+ABC transporter ATP-binding protein [Vibrio parahaemolyticus RIMD 2210633]
+Other Aliases: VP_RS10105, VP2078
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+Annotation: Chromosome 1 NC_004603.1 (2184406..2185200, complement)
+ID: 1189589
+
+41. H0506_RS05450
+ABC transporter ATP-binding protein [Streptococcus thermophilus]
+Other Aliases: H0506_RS05450, STHERMO_1203
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: STHERMO
+ID: 66898982
+
+42. SPNHU17_RS05095
+ABC transporter ATP-binding protein [Streptococcus pneumoniae]
+Other Aliases: SPNHU17_RS05095, SPNHU17_01099
+Other Designations: ABC transporter ATP-binding protein
+ID: 66806179
+
+43. phnK
+phosphonate C-P lyase system protein PhnK [Bilophila wadsworthia 3_1_6]
+Other Aliases: HMPREF0179_RS02135, HMPREF0179_03120
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 78084491
+
+44. phnK
+phosphonate C-P lyase system protein PhnK [Verminephrobacter aporrectodeae subsp. tuberculatae]
+Other Aliases: D5041_RS19605, D5041_19260
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 77323161
+
+45. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas syringae]
+Other Aliases: KIJ28_RS10585, KIJ28_10585
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 77278095
+
+46. phnK
+phosphonate C-P lyase system protein PhnK [Roseomonas mucosa]
+Other Aliases: FOB66_RS19895, FOB66_19895
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 4
+ID: 76529115
+
+47. phnK
+phosphonate C-P lyase system protein PhnK [Verminephrobacter eiseniae EF01-2]
+Other Aliases: VEIS_RS14410, Veis_2961
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_008786.1 (3312460..3313233)
+ID: 76461438
+
+48. phnK
+phosphonate C-P lyase system protein PhnK [Paracoccus denitrificans PD1222]
+Other Aliases: PDEN_RS23785, Pden_4778
+Other Designations: phosphonate C-P lyase system protein PhnK
+Genomic context: Plasmid 1
+Annotation:  NC_008688.1 (275013..275795, complement)
+ID: 75504136
+
+49. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter quasiroggenkampii]
+Other Aliases: EKO03_RS18760, EKO03_18760
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 75416013
+
+50. phnK
+phosphonate C-P lyase system protein PhnK [Shigella boydii]
+Other Aliases: CEH00_RS06985, CEH00_07035
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 75203248
+
+
+1. phnK
+phosphonate C-P lyase system protein PhnK [Laribacter hongkongensis DSM 14985]
+Other Aliases: G542_RS0109595
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 75109741
+
+2. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas tremae]
+Other Aliases: I9H09_RS14395, I9H09_14360
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 73736043
+
+3. phnK
+phosphonate C-P lyase system protein PhnK [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24610, NCTC9164_04924
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69887421
+
+4. phnK
+phosphonate C-P lyase system protein PhnK [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19130, EGY21_19090
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69796099
+
+5. phnK
+phosphonate C-P lyase system protein PhnK [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24430, LGM30_24475
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69757617
+
+6. phnK
+phosphonate C-P lyase system protein PhnK [Hafnia paralvei]
+Other Aliases: K9N75_RS03005, K9N75_03005
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69636974
+
+7. phnK
+phosphonate C-P lyase system protein PhnK [Citrobacter werkmanii]
+Other Aliases: FOB24_RS03540, FOB24_03540
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69484780
+
+8. phnK
+phosphonate C-P lyase system protein PhnK [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS23240, SIAM614_26446
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 68848884
+
+9. phnK
+phosphonate C-P lyase system protein PhnK [Rouxiella badensis]
+Other Aliases: G3M83_RS00900, G3M83_00895
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 68684470
+
+10. phnK
+phosphonate C-P lyase system protein PhnK [Yokenella regensburgei]
+Other Aliases: C7387_RS15425, C7387_3121
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66905109
+
+11. phnK
+phosphonate C-P lyase system protein PhnK [Rhodopseudomonas palustris]
+Other Aliases: I8G32_RS03535, I8G32_00706
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66891705
+
+12. phnK
+phosphonate C-P lyase system protein PhnK [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS08340, R7A2020_08340
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66681972
+
+13. phnK
+phosphonate C-P lyase system protein PhnK [Shigella sonnei]
+Other Aliases: HUX90_RS07435, HUX90_07435
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66671992
+
+14. phnK
+phosphonate C-P lyase system protein PhnK [Klebsiella aerogenes]
+Other Aliases: FPV33_RS23165, FPV33_23165
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66605945
+
+15. phnK
+phosphonate C-P lyase system protein PhnK [Bradyrhizobium canariense]
+Other Aliases: FXB41_RS16390, FXB41_16765
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66478931
+
+16. phnK
+phosphonate C-P lyase system protein PhnK [Citrobacter braakii]
+Other Aliases: GFC06_RS02615, GFC06_02615
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66271799
+
+17. phnK
+phosphonate C-P lyase system protein PhnK [Agrobacterium fabrum]
+Other Aliases: At1D132_RS14040, At1D132_26720
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: circular
+ID: 66223185
+
+18. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas congelans]
+Other Aliases: BLR20_RS02280, SAMN05216596_101453
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 65073712
+
+19. phnK
+phosphonate C-P lyase system protein PhnK [Bradyrhizobium japonicum]
+Other Aliases: HXT67_RS41035
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 64073658
+
+20. phnK
+phosphonate C-P lyase system protein PhnK [Vibrio coralliirubri]
+Other Aliases: ED654_RS22500
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 62576092
+
+21. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas amygdali pv. tabaci str. ATCC 11528]
+Other Aliases: PSYTB_RS12040, PSYTB_12045
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61869642
+
+22. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07410, BN5_1518
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: I
+ID: 61799261
+
+23. phnK
+phosphonate C-P lyase system protein PhnK [Sinorhizobium medicae]
+Other Aliases: FB009_RS01835, FB009_101362
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61609365
+
+24. phnK
+phosphonate C-P lyase system protein PhnK [Rhizobium leguminosarum]
+Other Aliases: ELH04_RS23040, ELH04_23040
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61426384
+
+25. phnK
+phosphonate C-P lyase system protein PhnK [Pantoea stewartii]
+Other Aliases: G5574_RS04670, G5574_04670
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61251601
+
+26. phnK
+phosphonate C-P lyase system protein PhnK [Citrobacter portucalensis]
+Other Aliases: FOB25_RS09355, FOB25_09355
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61125723
+
+27. phnK
+phosphonate C-P lyase system protein PhnK [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19040
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 60945992
+
+28. phnK
+phosphonate C-P lyase system protein PhnK [Cupriavidus metallidurans]
+Other Aliases: NDB4MOL1_RS24705, NDB4MOL1_04924
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 60825248
+
+29. phnK
+phosphonate C-P lyase system protein PhnK [Agrobacterium vitis]
+Other Aliases: ASB66_RS05670, ASB66_005670
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 60681180
+
+30. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas mendocina S5.2]
+Other Aliases: DW68_RS14910, DW68_014910
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 57607172
+
+31. phnK
+phosphonate C-P lyase system protein PhnK [Pectobacterium atrosepticum]
+Other Aliases: GZ59_RS02475, GZ59_05100
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 57207343
+
+32. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas tolaasii NCPPB 2192]
+Other Aliases: ATI14_RS28850, ATI14_6004
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 55849012
+
+33. phnK
+phosphonate C-P lyase system protein PhnK [Paraburkholderia hospita]
+Other Aliases: C2L64_RS21370, C2L64_21370
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 2
+ID: 55530866
+
+34. phnK
+phosphonate C-P lyase system protein PhnK [Rhizobium phaseoli]
+Other Aliases: AMC88_RS01040, AMC88_CH00211
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 45955587
+
+35. phnK
+phosphonate C-P lyase system protein PhnK [Citrobacter koseri ATCC BAA-895]
+Other Aliases: CKO_RS16130, CKO_03773
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_009792.1 (3508887..3509645)
+ID: 45137461
+
+36. phnK
+phosphonate C-P lyase system protein PhnK [Tritonibacter mobilis F1926]
+Other Aliases: K529_RS17135, K529_017130
+Other Designations: phosphonate C-P lyase system protein PhnK
+Genomic context: Plasmid unnamed1
+ID: 28251593
+
+37. F0316_RS08590
+ABC transporter ATP-binding protein [Vibrio cholerae]
+Other Aliases: F0316_RS08590, F0316_08590
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 69720205
+
+38. Cthiooxydans_RS13315
+ABC transporter ATP-binding protein [Comamonas thiooxydans]
+Other Aliases: Cthiooxydans_RS13315, Cthiooxydans_25740
+Other Designations: ABC transporter ATP-binding protein
+ID: 69560319
+
+39. LRP28_RS01550
+ABC transporter ATP-binding protein [Ralstonia solanacearum]
+Other Aliases: LRP28_RS01550
+Other Designations: ABC transporter ATP-binding protein
+ID: 69780018
+
+40. CXD86_RS10000
+ABC transporter ATP-binding protein [Bordetella pertussis]
+Other Aliases: CXD86_RS10000, CXD86_09950
+Other Designations: ABC transporter ATP-binding protein
+ID: 69601839
+
+41. K7G68_RS01670
+ABC transporter ATP-binding protein [Micrococcus luteus]
+Other Aliases: K7G68_RS01670, K7G68_01670
+Other Designations: ABC transporter ATP-binding protein
+ID: 67422616
+
+42. CKG22_RS08495
+ABC transporter ATP-binding protein [Mannheimia haemolytica]
+Other Aliases: CKG22_RS08495, CKG22_08495
+Other Designations: ABC transporter ATP-binding protein
+ID: 67369285
+
+43. A0G_RS01870
+ABC transporter ATP-binding protein [Streptococcus iniae 9117]
+Other Aliases: A0G_RS01870, A0G_0350
+Other Designations: ABC transporter ATP-binding protein
+ID: 66798636
+
+44. A0G_RS00820
+ABC transporter ATP-binding protein [Streptococcus iniae 9117]
+Other Aliases: A0G_RS00820, A0G_0133
+Other Designations: ABC transporter ATP-binding protein
+ID: 66798436
+
+45. At12D1_RS12660
+ABC transporter ATP-binding protein [Agrobacterium tumefaciens]
+Other Aliases: At12D1_RS12660, At12D1_24210
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: circular
+ID: 60889787
+
+46. BR_RS09455
+ABC transporter ATP-binding protein [Brucella suis 1330]
+Other Aliases: BR_RS09455, BR2056
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+Annotation: Chromosome I NC_004310.3 (1980480..1981274)
+ID: 45052985
+
+47. BME_RS00060
+ABC transporter ATP-binding protein [Brucella melitensis bv. 1 str. 16M]
+Other Aliases: BME_RS00060, BMEI0012
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+Annotation: Chromosome I NC_003317.1 (12703..13497, complement)
+ID: 29594979
+
+48. SSUBM407_RS07210
+ABC transporter ATP-binding protein [Streptococcus suis BM407]
+Other Aliases: SSUBM407_RS07210, SSUBM407_1382
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_012926.1 (1474238..1474996, complement)
+ID: 8155205
+
+49. ACFER_RS08315
+ABC transporter ATP-binding protein [Acidaminococcus fermentans DSM 20731]
+Other Aliases: ACFER_RS08315, Acfer_1633
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_013740.1 (1806959..1807753, complement)
+ID: 78335324
+
+50. LUA64_RS01100
+ABC transporter ATP-binding protein [Eggerthella lenta]
+Other Aliases: LUA64_RS01100
+Other Designations: ABC transporter ATP-binding protein
+ID: 69509703
+
+
+1. XV92_RS07195
+ABC transporter ATP-binding protein [Vibrio metoecus]
+Other Aliases: XV92_RS07195, XV92_07205
+Other Designations: ABC transporter ATP-binding protein
+ID: 58290862
+
+2. SPPN_RS05155
+ABC transporter ATP-binding protein [Streptococcus pseudopneumoniae IS7493]
+Other Aliases: SPPN_RS05155, SPPN_05180
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_015875.1 (987770..988528)
+ID: 45218325
+
+3. BAV_RS12220
+ABC transporter ATP-binding protein [Bordetella avium 197N]
+Other Aliases: BAV_RS12220, BAV2469
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_010645.1 (2664696..2665490, complement)
+ID: 41394307
+
+4. CAURI_RS13065
+ABC transporter ATP-binding protein [Corynebacterium aurimucosum ATCC 700975]
+Other Aliases: CAURI_RS13065, cauri_2504
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_012590.1 (2750310..2751098, complement)
+ID: 31925151
+
+5. MARHY_RS10435
+ABC transporter ATP-binding protein [Marinobacter nauticus ATCC 49840]
+Other Aliases: MARHY_RS10435, MARHY2197
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_017067.1 (2245109..2245903)
+ID: 31821601
+
+6. H354_RS20270
+ABC transporter ATP-binding protein [Streptococcus oralis subsp. tigurinus AZ_3a]
+Other Aliases: H354_RS20270, H354_08892
+ID: 31538011
+
+7. HR49_RS21345
+ABC transporter ATP-binding protein [Lysinibacillus fusiformis]
+Other Aliases: HR49_RS21345, HR49_21360
+Other Designations: ABC transporter ATP-binding protein
+ID: 29439331
+
+8. BAB_RS25720
+ABC transporter ATP-binding protein [Brucella abortus 2308]
+Other Aliases: BAB_RS25720, BAB1_2057
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+Annotation: Chromosome I NC_007618.1 (1994261..1995055)
+ID: 3788507
+
+9. TW71_RS02605
+ABC transporter ATP-binding protein [Vibrio coralliilyticus]
+Other Aliases: TW71_RS02605, TW71_002605
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 66918532
+
+10. AQ477_RS03545
+ABC transporter ATP-binding protein [Burkholderia thailandensis]
+Other Aliases: AQ477_RS03545, AQ477_03550
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 66545968
+
+11. HOP38_RS11605
+ABC transporter ATP-binding protein [Vibrio mediterranei]
+Other Aliases: HOP38_RS11605, HOP38_11605
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+ID: 64086849
+
+12. G4D54_RS15770
+ABC transporter ATP-binding protein [[Clostridium] innocuum]
+Other Aliases: G4D54_RS15770, G4D54_15770
+Other Designations: ABC transporter ATP-binding protein
+ID: 61927025
+
+13. SM2011_RS30760
+ABC transporter ATP-binding protein [Sinorhizobium meliloti 2011]
+Other Aliases: SM2011_RS30760, SM2011_c03828
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_020528.1 (3497800..3498594, complement)
+ID: 61604670
+
+14. VII_RS10730
+ABC transporter ATP-binding protein [Vibrio mimicus MB451]
+Other Aliases: VII_RS10730, VII_002684
+Other Designations: ABC transporter ATP-binding protein
+ID: 57837497
+
+15. E6A55_RS07060
+ABC transporter ATP-binding protein [Cupriavidus necator H16]
+Other Aliases: E6A55_RS07060, E6A55_07055
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 57643496
+
+16. DP58_RS05435
+ABC transporter ATP-binding protein [Burkholderia pseudomallei]
+Other Aliases: DP58_RS05435, DP58_1052
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 56527286
+
+17. I501_RS12925
+ABC transporter ATP-binding protein [Agrobacterium fabacearum P4]
+Other Aliases: I501_RS12925
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 56334387
+
+18. TH3_RS05085
+ABC transporter ATP-binding protein [Thalassospira xiamenensis M-5 = DSM 17429]
+Other Aliases: TH3_RS05085, TH3_05065
+Other Designations: ABC transporter ATP-binding protein
+ID: 31926695
+
+19. RALTA_RS06280
+ABC transporter ATP-binding protein [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS06280, RALTA_A1311
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+Annotation: Chromosome 1 NC_010528.1 (1353295..1354089, complement)
+ID: 29760888
+
+20. DACI_RS21740
+ABC transporter ATP-binding protein [Delftia acidovorans SPH-1]
+Other Aliases: DACI_RS21740, Daci_4313
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_010002.1 (4718442..4719236)
+ID: 24118804
+
+21. NQ503_RS15025
+ABC transporter ATP-binding protein [Blautia obeum ATCC 29174]
+Other Aliases: NQ503_RS15025, NQ503_15025
+Other Designations: ABC transporter ATP-binding protein
+ID: 79805355
+
+22. OCU35_RS09520
+ABC transporter ATP-binding protein [Vibrio breoganii]
+Other Aliases: OCU35_RS09520
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 77306267
+
+23. NQ550_RS12585
+ABC transporter ATP-binding protein [Blautia wexlerae DSM 19850]
+Other Aliases: NQ550_RS12585, NQ550_12585
+Other Designations: ABC transporter ATP-binding protein
+ID: 75079408
+
+24. CWR63_RS08945
+ABC transporter ATP-binding protein [Bordetella parapertussis]
+Other Aliases: CWR63_RS08945, CWR63_08905
+Other Designations: ABC transporter ATP-binding protein
+ID: 69421136
+
+25. FYA69_RS11925
+ABC transporter ATP-binding protein [Bordetella holmesii]
+Other Aliases: FYA69_RS11925, FYA69_11920
+Other Designations: ABC transporter ATP-binding protein
+ID: 56625347
+
+26. EL288_RS14885
+ABC transporter ATP-binding protein [Bordetella bronchiseptica]
+Other Aliases: EL288_RS14885, NCTC10543_02976
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 56479469
+
+27. BG90_RS05540
+ABC transporter ATP-binding protein [Burkholderia oklahomensis C6786]
+Other Aliases: BG90_RS05540, BG90_1117
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+ID: 60547401
+
+28. NW91_RS01220
+ABC transporter ATP-binding protein [Burkholderia mallei]
+Other Aliases: NW91_RS01220, NW91_01025
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 56593834
+
+29. PA3376
+phosphonate C-P lyase system protein PhnK [Pseudomonas aeruginosa PAO1]
+Other Aliases: PA3376
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_002516.2 (3783599..3784414, complement)
+ID: 879948
+
+30. PA3838
+ABC transporter ATP-binding protein [Pseudomonas aeruginosa PAO1]
+Other Aliases: PA3838
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_002516.2 (4299204..4299998)
+ID: 879859
+
+31. EO126_RS04245
+ABC transporter ATP-binding protein [Veillonella seminalis]
+Other Aliases: EO126_RS04245
+Other Designations: ABC transporter ATP-binding protein
+ID: 83054923
+
+32. BCENMC03_RS14390
+ABC transporter ATP-binding protein [Burkholderia orbicola MC0-3]
+Other Aliases: BCENMC03_RS14390, Bcenmc03_2840
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+Annotation: Chromosome 1 NC_010508.1 (3166510..3167304, complement)
+ID: 83049624
+
+33. BA6348_RS10800
+ABC transporter ATP-binding protein [Brevibacillus agri]
+Other Aliases: BA6348_RS10800, BA6348_10795
+Other Designations: ABC transporter ATP-binding protein
+ID: 82810771
+
+34. FOC49_RS00590
+ABC transporter ATP-binding protein [Gemella morbillorum]
+Other Aliases: FOC49_RS00590, FOC49_00590
+Other Designations: ABC transporter ATP-binding protein
+ID: 81709575
+
+35. PGS05_RS02270
+ABC transporter ATP-binding protein [Ruthenibacterium lactatiformans]
+Other Aliases: PGS05_RS02270
+Other Designations: ABC transporter ATP-binding protein
+ID: 79919921
+
+36. C7Y58_RS02480
+ABC transporter ATP-binding protein [Fusobacterium nucleatum subsp. nucleatum]
+Other Aliases: C7Y58_RS02480, C7Y58_02480
+Other Designations: ABC transporter ATP-binding protein
+ID: 79782916
+
+37. KQ249_RS11415
+ABC transporter ATP-binding protein [Marinobacter adhaerens]
+Other Aliases: KQ249_RS11415, KQ249_11415
+Other Designations: ABC transporter ATP-binding protein
+ID: 78560052
+
+38. BLR63_RS05810
+glucosidase [Pseudomonas extremaustralis]
+Other Aliases: BLR63_RS05810, SAMN05216591_1182
+Other Designations: glucosidase
+Chromosome: I
+ID: 78552693
+
+39. FXX55_RS01030
+ABC transporter ATP-binding protein [Mitsuokella multacida]
+Other Aliases: FXX55_RS01030
+Other Designations: ABC transporter ATP-binding protein
+ID: 78515893
+
+40. C4N20_RS02690
+ABC transporter ATP-binding protein [Fusobacterium ulcerans]
+Other Aliases: C4N20_RS02690, C4N20_02690
+Other Designations: ABC transporter ATP-binding protein
+ID: 78453701
+
+41. EL171_RS05765
+ABC transporter ATP-binding protein [Veillonella dispar]
+Other Aliases: EL171_RS05765, NCTC11831_01181
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 78367392
+
+42. I579_RS09900
+ABC transporter ATP-binding protein [Enterococcus asini ATCC 700915]
+Other Aliases: I579_RS09900, I579_02008
+Other Designations: ABC transporter ATP-binding protein
+ID: 78365658
+
+43. AZ468_RS07775
+ABC transporter ATP-binding protein [Vibrio europaeus]
+Other Aliases: AZ468_RS07775, AZ468_07400
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 78075509
+
+44. C4N18_RS08835
+ABC transporter ATP-binding protein [Fusobacterium varium ATCC 27725]
+Other Aliases: C4N18_RS08835, C4N18_08830
+Other Designations: ABC transporter ATP-binding protein
+ID: 77468096
+
+45. AOBCEHNH_RS01200
+ABC transporter ATP-binding protein [Collinsella intestinalis]
+Other Aliases: AOBCEHNH_RS01200, JKKLCJKK_00008, OJIJPFFD_RS01190
+Other Designations: ABC transporter ATP-binding protein
+ID: 77465002
+
+46. A7A96_RS04360
+ABC transporter ATP-binding protein [Streptococcus vestibularis]
+Other Aliases: A7A96_RS04360
+Other Designations: ABC transporter ATP-binding protein
+ID: 77297971
+
+47. B7D75_RS05615
+ABC transporter ATP-binding protein [Pseudomonas paraeruginosa]
+Other Aliases: B7D75_RS05615, B7D75_05615
+Other Designations: ABC transporter ATP-binding protein
+ID: 77219618
+
+48. CYK21_RS01465
+ABC transporter ATP-binding protein [Streptococcus macedonicus]
+Other Aliases: CYK21_RS01465, CYK21_01465
+Other Designations: ABC transporter ATP-binding protein
+ID: 76467693
+
+49. DYA29_RS09885
+ABC transporter ATP-binding protein [Streptococcus parasanguinis]
+Other Aliases: DYA29_RS09885, NCTC12854_01941
+Other Designations: ABC transporter ATP-binding protein
+ID: 75176176
+
+50. ND933_RS14835
+ABC transporter ATP-binding protein [Vibrio diabolicus]
+Other Aliases: ND933_RS14835, ND933_14825
+Other Designations: ABC transporter ATP-binding protein
+ID: 75129850
+
+
+1. BWX37_RS10495
+ABC transporter ATP-binding protein [Fusobacterium necrophorum subsp. funduliforme]
+Other Aliases: BWX37_RS10495, BWX37_10495
+Other Designations: ABC transporter ATP-binding protein
+ID: 75076629
+
+2. FAEPRAM212_RS10535
+ABC transporter ATP-binding protein [Faecalibacterium prausnitzii M21/2]
+Other Aliases: FAEPRAM212_RS10535, FAEPRAM212_02581
+Other Designations: ABC transporter ATP-binding protein
+ID: 75068848
+
+3. LCP48_RS02880
+ABC transporter ATP-binding protein [Lysinibacillus capsici]
+Other Aliases: LCP48_RS02880
+Other Designations: ABC transporter ATP-binding protein
+ID: 74903608
+
+4. DCI01S_RS04685
+ABC transporter ATP-binding protein [Dietzia cinnamea NBRC 102147]
+Other Aliases: DCI01S_RS04685
+Other Designations: ABC transporter ATP-binding protein
+ID: 74898238
+
+5. GHC17_RS00240
+ABC transporter ATP-binding protein [Bartonella bacilliformis]
+Other Aliases: GHC17_RS00240, GHC17_00240
+Other Designations: ABC transporter ATP-binding protein
+ID: 72471623
+
+6. FXY56_RS04190
+ABC transporter ATP-binding protein [Acidaminococcus intestini]
+Other Aliases: FXY56_RS04190
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 72310379
+
+7. PN96_RS03435
+ABC transporter ATP-binding protein [Vibrio natriegens NBRC 15636 = ATCC 14048 = DSM 759]
+Other Aliases: PN96_RS03435, PN96_03385
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 70911822
+
+8. FOB47_RS18385
+ABC transporter ATP-binding protein [Cupriavidus gilardii]
+Other Aliases: FOB47_RS18385, FOB47_18385
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 70690339
+
+9. I6H76_RS01915
+ABC transporter ATP-binding protein [Streptococcus infantarius]
+Other Aliases: I6H76_RS01915, I6H76_01915
+Other Designations: ABC transporter ATP-binding protein
+ID: 69902056
+
+10. DQM35_RS05285
+ABC transporter ATP-binding protein [Streptococcus pyogenes]
+Other Aliases: DQM35_RS05285, NCTC12064_01046
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 69900956
+
+11. CKV63_RS03905
+ABC transporter ATP-binding protein [Veillonella parvula]
+Other Aliases: CKV63_RS03905, SAMEA4063028_00797
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 69653315
+
+12. C629_RS10995
+ABC transporter ATP-binding protein [Corynebacterium glutamicum SCgG2]
+Other Aliases: C629_RS10995, C629_10875
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_021352.1 (2356898..2357689, complement)
+ID: 69622519
+
+13. LCQ53_RS00695
+ABC transporter ATP-binding protein [Anaerostipes caccae]
+Other Aliases: LCQ53_RS00695, LCQ53_00695
+Other Designations: ABC transporter ATP-binding protein
+ID: 69467992
+
+14. DLR69_RS03690
+ABC transporter ATP-binding protein [Vibrio paracholerae]
+Other Aliases: DLR69_RS03690, DLR69_03690
+Other Designations: ABC transporter ATP-binding protein
+ID: 66939014
+
+15. GE022_RS04020
+ABC transporter ATP-binding protein [Streptococcus canis]
+Other Aliases: GE022_RS04020, GE022_004010
+Other Designations: ABC transporter ATP-binding protein
+ID: 66916705
+
+16. F5989_RS09810
+ABC transporter ATP-binding protein [Streptococcus mutans]
+Other Aliases: F5989_RS09810, F5989_09990
+Other Designations: ABC transporter ATP-binding protein
+ID: 66819149
+
+17. R7A2020_RS18525
+ABC transporter ATP-binding protein [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS18525, R7A2020_18525
+Other Designations: ABC transporter ATP-binding protein
+ID: 66684001
+
+18. MC195_RS01635
+ABC transporter ATP-binding protein [Moraxella catarrhalis]
+Other Aliases: MC195_RS01635, MC195_01635
+Other Designations: ABC transporter ATP-binding protein
+ID: 66585218
+
+19. A8H40_RS15455
+ABC transporter ATP-binding protein [Burkholderia multivorans]
+Other Aliases: A8H40_RS15455, A8H40_28725
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 66527714
+
+20. KU781_RS12105
+ABC transporter ATP-binding protein [Enterococcus lactis]
+Other Aliases: KU781_RS12105, KU781_12105
+Other Designations: ABC transporter ATP-binding protein
+ID: 66498680
+
+21. EML492_RS29255
+ABC transporter ATP-binding protein [Agrobacterium rhizogenes]
+Other Aliases: EML492_RS29255, EML492_29255
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 66388947
+
+22. At1D132_RS12315
+ABC transporter ATP-binding protein [Agrobacterium fabrum]
+Other Aliases: At1D132_RS12315, At1D132_23470
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: circular
+ID: 66222855
+
+23. E2R59_RS15085
+ABC transporter ATP-binding protein [Kocuria rosea]
+Other Aliases: E2R59_RS15085, E2R59_15090
+Other Designations: ABC transporter ATP-binding protein
+ID: 64348750
+
+24. I6I62_RS06280
+ABC transporter ATP-binding protein [Thomasclavelia ramosa]
+Other Aliases: I6I62_RS06280, I6I62_06280
+Other Designations: ABC transporter ATP-binding protein
+ID: 64195975
+
+25. I6J16_RS06075
+ABC transporter ATP-binding protein [Sutterella wadsworthensis]
+Other Aliases: I6J16_RS06075, I6J16_06075
+Other Designations: ABC transporter ATP-binding protein
+ID: 64061411
+
+26. E8M05_RS04350
+ABC transporter ATP-binding protein [Streptococcus pasteurianus]
+Other Aliases: E8M05_RS04350, E8M05_04345
+Other Designations: ABC transporter ATP-binding protein
+ID: 64018589
+
+27. IYN88_RS18580
+ABC transporter ATP-binding protein [Comamonas testosteroni]
+Other Aliases: IYN88_RS18580, IYN88_18580
+Other Designations: ABC transporter ATP-binding protein
+ID: 63999023
+
+28. GXM20_RS05200
+ABC transporter ATP-binding protein [Flavonifractor plautii]
+Other Aliases: GXM20_RS05200, GXM20_05200
+Other Designations: ABC transporter ATP-binding protein
+ID: 63972232
+
+29. HMPREF1086_RS05580
+ABC transporter ATP-binding protein [[Clostridium] clostridioforme 90B1]
+Other Aliases: HMPREF1086_RS05580, HMPREF1086_01101
+Other Designations: ABC transporter ATP-binding protein
+ID: 63965098
+
+30. C4N19_RS00140
+ABC transporter ATP-binding protein [Fusobacterium mortiferum ATCC 9817]
+Other Aliases: C4N19_RS00140, C4N19_00140
+Other Designations: ABC transporter ATP-binding protein
+ID: 62761902
+
+31. HMPREF9452_RS04435
+ABC transporter ATP-binding protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS04435, HMPREF9452_00888
+Other Designations: ABC transporter ATP-binding protein
+ID: 62758634
+
+32. GNE07_RS00375
+ABC transporter ATP-binding protein [Hungatella hathewayi]
+Other Aliases: GNE07_RS00375, GNE07_00375
+Other Designations: ABC transporter ATP-binding protein
+ID: 61909133
+
+33. CGC65_RS16840
+ABC transporter ATP-binding protein [Enterocloster bolteae]
+Other Aliases: CGC65_RS16840, CGC65_16845
+Other Designations: ABC transporter ATP-binding protein
+ID: 61859971
+
+34. FB009_RS08565
+ABC transporter ATP-binding protein [Sinorhizobium medicae]
+Other Aliases: FB009_RS08565, FB009_104175
+Other Designations: ABC transporter ATP-binding protein
+ID: 61610650
+
+35. HMPREF9390_RS02780
+ABC transporter ATP-binding protein [Streptococcus sanguinis SK405]
+Other Aliases: HMPREF9390_RS02780, HMPREF9390_1539
+Other Designations: ABC transporter ATP-binding protein
+ID: 61535572
+
+36. ELH04_RS20930
+ABC transporter ATP-binding protein [Rhizobium leguminosarum]
+Other Aliases: ELH04_RS20930, ELH04_20930
+Other Designations: ABC transporter ATP-binding protein
+ID: 61425979
+
+37. FY486_RS00440
+ABC transporter ATP-binding protein [Ralstonia pickettii]
+Other Aliases: FY486_RS00440
+Other Designations: ABC transporter ATP-binding protein
+ID: 61386865
+
+38. QX69_RS01980
+ABC transporter ATP-binding protein [Kingella kingae KK12]
+Other Aliases: QX69_RS01980
+Other Designations: ABC transporter ATP-binding protein
+ID: 61309056
+
+39. DXZ51_RS11190
+ABC transporter ATP-binding protein [Oligella urethralis]
+Other Aliases: DXZ51_RS11190, NCTC11008_02260
+Other Designations: ABC transporter ATP-binding protein
+ID: 61261655
+
+40. CR251_RS05335
+ABC transporter ATP-binding protein [Propionibacterium freudenreichii]
+Other Aliases: CR251_RS05335, PFR_JS14_1061
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+ID: 61222140
+
+41. BrL25_RS24425
+ABC transporter ATP-binding protein [Brevibacillus laterosporus DSM 25]
+Other Aliases: BrL25_RS24425, BrL25_24025
+Other Designations: ABC transporter ATP-binding protein
+ID: 61081399
+
+42. BrL25_RS07795
+ABC transporter ATP-binding protein [Brevibacillus laterosporus DSM 25]
+Other Aliases: BrL25_RS07795, BrL25_07620
+Other Designations: ABC transporter ATP-binding protein
+ID: 61078168
+
+43. G6R18_RS04620
+ABC transporter ATP-binding protein [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS04620
+Other Designations: ABC transporter ATP-binding protein
+ID: 60943134
+
+44. CXR25_RS03025
+ABC transporter ATP-binding protein [Brevibacterium aurantiacum]
+Other Aliases: CXR25_RS03025, CXR25_03070
+Other Designations: ABC transporter ATP-binding protein
+ID: 60905015
+
+45. DQL78_RS07740
+ABC transporter ATP-binding protein [Enterococcus cecorum]
+Other Aliases: DQL78_RS07740, NCTC12421_01576
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 60872023
+
+46. NDB4MOL1_RS08525
+ABC transporter ATP-binding protein [Cupriavidus metallidurans]
+Other Aliases: NDB4MOL1_RS08525, NDB4MOL1_01702
+Other Designations: ABC transporter ATP-binding protein
+ID: 60822080
+
+47. CDC45_RS08990
+ABC transporter ATP-binding protein [Ralstonia pseudosolanacearum]
+Other Aliases: CDC45_RS08990, CDC45_08960
+Other Designations: ABC transporter ATP-binding protein
+ID: 60501267
+
+48. AL542_RS01845
+ABC transporter ATP-binding protein [Grimontia hollisae]
+Other Aliases: AL542_RS01845, AL542_01805
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 58894613
+
+49. EL147_RS02060
+ABC transporter ATP-binding protein [Streptococcus pseudoporcinus]
+Other Aliases: EL147_RS02060, NCTC13786_00417
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 58554739
+
+50. DYD51_RS03145
+ABC transporter ATP-binding protein [Streptococcus constellatus]
+Other Aliases: DYD51_RS03145, NCTC11325_00631
+Other Designations: ABC transporter ATP-binding protein
+ID: 58099436
+
+
+1. F2P57_RS19340
+ABC transporter ATP-binding protein [[Clostridium] symbiosum]
+Other Aliases: F2P57_RS19340, F2P57_19340
+Other Designations: ABC transporter ATP-binding protein
+ID: 57970784
+
+2. FOC63_RS08555
+ABC transporter ATP-binding protein [Streptococcus gallolyticus]
+Other Aliases: FOC63_RS08555, FOC63_08555
+Other Designations: ABC transporter ATP-binding protein
+ID: 57921931
+
+3. DQN42_RS06375
+ABC transporter ATP-binding protein [Streptococcus intermedius]
+Other Aliases: DQN42_RS06375, NCTC11324_01282
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 57845062
+
+4. FY355_RS00785
+ABC transporter ATP-binding protein [Veillonella atypica]
+Other Aliases: FY355_RS00785
+Other Designations: ABC transporter ATP-binding protein
+ID: 57773457
+
+5. M9W_RS01870
+ABC transporter ATP-binding protein [Rickettsia prowazekii str. Chernikova]
+Other Aliases: M9W_RS01870, M9W_01795
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_017049.1 (447217..447960)
+ID: 57569493
+
+6. DX510_RS22200
+ABC transporter ATP-binding protein [Brucella intermedia]
+Other Aliases: DX510_RS22200, NCTC12171_04421
+Other Designations: ABC transporter ATP-binding protein
+ID: 57308353
+
+7. DV446_RS03190
+ABC transporter ATP-binding protein [Neisseria elongata]
+Other Aliases: DV446_RS03190
+Other Designations: ABC transporter ATP-binding protein
+ID: 57108301
+
+8. BCV53_RS06855
+ABC transporter ATP-binding protein [Parageobacillus thermoglucosidasius]
+Other Aliases: BCV53_RS06855, BCV53_06855
+Other Designations: ABC transporter ATP-binding protein
+ID: 56925182
+
+9. BCAN_RS09490
+ABC transporter ATP-binding protein [Brucella canis ATCC 23365]
+Other Aliases: BCAN_RS09490, BCAN_A2102
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+Annotation: Chromosome I NC_010103.1 (1978648..1979442)
+ID: 55591626
+
+10. HMPREF0573_RS01700
+ABC transporter ATP-binding protein [Mobiluncus curtisii ATCC 43063]
+Other Aliases: HMPREF0573_RS01700, HMPREF0573_10350
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_014246.1 (396732..397523, complement)
+ID: 55564506
+
+11. FIU11_RS12065
+ABC transporter ATP-binding protein [Vibrio furnissii]
+Other Aliases: FIU11_RS12065, FIU11_12065
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 50535897
+
+12. EL140_RS03855
+ABC transporter ATP-binding protein [Streptococcus oralis ATCC 35037]
+Other Aliases: EL140_RS03855, NCTC11427_00758
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 49599592
+
+13. DQM67_RS09015
+ABC transporter ATP-binding protein [Streptococcus cristatus ATCC 51100]
+Other Aliases: DQM67_RS09015, NCTC12479_01751
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 48424195
+
+14. AMC88_RS20650
+ABC transporter ATP-binding protein [Rhizobium phaseoli]
+Other Aliases: AMC88_RS20650, AMC88_CH04192
+Other Designations: ABC transporter ATP-binding protein
+ID: 45959427
+
+15. AT688_RS00250
+ABC transporter ATP-binding protein [Fusobacterium polymorphum]
+Other Aliases: AT688_RS00250, ERS445057_00050
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 45633865
+
+16. BOV_RS09710
+ABC transporter ATP-binding protein [Brucella ovis ATCC 25840]
+Other Aliases: BOV_RS09710, BOV_1976
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+Annotation: Chromosome I NC_009505.1 (1984296..1985090)
+ID: 45125310
+
+17. BCEP18194_RS20975
+ABC transporter ATP-binding protein [Burkholderia lata]
+Other Aliases: BCEP18194_RS20975, Bcep18194_A6159
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+Annotation: Chromosome 1 NC_007510.1 (3309465..3310259, complement)
+ID: 45096040
+
+18. VEA_RS07175
+ABC transporter ATP-binding protein [Vibrio antiquarius]
+Other Aliases: VEA_RS07175, VEA_002972
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+Annotation: Chromosome 1 NC_013456.1 (1514420..1515214)
+ID: 45027201
+
+19. COPCOM_RS12585
+ABC transporter ATP-binding protein [Coprococcus comes ATCC 27758]
+Other Aliases: COPCOM_RS12585, COPCOM_03643
+Other Designations: ABC transporter ATP-binding protein
+ID: 43515419
+
+20. HMPREF9439_RS00745
+ABC transporter ATP-binding protein [Parasutterella excrementihominis YIT 11859]
+Other Aliases: HMPREF9439_RS00745, HMPREF9439_00162
+Other Designations: ABC transporter ATP-binding protein
+ID: 43347707
+
+21. ACAV_RS10465
+ABC transporter ATP-binding protein [Paracidovorax avenae ATCC 19860]
+Other Aliases: ACAV_RS10465, Acav_2119
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_015138.1 (2365377..2366171, complement)
+ID: 34235859
+
+22. phnK
+phosphonate C-P lyase system protein PhnK [Sinorhizobium meliloti GR4]
+Other Aliases: C770_RS26555, C770_GR4pD0161
+Genomic context: Plasmid pRmeGR4d
+Annotation:  NC_019849.1 (186016..186792, complement)
+ID: 25013815
+
+23. D560_RS13315
+ABC transporter ATP-binding protein [Bordetella holmesii ATCC 51541]
+Other Aliases: D560_RS13315, D560_2954
+Other Designations: ABC transporter ATP-binding protein
+ID: 23433093
+
+24. ECBG_RS10935
+ABC transporter ATP-binding protein [Enterococcus casseliflavus EC20]
+Other Aliases: ECBG_RS10935, ECBG_01790
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_020995.1 (2387042..2387848)
+ID: 15142789
+
+25. yhiN
+putative oxidoreductase YhiN [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b3492, ECK3477
+Other Designations: putative oxidoreductase YhiN
+Annotation:  NC_000913.3 (3636208..3637410, complement)
+ID: 947996
+
+26. HFM85_RS03115
+ATP-binding cassette domain-containing protein [Blautia schinkii]
+Other Aliases: HFM85_RS03115, HFM85_03120
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 82996147
+
+27. AEQU_RS08520
+ATP-binding cassette domain-containing protein [Adlercreutzia equolifaciens DSM 19450]
+Other Aliases: AEQU_RS08520, AEQU_1672
+Other Designations: ATP-binding cassette domain-containing protein
+Annotation:  NC_022567.1 (2138590..2139474, complement)
+ID: 62678262
+
+28. LBCZ_RS08610
+ATP-binding cassette domain-containing protein [Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393]
+Other Aliases: LBCZ_RS08610, LBCZ_1654
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 45548937
+
+29. LBCZ_RS02515
+ATP-binding cassette domain-containing protein [Lacticaseibacillus casei DSM 20011 = JCM 1134 = ATCC 393]
+Other Aliases: LBCZ_RS02515, LBCZ_0493
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 45547758
+
+30. RBI_RS01910
+ATP-binding cassette domain-containing protein [Ruminococcus bicirculans (ex Wegman et al. 2014)]
+Other Aliases: RBI_RS01910, RBI_I00387
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: I
+ID: 41518473
+
+31. N508_RS09165
+ATP-binding cassette domain-containing protein [Mucispirillum schaedleri ASF457]
+Other Aliases: N508_RS09165, N508_001842
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78588577
+
+32. phnK
+carbon-phosphorus lyase complex subunit [Escherichia coli O157:H7 str. Sakai]
+Other Aliases: ECs_5080
+Other Designations: carbon-phosphorus lyase complex subunit
+Annotation:  NC_002695.2 (5172988..5173746, complement)
+ID: 914255
+
+33. TY07_RS03260
+ATP-binding cassette domain-containing protein [Clostridium saudiense]
+Other Aliases: TY07_RS03260
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 83010895
+
+34. BN54_RS00595
+ATP-binding cassette domain-containing protein [Limosilactobacillus ingluviei str. Autruche 4]
+Other Aliases: BN54_RS00595, BN54_00610
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 82932987
+
+35. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia rochesterensis]
+Other Aliases: DXZ79_RS02780, DXZ79_02785
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 82549713
+
+36. PG862_RS01865
+ATP-binding cassette domain-containing protein [Clostridium fessum]
+Other Aliases: PG862_RS01865
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 79839308
+
+37. LPL03_RS12745
+ATP-binding cassette domain-containing protein [Lactiplantibacillus argentoratensis]
+Other Aliases: LPL03_RS12745, LPL03_24880
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 79831853
+
+38. PWO93_RS10675
+ATP-binding cassette domain-containing protein [Lactiplantibacillus paraplantarum]
+Other Aliases: PWO93_RS10675, PWO93_10675
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 79807996
+
+39. L6410_RS04175
+ATP-binding cassette domain-containing protein [Streptococcus parasuis]
+Other Aliases: L6410_RS04175, SUT286_07880
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78826896
+
+40. G6O73_RS09505
+ATP-binding cassette domain-containing protein [Liquorilactobacillus nagelii DSM 13675]
+Other Aliases: G6O73_RS09505, G6O73_09515
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78522598
+
+41. BMY94_RS04315
+ATP-binding cassette domain-containing protein [Sharpea azabuensis]
+Other Aliases: BMY94_RS04315, SAMN04487835_10848
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78514129
+
+42. FMM01_RS13830
+ATP-binding cassette domain-containing protein [Schleiferilactobacillus harbinensis]
+Other Aliases: FMM01_RS13830, FMM01_13825
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78510930
+
+43. FMM01_RS06655
+ATP-binding cassette domain-containing protein [Schleiferilactobacillus harbinensis]
+Other Aliases: FMM01_RS06655, FMM01_06655
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78509529
+
+44. H7U37_RS06215
+ATP-binding cassette domain-containing protein [Pseudoflavonifractor phocaeensis]
+Other Aliases: H7U37_RS06215, H7U37_06210
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78369460
+
+45. NQ490_RS11095
+ATP-binding cassette domain-containing protein [Subdoligranulum variabile]
+Other Aliases: NQ490_RS11095, NQ490_11095
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78307768
+
+46. INF29_RS09830
+ATP-binding cassette domain-containing protein [Anaerotignum lactatifermentans]
+Other Aliases: INF29_RS09830, INF29_09830
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78177232
+
+47. A0F92_RS08380
+ATP-binding cassette domain-containing protein [Hydrotalea flava]
+Other Aliases: A0F92_RS08380
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 78107473
+
+48. SN16_RS11765
+ATP-binding cassette domain-containing protein [Salinicoccus roseus]
+Other Aliases: SN16_RS11765, SN16_11775
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77846220
+
+49. CK496_RS12225
+ATP-binding cassette domain-containing protein [Enterococcus thailandicus]
+Other Aliases: CK496_RS12225, CK496_12225
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77488402
+
+50. CK496_RS06940
+ATP-binding cassette domain-containing protein [Enterococcus thailandicus]
+Other Aliases: CK496_RS06940, CK496_06940
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77487374
+
+
+1. FYB86_RS06755
+ATP-binding cassette domain-containing protein [Roseburia hominis]
+Other Aliases: FYB86_RS06755
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: 1
+ID: 77458970
+
+2. LL095_RS09415
+ATP-binding cassette domain-containing protein [Clostridium tagluense]
+Other Aliases: LL095_RS09415, LL095_09450
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77241232
+
+3. LL095_RS06400
+ATP-binding cassette domain-containing protein [Clostridium tagluense]
+Other Aliases: LL095_RS06400, LL095_06410
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77240629
+
+4. EFT43_RS08770
+ATP-binding cassette domain-containing protein [Leuconostoc falkenbergense]
+Other Aliases: EFT43_RS08770, EFT43_08750
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77210003
+
+5. APT62_RS02435
+ATP-binding cassette domain-containing protein [Aerococcus urinaeequi]
+Other Aliases: APT62_RS02435, APT62_02435
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 77094286
+
+6. FLT43_RS21765
+ATP-binding cassette domain-containing protein [Paenibacillus thiaminolyticus]
+Other Aliases: FLT43_RS21765, FLT43_21765
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 76998589
+
+7. IV87_RS02875
+ATP-binding cassette domain-containing protein [Pediococcus ethanolidurans]
+Other Aliases: IV87_RS02875, IV87_GL001669
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 76043053
+
+8. KBW87_RS00205
+ATP-binding cassette domain-containing protein [Lactobacillus intestinalis]
+Other Aliases: KBW87_RS00205, KBW87_00200
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 75115834
+
+9. BV55_RS0100945
+ATP-binding cassette domain-containing protein [Clostridium algidicarnis]
+Other Aliases: BV55_RS0100945
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 75089150
+
+10. HED67_RS13665
+ATP-binding cassette domain-containing protein [Coprococcus catus]
+Other Aliases: HED67_RS13665, HED67_13755
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74988178
+
+11. HED67_RS12635
+ATP-binding cassette domain-containing protein [Coprococcus catus]
+Other Aliases: HED67_RS12635, HED67_12715
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 74987974
+
+12. FXX01_RS08935
+ATP-binding cassette domain-containing protein [Gemmiger formicilis]
+Other Aliases: FXX01_RS08935
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 73806214
+
+13. FXX01_RS04860
+ATP-binding cassette domain-containing protein [Gemmiger formicilis]
+Other Aliases: FXX01_RS04860
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 73805409
+
+14. L6439_RS04035
+ATP-binding cassette domain-containing protein [Paenibacillus dendritiformis]
+Other Aliases: L6439_RS04035
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 73383343
+
+15. ICI50_RS00255
+ATP-binding cassette domain-containing protein [Lactobacillus kefiranofaciens]
+Other Aliases: ICI50_RS00255, ICI50_00250
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 72685931
+
+16. KE627_RS03565
+ATP-binding cassette domain-containing protein [Lentilactobacillus buchneri]
+Other Aliases: KE627_RS03565, KE627_03565
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 72460586
+
+17. I2E55_RS07380
+ATP-binding cassette domain-containing protein [Weissella paramesenteroides]
+Other Aliases: I2E55_RS07380, I2E55_07380
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 72404384
+
+18. BHS00_RS04310
+ATP-binding cassette domain-containing protein [Lactococcus carnosus]
+Other Aliases: BHS00_RS04310, BHS00_04290
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 71635859
+
+19. DNL43_RS07625
+ATP-binding cassette domain-containing protein [Lentilactobacillus kefiri]
+Other Aliases: DNL43_RS07625, DNL43_07730
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 71567369
+
+20. FY488_RS15485
+ATP-binding cassette domain-containing protein [Faecalicatena contorta]
+Other Aliases: FY488_RS15485
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 70045501
+
+21. C7K43_RS03195
+ATP-binding cassette domain-containing protein [Tetragenococcus koreensis]
+Other Aliases: C7K43_RS03195, C7K43_03205
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69984943
+
+22. C7K43_RS01035
+ATP-binding cassette domain-containing protein [Tetragenococcus koreensis]
+Other Aliases: C7K43_RS01035, C7K43_01040
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69984521
+
+23. K5K99_RS09395
+ATP-binding cassette domain-containing protein [Vagococcus fluvialis]
+Other Aliases: K5K99_RS09395, K5K99_09370
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69881549
+
+24. FG342_RS11650
+ATP-binding cassette domain-containing protein [Lacticaseibacillus rhamnosus]
+Other Aliases: FG342_RS11650
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69832265
+
+25. FG342_RS05685
+ATP-binding cassette domain-containing protein [Lacticaseibacillus rhamnosus]
+Other Aliases: FG342_RS05685
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69831180
+
+26. ILQ00_RS07300
+ATP-binding cassette domain-containing protein [Lentilactobacillus parabuchneri]
+Other Aliases: ILQ00_RS07300, ILQ00_07300
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69803284
+
+27. BQ1177_RS04875
+ATP-binding cassette domain-containing protein [Ligilactobacillus salivarius]
+Other Aliases: BQ1177_RS04875
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: I
+ID: 69723339
+
+28. F8244_RS06265
+ATP-binding cassette domain-containing protein [Lactobacillus gasseri]
+Other Aliases: F8244_RS06265, F8244_06265
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69667116
+
+29. AUF14_RS06045
+ATP-binding cassette domain-containing protein [Enterococcus avium]
+Other Aliases: AUF14_RS06045, AUF14_06045
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69568094
+
+30. LIZ66_RS11250
+ATP-binding cassette domain-containing protein [Blautia faecis]
+Other Aliases: LIZ66_RS11250, LIZ66_11255
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69514775
+
+31. LA357_RS14095
+ATP-binding cassette domain-containing protein [Clostridium sporogenes]
+Other Aliases: LA357_RS14095, LA357_14090
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 69426772
+
+32. CNEONATNEC86_RS15200
+ATP-binding cassette domain-containing protein [Clostridium neonatale]
+Other Aliases: CNEONATNEC86_RS15200, CNEONATNEC86_03064
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 68878326
+
+33. CNEONATNEC86_RS01830
+ATP-binding cassette domain-containing protein [Clostridium neonatale]
+Other Aliases: CNEONATNEC86_RS01830, CNEONATNEC86_00357
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 68875663
+
+34. FXW45_RS03015
+ATP-binding cassette domain-containing protein [Intestinibacter bartlettii]
+Other Aliases: FXW45_RS03015
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 68213812
+
+35. K5J94_RS07845
+ATP-binding cassette domain-containing protein [Streptococcus halichoeri]
+Other Aliases: K5J94_RS07845
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 67413408
+
+36. J9537_RS07720
+ATP-binding cassette domain-containing protein [Enterococcus raffinosus]
+Other Aliases: J9537_RS07720, J9537_07720
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 67040042
+
+37. KBP50_RS21015
+ATP-binding cassette domain-containing protein [Virgibacillus pantothenticus]
+Other Aliases: KBP50_RS21015, KBP50_21015
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66872944
+
+38. FGL83_RS03740
+ATP-binding cassette domain-containing protein [Leuconostoc lactis]
+Other Aliases: FGL83_RS03740, FGL83_03740
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66531293
+
+39. EB54_RS09145
+ATP-binding cassette domain-containing protein [Enterococcus gallinarum]
+Other Aliases: EB54_RS09145, EB54_01820
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66473952
+
+40. EGU21_RS11550
+ATP-binding cassette domain-containing protein [Levilactobacillus brevis]
+Other Aliases: EGU21_RS11550
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66421681
+
+41. KNZ77_RS04710
+ATP-binding cassette domain-containing protein [Clostridioides difficile]
+Other Aliases: KNZ77_RS04710, KNZ77_04710
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66353380
+
+42. K2W83_RS05545
+ATP-binding cassette domain-containing protein [Apilactobacillus kunkeei]
+Other Aliases: K2W83_RS05545, K2W83_05545
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 66349254
+
+43. IQ19_RS02505
+ATP-binding cassette domain-containing protein [Cytobacillus oceanisediminis]
+Other Aliases: IQ19_RS02505, IQ19_00499
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 65401786
+
+44. J1C67_RS01470
+ATP-binding cassette domain-containing protein [Clostridium gasigenes]
+Other Aliases: J1C67_RS01470, J1C67_01470
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: CGAS001
+ID: 65308186
+
+45. ARA08_RS04975
+ATP-binding cassette domain-containing protein [Eubacterium ramulus]
+Other Aliases: ARA08_RS04975, ERS852448_01012
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 65244585
+
+46. I6H60_RS10270
+ATP-binding cassette domain-containing protein [Leuconostoc pseudomesenteroides]
+Other Aliases: I6H60_RS10270, I6H60_10270
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 64345715
+
+47. H1A07_RS01415
+ATP-binding cassette domain-containing protein [Lactobacillus taiwanensis]
+Other Aliases: H1A07_RS01415, H1A07_01415
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 64333072
+
+48. BLR40_RS07405
+ATP-binding cassette domain-containing protein [Streptococcus equinus]
+Other Aliases: BLR40_RS07405, SAMN04487837_1488
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 63970900
+
+49. GSR62_RS02505
+ATP-binding cassette domain-containing protein [Ligilactobacillus animalis]
+Other Aliases: GSR62_RS02505, GSR62_02500
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61226052
+
+50. LM011_RS03105
+ATP-binding cassette domain-containing protein [Limosilactobacillus mucosae]
+Other Aliases: LM011_RS03105, LM011_03090
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61209669
+
+
+1. EPJ74_RS05135
+ATP-binding cassette domain-containing protein [Brachyspira aalborgi]
+Other Aliases: EPJ74_RS05135, EPJ74_05130
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61066689
+
+2. I6G59_RS06425
+ATP-binding cassette domain-containing protein [Brevibacterium casei]
+Other Aliases: I6G59_RS06425, I6G59_06425
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 61004531
+
+3. EM4838_RS06410
+ATP-binding cassette domain-containing protein [Enterococcus mundtii]
+Other Aliases: EM4838_RS06410, EM4838_06285
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 60999282
+
+4. DQL78_RS06280
+ATP-binding cassette domain-containing protein [Enterococcus cecorum]
+Other Aliases: DQL78_RS06280, NCTC12421_01273
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: 1
+ID: 60871735
+
+5. GCD22_RS06375
+ATP-binding cassette domain-containing protein [Acidithiobacillus thiooxidans ATCC 19377]
+Other Aliases: GCD22_RS06375, GCD22_01325
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 60695699
+
+6. RN92_RS06890
+ATP-binding cassette domain-containing protein [Fusobacterium hwasookii ChDC F206]
+Other Aliases: RN92_RS06890, RN92_06880
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 60659323
+
+7. ARB75_RS00145
+ATP-binding cassette domain-containing protein [Roseburia faecis]
+Other Aliases: ARB75_RS00145, ERS852420_00030
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 60298059
+
+8. HLK68_RS12595
+ATP-binding cassette domain-containing protein [Turicibacter sanguinis]
+Other Aliases: HLK68_RS12595, HLK68_12615
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 60059754
+
+9. DY123_RS00745
+ATP-binding cassette domain-containing protein [Apilactobacillus micheneri]
+Other Aliases: DY123_RS00745, DY123_00745
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 58107651
+
+10. F2P57_RS04345
+ATP-binding cassette domain-containing protein [[Clostridium] symbiosum]
+Other Aliases: F2P57_RS04345, F2P57_04345
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57967785
+
+11. E6A55_RS31555
+ATP-binding cassette domain-containing protein [Cupriavidus necator H16]
+Other Aliases: E6A55_RS31555, E6A55_31535
+Other Designations: ATP-binding cassette domain-containing protein
+Chromosome: 2
+ID: 57648343
+
+12. HN015_RS01065
+ATP-binding cassette domain-containing protein [Pediococcus acidilactici]
+Other Aliases: HN015_RS01065, HN015_01070
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57365095
+
+13. GJ664_RS00205
+ATP-binding cassette domain-containing protein [Latilactobacillus sakei]
+Other Aliases: GJ664_RS00205, GJ664_00205
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57132104
+
+14. C7954_RS07050
+ATP-binding cassette domain-containing protein [Halanaerobium congolense]
+Other Aliases: C7954_RS07050, C7954_11633
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 57012818
+
+15. CTM86_RS03625
+ATP-binding cassette domain-containing protein [Fusobacterium pseudoperiodonticum]
+Other Aliases: CTM86_RS03625, CTM86_03595
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 56856485
+
+16. DW871_RS00350
+ATP-binding cassette domain-containing protein [Sellimonas intestinalis]
+Other Aliases: DW871_RS00350, DW871_00350
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 56801112
+
+17. A6J73_RS09585
+ATP-binding cassette domain-containing protein [Enterococcus hirae]
+Other Aliases: A6J73_RS09585, A6J73_09595
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 56787569
+
+18. B5772_RS05925
+ATP-binding cassette domain-containing protein [Dolosigranulum pigrum]
+Other Aliases: B5772_RS05925, B5772_05790
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 56765285
+
+19. LCU_RS04110
+ATP-binding cassette domain-containing protein [Latilactobacillus curvatus JCM 1096 = DSM 20019]
+Other Aliases: LCU_RS04110, LCU_04120
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 49610620
+
+20. LP314_RS13925
+ATP-binding cassette domain-containing protein [Lactiplantibacillus pentosus]
+Other Aliases: LP314_RS13925, LP314_13925
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 49395044
+
+21. LP314_RS12025
+ATP-binding cassette domain-containing protein [Lactiplantibacillus pentosus]
+Other Aliases: LP314_RS12025, LP314_12025
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 49394669
+
+22. G594_RS0104270
+ATP-binding cassette domain-containing protein [Clostridium paraputrificum AGR2156]
+Other Aliases: G594_RS0104270
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 42775269
+
+23. BN162_RS12810
+ATP-binding cassette domain-containing protein [Holdemania massiliensis AP2]
+Other Aliases: BN162_RS12810, BN162_13260
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 42457310
+
+24. AWM73_RS04385
+ATP-binding cassette domain-containing protein [Aerococcus urinae]
+Other Aliases: AWM73_RS04385, AWM73_04385
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 35768241
+
+25. AWM73_RS04220
+ATP-binding cassette domain-containing protein [Aerococcus urinae]
+Other Aliases: AWM73_RS04220, AWM73_04220
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 35767793
+
+26. AWM73_RS06105
+ATP-binding cassette domain-containing protein [Aerococcus urinae]
+Other Aliases: AWM73_RS06105, AWM73_06105
+Other Designations: ATP-binding cassette domain-containing protein
+ID: 35767133
+
+27. SGR_RS35570
+ATP-binding protein [Streptomyces griseus subsp. griseus NBRC 13350]
+Other Aliases: SGR_RS35570, SGR_7138t
+Other Designations: ATP-binding protein
+Annotation:  NC_010572.1 (8543139..8544986, complement)
+ID: 6215202
+
+28. SGR_RS00015
+ATP-binding protein [Streptomyces griseus subsp. griseus NBRC 13350]
+Other Aliases: SGR_RS00015, SGR_1t
+Other Designations: ATP-binding protein
+Annotation:  NC_010572.1 (944..2791)
+ID: 6214988
+
+29. phnK
+phosphonate C-P lyase system protein PhnK [Mesorhizobium japonicum R7A]
+Other Aliases: R7A2020_RS30400, R7A2020_30400
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66686354
+
+30. phnK
+phosphonate C-P lyase system protein PhnK [Pantoea agglomerans]
+Other Aliases: I6L77_RS09760, I6L77_09760
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66825462
+
+31. phnK
+phosphonate C-P lyase system protein PhnK [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23450, I8N75_23450
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 64297528
+
+32. phnK
+phosphonate C-P lyase system protein PhnK [Pseudosulfitobacter pseudonitzschiae]
+Other Aliases: HT745_RS05970, HT745_05970
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 68869228
+
+33. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter sichuanensis]
+Other Aliases: C1N69_RS01740, C1N69_01755
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 72830231
+
+34. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter chengduensis]
+Other Aliases: FY206_RS01840, FY206_01840
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 63140367
+
+35. phnK
+phosphonate C-P lyase system protein PhnK [Vibrio nigripulchritudo POn4]
+Other Aliases: VIBNIPON4_RS13765, VIBNIPon4_390104
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61875614
+
+36. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06525, DJ58_1100
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 57904660
+
+37. phnK
+phosphonate C-P lyase system protein PhnK [Pectobacterium versatile]
+Other Aliases: SCC1_RS17175, SCC1_3404
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 57315588
+
+38. phnK
+phosphonate C-P lyase system protein PhnK [Pandoraea pnomenusa]
+Other Aliases: X636_RS02730, X636_13360
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_023018.2 (580361..581140, complement)
+ID: 57197093
+
+39. phnK
+phosphonate C-P lyase system protein PhnK [Paraburkholderia caribensis MBA4]
+Other Aliases: K788_RS28560, K788_0000028
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 2
+ID: 69972604
+
+40. phnK
+phosphonate C-P lyase system protein PhnK [Neorhizobium galegae bv. orientalis str. HAMBI 540]
+Other Aliases: RG540_RS21445, RG540_CH43310
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: I
+ID: 24255557
+
+41. phnK
+phosphonate C-P lyase system protein PhnK [Klebsiella grimontii]
+Other Aliases: FN634_RS20300
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 64338771
+
+42. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia aldovae 670-83]
+Other Aliases: AT01_RS14735, AT01_2993
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 45572114
+
+43. AXE82_RS10375
+ABC transporter ATP-binding protein [Moraxella osloensis]
+Other Aliases: AXE82_RS10375, AXE82_10380
+Other Designations: ABC transporter ATP-binding protein
+ID: 35779051
+
+44. BCCH1_RS30450
+ABC transporter ATP-binding protein [Burkholderia contaminans]
+Other Aliases: BCCH1_RS30450, BCCH1_59540
+Other Designations: ABC transporter ATP-binding protein
+ID: 61087417
+
+45. I6I48_RS28765
+ABC transporter ATP-binding protein [Achromobacter xylosoxidans]
+Other Aliases: I6I48_RS28765, I6I48_28760
+Other Designations: ABC transporter ATP-binding protein
+ID: 75278507
+
+46. phnK
+phosphonate C-P lyase system protein PhnK [Bradyrhizobium ottawaense]
+Other Aliases: GDN72_RS02030, SG09_03970
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 83307009
+
+47. phnK
+phosphonate C-P lyase system protein PhnK [Agrobacterium salinitolerans]
+Other Aliases: O9X91_RS03035, O9X91_03035
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 79861589
+
+48. phnK
+phosphonate C-P lyase system protein PhnK [Bradyrhizobium yuanmingense]
+Other Aliases: P0R27_RS13370, P0R27_13365
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 79820354
+
+49. phnK
+phosphonate C-P lyase system protein PhnK [Serratia nevei]
+Other Aliases: F0338_RS01670
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 79508442
+
+50. phnK
+phosphonate C-P lyase system protein PhnK [Obesumbacterium proteus]
+Other Aliases: XK97_RS16070, XK97_16065
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 78451987
+
+
+1. phnK
+phosphonate C-P lyase system protein PhnK [Phaeobacter italicus]
+Other Aliases: KUV39_RS05445, KUV39_05445
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 78397153
+
+2. phnK
+phosphonate C-P lyase system protein PhnK [Ewingella americana]
+Other Aliases: F4W05_RS11990, F4W05_11990
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 78381191
+
+3. phnK
+phosphonate C-P lyase system protein PhnK [Achromobacter spanius]
+Other Aliases: EL258_RS04310, NCTC13519_00872
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 78279413
+
+4. phnK
+phosphonate C-P lyase system protein PhnK [Kalamiella piersonii]
+Other Aliases: D7S44_RS07445, D7S44_07430
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 78233289
+
+5. phnK
+phosphonate C-P lyase system protein PhnK [Nodularia spumigena UHCC 0039]
+Other Aliases: BMF81_RS02485, BMF81_00481
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 78015880
+
+6. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia enterocolitica]
+Other Aliases: N4222_RS17840, N4222_17840
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 77329708
+
+7. phnK
+phosphonate C-P lyase system protein PhnK [Serratia bockelmannii]
+Other Aliases: OM395_RS14640, OM395_14640
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 77284128
+
+8. phnK
+phosphonate C-P lyase system protein PhnK [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20610, KCG39_20610
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 77228401
+
+9. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas paraeruginosa]
+Other Aliases: B7D75_RS08115, B7D75_08115
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 77220108
+
+10. phnK
+phosphonate C-P lyase system protein PhnK [Paraburkholderia aspalathi]
+Other Aliases: KHO30_RS07130, R20943_01447
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 77193631
+
+11. phnK
+phosphonate C-P lyase system protein PhnK [Halomonas venusta]
+Other Aliases: JDS37_RS02145, JDS37_02145
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 77013920
+
+12. phnK
+phosphonate C-P lyase system protein PhnK [Serratia grimesii]
+Other Aliases: SGBXF1_RS02315, SGBXF1_00462
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 75280257
+
+13. phnK
+phosphonate C-P lyase system protein PhnK [Rhizobium anhuiense bv. trifolii]
+Other Aliases: NE851_RS10870, NE851_10860
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 75217997
+
+14. phnK
+phosphonate C-P lyase system protein PhnK [Stutzerimonas frequens]
+Other Aliases: I6G34_RS04460, I6G34_04460
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 75212536
+
+15. phnK
+phosphonate C-P lyase system protein PhnK [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01475, HUZ68_01460
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 75169615
+
+16. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia alsatica]
+Other Aliases: N0H69_RS02470, N0H69_02470
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 75138827
+
+17. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter asburiae]
+Other Aliases: FOY94_RS01700, EAS17NKHM_003260
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 75131964
+
+18. phnK
+phosphonate C-P lyase system protein PhnK [Cupriavidus pauculus]
+Other Aliases: LDZ25_RS03570
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 75096754
+
+19. phnK
+phosphonate C-P lyase system protein PhnK [Serratia ficaria]
+Other Aliases: CKW09_RS02725, SAMEA4384070_00542
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 75025731
+
+20. phnK
+phosphonate C-P lyase system protein PhnK [Serratia entomophila]
+Other Aliases: KHA73_RS02030, KHA73_02030
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 75020683
+
+21. phnK
+phosphonate C-P lyase system protein PhnK [Serratia quinivorans]
+Other Aliases: EL336_RS02110, NCTC13188_00422
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 74948675
+
+22. phnK
+phosphonate C-P lyase system protein PhnK [Stutzerimonas kunmingensis]
+Other Aliases: LW136_RS00450, LW136_00450
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 73728704
+
+23. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter mori]
+Other Aliases: L6Y89_RS01590, L6Y89_01590
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 72512930
+
+24. phnK
+phosphonate C-P lyase system protein PhnK [Raoultella planticola]
+Other Aliases: MNO12_RS13105, MNO12_13105
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 72407601
+
+25. phnK
+phosphonate C-P lyase system protein PhnK [Achromobacter insuavis]
+Other Aliases: H0522_RS07565, LMG26846_01504
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 71017363
+
+26. phnK
+phosphonate C-P lyase system protein PhnK [Cupriavidus gilardii]
+Other Aliases: FOB47_RS05060, FOB47_05060
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 70687680
+
+27. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas savastanoi]
+Other Aliases: KP808_RS10535, KP808_10505
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69859166
+
+28. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia bercovieri]
+Other Aliases: LH409_RS06955, LH409_06955
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69737714
+
+29. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia proxima]
+Other Aliases: FTB57_RS11585
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69701140
+
+30. phnK
+phosphonate C-P lyase system protein PhnK [Citrobacter farmeri]
+Other Aliases: EGK65_RS21065, EGK65_21090
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69619706
+
+31. phnK
+phosphonate C-P lyase system protein PhnK [Citrobacter cronae]
+Other Aliases: JSN25_RS07205
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 69429392
+
+32. phnK
+phosphonate C-P lyase system protein PhnK [Chromobacterium vaccinii]
+Other Aliases: BKX93_RS22445, BKX93_22445
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 68843959
+
+33. phnK
+phosphonate C-P lyase system protein PhnK [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS19335, I2D83_19330
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 67795698
+
+34. phnK
+phosphonate C-P lyase system protein PhnK [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS17520, I2D83_17515
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 67795335
+
+35. phnK
+phosphonate C-P lyase system protein PhnK [Cylindrospermopsis raciborskii N8]
+Other Aliases: J9B92_RS14830
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 67521243
+
+36. phnK
+phosphonate C-P lyase system protein PhnK [Rhizobium laguerreae]
+Other Aliases: HFO71_RS20190, HFO71_20365
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 67486234
+
+37. phnK
+phosphonate C-P lyase system protein PhnK [Erwinia persicina]
+Other Aliases: K6L24_RS08410, K6L24_08410
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 67476242
+
+38. phnK
+phosphonate C-P lyase system protein PhnK [Pantoea dispersa]
+Other Aliases: K7H94_RS07350, K7H94_07350
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 1
+ID: 67451427
+
+39. phnK
+phosphonate C-P lyase system protein PhnK [Variovorax paradoxus NBRC 15149]
+Other Aliases: VPA02S_RS18920
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 67428386
+
+40. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia ruckeri]
+Other Aliases: YR821_RS02120, YR821_0429
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66878247
+
+41. phnK
+phosphonate C-P lyase system protein PhnK [Pectobacterium parmentieri]
+Other Aliases: C5E18_RS03005, C5E18_03020
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66800869
+
+42. phnK
+phosphonate C-P lyase system protein PhnK [Serratia marcescens]
+Other Aliases: C7M65_RS20520, C7M65_20495
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66716536
+
+43. phnK
+phosphonate C-P lyase system protein PhnK [Dickeya solani]
+Other Aliases: BJJ98_RS04445, BJJ98_04265
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66641893
+
+44. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter cancerogenus]
+Other Aliases: K3T75_RS03015
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66610004
+
+45. phnK
+phosphonate C-P lyase system protein PhnK [Dickeya fangzhongdai]
+Other Aliases: CVE23_RS08335, CVE23_08335
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66564342
+
+46. phnK
+phosphonate C-P lyase system protein PhnK [Paraburkholderia fungorum]
+Other Aliases: OI25_RS37690, OI25_6532
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 2
+ID: 66520297
+
+47. phnK
+phosphonate C-P lyase system protein PhnK [Mameliella alba]
+Other Aliases: CDZ96_RS16920, CDZ96_16920
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66502258
+
+48. phnK
+phosphonate C-P lyase system protein PhnK [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS36765, BE61_75150
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66429139
+
+49. phnK
+phosphonate C-P lyase system protein PhnK [Bradyrhizobium elkanii USDA 61]
+Other Aliases: BE61_RS00980, BE61_02060
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66422004
+
+50. phnK
+phosphonate C-P lyase system protein PhnK [Lelliottia amnigena]
+Other Aliases: I6L75_RS21310, I6L75_21300
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66412830
+
+
+1. phnK
+phosphonate C-P lyase system protein PhnK [Kosakonia radicincitans]
+Other Aliases: FEI17_RS24700, FEI17_24690
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66394758
+
+2. phnK
+phosphonate C-P lyase system protein PhnK [Chromobacterium violaceum]
+Other Aliases: I6K03_RS15505, I6K03_15505
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66367513
+
+3. phnK
+phosphonate C-P lyase system protein PhnK [Citrobacter amalonaticus]
+Other Aliases: AL524_RS30805, AL524_05345
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66235757
+
+4. phnK
+phosphonate C-P lyase system protein PhnK [Rhizobium bangladeshense]
+Other Aliases: J2J98_RS00830, J2J98_00830
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66144353
+
+5. phnK
+phosphonate C-P lyase system protein PhnK [Rhizobium lentis]
+Other Aliases: J0663_RS09500, J0663_09500
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 66139869
+
+6. phnK
+phosphonate C-P lyase system protein PhnK [Pantoea allii]
+Other Aliases: C7431_RS13090, C7431_10544
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 65791379
+
+7. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas cannabina pv. alisalensis]
+Other Aliases: JGS08_RS15275, JGS08_15275
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 64466221
+
+8. phnK
+phosphonate C-P lyase system protein PhnK [Serratia liquefaciens]
+Other Aliases: F0336_RS02085, F0336_02085
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 64204919
+
+9. phnK
+phosphonate C-P lyase system protein PhnK [Vibrio mediterranei]
+Other Aliases: HOP38_RS25490, HOP38_25490
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: II
+ID: 64089626
+
+10. phnK
+phosphonate C-P lyase system protein PhnK [Sulfitobacter geojensis]
+Other Aliases: JQV57_RS12420, JQV57_12410
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 63943877
+
+11. phnK
+phosphonate C-P lyase system protein PhnK [Marivita cryptomonadis]
+Other Aliases: MCRY_RS08010, MCRY_08010
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 62640709
+
+12. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia kristensenii]
+Other Aliases: DX162_RS03590, NCTC11471_00713
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61905443
+
+13. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia aleksiciae]
+Other Aliases: AP371_RS03270, ERS008671_00680
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61901222
+
+14. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia massiliensis CCUG 53443]
+Other Aliases: BN68_RS11235, BN68_11485
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61815901
+
+15. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas avellanae]
+Other Aliases: N010_RS0217315
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61791257
+
+16. phnK
+phosphonate C-P lyase system protein PhnK [Serratia rubidaea]
+Other Aliases: I6G83_RS09190, I6G83_09190
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61763944
+
+17. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas fluorescens]
+Other Aliases: CPH89_RS20050, SAMN04488487_4123
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: I
+ID: 61637958
+
+18. phnK
+phosphonate C-P lyase system protein PhnK [Agrobacterium pusense]
+Other Aliases: HQN82_RS12920, HQN82_12920
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: R76C1
+ID: 61456248
+
+19. phnK
+phosphonate C-P lyase system protein PhnK [Pectobacterium polaris]
+Other Aliases: BJK05_RS22165, BJK05_21505
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61411270
+
+20. phnK
+phosphonate C-P lyase system protein PhnK [Pectobacterium polaris]
+Other Aliases: BJK05_RS20070, BJK05_19450
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61410858
+
+21. phnK
+phosphonate C-P lyase system protein PhnK [Paraburkholderia tropica]
+Other Aliases: G5S35_RS20190, G5S35_20140
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: B
+ID: 61304859
+
+22. phnK
+phosphonate C-P lyase system protein PhnK [Lonsdalea populi]
+Other Aliases: I6N93_RS15685, I6N93_15685
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61123578
+
+23. phnK
+phosphonate C-P lyase system protein PhnK [Mesorhizobium loti]
+Other Aliases: C8D77_RS00690, C8D77_101138
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 61049497
+
+24. phnK
+phosphonate C-P lyase system protein PhnK [Dickeya zeae]
+Other Aliases: C1O30_RS07910, C1O30_07910
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 60867829
+
+25. phnK
+phosphonate C-P lyase system protein PhnK [Grimontia hollisae]
+Other Aliases: AL542_RS01250, AL542_01220
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: 2
+ID: 58894495
+
+26. phnK
+phosphonate C-P lyase system protein PhnK [Pantoea vagans]
+Other Aliases: EGO56_RS07310, EGO56_07310
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 58737603
+
+27. phnK
+phosphonate C-P lyase system protein PhnK [Chromobacterium haemolyticum]
+Other Aliases: GYH29_RS15615, CH06BL_30990
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 58560823
+
+28. phnK
+phosphonate C-P lyase system protein PhnK [Enhydrobacter aerosaccus]
+Other Aliases: B5D62_RS22960, SAMN02745126_04619
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 58130360
+
+29. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia intermedia]
+Other Aliases: FOC38_RS19100, FOC38_19100
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 58049077
+
+30. phnK
+phosphonate C-P lyase system protein PhnK [Yersinia mollaretii ATCC 43969]
+Other Aliases: HRD69_RS08175, HRD69_08175
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 57917756
+
+31. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas gingeri]
+Other Aliases: HX881_RS29230, HX881_29230
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 57664127
+
+32. phnK
+phosphonate C-P lyase system protein PhnK [Raoultella terrigena]
+Other Aliases: HCK03_RS24355, HCK03_24350
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 57507112
+
+33. phnK
+phosphonate C-P lyase system protein PhnK [Ruegeria arenilitoris]
+Other Aliases: GOW72_RS03805
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 57465674
+
+34. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas azotoformans]
+Other Aliases: BLR69_RS30385, SAMN04489799_6201
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: I
+ID: 57378569
+
+35. phnK
+phosphonate C-P lyase system protein PhnK [Brucella intermedia]
+Other Aliases: DX510_RS15650, NCTC12171_03139
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 57307090
+
+36. phnK
+phosphonate C-P lyase system protein PhnK [Hafnia alvei]
+Other Aliases: HBA19_RS02760, HBA19_02760
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 56890332
+
+37. phnK
+phosphonate C-P lyase system protein PhnK [Clavibacter michiganensis subsp. michiganensis]
+Other Aliases: EFE39_RS02025, EFE39_02035
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 56884658
+
+38. phnK
+phosphonate C-P lyase system protein PhnK [Bordetella hinzii]
+Other Aliases: CBR68_RS00585, CBR68_00585
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 56618625
+
+39. phnK
+phosphonate C-P lyase system protein PhnK [Achromobacter insolitus]
+Other Aliases: E2544_RS07320, E2544_07325
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 56311151
+
+40. phnK
+phosphonate C-P lyase system protein PhnK [Achromobacter denitrificans]
+Other Aliases: FOC82_RS15755, FOC82_15755
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 56280388
+
+41. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas yamanorum]
+Other Aliases: AK972_RS07920, AK972_1538
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 56070651
+
+42. phnK
+phosphonate C-P lyase system protein PhnK [Achromobacter ruhlandii]
+Other Aliases: AruCF_RS19690, AruCF_3928
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 55561955
+
+43. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas proteolytica]
+Other Aliases: BLW35_RS15530, SAMN04490200_3113
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 55540226
+
+44. phnK
+phosphonate C-P lyase system protein PhnK [Ruegeria atlantica]
+Other Aliases: RUA4292_RS21325, RUA4292_04297
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 55495422
+
+45. phnK
+phosphonate C-P lyase system protein PhnK [Paracoccus pantotrophus]
+Other Aliases: ESD82_RS09450, ESD82_09450
+Other Designations: phosphonate C-P lyase system protein PhnK
+Genomic context: Plasmid pPAN2
+ID: 51370791
+
+46. phnK
+phosphonate C-P lyase system protein PhnK [Dickeya dianthicola]
+Other Aliases: DZA65_RS07975, DZA65_01548
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 49321466
+
+47. phnK
+phosphonate C-P lyase system protein PhnK [Sinorhizobium fredii CCBAU 25509]
+Other Aliases: AOX55_RS28985, AOX55_00006402
+Other Designations: phosphonate C-P lyase system protein PhnK
+Genomic context: Plasmid pSF25509b
+ID: 48976979
+
+48. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas viridiflava]
+Other Aliases: CFBP1590_RS15610, CFBP1590__3161
+Other Designations: phosphonate C-P lyase system protein PhnK
+Chromosome: I
+ID: 47764813
+
+49. phnK
+phosphonate C-P lyase system protein PhnK [Pandoraea apista]
+Other Aliases: AT395_RS22155, AT395_13065
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 47016524
+
+50. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter ludwigii]
+Other Aliases: BH714_RS19310, BH714_19310
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 45817694
+
+
+1. phnK
+phosphonate C-P lyase system protein PhnK [Enterobacter roggenkampii]
+Other Aliases: BFV67_RS01740, BFV67_01740
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 45794046
+
+2. phnK
+phosphonate C-P lyase system protein PhnK [Phaeobacter gallaeciensis DSM 26640]
+Other Aliases: GAL_RS15025, Gal_03074
+Other Designations: phosphonate C-P lyase system protein PhnK
+Annotation:  NC_023137.1 (3120465..3121235, complement)
+ID: 31847433
+
+3. phnK
+phosphonate C-P lyase system protein PhnK [Pseudomonas lurida]
+Other Aliases: A7318_RS07905, A7318_07900
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 31709933
+
+4. phnK
+phosphonate C-P lyase system protein PhnK [Leclercia adecarboxylata]
+Other Aliases: APT61_RS20685, APT61_20685
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 30334361
+
+5. phnK
+phosphonate C-P lyase system protein PhnK [Serratia fonticola]
+Other Aliases: WN53_RS10755, WN53_10755
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 30320646
+
+6. phnK
+phosphonate C-P lyase system protein PhnK [Ensifer adhaerens]
+Other Aliases: FA04_RS25350, FA04_25320
+Other Designations: phosphonate C-P lyase system protein PhnK
+Genomic context: Plasmid pCasidaAA
+ID: 29520794
+
+7. AKN91_RS06100
+ABC transporter ATP-binding protein [Thiopseudomonas alkaliphila]
+Other Aliases: AKN91_RS06100, AKN91_06100
+Other Designations: ABC transporter ATP-binding protein
+ID: 82260203
+
+8. FPB0191_RS01550
+ABC transporter ATP-binding protein [Frischella perrara]
+Other Aliases: FPB0191_RS01550, FPB0191_00316
+Other Designations: ABC transporter ATP-binding protein
+ID: 78458772
+
+9. PEB0149_RS04265
+ABC transporter ATP-binding protein [Bartonella apis]
+Other Aliases: PEB0149_RS04265, PEB0149_017770
+Other Designations: ABC transporter ATP-binding protein
+ID: 75498173
+
+10. D1092_RS08455
+ABC transporter ATP-binding protein [Bartonella krasnovii]
+Other Aliases: D1092_RS08455, D1092_08465
+Other Designations: ABC transporter ATP-binding protein
+ID: 71062148
+
+11. HQN82_RS11285
+ABC transporter ATP-binding protein [Agrobacterium pusense]
+Other Aliases: HQN82_RS11285, HQN82_11285
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: R76C1
+ID: 61455921
+
+12. TZ90_RS03480
+ABC transporter ATP-binding protein [Streptococcus mitis]
+Other Aliases: TZ90_RS03480, TZ90_00679
+Other Designations: ABC transporter ATP-binding protein
+ID: 61380436
+
+13. RBATCC27255_RS06620
+ABC transporter ATP-binding protein [Ruminococcus bromii]
+Other Aliases: RBATCC27255_RS06620, RBATCC27255_01296
+Other Designations: ABC transporter ATP-binding protein
+ID: 61379011
+
+14. BIV19_RS00465
+ABC transporter ATP-binding protein [Intestinimonas butyriciproducens]
+Other Aliases: BIV19_RS00465, BIV19_00515
+Other Designations: ABC transporter ATP-binding protein
+ID: 60290503
+
+15. SR187_RS06415
+ABC transporter ATP-binding protein [Streptococcus ruminantium]
+Other Aliases: SR187_RS06415, SR187_6545
+Other Designations: ABC transporter ATP-binding protein
+ID: 52229845
+
+16. HFM85_RS02375
+ABC transporter ATP-binding protein [Blautia schinkii]
+Other Aliases: HFM85_RS02375, HFM85_02370
+Other Designations: ABC transporter ATP-binding protein
+ID: 82996003
+
+17. FRC97_RS20350
+ABC transporter ATP-binding protein [Paracidovorax citrulli]
+Other Aliases: FRC97_RS20350, FRC97_20310
+Other Designations: ABC transporter ATP-binding protein
+ID: 79792832
+
+18. H7U37_RS13445
+ABC transporter ATP-binding protein [Pseudoflavonifractor phocaeensis]
+Other Aliases: H7U37_RS13445, H7U37_13460
+Other Designations: ABC transporter ATP-binding protein
+ID: 78370885
+
+19. LP107_RS05725
+ABC transporter ATP-binding protein [Moraxella bovis]
+Other Aliases: LP107_RS05725, LP107_05675
+Other Designations: ABC transporter ATP-binding protein
+ID: 77188353
+
+20. NAL94_RS13040
+ABC transporter ATP-binding protein [Vibrio alginolyticus]
+Other Aliases: NAL94_RS13040, NAL94_13040
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 75167145
+
+21. SanJ4211_RS03290
+ABC transporter ATP-binding protein [Streptococcus anginosus]
+Other Aliases: SanJ4211_RS03290, SanJ4211_0632
+Other Designations: ABC transporter ATP-binding protein
+ID: 58055075
+
+22. E2544_RS10470
+ABC transporter ATP-binding protein [Achromobacter insolitus]
+Other Aliases: E2544_RS10470, E2544_10480
+Other Designations: ABC transporter ATP-binding protein
+ID: 56311781
+
+23. AF331_RS14755
+ABC transporter ATP-binding protein [Rossellomorea marisflavi]
+Other Aliases: AF331_RS14755, AF331_14795
+Other Designations: ABC transporter ATP-binding protein
+ID: 42293201
+
+24. Y931_RS0103715
+ATP-binding protein [Aphanizomenon flos-aquae NIES-81]
+Other Aliases: Y931_RS0103715
+Other Designations: ATP-binding protein
+ID: 79793841
+
+25. X636_RS23435
+ABC transporter ATP-binding protein [Pandoraea pnomenusa]
+Other Aliases: X636_RS23435, X636_09740
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_023018.2 (5185382..5186176, complement)
+ID: 57201126
+
+26. BSZ04_RS13210
+ABC transporter ATP-binding protein [Vibrio rotiferianus]
+Other Aliases: BSZ04_RS13210, BSZ04_13075
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 47656214
+
+27. SALWKB2_RS05250
+ABC transporter ATP-binding protein [Snodgrassella alvi wkB2]
+Other Aliases: SALWKB2_RS05250, SALWKB2_1034
+Other Designations: ABC transporter ATP-binding protein
+ID: 32537286
+
+28. GAPWK_RS12695
+ABC transporter ATP-binding protein [Gilliamella apicola]
+Other Aliases: GAPWK_RS12695, GAPWK_2529
+Other Designations: ABC transporter ATP-binding protein
+ID: 29850786
+
+29. AFLV_RS11620
+ABC transporter ATP-binding protein [Anoxybacillus flavithermus WK1]
+Other Aliases: AFLV_RS11620, Aflv_2250
+Other Designations: ABC transporter ATP-binding protein
+Annotation:  NC_011567.1 (2235776..2236570, complement)
+ID: 7038502
+
+30. IQ19_RS16075
+ABC transporter ATP-binding protein [Cytobacillus oceanisediminis]
+Other Aliases: IQ19_RS16075, IQ19_03311
+Other Designations: ABC transporter ATP-binding protein
+ID: 65404465
+
+31. IQ19_RS13040
+ABC transporter ATP-binding protein [Cytobacillus oceanisediminis]
+Other Aliases: IQ19_RS13040, IQ19_02696
+Other Designations: ABC transporter ATP-binding protein
+ID: 65403867
+
+32. VIBNIPON4_RS16390
+ABC transporter ATP-binding protein [Vibrio nigripulchritudo POn4]
+Other Aliases: VIBNIPON4_RS16390, VIBNIPon4_480065
+Other Designations: ABC transporter ATP-binding protein
+ID: 61876134
+
+33. G5S35_RS23390
+ABC transporter ATP-binding protein [Paraburkholderia tropica]
+Other Aliases: G5S35_RS23390, G5S35_23335
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: B
+ID: 61305499
+
+34. CBR68_RS01290
+ABC transporter ATP-binding protein [Bordetella hinzii]
+Other Aliases: CBR68_RS01290, CBR68_01290
+Other Designations: ABC transporter ATP-binding protein
+ID: 56618766
+
+35. DY259_RS06160
+ABC transporter ATP-binding protein [Bordetella trematum]
+Other Aliases: DY259_RS06160, NCTC12995_01236
+Other Designations: ABC transporter ATP-binding protein
+ID: 56588618
+
+36. OH82_RS06370
+ABC transporter ATP-binding protein [Azospirillum brasilense]
+Other Aliases: OH82_RS06370, OH82_01263
+Other Designations: ABC transporter ATP-binding protein
+ID: 56448580
+
+37. ABD05_RS04185
+ABC transporter ATP-binding protein [Burkholderia pyrrocinia]
+Other Aliases: ABD05_RS04185, ABD05_04185
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 55504518
+
+38. KPHS_03380
+phosphonates transport ATP-binding protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]
+Other Aliases: KPHS_03380
+Other Designations: phosphonates transport ATP-binding protein
+Annotation:  NC_016845.1 (378486..379244, complement)
+ID: 11845325
+
+39. AK34_RS14390
+ABC transporter ATP-binding protein [Burkholderia dolosa AU0158]
+Other Aliases: AK34_RS14390, AK34_274
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 64460071
+
+40. B5M06_RS13970
+ABC transporter ATP-binding protein [Comamonas kerstersii]
+Other Aliases: B5M06_RS13970, B5M06_13970
+Other Designations: ABC transporter ATP-binding protein
+ID: 83040420
+
+41. CCASEI_RS13925
+ABC transporter ATP-binding protein [Corynebacterium casei LMG S-19264]
+Other Aliases: CCASEI_RS13925, CCASEI_13925
+Other Designations: ABC transporter ATP-binding protein
+ID: 82878874
+
+42. VHAB30_RS19360
+ABC transporter ATP-binding protein [Variovorax boronicumulans]
+Other Aliases: VHAB30_RS19360, VHAB30_38890
+Other Designations: ABC transporter ATP-binding protein
+ID: 82270158
+
+43. DW886_RS29845
+ABC transporter ATP-binding protein [Enterocloster aldenensis]
+Other Aliases: DW886_RS29845, DW886_29835
+Other Designations: ABC transporter ATP-binding protein
+ID: 82201071
+
+44. K7T73_RS11240
+ABC transporter ATP-binding protein [Bacillus badius]
+Other Aliases: K7T73_RS11240, K7T73_11225
+Other Designations: ABC transporter ATP-binding protein
+ID: 82145962
+
+45. EQU50_RS02900
+ABC transporter ATP-binding protein [Candidatus Finniella inopinata]
+Other Aliases: EQU50_RS02900, EQU50_02900
+Other Designations: ABC transporter ATP-binding protein
+ID: 80844173
+
+46. CT3_RS09695
+ABC transporter ATP-binding protein [Comamonas terrigena NBRC 13299]
+Other Aliases: CT3_RS09695, CT3_19030
+Other Designations: ABC transporter ATP-binding protein
+ID: 80801432
+
+47. O6R09_RS03535
+ABC transporter ATP-binding protein [Streptococcus alactolyticus]
+Other Aliases: O6R09_RS03535, O6R09_03535
+Other Designations: ABC transporter ATP-binding protein
+ID: 79926632
+
+48. MCT08_RS06740
+ABC transporter ATP-binding protein [Vibrio aestuarianus]
+Other Aliases: MCT08_RS06740, MCT08_06735
+Other Designations: ABC transporter ATP-binding protein
+ID: 79917070
+
+49. KI370_RS21550
+ABC transporter ATP-binding protein [Heyndrickxia oleronia]
+Other Aliases: KI370_RS21550, J19TS1_42930
+Other Designations: ABC transporter ATP-binding protein
+ID: 79870015
+
+50. O9X91_RS07475
+ABC transporter ATP-binding protein [Agrobacterium salinitolerans]
+Other Aliases: O9X91_RS07475, O9X91_07480
+Other Designations: ABC transporter ATP-binding protein
+ID: 79862477
+
+
+1. PG862_RS04090
+ABC transporter ATP-binding protein [Clostridium fessum]
+Other Aliases: PG862_RS04090
+Other Designations: ABC transporter ATP-binding protein
+ID: 79839753
+
+2. K9D24_RS11215
+ABC transporter ATP-binding protein [Achromobacter mucicolens]
+Other Aliases: K9D24_RS11215, K9D24_11190
+Other Designations: ABC transporter ATP-binding protein
+ID: 79232730
+
+3. BLT96_RS08270
+ABC transporter ATP-binding protein [Parafannyhessea umbonata]
+Other Aliases: BLT96_RS08270, SAMN04489857_1682
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+ID: 78501016
+
+4. CRN97_RS12575
+ABC transporter ATP-binding protein [Pseudobutyrivibrio ruminis DSM 9787]
+Other Aliases: CRN97_RS12575, SAMN02910411_0289
+Other Designations: ABC transporter ATP-binding protein
+ID: 78378486
+
+5. I5Q81_RS02730
+ABC transporter ATP-binding protein [Turicimonas muris]
+Other Aliases: I5Q81_RS02730, I5Q81_02720
+Other Designations: ABC transporter ATP-binding protein
+ID: 78361679
+
+6. CSTAT_RS12785
+ABC transporter ATP-binding protein [Corynebacterium stationis]
+Other Aliases: CSTAT_RS12785, CSTAT_12940
+Other Designations: ABC transporter ATP-binding protein
+ID: 78286858
+
+7. EL258_RS23340
+ABC transporter ATP-binding protein [Achromobacter spanius]
+Other Aliases: EL258_RS23340, NCTC13519_04679
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 78283163
+
+8. I6J29_RS02080
+ABC transporter ATP-binding protein [Haemophilus parahaemolyticus]
+Other Aliases: I6J29_RS02080, I6J29_02080
+Other Designations: ABC transporter ATP-binding protein
+ID: 78223479
+
+9. GYM71_RS01695
+ABC transporter ATP-binding protein [Lactobacillus panisapium]
+Other Aliases: GYM71_RS01695, GYM71_01685
+Other Designations: ABC transporter ATP-binding protein
+ID: 78214623
+
+10. INF29_RS02935
+ABC transporter ATP-binding protein [Anaerotignum lactatifermentans]
+Other Aliases: INF29_RS02935, INF29_02935
+Other Designations: ABC transporter ATP-binding protein
+ID: 78175871
+
+11. DKL56_RS00985
+ABC transporter ATP-binding protein [Lactobacillus apis]
+Other Aliases: DKL56_RS00985, DKL56_00985
+Other Designations: ABC transporter ATP-binding protein
+ID: 78159743
+
+12. DLD54_RS01625
+ABC transporter ATP-binding protein [Lactobacillus helsingborgensis]
+Other Aliases: DLD54_RS01625, DLD54_01625
+Other Designations: ABC transporter ATP-binding protein
+ID: 78128733
+
+13. DYD58_RS05550
+ABC transporter ATP-binding protein [Faecalicoccus pleomorphus]
+Other Aliases: DYD58_RS05550, NCTC11087_01125
+Other Designations: ABC transporter ATP-binding protein
+ID: 77462090
+
+14. FYB86_RS12385
+ABC transporter ATP-binding protein [Roseburia hominis]
+Other Aliases: FYB86_RS12385
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 77460057
+
+15. BM366_RS13345
+ABC transporter ATP-binding protein [Enterocloster citroniae]
+Other Aliases: BM366_RS13345, SAMN05216568_104267
+Other Designations: ABC transporter ATP-binding protein
+ID: 77448014
+
+16. MARSALSMR5_RS11850
+ABC transporter ATP-binding protein [Marinobacter salarius]
+Other Aliases: MARSALSMR5_RS11850, MARSALSMR5_02420
+Other Designations: ABC transporter ATP-binding protein
+ID: 77256362
+
+17. BN987_RS10765
+ABC transporter ATP-binding protein [Rossellomorea vietnamensis]
+Other Aliases: BN987_RS10765
+Other Designations: ABC transporter ATP-binding protein
+ID: 77236811
+
+18. DYE26_RS04385
+ABC transporter ATP-binding protein [Paenibacillus macerans]
+Other Aliases: DYE26_RS04385, NCTC6355_00884
+Other Designations: ABC transporter ATP-binding protein
+ID: 77006878
+
+19. FLT43_RS24990
+ABC transporter ATP-binding protein [Paenibacillus thiaminolyticus]
+Other Aliases: FLT43_RS24990, FLT43_24990
+Other Designations: ABC transporter ATP-binding protein
+ID: 76999220
+
+20. LK408_RS03065
+ABC transporter ATP-binding protein [Roseburia inulinivorans DSM 16841]
+Other Aliases: LK408_RS03065, LK408_03065
+Other Designations: ABC transporter ATP-binding protein
+ID: 75161134
+
+21. MJ761_RS02960
+ABC transporter ATP-binding protein [Snodgrassella communis]
+Other Aliases: MJ761_RS02960
+Other Designations: ABC transporter ATP-binding protein
+ID: 75156763
+
+22. G542_RS0102960
+ABC transporter ATP-binding protein [Laribacter hongkongensis DSM 14985]
+Other Aliases: G542_RS0102960
+Other Designations: ABC transporter ATP-binding protein
+ID: 75108657
+
+23. LDZ25_RS05945
+ABC transporter ATP-binding protein [Cupriavidus pauculus]
+Other Aliases: LDZ25_RS05945
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 75097229
+
+24. KAQ61_RS05865
+ABC transporter ATP-binding protein [Comamonas aquatica]
+Other Aliases: KAQ61_RS05865, KAQ61_05865
+Other Designations: ABC transporter ATP-binding protein
+ID: 74938164
+
+25. EW640_RS08760
+ABC transporter ATP-binding protein [Brevibacterium luteolum]
+Other Aliases: EW640_RS08760, EW640_08750
+Other Designations: ABC transporter ATP-binding protein
+ID: 74911351
+
+26. E3227_RS11015
+ABC transporter ATP-binding protein [Corynebacterium sanguinis]
+Other Aliases: E3227_RS11015, E3227_11020
+Other Designations: ABC transporter ATP-binding protein
+ID: 74902889
+
+27. L6439_RS07695
+ABC transporter ATP-binding protein [Paenibacillus dendritiformis]
+Other Aliases: L6439_RS07695
+Other Designations: ABC transporter ATP-binding protein
+ID: 73384075
+
+28. EV679_RS05620
+ABC transporter ATP-binding protein [Kerstersia gyiorum]
+Other Aliases: EV679_RS05620, EV679_1137
+Other Designations: ABC transporter ATP-binding protein
+ID: 73000560
+
+29. BME96_RS17655
+ABC transporter ATP-binding protein [Virgibacillus halodenitrificans]
+Other Aliases: BME96_RS17655, BME96_17490
+Other Designations: ABC transporter ATP-binding protein
+ID: 71516206
+
+30. BSTAB16_RS14675
+ABC transporter ATP-binding protein [Burkholderia stabilis]
+Other Aliases: BSTAB16_RS14675, BSTAB16_2820
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+ID: 71055286
+
+31. H0522_RS10800
+ABC transporter ATP-binding protein [Achromobacter insuavis]
+Other Aliases: H0522_RS10800, LMG26846_02142
+Other Designations: ABC transporter ATP-binding protein
+ID: 71018007
+
+32. DQN65_RS00215
+ABC transporter ATP-binding protein [Corynebacterium minutissimum]
+Other Aliases: DQN65_RS00215, NCTC10288_00044
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 70781998
+
+33. DX498_RS10025
+ABC transporter ATP-binding protein [Vibrio cincinnatiensis]
+Other Aliases: DX498_RS10025, NCTC12012_02041
+Other Designations: ABC transporter ATP-binding protein
+ID: 70583379
+
+34. Z980_RS0100950
+ABC transporter ATP-binding protein [Geobacillus stearothermophilus ATCC 7953]
+Other Aliases: Z980_RS0100950
+Other Designations: ABC transporter ATP-binding protein
+ID: 69833051
+
+35. EYB33_RS13570
+ABC transporter ATP-binding protein [Lysinibacillus sphaericus]
+Other Aliases: EYB33_RS13570, EYB33_13540
+Other Designations: ABC transporter ATP-binding protein
+ID: 69661528
+
+36. EYB33_RS03150
+ABC transporter ATP-binding protein [Lysinibacillus sphaericus]
+Other Aliases: EYB33_RS03150, EYB33_03135
+Other Designations: ABC transporter ATP-binding protein
+ID: 69659444
+
+37. AUF14_RS13430
+ABC transporter ATP-binding protein [Enterococcus avium]
+Other Aliases: AUF14_RS13430, AUF14_13430
+Other Designations: ABC transporter ATP-binding protein
+ID: 69569555
+
+38. LIZ66_RS08650
+ABC transporter ATP-binding protein [Blautia faecis]
+Other Aliases: LIZ66_RS08650, LIZ66_08655
+Other Designations: ABC transporter ATP-binding protein
+ID: 69514255
+
+39. B7P44_RS15550
+ABC transporter ATP-binding protein [Burkholderia ubonensis subsp. mesacidophila]
+Other Aliases: B7P44_RS15550
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 69004549
+
+40. DY227_RS11285
+ABC transporter ATP-binding protein [Cytobacillus firmus]
+Other Aliases: DY227_RS11285, NCTC10335_02316
+Other Designations: ABC transporter ATP-binding protein
+ID: 67523915
+
+41. DY227_RS07190
+ABC transporter ATP-binding protein [Cytobacillus firmus]
+Other Aliases: DY227_RS07190, NCTC10335_01483
+Other Designations: ABC transporter ATP-binding protein
+ID: 67523114
+
+42. HFO71_RS15430
+ABC transporter ATP-binding protein [Rhizobium laguerreae]
+Other Aliases: HFO71_RS15430, HFO71_15590
+Other Designations: ABC transporter ATP-binding protein
+ID: 67485282
+
+43. C1N50_RS05365
+ABC transporter ATP-binding protein [Vibrio campbellii]
+Other Aliases: C1N50_RS05365, C1N50_05365
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 67376752
+
+44. J9537_RS14545
+ABC transporter ATP-binding protein [Enterococcus raffinosus]
+Other Aliases: J9537_RS14545, J9537_14545
+Other Designations: ABC transporter ATP-binding protein
+ID: 67041407
+
+45. FORC37_RS10115
+ABC transporter ATP-binding protein [Vibrio vulnificus]
+Other Aliases: FORC37_RS10115, FORC37_1799
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+ID: 66965423
+
+46. J1G47_RS02400
+ABC transporter ATP-binding protein [Glaesserella parasuis]
+Other Aliases: J1G47_RS02400, J1G47_02400
+Other Designations: ABC transporter ATP-binding protein
+ID: 66618099
+
+47. CSV91_RS05415
+ABC transporter ATP-binding protein [Collinsella aerofaciens]
+Other Aliases: CSV91_RS05415, CSV91_05415
+Other Designations: ABC transporter ATP-binding protein
+ID: 66616687
+
+48. EB54_RS12230
+ABC transporter ATP-binding protein [Enterococcus gallinarum]
+Other Aliases: EB54_RS12230, EB54_02444
+Other Designations: ABC transporter ATP-binding protein
+ID: 66474560
+
+49. KNZ77_RS17780
+ABC transporter ATP-binding protein [Clostridioides difficile]
+Other Aliases: KNZ77_RS17780, KNZ77_17780
+Other Designations: ABC transporter ATP-binding protein
+ID: 66355994
+
+50. J2J98_RS19980
+ABC transporter ATP-binding protein [Rhizobium bangladeshense]
+Other Aliases: J2J98_RS19980, J2J98_19980
+Other Designations: ABC transporter ATP-binding protein
+ID: 66148183
+
+
+1. J0663_RS07585
+ABC transporter ATP-binding protein [Rhizobium lentis]
+Other Aliases: J0663_RS07585, J0663_07585
+Other Designations: ABC transporter ATP-binding protein
+ID: 66139486
+
+2. A1D26_RS04970
+ABC transporter ATP-binding protein [Ursidibacter maritimus]
+Other Aliases: A1D26_RS04970, A1D26_02450
+Other Designations: ABC transporter ATP-binding protein
+ID: 65548820
+
+3. PRJBM_RS07995
+ABC transporter ATP-binding protein [Bartonella henselae]
+Other Aliases: PRJBM_RS07995, PRJBM_01610
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: I
+ID: 64157760
+
+4. I6K69_RS10565
+ABC transporter ATP-binding protein [Coprococcus comes]
+Other Aliases: I6K69_RS10565, I6K69_10565
+Other Designations: ABC transporter ATP-binding protein
+ID: 64114302
+
+5. BLR40_RS05815
+ABC transporter ATP-binding protein [Streptococcus equinus]
+Other Aliases: BLR40_RS05815, SAMN04487837_1170
+Other Designations: ABC transporter ATP-binding protein
+ID: 63970584
+
+6. KocCE7_RS04775
+ABC transporter ATP-binding protein [Kocuria indica]
+Other Aliases: KocCE7_RS04775, KocCE7_04775
+Other Designations: ABC transporter ATP-binding protein
+ID: 63021138
+
+7. WJ12_RS14230
+ABC transporter ATP-binding protein [Burkholderia seminalis]
+Other Aliases: WJ12_RS14230, WJ12_14215
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 62012288
+
+8. CHH52_RS15665
+ABC transporter ATP-binding protein [Shouchella clausii]
+Other Aliases: CHH52_RS15665, CHH52_15660
+Other Designations: ABC transporter ATP-binding protein
+ID: 61574355
+
+9. A9Y76_RS07540
+ABC transporter ATP-binding protein [Ralstonia insidiosa]
+Other Aliases: A9Y76_RS07540, A9Y76_07540
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 61525870
+
+10. FGL23_RS04250
+ABC transporter ATP-binding protein [Streptococcus gordonii]
+Other Aliases: FGL23_RS04250, NCTC10231_00848
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 61440261
+
+11. RIL182_RS03770
+ABC transporter ATP-binding protein [Roseburia intestinalis L1-82]
+Other Aliases: RIL182_RS03770, RIL182_00734
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 61432019
+
+12. IR196_RS21975
+ABC transporter ATP-binding protein [Brucella anthropi]
+Other Aliases: IR196_RS21975, IR196_21975
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 61318689
+
+13. HU775_RS18125
+ABC transporter ATP-binding protein [Burkholderia diffusa]
+Other Aliases: HU775_RS18125
+Other Designations: ABC transporter ATP-binding protein
+ID: 61194352
+
+14. EL268_RS09945
+ABC transporter ATP-binding protein [Brevibacillus brevis]
+Other Aliases: EL268_RS09945, NCTC2611_02030
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 61032142
+
+15. HWX23_RS23465
+ABC transporter ATP-binding protein [Burkholderia pseudomultivorans]
+Other Aliases: HWX23_RS23465
+Other Designations: ABC transporter ATP-binding protein
+ID: 60978320
+
+16. RN92_RS01790
+ABC transporter ATP-binding protein [Fusobacterium hwasookii ChDC F206]
+Other Aliases: RN92_RS01790, RN92_01785
+Other Designations: ABC transporter ATP-binding protein
+ID: 60658315
+
+17. ARB75_RS12375
+ABC transporter ATP-binding protein [Roseburia faecis]
+Other Aliases: ARB75_RS12375, ERS852420_02514
+Other Designations: ABC transporter ATP-binding protein
+ID: 60300406
+
+18. C8D84_RS04140
+ABC transporter ATP-binding protein [Psychrobacter immobilis]
+Other Aliases: C8D84_RS04140, C8D84_103145
+Other Designations: ABC transporter ATP-binding protein
+ID: 60254594
+
+19. HF293_RS16960
+ABC transporter ATP-binding protein [Vibrio navarrensis]
+Other Aliases: HF293_RS16960
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 59230735
+
+20. DQN23_RS03470
+ABC transporter ATP-binding protein [Streptococcus lutetiensis]
+Other Aliases: DQN23_RS03470, NCTC13774_00714
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 58528015
+
+21. DQN23_RS00835
+ABC transporter ATP-binding protein [Streptococcus lutetiensis]
+Other Aliases: DQN23_RS00835, NCTC13774_00167
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 58527494
+
+22. HV374_RS04215
+ABC transporter ATP-binding protein [Streptococcus salivarius]
+Other Aliases: HV374_RS04215
+Other Designations: ABC transporter ATP-binding protein
+ID: 58024726
+
+23. DYA22_RS03395
+ABC transporter ATP-binding protein [Streptococcus uberis]
+Other Aliases: DYA22_RS03395, NCTC4672_00692
+Other Designations: ABC transporter ATP-binding protein
+ID: 58022618
+
+24. DK182_RS06885
+ABC transporter ATP-binding protein [Streptococcus sobrinus]
+Other Aliases: DK182_RS06885, DK181_06885, DK181_RS06885
+Other Designations: ABC transporter ATP-binding protein
+ID: 57972943
+
+25. BCV53_RS14910
+ABC transporter ATP-binding protein [Parageobacillus thermoglucosidasius]
+Other Aliases: BCV53_RS14910, BCV53_14910
+Other Designations: ABC transporter ATP-binding protein
+ID: 56926718
+
+26. A9G15_RS05840
+ABC transporter ATP-binding protein [Gilliamella apis]
+Other Aliases: A9G15_RS05840, A9G15_11610
+Other Designations: ABC transporter ATP-binding protein
+ID: 56883065
+
+27. BFC22_RS09705
+ABC transporter ATP-binding protein [Carnobacterium divergens]
+Other Aliases: BFC22_RS09705, BFC22_09700
+Other Designations: ABC transporter ATP-binding protein
+ID: 56819127
+
+28. BFC22_RS07405
+ABC transporter ATP-binding protein [Carnobacterium divergens]
+Other Aliases: BFC22_RS07405, BFC22_07400
+Other Designations: ABC transporter ATP-binding protein
+ID: 56818669
+
+29. A6J73_RS03350
+ABC transporter ATP-binding protein [Enterococcus hirae]
+Other Aliases: A6J73_RS03350, A6J73_03350
+Other Designations: ABC transporter ATP-binding protein
+ID: 56786335
+
+30. BEH84_RS20535
+ABC transporter ATP-binding protein [Eisenbergiella tayi]
+Other Aliases: BEH84_RS20535, BEH84_04049
+Other Designations: ABC transporter ATP-binding protein
+ID: 56724089
+
+31. BURCE16_RS15390
+ABC transporter ATP-binding protein [Burkholderia cepacia]
+Other Aliases: BURCE16_RS15390, BURCE16_15180
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 56662848
+
+32. WL90_RS14790
+ABC transporter ATP-binding protein [Burkholderia cenocepacia]
+Other Aliases: WL90_RS14790, WL90_14775
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 56559417
+
+33. BME24068_RS26025
+ABC transporter ATP-binding protein [Burkholderia anthina]
+Other Aliases: BME24068_RS26025, BAN20980_05161, HU786_RS26025
+Other Designations: ABC transporter ATP-binding protein
+ID: 56503225
+
+34. BS1321_RS22070
+ABC transporter ATP-binding protein [Peribacillus simplex NBRC 15720 = DSM 1321]
+Other Aliases: BS1321_RS22070, BS1321_21730
+Other Designations: ABC transporter ATP-binding protein
+ID: 56475398
+
+35. FS666_RS09100
+ABC transporter ATP-binding protein [Siminovitchia fortis]
+Other Aliases: FS666_RS09100
+Other Designations: ABC transporter ATP-binding protein
+ID: 56391599
+
+36. FOC82_RS12160
+ABC transporter ATP-binding protein [Achromobacter denitrificans]
+Other Aliases: FOC82_RS12160, FOC82_12160
+Other Designations: ABC transporter ATP-binding protein
+ID: 56279669
+
+37. AruCF_RS06925
+ABC transporter ATP-binding protein [Achromobacter ruhlandii]
+Other Aliases: AruCF_RS06925, AruCF_1351
+Other Designations: ABC transporter ATP-binding protein
+ID: 55559446
+
+38. FCN78_RS15420
+ABC transporter ATP-binding protein [Salinivibrio kushneri]
+Other Aliases: FCN78_RS15420, FCN78_15425
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 50153548
+
+39. PFJ30894_RS02695
+ABC transporter ATP-binding protein [Phascolarctobacterium faecium]
+Other Aliases: PFJ30894_RS02695, PFJ30894_00542
+Other Designations: ABC transporter ATP-binding protein
+ID: 49406228
+
+40. C1S73_RS16515
+ABC transporter ATP-binding protein [Vibrio jasicida 090810c]
+Other Aliases: C1S73_RS16515
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 48230598
+
+41. A9237_RS13685
+ABC transporter ATP-binding protein [Vibrio owensii]
+Other Aliases: A9237_RS13685, A9237_13685
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 47100849
+
+42. AT395_RS00880
+ABC transporter ATP-binding protein [Pandoraea apista]
+Other Aliases: AT395_RS00880, AT395_16585
+Other Designations: ABC transporter ATP-binding protein
+ID: 47012356
+
+43. WT74_RS15010
+ABC transporter ATP-binding protein [Burkholderia stagnalis]
+Other Aliases: WT74_RS15010, WT74_14990
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 46327420
+
+44. BN162_RS05315
+ABC transporter ATP-binding protein [Holdemania massiliensis AP2]
+Other Aliases: BN162_RS05315, BN162_05415
+Other Designations: ABC transporter ATP-binding protein
+ID: 42455903
+
+45. TK49_RS11865
+ABC transporter ATP-binding protein [Ralstonia mannitolilytica]
+Other Aliases: TK49_RS11865, TK49_11870
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 1
+ID: 34792078
+
+46. MPLDJ20_RS20935
+phosphonate C-P lyase system protein PhnK [Mesorhizobium plurifarium]
+Other Aliases: MPLDJ20_RS20935, MPLDJ20_250036
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 31891547
+
+47. PODO_RS12145
+ABC transporter ATP-binding protein [Paenibacillus odorifer]
+Other Aliases: PODO_RS12145, PODO_12475
+Other Designations: ABC transporter ATP-binding protein
+ID: 31571018
+
+48. WN53_RS18390
+ABC transporter ATP-binding protein [Serratia fonticola]
+Other Aliases: WN53_RS18390, WN53_18395
+Other Designations: ABC transporter ATP-binding protein
+ID: 30322149
+
+49. FA04_RS32460
+ABC transporter ATP-binding protein [Ensifer adhaerens]
+Other Aliases: FA04_RS32460, FA04_32410
+Other Designations: ABC transporter ATP-binding protein
+Genomic context: Plasmid pCasidaAB
+ID: 29522636
+
+50. FA04_RS32195
+ABC transporter ATP-binding protein [Ensifer adhaerens]
+Other Aliases: FA04_RS32195, FA04_32145
+Other Designations: ABC transporter ATP-binding protein
+Genomic context: Plasmid pCasidaAB
+ID: 29522271
+
+
+1. FA04_RS17235
+ABC transporter ATP-binding protein [Ensifer adhaerens]
+Other Aliases: FA04_RS17235, FA04_17210
+Other Designations: ABC transporter ATP-binding protein
+ID: 29517150
+
+2. AL536_RS34605
+ABC transporter ATP-binding protein [Vibrio fluvialis]
+Other Aliases: AL536_RS34605, AL536_11795
+Other Designations: ABC transporter ATP-binding protein
+Chromosome: 2
+ID: 29386201
+
+3. UZ73_RS00640
+ABC transporter ATP-binding protein [Alcaligenes faecalis]
+Other Aliases: UZ73_RS00640, UZ73_00640
+Other Designations: ABC transporter ATP-binding protein
+ID: 29368366
+
+4. AWOD_RS17875
+ABC transporter ATP-binding protein [Aliivibrio wodanis]
+Other Aliases: AWOD_RS17875, AWOD_II_0823
+Chromosome: 2
+ID: 28543075
+
+5. phnK
+phosphonate C-P lyase system protein PhnK [Sulfitobacter pontiacus 3SOLIMAR09]
+Other Aliases: PM01_RS07415, PM01_07515
+Other Designations: phosphonate C-P lyase system protein PhnK
+ID: 82208163
+
+6. HMPREF9452_RS11705
+hypothetical protein [Collinsella tanakaei YIT 12063]
+Other Aliases: HMPREF9452_RS11705, HMPREF9452_00116
+Other Designations: hypothetical protein
+ID: 62759970
+

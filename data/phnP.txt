@@ -1,0 +1,2044 @@
+
+1. phnP
+phosphonate metabolism protein PhnP [Serratia proteamaculans]
+Other Aliases: QOT07_RS02100
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: EBP3064_c1
+ID: 83697232
+
+2. phnP
+phosphonate metabolism protein PhnP [Enterobacter bugandensis]
+Other Aliases: K9O83_RS01740, K9O83_01745
+Other Designations: phosphonate metabolism protein PhnP
+ID: 83673146
+
+3. phnP
+phosphonate metabolism protein PhnP [Citrobacter youngae]
+Other Aliases: QRZ63_RS01365, QRZ63_01365
+Other Designations: phosphonate metabolism protein PhnP
+ID: 83644652
+
+4. phnP
+phosphonate metabolism protein PhnP [Pseudomonas chengduensis]
+Other Aliases: MYO55_RS08995
+Other Designations: phosphonate metabolism protein PhnP
+ID: 83640976
+
+5. phnP
+phosphonate metabolism protein PhnP [Enterobacter cloacae]
+Other Aliases: LQ108_RS01690, AI2999V1_0332
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: main
+ID: 83571650
+
+6. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli str. K-12 substr. MG1655]
+Other Aliases: b4092, ECK4085
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_000913.3 (4314344..4315102, complement)
+ID: 948600
+
+7. phnP
+phosphonate metabolism protein PhnP [Serratia marcescens]
+Other Aliases: C7M65_RS20545, C7M65_20520
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66716541
+
+8. phnP
+phosphonate metabolism protein PhnP [Serratia plymuthica AS9]
+Other Aliases: SERAS9_RS02345, SerAS9_0455
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_015567.1 (503503..504285, complement)
+ID: 57665275
+
+9. phnP
+phosphonate metabolism protein PhnP [Klebsiella variicola]
+Other Aliases: GFC07_RS16105, GFC07_16105
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69734174
+
+10. phnP
+phosphonate metabolism protein PhnP [Klebsiella grimontii]
+Other Aliases: FN634_RS20280
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 64338767
+
+11. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasipneumoniae]
+Other Aliases: I8N75_RS23470, I8N75_23470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64297532
+
+12. phnP
+phosphonate metabolism protein PhnP [Enterobacter kobei]
+Other Aliases: P827_RS02205, P827_04102
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69608620
+
+13. phnP
+phosphonate metabolism protein PhnP [Yersinia pseudotuberculosis IP 32953]
+Other Aliases: BZ17_RS10990, BZ17_2055
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66843074
+
+14. phnP
+phosphonate metabolism protein PhnP [Pseudomonas coronafaciens pv. oryzae str. 1_6]
+Other Aliases: POR16_RS10650, POR16_10650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72392832
+
+15. phnP
+phosphonate metabolism protein PhnP [Pantoea ananatis PA13]
+Other Aliases: PAGR_RS08420, PAGR_g1638
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017554.1 (1796222..1796992)
+ID: 57267712
+
+16. phnP
+phosphonate metabolism protein PhnP [Dickeya dadantii 3937]
+Other Aliases: DDA3937_RS07640, Dda3937_04096
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_014500.1 (1721788..1722537)
+ID: 9733033
+
+17. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae pv. tomato str. DC3000]
+Other Aliases: PSPTO_RS13285, PSPTO2567, PSPTO_2567
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_004578.1 (2833582..2834331)
+ID: 1184219
+
+18. phnP
+phosphonate metabolism protein PhnP [Yersinia pestis A1122]
+Other Aliases: A1122_RS08670, A1122_08575
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_017168.1 (1887046..1887798, complement)
+ID: 57975247
+
+19. phnP
+phosphonate metabolism protein PhnP [Klebsiella pasteurii]
+Other Aliases: KCG39_RS20590, KCG39_20590
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77228397
+
+20. phnP
+phosphonate metabolism protein PhnP [Shigella boydii]
+Other Aliases: CEH00_RS06960, CEH00_07010
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75203243
+
+21. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tremae]
+Other Aliases: I9H09_RS14375, I9H09_14340
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73736039
+
+22. phnP
+phosphonate metabolism protein PhnP [Raoultella ornithinolytica]
+Other Aliases: FQU00_RS24640, NCTC9164_04929
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69887426
+
+23. phnP
+phosphonate metabolism protein PhnP [Klebsiella oxytoca]
+Other Aliases: EGY21_RS19110, EGY21_19070
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69796095
+
+24. phnP
+phosphonate metabolism protein PhnP [Klebsiella quasivariicola]
+Other Aliases: LGM30_RS24455, LGM30_24500
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69757622
+
+25. phnP
+phosphonate metabolism protein PhnP [Shigella sonnei]
+Other Aliases: HUX90_RS07460, HUX90_07460
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66671997
+
+26. phnP
+phosphonate metabolism protein PhnP [Pseudomonas cannabina pv. alisalensis]
+Other Aliases: JGS08_RS15255, JGS08_15255
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64466217
+
+27. phnP
+phosphonate metabolism protein PhnP [Pseudomonas amygdali pv. tabaci str. ATCC 11528]
+Other Aliases: PSYTB_RS12060, PSYTB_12065
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61869646
+
+28. phnP
+phosphonate metabolism protein PhnP [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS07430, BN5_1522
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: I
+ID: 61799265
+
+29. phnP
+phosphonate metabolism protein PhnP [Pseudomonas mendocina S5.2]
+Other Aliases: DW68_RS14890, DW68_014890
+Other Designations: phosphonate metabolism protein PhnP
+ID: 57607168
+
+30. phnP
+phosphonate metabolism protein PhnP [Pseudomonas tolaasii NCPPB 2192]
+Other Aliases: ATI14_RS28830, ATI14_6000
+Other Designations: phosphonate metabolism protein PhnP
+ID: 55849008
+
+31. RC_RS06665
+MBL fold metallo-hydrolase [Rickettsia conorii str. Malish 7]
+Other Aliases: RC_RS06665, RC1342
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_003103.1 (1245518..1246282, complement)
+ID: 928493
+
+32. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Marinobacter nauticus ATCC 49840]
+Other Aliases: MARHY_RS15520, MARHY3257
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Annotation:  NC_017067.1 (3339259..3340176, complement)
+ID: 31822612
+
+33. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS18995, RALTA_B0671
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (730485..731402, complement)
+ID: 29765776
+
+34. FXX58_RS00490
+MBL fold metallo-hydrolase [Clostridium tertium]
+Other Aliases: FXX58_RS00490
+Other Designations: MBL fold metallo-hydrolase
+ID: 65397471
+
+35. CPIN_RS06355
+MBL fold metallo-hydrolase [Chitinophaga pinensis DSM 2588]
+Other Aliases: CPIN_RS06355, Cpin_1284
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_013132.1 (1535369..1536133)
+ID: 78153565
+
+36. RSKD131_RS09845
+MBL fold metallo-hydrolase [Cereibacter sphaeroides KD131]
+Other Aliases: RSKD131_RS09845, RSKD131_2033
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: 1
+Annotation: Chromosome 1 NC_011963.1 (2069327..2070124)
+ID: 67447425
+
+37. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Burkholderia orbicola MC0-3]
+Other Aliases: BCENMC03_RS25880, Bcenmc03_5159
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Chromosome: 2
+Annotation: Chromosome 2 NC_010515.1 (2250710..2251633)
+ID: 83051848
+
+38. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Verminephrobacter eiseniae EF01-2]
+Other Aliases: VEIS_RS19535, Veis_4035
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Annotation:  NC_008786.1 (4421955..4422869)
+ID: 76462380
+
+39. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Variovorax paradoxus NBRC 15149]
+Other Aliases: VPA02S_RS27975
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 67430186
+
+40. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Variovorax paradoxus NBRC 15149]
+Other Aliases: VPA02S_RS19685
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 67428539
+
+41. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Pseudomonas oleovorans CECT 5344]
+Other Aliases: BN5_RS11450, BN5_2340
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Chromosome: I
+ID: 61800026
+
+42. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Ralstonia pickettii]
+Other Aliases: FY486_RS06740
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 61388102
+
+43. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Xanthomonas vesicatoria ATCC 35937]
+Other Aliases: BJD12_RS06400, BJD12_06400
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 46981034
+
+44. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Acinetobacter colistiniresistens]
+Other Aliases: F907_RS02005, F907_02928
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 45416885
+
+45. KNZ77_RS03775
+metallo-hydrolase/oxidoreductase [Clostridioides difficile]
+Other Aliases: KNZ77_RS03775, KNZ77_03775
+Other Designations: metallo-hydrolase/oxidoreductase
+ID: 66353193
+
+46. OLSU_RS00465
+MBL fold metallo-hydrolase [Olsenella uli DSM 7084]
+Other Aliases: OLSU_RS00465, Olsu_0088
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_014363.1 (103237..104061, complement)
+ID: 78511569
+
+47. LRC_RS00230
+MBL fold metallo-hydrolase [Ligilactobacillus ruminis ATCC 27782]
+Other Aliases: LRC_RS00230, LRC_00440
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_015975.1 (49457..50266)
+ID: 29803314
+
+48. PALPR_RS04615
+MBL fold metallo-hydrolase [Paludibacter propionicigenes WB4]
+Other Aliases: PALPR_RS04615, Palpr_0935
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_014734.1 (1123721..1124524, complement)
+ID: 78490520
+
+49. PALPR_RS00620
+MBL fold metallo-hydrolase [Paludibacter propionicigenes WB4]
+Other Aliases: PALPR_RS00620, Palpr_0124
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_014734.1 (144724..145470, complement)
+ID: 78489749
+
+50. KJS44_RS13845
+MBL fold metallo-hydrolase [Longicatena caecimuris]
+Other Aliases: KJS44_RS13845, L3BBH23_27420
+Other Designations: MBL fold metallo-hydrolase
+ID: 73796939
+
+
+1. BP951000_RS03710
+MBL fold metallo-hydrolase [Brachyspira pilosicoli 95/1000]
+Other Aliases: BP951000_RS03710, BP951000_0757
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_014330.1 (842843..843727, complement)
+ID: 56439326
+
+2. BP951000_RS02005
+MBL fold metallo-hydrolase [Brachyspira pilosicoli 95/1000]
+Other Aliases: BP951000_RS02005, BP951000_0410
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_014330.1 (458368..459126, complement)
+ID: 56438989
+
+3. CTK_RS14545
+MBL fold metallo-hydrolase [Clostridium tyrobutyricum]
+Other Aliases: CTK_RS14545, CTK_C29780
+Other Designations: MBL fold metallo-hydrolase
+ID: 29418528
+
+4. PMI_RS14675
+MBL fold metallo-hydrolase [Proteus mirabilis HI4320]
+Other Aliases: PMI_RS14675, PMI2968
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_010554.1 (3253769..3254590)
+ID: 6801152
+
+5. TDE_RS07385
+MBL fold metallo-hydrolase [Treponema denticola ATCC 35405]
+Other Aliases: TDE_RS07385, TDE1541, TDE_1541
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_002967.9 (1585038..1586000)
+ID: 2740903
+
+6. HMPREF0273_RS0106750
+MBL fold metallo-hydrolase [Coprobacillus cateniformis]
+Other Aliases: HMPREF0273_RS0106750
+Other Designations: MBL fold metallo-hydrolase
+ID: 78229206
+
+7. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Cereibacter sphaeroides KD131]
+Other Aliases: RSKD131_RS10450, RSKD131_2155
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Chromosome: 1
+Annotation: Chromosome 1 NC_011963.1 (2188955..2189857, complement)
+ID: 67447545
+
+8. BF29_RS10890
+MBL fold metallo-hydrolase [Heyndrickxia coagulans DSM 1 = ATCC 7050]
+Other Aliases: BF29_RS10890, BF29_2236
+Other Designations: MBL fold metallo-hydrolase
+ID: 29813413
+
+9. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS17875, RALTA_B0439
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Chromosome: 2
+Annotation: Chromosome 2 NC_010530.1 (481147..482076)
+ID: 29764716
+
+10. RALTA_RS05655
+MBL fold metallo-hydrolase [Cupriavidus taiwanensis LMG 19424]
+Other Aliases: RALTA_RS05655, RALTA_A1183
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: 1
+Annotation: Chromosome 1 NC_010528.1 (1214902..1215690)
+ID: 29762086
+
+11. NQ491_RS00470
+MBL fold metallo-hydrolase [Alistipes ihumii AP11]
+Other Aliases: NQ491_RS00470, NQ491_00470
+Other Designations: MBL fold metallo-hydrolase
+ID: 82890162
+
+12. C823_RS08725
+MBL fold metallo-hydrolase [Eubacterium plexicaudatum ASF492]
+Other Aliases: C823_RS08725, C823_001832
+Other Designations: MBL fold metallo-hydrolase
+ID: 78432739
+
+13. NQ490_RS09130
+MBL fold metallo-hydrolase [Subdoligranulum variabile]
+Other Aliases: NQ490_RS09130, NQ490_09130
+Other Designations: MBL fold metallo-hydrolase
+ID: 78307378
+
+14. NQ541_RS07150
+MBL fold metallo-hydrolase [[Ruminococcus] lactaris ATCC 29176]
+Other Aliases: NQ541_RS07150, NQ541_07150
+Other Designations: MBL fold metallo-hydrolase
+ID: 77334271
+
+15. KCI68_RS02660
+MBL fold metallo-hydrolase [Borreliella afzelii]
+Other Aliases: KCI68_RS02660
+Other Designations: MBL fold metallo-hydrolase
+ID: 77265376
+
+16. G542_RS0113530
+MBL fold metallo-hydrolase [Laribacter hongkongensis DSM 14985]
+Other Aliases: G542_RS0113530
+Other Designations: MBL fold metallo-hydrolase
+ID: 75110374
+
+17. METD_RS23670
+MBL fold metallo-hydrolase [Methylorubrum extorquens DM4]
+Other Aliases: METD_RS23670, METDI5186, METD_I5186
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_012988.1 (5105943..5106773, complement)
+ID: 72991905
+
+18. Q785_RS04735
+MBL fold metallo-hydrolase [Ornithobacterium rhinotracheale ORT-UMN 88]
+Other Aliases: Q785_RS04735, Q785_05010
+Other Designations: MBL fold metallo-hydrolase
+ID: 71569179
+
+19. KQI_RS0123790
+MBL fold metallo-hydrolase [Paenibacillus peoriae KCTC 3763]
+Other Aliases: KQI_RS0123790
+Other Designations: MBL fold metallo-hydrolase
+ID: 71026573
+
+20. SIAM614_RS10900
+MBL fold metallo-hydrolase [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS10900, SIAM614_14400
+Other Designations: MBL fold metallo-hydrolase
+ID: 68846528
+
+21. FXB41_RS29700
+MBL fold metallo-hydrolase [Bradyrhizobium canariense]
+Other Aliases: FXB41_RS29700, FXB41_30390
+Other Designations: MBL fold metallo-hydrolase
+ID: 66481593
+
+22. BVAVS116_RS02640
+MBL fold metallo-hydrolase [Borreliella valaisiana VS116]
+Other Aliases: BVAVS116_RS02640, BVAVS116_0538
+Other Designations: MBL fold metallo-hydrolase
+ID: 63641303
+
+23. M9W_RS04415
+MBL fold metallo-hydrolase [Rickettsia prowazekii str. Chernikova]
+Other Aliases: M9W_RS04415, M9W_04215
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_017049.1 (1093524..1094273, complement)
+ID: 57569992
+
+24. CPB_RS02430
+MBL fold metallo-hydrolase [Chlamydia pneumoniae TW-183]
+Other Aliases: CPB_RS02430, CpB0498
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_005043.1 (554934..555746, complement)
+ID: 45050524
+
+25. PA3372
+carbon-phosphorus lyase complex accessory protein [Pseudomonas aeruginosa PAO1]
+Other Aliases: PA3372
+Other Designations: carbon-phosphorus lyase complex accessory protein
+Annotation:  NC_002516.2 (3780362..3781132, complement)
+ID: 879551
+
+26. RUM_RS01015
+MBL fold metallo-hydrolase [Ruminococcus champanellensis 18P13 = JCM 17042]
+Other Aliases: RUM_RS01015, RUM_02170
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_021039.1 (224373..225155, complement)
+ID: 83155052
+
+27. FY292_RS00250
+MBL fold metallo-hydrolase [Amedibacillus dolichus]
+Other Aliases: FY292_RS00250
+Other Designations: MBL fold metallo-hydrolase
+ID: 83059510
+
+28. BCENMC03_RS10680
+MBL fold metallo-hydrolase [Burkholderia orbicola MC0-3]
+Other Aliases: BCENMC03_RS10680, Bcenmc03_2111
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: 1
+Annotation: Chromosome 1 NC_010508.1 (2350122..2350898, complement)
+ID: 83048895
+
+29. BN55_RS03970
+MBL fold metallo-hydrolase [Lactobacillus hominis DSM 23910 = CRBIP 24.179]
+Other Aliases: BN55_RS03970, BN55_09780
+Other Designations: MBL fold metallo-hydrolase
+ID: 82846921
+
+30. C510_RS0101500
+MBL fold metallo-hydrolase [Phocaeicola barnesiae DSM 18169 = JCM 13652]
+Other Aliases: C510_RS0101500
+Other Designations: MBL fold metallo-hydrolase
+ID: 82442115
+
+31. I2H87_RS04475
+MBL fold metallo-hydrolase [Mediterraneibacter glycyrrhizinilyticus]
+Other Aliases: I2H87_RS04475
+Other Designations: MBL fold metallo-hydrolase
+ID: 82439978
+
+32. HUT37_RS11325
+MBL fold metallo-hydrolase [Phocaeicola sartorii]
+Other Aliases: HUT37_RS11325, HUT37_11320
+Other Designations: MBL fold metallo-hydrolase
+ID: 82153712
+
+33. HUT37_RS09400
+MBL fold metallo-hydrolase [Phocaeicola sartorii]
+Other Aliases: HUT37_RS09400, HUT37_09405
+Other Designations: MBL fold metallo-hydrolase
+ID: 82153334
+
+34. KJS37_RS02090
+MBL fold metallo-hydrolase [Lactococcus formosensis]
+Other Aliases: KJS37_RS02090
+Other Designations: MBL fold metallo-hydrolase
+ID: 80023187
+
+35. PGS05_RS03230
+MBL fold metallo-hydrolase [Ruthenibacterium lactatiformans]
+Other Aliases: PGS05_RS03230
+Other Designations: MBL fold metallo-hydrolase
+ID: 79920113
+
+36. HMPREF0631_RS01855
+MBL fold metallo-hydrolase [Peptostreptococcus anaerobius 653-L]
+Other Aliases: HMPREF0631_RS01855, HMPREF0631_1613
+Other Designations: MBL fold metallo-hydrolase
+ID: 79842164
+
+37. PGV62_RS09130
+MBL fold metallo-hydrolase [Alistipes finegoldii]
+Other Aliases: PGV62_RS09130
+Other Designations: MBL fold metallo-hydrolase
+ID: 79837782
+
+38. FYC25_RS14185
+MBL fold metallo-hydrolase [Paraprevotella clara]
+Other Aliases: FYC25_RS14185
+Other Designations: MBL fold metallo-hydrolase
+ID: 78583999
+
+39. PREBIDRAFT_RS02210
+MBL fold metallo-hydrolase [Prevotella bivia DSM 20514]
+Other Aliases: PREBIDRAFT_RS02210, PrebiDRAFT_2091
+Other Designations: MBL fold metallo-hydrolase
+ID: 78530043
+
+40. PREBIDRAFT_RS01620
+MBL fold metallo-hydrolase [Prevotella bivia DSM 20514]
+Other Aliases: PREBIDRAFT_RS01620, PrebiDRAFT_1970
+Other Designations: MBL fold metallo-hydrolase
+ID: 78529930
+
+41. FXX55_RS00270
+MBL fold metallo-hydrolase [Mitsuokella multacida]
+Other Aliases: FXX55_RS00270
+Other Designations: MBL fold metallo-hydrolase
+ID: 78515744
+
+42. ANT_RS15010
+MBL fold metallo-hydrolase [Anaerolinea thermophila UNI-1]
+Other Aliases: ANT_RS15010, ANT_30090
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_014960.1 (3336703..3337692)
+ID: 78351260
+
+43. HMPREF9444_RS04305
+MBL fold metallo-hydrolase [Succinatimonas hippei YIT 12066]
+Other Aliases: HMPREF9444_RS04305, HMPREF9444_00933
+Other Designations: MBL fold metallo-hydrolase
+ID: 78339436
+
+44. BLU78_RS12730
+MBL fold metallo-hydrolase [Alistipes timonensis JC136]
+Other Aliases: BLU78_RS12730, SAMN05444145_1118
+Other Designations: MBL fold metallo-hydrolase
+ID: 78311121
+
+45. HMPREF9456_RS04645
+MBL fold metallo-hydrolase [Dysgonomonas mossii DSM 22836]
+Other Aliases: HMPREF9456_RS04645, HMPREF9456_00940
+Other Designations: MBL fold metallo-hydrolase
+ID: 78081613
+
+46. HMPREF9456_RS01935
+MBL fold metallo-hydrolase [Dysgonomonas mossii DSM 22836]
+Other Aliases: HMPREF9456_RS01935, HMPREF9456_00393
+Other Designations: MBL fold metallo-hydrolase
+ID: 78081078
+
+47. HMPREF9448_RS11490
+MBL fold metallo-hydrolase [Barnesiella intestinihominis YIT 11860]
+Other Aliases: HMPREF9448_RS11490, HMPREF9448_02356
+Other Designations: MBL fold metallo-hydrolase
+ID: 77849548
+
+48. FYB86_RS09935
+MBL fold metallo-hydrolase [Roseburia hominis]
+Other Aliases: FYB86_RS09935
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: 1
+ID: 77459590
+
+49. A7A96_RS07735
+MBL fold metallo-hydrolase [Streptococcus vestibularis]
+Other Aliases: A7A96_RS07735
+Other Designations: MBL fold metallo-hydrolase
+ID: 77298604
+
+50. AQ984_RS19135
+MBL fold metallo-hydrolase [Clostridium pasteurianum]
+Other Aliases: AQ984_RS19135, AQ984_19080
+Other Designations: MBL fold metallo-hydrolase
+ID: 76628262
+
+
+1. FAEPRAM212_RS10560
+MBL fold metallo-hydrolase [Faecalibacterium prausnitzii M21/2]
+Other Aliases: FAEPRAM212_RS10560, FAEPRAM212_02587
+Other Designations: MBL fold metallo-hydrolase
+ID: 75068853
+
+2. LCP48_RS00150
+MBL fold metallo-hydrolase [Lysinibacillus capsici]
+Other Aliases: LCP48_RS00150
+Other Designations: MBL fold metallo-hydrolase
+ID: 74903062
+
+3. I532_RS13455
+MBL fold metallo-hydrolase [Brevibacillus borstelensis AK1]
+Other Aliases: I532_RS13455, I532_13409
+Other Designations: MBL fold metallo-hydrolase
+ID: 72735786
+
+4. BME96_RS18895
+MBL fold metallo-hydrolase [Virgibacillus halodenitrificans]
+Other Aliases: BME96_RS18895, BME96_18720
+Other Designations: MBL fold metallo-hydrolase
+ID: 71516449
+
+5. KQI_RS0111200
+MBL fold metallo-hydrolase [Paenibacillus peoriae KCTC 3763]
+Other Aliases: KQI_RS0111200
+Other Designations: MBL fold metallo-hydrolase
+ID: 71024292
+
+6. HMPREF1060_RS06445
+MBL fold metallo-hydrolase [Parabacteroides merdae CL03T12C32]
+Other Aliases: HMPREF1060_RS06445, HMPREF1060_01306
+Other Designations: MBL fold metallo-hydrolase
+ID: 69715689
+
+7. SIAM614_RS00805
+MBL fold metallo-hydrolase [Roseibium aggregatum IAM 12614]
+Other Aliases: SIAM614_RS00805, SIAM614_09458
+Other Designations: MBL fold metallo-hydrolase
+ID: 68844594
+
+8. FY306_RS00515
+MBL fold metallo-hydrolase [Thomasclavelia spiroformis]
+Other Aliases: FY306_RS00515
+Other Designations: MBL fold metallo-hydrolase
+ID: 67385498
+
+9. IX315_RS03940
+MBL fold metallo-hydrolase [Porphyromonas levii]
+Other Aliases: IX315_RS03940, IX315_000795
+Other Designations: MBL fold metallo-hydrolase
+ID: 66797129
+
+10. BLT61_RS08815
+MBL fold metallo-hydrolase [Pseudomonas poae]
+Other Aliases: BLT61_RS08815, SAMN04490208_1787
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: I
+ID: 66760926
+
+11. FFA26_RS00325
+MBL fold metallo-hydrolase [Lactobacillus paragasseri JV-V03]
+Other Aliases: FFA26_RS00325
+Other Designations: MBL fold metallo-hydrolase
+ID: 66534056
+
+12. A966_RS11160
+MBL fold metallo-hydrolase [Brachyspira hampsonii 30446]
+Other Aliases: A966_RS11160, A966_11736
+Other Designations: MBL fold metallo-hydrolase
+ID: 66488751
+
+13. I6I62_RS11770
+MBL fold metallo-hydrolase [Thomasclavelia ramosa]
+Other Aliases: I6I62_RS11770, I6I62_11770
+Other Designations: MBL fold metallo-hydrolase
+ID: 64197073
+
+14. HMPREF1086_RS17005
+MBL fold metallo-hydrolase [[Clostridium] clostridioforme 90B1]
+Other Aliases: HMPREF1086_RS17005, HMPREF1086_03286
+Other Designations: MBL fold metallo-hydrolase
+ID: 63967290
+
+15. G4D54_RS02850
+MBL fold metallo-hydrolase [[Clostridium] innocuum]
+Other Aliases: G4D54_RS02850, G4D54_02850
+Other Designations: MBL fold metallo-hydrolase
+ID: 61924441
+
+16. CGC65_RS18295
+MBL fold metallo-hydrolase [Enterocloster bolteae]
+Other Aliases: CGC65_RS18295, CGC65_18300
+Other Designations: MBL fold metallo-hydrolase
+ID: 61860258
+
+17. HMPREF9390_RS09050
+MBL fold metallo-hydrolase [Streptococcus sanguinis SK405]
+Other Aliases: HMPREF9390_RS09050, HMPREF9390_0240
+Other Designations: MBL fold metallo-hydrolase
+ID: 61536805
+
+18. CKV90_RS01400
+MBL fold metallo-hydrolase [Listeria welshimeri]
+Other Aliases: CKV90_RS01400, SAMEA4534872_00290
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: 1
+ID: 61188158
+
+19. FY433_RS14710
+MBL fold metallo-hydrolase [Phocaeicola plebeius]
+Other Aliases: FY433_RS14710
+Other Designations: MBL fold metallo-hydrolase
+ID: 60972831
+
+20. FY433_RS07450
+MBL fold metallo-hydrolase [Phocaeicola plebeius]
+Other Aliases: FY433_RS07450
+Other Designations: MBL fold metallo-hydrolase
+ID: 60971399
+
+21. NDB4MOL1_RS07780
+MBL fold metallo-hydrolase [Cupriavidus metallidurans]
+Other Aliases: NDB4MOL1_RS07780, NDB4MOL1_01555
+Other Designations: MBL fold metallo-hydrolase
+ID: 60821931
+
+22. HMPREF1534_RS16825
+MBL fold metallo-hydrolase [Phocaeicola massiliensis B84634 = Timone 84634 = DSM 17679 = JCM 13223]
+Other Aliases: HMPREF1534_RS16825, HMPREF1534_00399
+Other Designations: MBL fold metallo-hydrolase
+ID: 60063528
+
+23. BCV53_RS03230
+MBL fold metallo-hydrolase [Parageobacillus thermoglucosidasius]
+Other Aliases: BCV53_RS03230, BCV53_03230
+Other Designations: MBL fold metallo-hydrolase
+ID: 56924486
+
+24. BEH84_RS31840
+MBL fold metallo-hydrolase [Eisenbergiella tayi]
+Other Aliases: BEH84_RS31840, BEH84_06295
+Other Designations: MBL fold metallo-hydrolase
+ID: 56726254
+
+25. BCEP18194_RS17105
+MBL fold metallo-hydrolase [Burkholderia lata]
+Other Aliases: BCEP18194_RS17105, Bcep18194_A5399
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: 1
+Annotation: Chromosome 1 NC_007510.1 (2467357..2468133, complement)
+ID: 45095280
+
+26. CPB_RS04530
+MBL fold metallo-hydrolase [Chlamydia pneumoniae TW-183]
+Other Aliases: CPB_RS04530, CpB0908
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_005043.1 (993965..994762, complement)
+ID: 45050932
+
+27. DORFOR_RS06690
+MBL fold metallo-hydrolase [Dorea formicigenerans ATCC 27755]
+Other Aliases: DORFOR_RS06690, DORFOR_01452
+Other Designations: MBL fold metallo-hydrolase
+ID: 42422034
+
+28. C770_RS32670
+coenzyme PQQ biosynthesis protein B [Sinorhizobium meliloti GR4]
+Other Aliases: C770_RS32670, C770_GR4pD1391
+Genomic context: Plasmid pRmeGR4d
+Annotation:  NC_019849.1 (1530558..1531469, complement)
+ID: 25013940
+
+29. LEP1GSC059_RS19690
+MBL fold metallo-hydrolase [Leptospira noguchii serovar Panama str. CZ214]
+Other Aliases: LEP1GSC059_RS19690, LEP1GSC059_2184
+Other Designations: MBL fold metallo-hydrolase
+ID: 23203882
+
+30. LEP1GSC059_RS11615
+MBL fold metallo-hydrolase [Leptospira noguchii serovar Panama str. CZ214]
+Other Aliases: LEP1GSC059_RS11615, LEP1GSC059_2829
+Other Designations: MBL fold metallo-hydrolase
+ID: 23202267
+
+31. LEP1GSC059_RS00860
+MBL fold metallo-hydrolase [Leptospira noguchii serovar Panama str. CZ214]
+Other Aliases: LEP1GSC059_RS00860, LEP1GSC059_3969
+Other Designations: MBL fold metallo-hydrolase
+ID: 23200116
+
+32. phnP
+phosphonate metabolism protein PhnP [Shigella dysenteriae]
+Other Aliases: HUZ68_RS01450, HUZ68_01435
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75169610
+
+33. phnP
+phosphonate metabolism protein PhnP [Enterobacter chengduensis]
+Other Aliases: FY206_RS01815, FY206_01815
+Other Designations: phosphonate metabolism protein PhnP
+ID: 63140362
+
+34. phnP
+phosphonate metabolism protein PhnP [Pseudomonas avellanae]
+Other Aliases: N010_RS0217295
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61791253
+
+35. phnP
+phosphonate metabolism protein PhnP [Yersinia rochesterensis]
+Other Aliases: DXZ79_RS02760, DXZ79_02765
+Other Designations: phosphonate metabolism protein PhnP
+ID: 82549709
+
+36. phnP
+phosphonate metabolism protein PhnP [Vibrio nigripulchritudo POn4]
+Other Aliases: VIBNIPON4_RS13745, VIBNIPon4_390100
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61875610
+
+37. phnP
+phosphonate metabolism protein PhnP [Yersinia frederiksenii ATCC 33641]
+Other Aliases: DJ58_RS06545, DJ58_1095
+Other Designations: phosphonate metabolism protein PhnP
+ID: 57904664
+
+38. phnP
+phosphonate metabolism protein PhnP [Pseudomonas yamanorum]
+Other Aliases: AK972_RS07940, AK972_1542
+Other Designations: phosphonate metabolism protein PhnP
+ID: 56070655
+
+39. phnP
+phosphonate metabolism protein PhnP [Enterobacter hormaechei]
+Other Aliases: I6L65_RS02415, I6L65_02415
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72530882
+
+40. phnP
+phosphonate metabolism protein PhnP [Yersinia intermedia]
+Other Aliases: FOC38_RS19120, FOC38_19120
+Other Designations: phosphonate metabolism protein PhnP
+ID: 58049081
+
+41. phnP
+phosphonate metabolism protein PhnP [Yersinia aldovae 670-83]
+Other Aliases: AT01_RS14715, AT01_2989
+Other Designations: phosphonate metabolism protein PhnP
+ID: 45572110
+
+42. phnP
+5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase [Escherichia coli O157:H7 str. Sakai]
+Other Aliases: ECs_5075
+Other Designations: 5-phospho-alpha-D-ribosyl 1,2-cyclic phosphate phosphodiesterase
+Annotation:  NC_002695.2 (5169325..5170083, complement)
+ID: 912306
+
+43. phnP
+phosphonate metabolism protein PhnP [Serratia nevei]
+Other Aliases: F0338_RS01695
+Other Designations: phosphonate metabolism protein PhnP
+ID: 79508447
+
+44. phnP
+phosphonate metabolism protein PhnP [Obesumbacterium proteus]
+Other Aliases: XK97_RS16045, XK97_16040
+Other Designations: phosphonate metabolism protein PhnP
+ID: 78451982
+
+45. phnP
+phosphonate metabolism protein PhnP [Ewingella americana]
+Other Aliases: F4W05_RS12015, F4W05_12015
+Other Designations: phosphonate metabolism protein PhnP
+ID: 78381196
+
+46. phnP
+phosphonate metabolism protein PhnP [Kalamiella piersonii]
+Other Aliases: D7S44_RS07465, D7S44_07450
+Other Designations: phosphonate metabolism protein PhnP
+ID: 78233293
+
+47. phnP
+phosphonate metabolism protein PhnP [Yersinia enterocolitica]
+Other Aliases: N4222_RS17860, N4222_17860
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77329712
+
+48. phnP
+phosphonate metabolism protein PhnP [Serratia bockelmannii]
+Other Aliases: OM395_RS14615, OM395_14615
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77284123
+
+49. phnP
+phosphonate metabolism protein PhnP [Pseudomonas syringae]
+Other Aliases: KIJ28_RS10605, KIJ28_10605
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77278099
+
+50. phnP
+phosphonate metabolism protein PhnP [Pseudomonas paraeruginosa]
+Other Aliases: B7D75_RS08135, B7D75_08135
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77220112
+
+
+1. phnP
+phosphonate metabolism protein PhnP [Halomonas venusta]
+Other Aliases: JDS37_RS02125, JDS37_02125
+Other Designations: phosphonate metabolism protein PhnP
+ID: 77013916
+
+2. phnP
+phosphonate metabolism protein PhnP [Enterobacter quasiroggenkampii]
+Other Aliases: EKO03_RS18785, EKO03_18785
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75416018
+
+3. phnP
+phosphonate metabolism protein PhnP [Serratia grimesii]
+Other Aliases: SGBXF1_RS02290, SGBXF1_00457
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 75280252
+
+4. phnP
+phosphonate metabolism protein PhnP [Stutzerimonas frequens]
+Other Aliases: I6G34_RS04480, I6G34_04480
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75212540
+
+5. phnP
+phosphonate metabolism protein PhnP [Yersinia alsatica]
+Other Aliases: N0H69_RS02450, N0H69_02450
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75138823
+
+6. phnP
+phosphonate metabolism protein PhnP [Enterobacter asburiae]
+Other Aliases: FOY94_RS01675, EAS17NKHM_003210
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75131959
+
+7. phnP
+phosphonate metabolism protein PhnP [Serratia ficaria]
+Other Aliases: CKW09_RS02700, SAMEA4384070_00537
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 75025726
+
+8. phnP
+phosphonate metabolism protein PhnP [Serratia entomophila]
+Other Aliases: KHA73_RS02005, KHA73_02005
+Other Designations: phosphonate metabolism protein PhnP
+ID: 75020678
+
+9. phnP
+phosphonate metabolism protein PhnP [Serratia quinivorans]
+Other Aliases: EL336_RS02085, NCTC13188_00417
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 74948670
+
+10. phnP
+phosphonate metabolism protein PhnP [Citrobacter europaeus]
+Other Aliases: C3454_RS20940, C3454_21215
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73801147
+
+11. phnP
+phosphonate metabolism protein PhnP [Stutzerimonas kunmingensis]
+Other Aliases: LW136_RS00430, LW136_00430
+Other Designations: phosphonate metabolism protein PhnP
+ID: 73728700
+
+12. phnP
+phosphonate metabolism protein PhnP [Enterobacter sichuanensis]
+Other Aliases: C1N69_RS01715, C1N69_01730
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72830226
+
+13. phnP
+phosphonate metabolism protein PhnP [Enterobacter mori]
+Other Aliases: L6Y89_RS01565, L6Y89_01565
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72512925
+
+14. phnP
+phosphonate metabolism protein PhnP [Raoultella planticola]
+Other Aliases: MNO12_RS13130, MNO12_13130
+Other Designations: phosphonate metabolism protein PhnP
+ID: 72407606
+
+15. phnP
+phosphonate metabolism protein PhnP [Pseudomonas savastanoi]
+Other Aliases: KP808_RS10555, KP808_10525
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69859170
+
+16. phnP
+phosphonate metabolism protein PhnP [Yersinia bercovieri]
+Other Aliases: LH409_RS06935, LH409_06935
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69737710
+
+17. phnP
+phosphonate metabolism protein PhnP [Yersinia proxima]
+Other Aliases: FTB57_RS11565
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69701136
+
+18. phnP
+phosphonate metabolism protein PhnP [Hafnia paralvei]
+Other Aliases: K9N75_RS02980, K9N75_02980
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69636969
+
+19. phnP
+phosphonate metabolism protein PhnP [Citrobacter farmeri]
+Other Aliases: EGK65_RS21090, EGK65_21115
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69619711
+
+20. phnP
+phosphonate metabolism protein PhnP [Citrobacter werkmanii]
+Other Aliases: FOB24_RS03515, FOB24_03515
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69484775
+
+21. phnP
+phosphonate metabolism protein PhnP [Citrobacter cronae]
+Other Aliases: JSN25_RS07180
+Other Designations: phosphonate metabolism protein PhnP
+ID: 69429387
+
+22. phnP
+phosphonate metabolism protein PhnP [Pectobacterium aroidearum]
+Other Aliases: I2D83_RS19315, I2D83_19310
+Other Designations: phosphonate metabolism protein PhnP
+ID: 67795694
+
+23. phnP
+phosphonate metabolism protein PhnP [Pantoea dispersa]
+Other Aliases: K7H94_RS07370, K7H94_07370
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 1
+ID: 67451431
+
+24. phnP
+phosphonate metabolism protein PhnP [Yokenella regensburgei]
+Other Aliases: C7387_RS15400, C7387_3116
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66905104
+
+25. phnP
+phosphonate metabolism protein PhnP [Yersinia ruckeri]
+Other Aliases: YR821_RS02100, YR821_0425
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66878243
+
+26. phnP
+phosphonate metabolism protein PhnP [Pantoea agglomerans]
+Other Aliases: I6L77_RS09780, I6L77_09780
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66825466
+
+27. phnP
+phosphonate metabolism protein PhnP [Pectobacterium parmentieri]
+Other Aliases: C5E18_RS03025, C5E18_03040
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66800873
+
+28. phnP
+phosphonate metabolism protein PhnP [Dickeya solani]
+Other Aliases: BJJ98_RS04425, BJJ98_04245
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66641889
+
+29. phnP
+phosphonate metabolism protein PhnP [Enterobacter cancerogenus]
+Other Aliases: K3T75_RS02990
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66609999
+
+30. phnP
+phosphonate metabolism protein PhnP [Klebsiella aerogenes]
+Other Aliases: FPV33_RS23185, FPV33_23185
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66605949
+
+31. phnP
+phosphonate metabolism protein PhnP [Dickeya fangzhongdai]
+Other Aliases: CVE23_RS08360, CVE23_08360
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66564346
+
+32. phnP
+phosphonate metabolism protein PhnP [Klebsiella michiganensis]
+Other Aliases: JLG71_RS25625, THOKLE011_50060
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66562187
+
+33. phnP
+phosphonate metabolism protein PhnP [Lelliottia amnigena]
+Other Aliases: I6L75_RS21335, I6L75_21325
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66412835
+
+34. phnP
+phosphonate metabolism protein PhnP [Kosakonia radicincitans]
+Other Aliases: FEI17_RS24720, FEI17_24710
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66394762
+
+35. phnP
+phosphonate metabolism protein PhnP [Citrobacter braakii]
+Other Aliases: GFC06_RS02640, GFC06_02640
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66271804
+
+36. phnP
+phosphonate metabolism protein PhnP [Citrobacter amalonaticus]
+Other Aliases: AL524_RS30780, AL524_05320
+Other Designations: phosphonate metabolism protein PhnP
+ID: 66235752
+
+37. phnP
+phosphonate metabolism protein PhnP [Pantoea allii]
+Other Aliases: C7431_RS13070, C7431_10540
+Other Designations: phosphonate metabolism protein PhnP
+ID: 65791375
+
+38. phnP
+phosphonate metabolism protein PhnP [Pseudomonas congelans]
+Other Aliases: BLR20_RS02300, SAMN05216596_101457
+Other Designations: phosphonate metabolism protein PhnP
+ID: 65073716
+
+39. phnP
+phosphonate metabolism protein PhnP [Serratia ureilytica]
+Other Aliases: J0X03_RS21685, J0X03_21685
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64310249
+
+40. phnP
+phosphonate metabolism protein PhnP [Serratia liquefaciens]
+Other Aliases: F0336_RS02060, F0336_02060
+Other Designations: phosphonate metabolism protein PhnP
+ID: 64204914
+
+41. phnP
+phosphonate metabolism protein PhnP [Vibrio mediterranei]
+Other Aliases: HOP38_RS25470, HOP38_25470
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: II
+ID: 64089622
+
+42. phnP
+phosphonate metabolism protein PhnP [Vibrio coralliirubri]
+Other Aliases: ED654_RS22480
+Other Designations: phosphonate metabolism protein PhnP
+ID: 62576088
+
+43. phnP
+phosphonate metabolism protein PhnP [Yersinia kristensenii]
+Other Aliases: DX162_RS03610, NCTC11471_00717
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61905447
+
+44. phnP
+phosphonate metabolism protein PhnP [Yersinia aleksiciae]
+Other Aliases: AP371_RS03290, ERS008671_00684
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61901226
+
+45. phnP
+phosphonate metabolism protein PhnP [Yersinia massiliensis CCUG 53443]
+Other Aliases: BN68_RS11255, BN68_11505
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61815905
+
+46. phnP
+phosphonate metabolism protein PhnP [Serratia rubidaea]
+Other Aliases: I6G83_RS09170, I6G83_09170
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61763940
+
+47. phnP
+phosphonate metabolism protein PhnP [Pseudomonas fluorescens]
+Other Aliases: CPH89_RS20070, SAMN04488487_4127
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: I
+ID: 61637962
+
+48. phnP
+phosphonate metabolism protein PhnP [Pectobacterium polaris]
+Other Aliases: BJK05_RS20090, BJK05_19470
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61410862
+
+49. phnP
+phosphonate metabolism protein PhnP [Pectobacterium carotovorum]
+Other Aliases: HER17_RS18930, HER17_18980
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61349692
+
+50. phnP
+phosphonate metabolism protein PhnP [Oligella urethralis]
+Other Aliases: DXZ51_RS01415, NCTC11008_00294
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61259747
+
+
+1. phnP
+phosphonate metabolism protein PhnP [Pantoea stewartii]
+Other Aliases: G5574_RS04650, G5574_04650
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61251597
+
+2. phnP
+phosphonate metabolism protein PhnP [Citrobacter portucalensis]
+Other Aliases: FOB25_RS09380, FOB25_09380
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61125728
+
+3. phnP
+phosphonate metabolism protein PhnP [Lonsdalea populi]
+Other Aliases: I6N93_RS15705, I6N93_15705
+Other Designations: phosphonate metabolism protein PhnP
+ID: 61123582
+
+4. phnP
+phosphonate metabolism protein PhnP [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS19065
+Other Designations: phosphonate metabolism protein PhnP
+ID: 60945997
+
+5. phnP
+phosphonate metabolism protein PhnP [Enterovibrio norvegicus]
+Other Aliases: G6R18_RS12455
+Other Designations: phosphonate metabolism protein PhnP
+ID: 60944687
+
+6. phnP
+phosphonate metabolism protein PhnP [Citrobacter freundii]
+Other Aliases: EGX89_RS15825, EGX89_15845
+Other Designations: phosphonate metabolism protein PhnP
+ID: 60897995
+
+7. phnP
+phosphonate metabolism protein PhnP [Dickeya zeae]
+Other Aliases: C1O30_RS07930, C1O30_07930
+Other Designations: phosphonate metabolism protein PhnP
+ID: 60867833
+
+8. phnP
+phosphonate metabolism protein PhnP [Grimontia hollisae]
+Other Aliases: AL542_RS01270, AL542_01240
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: 2
+ID: 58894499
+
+9. phnP
+phosphonate metabolism protein PhnP [Pantoea vagans]
+Other Aliases: EGO56_RS07330, EGO56_07330
+Other Designations: phosphonate metabolism protein PhnP
+ID: 58737607
+
+10. phnP
+phosphonate metabolism protein PhnP [Yersinia mollaretii ATCC 43969]
+Other Aliases: HRD69_RS08155, HRD69_08155
+Other Designations: phosphonate metabolism protein PhnP
+ID: 57917752
+
+11. phnP
+phosphonate metabolism protein PhnP [Pseudomonas gingeri]
+Other Aliases: HX881_RS29250, HX881_29250
+Other Designations: phosphonate metabolism protein PhnP
+ID: 57664131
+
+12. phnP
+phosphonate metabolism protein PhnP [Raoultella terrigena]
+Other Aliases: HCK03_RS24375, HCK03_24370
+Other Designations: phosphonate metabolism protein PhnP
+ID: 57507116
+
+13. phnP
+phosphonate metabolism protein PhnP [Pseudomonas azotoformans]
+Other Aliases: BLR69_RS30405, SAMN04489799_6205
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: I
+ID: 57378573
+
+14. phnP
+phosphonate metabolism protein PhnP [Pectobacterium versatile]
+Other Aliases: SCC1_RS19365, SCC1_3841
+Other Designations: phosphonate metabolism protein PhnP
+ID: 57316012
+
+15. phnP
+phosphonate metabolism protein PhnP [Pectobacterium atrosepticum]
+Other Aliases: GZ59_RS02495, GZ59_05140
+Other Designations: phosphonate metabolism protein PhnP
+ID: 57207347
+
+16. phnP
+phosphonate metabolism protein PhnP [Hafnia alvei]
+Other Aliases: HBA19_RS02735, HBA19_02735
+Other Designations: phosphonate metabolism protein PhnP
+ID: 56890327
+
+17. phnP
+phosphonate metabolism protein PhnP [Pseudomonas proteolytica]
+Other Aliases: BLW35_RS15550, SAMN04490200_3117
+Other Designations: phosphonate metabolism protein PhnP
+ID: 55540230
+
+18. phnP
+phosphonate metabolism protein PhnP [Dickeya dianthicola]
+Other Aliases: DZA65_RS07995, DZA65_01552
+Other Designations: phosphonate metabolism protein PhnP
+ID: 49321470
+
+19. phnP
+phosphonate metabolism protein PhnP [Pseudomonas viridiflava]
+Other Aliases: CFBP1590_RS15590, CFBP1590__3157
+Other Designations: phosphonate metabolism protein PhnP
+Chromosome: I
+ID: 47764809
+
+20. phnP
+phosphonate metabolism protein PhnP [Enterobacter ludwigii]
+Other Aliases: BH714_RS19285, BH714_19285
+Other Designations: phosphonate metabolism protein PhnP
+ID: 45817689
+
+21. phnP
+phosphonate metabolism protein PhnP [Enterobacter roggenkampii]
+Other Aliases: BFV67_RS01715, BFV67_01715
+Other Designations: phosphonate metabolism protein PhnP
+ID: 45794041
+
+22. phnP
+phosphonate metabolism protein PhnP [Citrobacter koseri ATCC BAA-895]
+Other Aliases: CKO_RS16155
+Other Designations: phosphonate metabolism protein PhnP
+Annotation:  NC_009792.1 (3512569..3513327)
+ID: 45137466
+
+23. phnP
+phosphonate metabolism protein PhnP [Pseudomonas lurida]
+Other Aliases: A7318_RS07925, A7318_07920
+Other Designations: phosphonate metabolism protein PhnP
+ID: 31709937
+
+24. phnP
+phosphonate metabolism protein PhnP [Leclercia adecarboxylata]
+Other Aliases: APT61_RS20710, APT61_20710
+Other Designations: phosphonate metabolism protein PhnP
+ID: 30334366
+
+25. phnP
+phosphonate metabolism protein PhnP [Serratia fonticola]
+Other Aliases: WN53_RS10735, WN53_10735
+Other Designations: phosphonate metabolism protein PhnP
+ID: 30320642
+
+26. M666_RS18770
+MBL fold metallo-hydrolase [Cellulophaga baltica 18]
+Other Aliases: M666_RS18770, M666_18770
+Other Designations: MBL fold metallo-hydrolase
+ID: 78062751
+
+27. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Gluconobacter oxydans DSM 3504]
+Other Aliases: GLS_RS05370, GLS_c10640
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 56905299
+
+28. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Xanthomonas cannabis pv. phaseoli]
+Other Aliases: NC00_RS10025, NC00_10035
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 79393422
+
+29. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Pseudomonas citronellolis]
+Other Aliases: PcP3B5_RS17745, PcP3B5_36420
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 72996704
+
+30. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Paraburkholderia caribensis MBA4]
+Other Aliases: K788_RS32550, K788_0007406
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Genomic context: Plasmid unnamed
+ID: 69973376
+
+31. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Cronobacter dublinensis subsp. dublinensis LMG 23823]
+Other Aliases: AFK67_RS04395, AFK67_04390
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 45665598
+
+32. TY07_RS07125
+MBL fold metallo-hydrolase [Clostridium saudiense]
+Other Aliases: TY07_RS07125
+Other Designations: MBL fold metallo-hydrolase
+ID: 83011646
+
+33. RO08_RS04495
+MBL fold metallo-hydrolase [Fusobacterium animalis]
+Other Aliases: RO08_RS04495, RO08_04495
+Other Designations: MBL fold metallo-hydrolase
+ID: 79809788
+
+34. GXM18_RS17675
+MBL fold metallo-hydrolase [Blautia producta ATCC 27340 = DSM 2950]
+Other Aliases: GXM18_RS17675, GXM18_17710
+Other Designations: MBL fold metallo-hydrolase
+ID: 75053824
+
+35. COPCOM_RS08215
+MBL fold metallo-hydrolase [Coprococcus comes ATCC 27758]
+Other Aliases: COPCOM_RS08215, COPCOM_00108
+Other Designations: MBL fold metallo-hydrolase
+ID: 43514592
+
+36. G594_RS0113060
+MBL fold metallo-hydrolase [Clostridium paraputrificum AGR2156]
+Other Aliases: G594_RS0113060
+Other Designations: MBL fold metallo-hydrolase
+ID: 42776827
+
+37. HNO79_RS13900
+MBL fold metallo-hydrolase [Komagataeibacter oboediens]
+Other Aliases: HNO79_RS13900, HNO79_13955
+Other Designations: MBL fold metallo-hydrolase
+ID: 79188851
+
+38. LG35_RS07960
+MBL fold metallo-hydrolase [Alistipes inops]
+Other Aliases: LG35_RS07960, LG35_08325
+Other Designations: MBL fold metallo-hydrolase
+ID: 78261074
+
+39. GLS_RS00065
+MBL fold metallo-hydrolase [Gluconobacter oxydans DSM 3504]
+Other Aliases: GLS_RS00065, GLS_c00150
+Other Designations: MBL fold metallo-hydrolase
+ID: 56904265
+
+40. RG540_RS09070
+MBL fold metallo-hydrolase [Neorhizobium galegae bv. orientalis str. HAMBI 540]
+Other Aliases: RG540_RS09070, RG540_CH18380
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: I
+ID: 24255602
+
+41. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Thiopseudomonas alkaliphila]
+Other Aliases: AKN91_RS02395, AKN91_02390
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 82259471
+
+42. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Pseudomonas parafulva NBRC 16636 = DSM 17004]
+Other Aliases: PPA02S_RS18995
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 78505240
+
+43. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Alteromonas australica]
+Other Aliases: EP13_RS15085, EP13_15445
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 78256284
+
+44. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Granulibacter bethesdensis]
+Other Aliases: GbCGDNIH7_RS09790, GbCGDNIH7_1929
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 69746116
+
+45. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Burkholderia vietnamiensis]
+Other Aliases: WJ01_RS10285, WJ01_11420
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+ID: 69525212
+
+46. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Pseudomonas poae]
+Other Aliases: BLT61_RS18785, SAMN04490208_3821
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Chromosome: I
+ID: 66762874
+
+47. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Burkholderia cenocepacia]
+Other Aliases: WL90_RS31205, WL90_31185
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Chromosome: 2
+ID: 56562644
+
+48. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Acetobacter senegalensis]
+Other Aliases: ASN_RS04240, ASN_1014
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Chromosome: I
+ID: 34782135
+
+49. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Phaeobacter gallaeciensis DSM 26640]
+Other Aliases: GAL_RS19060, Gal_03893
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Genomic context: Plasmid pGal_A255
+Annotation:  NC_023138.1 (186488..187375)
+ID: 31848228
+
+50. phnP
+metal-dependent hydrolase [Chlamydia trachomatis D/UW-3/CX]
+Other Aliases: CT_380
+Annotation:  NC_000117.1 (433654..434454, complement)
+ID: 884736
+
+
+1. D271_RS03050
+MBL fold metallo-hydrolase [Ligilactobacillus saerimneri 30a]
+Other Aliases: D271_RS03050, D271_03074
+Other Designations: MBL fold metallo-hydrolase
+ID: 80986494
+
+2. SAMSHR1132_RS09725
+MBL fold metallo-hydrolase [Staphylococcus argenteus]
+Other Aliases: SAMSHR1132_RS09725, SAMSHR1132_18260
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_016941.1 (2000661..2001278, complement)
+ID: 66840208
+
+3. HQ49_RS00125
+MBL fold metallo-hydrolase [Porphyromonas gulae]
+Other Aliases: HQ49_RS00125, HQ49_00135
+Other Designations: MBL fold metallo-hydrolase
+ID: 57238763
+
+4. SMON_RS02245
+MBL fold metallo-hydrolase [Streptobacillus moniliformis DSM 12112]
+Other Aliases: SMON_RS02245, Smon_0438
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_013515.1 (520006..520764)
+ID: 29673666
+
+5. SN16_RS12570
+MBL fold metallo-hydrolase [Salinicoccus roseus]
+Other Aliases: SN16_RS12570, SN16_12580
+Other Designations: MBL fold metallo-hydrolase
+ID: 77846379
+
+6. C7U55_RS11740
+MBL fold metallo-hydrolase [Faecalibacillus faecis]
+Other Aliases: C7U55_RS11740, C7U55_11720
+Other Designations: MBL fold metallo-hydrolase
+ID: 77471751
+
+7. Fi14EGH31_RS13960
+MBL fold metallo-hydrolase [Faecalibacillus intestinalis]
+Other Aliases: Fi14EGH31_RS13960, Fi14EGH31_26970
+Other Designations: MBL fold metallo-hydrolase
+ID: 70581135
+
+8. KW2_RS01950
+MBL fold metallo-hydrolase [Lactococcus cremoris subsp. cremoris KW2]
+Other Aliases: KW2_RS01950, kw2_0394
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_022369.1 (394332..395144, complement)
+ID: 61108714
+
+9. APT_RS10925
+pyrroloquinoline quinone biosynthesis protein PqqB [Acetobacter pasteurianus NBRC 101655]
+Other Aliases: APT_RS10925, APT_02190
+Other Designations: pyrroloquinoline quinone biosynthesis protein PqqB
+Chromosome: Unknown
+ID: 60376036
+
+10. JL52_RS01685
+MBL fold metallo-hydrolase [Listeria ivanovii subsp. ivanovii]
+Other Aliases: JL52_RS01685, JL52_01685
+Other Designations: MBL fold metallo-hydrolase
+ID: 57075278
+
+11. RBI_RS13610
+MBL fold metallo-hydrolase [Ruminococcus bicirculans (ex Wegman et al. 2014)]
+Other Aliases: RBI_RS13610, RBI_II00617
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: II
+ID: 41520659
+
+12. Y931_RS0101470
+MBL fold metallo-hydrolase [Aphanizomenon flos-aquae NIES-81]
+Other Aliases: Y931_RS0101470
+Other Designations: MBL fold metallo-hydrolase
+ID: 79793521
+
+13. M666_RS13955
+MBL fold metallo-hydrolase [Cellulophaga baltica 18]
+Other Aliases: M666_RS13955, M666_13955
+Other Designations: MBL fold metallo-hydrolase
+ID: 78061841
+
+14. PcP3B5_RS22785
+MBL fold metallo-hydrolase [Pseudomonas citronellolis]
+Other Aliases: PcP3B5_RS22785, PcP3B5_46940
+Other Designations: MBL fold metallo-hydrolase
+ID: 72997683
+
+15. HR49_RS22180
+MBL fold metallo-hydrolase [Lysinibacillus fusiformis]
+Other Aliases: HR49_RS22180, HR49_22195
+Other Designations: MBL fold metallo-hydrolase
+ID: 29441220
+
+16. pqqB
+pyrroloquinoline quinone biosynthesis protein PqqB [Acinetobacter pittii PHEA-2]
+Other Aliases: BDGL_001127
+Annotation:  NC_016603.1 (1178774..1179685)
+ID: 11639308
+
+17. AFLV_RS14725
+MBL fold metallo-hydrolase [Anoxybacillus flavithermus WK1]
+Other Aliases: AFLV_RS14725, Aflv_2835
+Other Designations: MBL fold metallo-hydrolase
+Annotation:  NC_011567.1 (2820931..2821719, complement)
+ID: 7039108
+
+18. H556_RS0100850
+MBL fold metallo-hydrolase [Brevundimonas naejangsanensis DSM 23858]
+Other Aliases: H556_RS0100850
+Other Designations: MBL fold metallo-hydrolase
+ID: 78116483
+
+19. K788_RS13310
+MBL fold metallo-hydrolase [Paraburkholderia caribensis MBA4]
+Other Aliases: K788_RS13310, K788_0007515
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: 1
+ID: 69969665
+
+20. AD947_RS15560
+MBL fold metallo-hydrolase [Acetobacter tropicalis]
+Other Aliases: AD947_RS15560, AD947_15615
+Other Designations: MBL fold metallo-hydrolase
+ID: 60798483
+
+21. RUA4292_RS22685
+MBL fold metallo-hydrolase [Ruegeria atlantica]
+Other Aliases: RUA4292_RS22685, RUA4292_04571
+Other Designations: MBL fold metallo-hydrolase
+ID: 55495690
+
+22. ASN_RS17340
+MBL fold metallo-hydrolase [Acetobacter senegalensis]
+Other Aliases: ASN_RS17340, ASN_3711
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: I
+ID: 34784646
+
+23. KPHS_03340
+carbon-phosphorus lyase complex accessory protein [Klebsiella pneumoniae subsp. pneumoniae HS11286]
+Other Aliases: KPHS_03340
+Other Designations: carbon-phosphorus lyase complex accessory protein
+Annotation:  NC_016845.1 (375228..375986, complement)
+ID: 11845321
+
+24. DWY25_RS03545
+MBL fold metallo-hydrolase [Holdemania filiformis]
+Other Aliases: DWY25_RS03545, DWY25_03535
+Other Designations: MBL fold metallo-hydrolase
+ID: 83014479
+
+25. BQ7483_RS03320
+MBL fold metallo-hydrolase [Mediterranea massiliensis]
+Other Aliases: BQ7483_RS03320
+Other Designations: MBL fold metallo-hydrolase
+ID: 83007460
+
+26. SFHG_RS08945
+MBL fold metallo-hydrolase [Senegalimassilia anaerobia JC110]
+Other Aliases: SFHG_RS08945
+Other Designations: MBL fold metallo-hydrolase
+ID: 82936491
+
+27. BN54_RS05890
+MBL fold metallo-hydrolase [Limosilactobacillus ingluviei str. Autruche 4]
+Other Aliases: BN54_RS05890, BN54_06105
+Other Designations: MBL fold metallo-hydrolase
+ID: 82933991
+
+28. EQZ20_RS24190
+MBL fold metallo-hydrolase [Bacillus glycinifermentans]
+Other Aliases: EQZ20_RS24190, EQZ20_24190
+Other Designations: MBL fold metallo-hydrolase
+ID: 82855779
+
+29. C510_RS0109330
+MBL fold metallo-hydrolase [Phocaeicola barnesiae DSM 18169 = JCM 13652]
+Other Aliases: C510_RS0109330
+Other Designations: MBL fold metallo-hydrolase
+ID: 82443516
+
+30. BO222_RS07140
+MBL fold metallo-hydrolase [Ileibacterium valens]
+Other Aliases: BO222_RS07140, BO222_07090
+Other Designations: MBL fold metallo-hydrolase
+ID: 82202959
+
+31. C811_RS09845
+MBL fold metallo-hydrolase [Adlercreutzia caecimuris B7]
+Other Aliases: C811_RS09845, C811_01211
+Other Designations: MBL fold metallo-hydrolase
+ID: 82190751
+
+32. BQ7997_RS08510
+MBL fold metallo-hydrolase [Bacteroides congonensis]
+Other Aliases: BQ7997_RS08510
+Other Designations: MBL fold metallo-hydrolase
+ID: 82174660
+
+33. BQ7997_RS01605
+MBL fold metallo-hydrolase [Bacteroides congonensis]
+Other Aliases: BQ7997_RS01605
+Other Designations: MBL fold metallo-hydrolase
+ID: 82173332
+
+34. PND65_RS05040
+MBL fold metallo-hydrolase [Faecalitalea cylindroides]
+Other Aliases: PND65_RS05040, PND65_05040
+Other Designations: MBL fold metallo-hydrolase
+ID: 79876575
+
+35. PPA02S_RS11460
+MBL fold metallo-hydrolase [Pseudomonas parafulva NBRC 16636 = DSM 17004]
+Other Aliases: PPA02S_RS11460
+Other Designations: MBL fold metallo-hydrolase
+ID: 78503757
+
+36. HMPREF9145_RS11185
+MBL fold metallo-hydrolase [Prevotella salivae F0493]
+Other Aliases: HMPREF9145_RS11185, HMPREF9145_1182
+Other Designations: MBL fold metallo-hydrolase
+ID: 78498897
+
+37. HMPREF9145_RS06735
+MBL fold metallo-hydrolase [Prevotella salivae F0493]
+Other Aliases: HMPREF9145_RS06735, HMPREF9145_2296
+Other Designations: MBL fold metallo-hydrolase
+ID: 78498061
+
+38. RUMCAL_RS02365
+MBL fold metallo-hydrolase [Ruminococcus callidus ATCC 27760]
+Other Aliases: RUMCAL_RS02365, RUMCAL_02677
+Other Designations: MBL fold metallo-hydrolase
+ID: 78474450
+
+39. FUSPEROL_RS10080
+MBL fold metallo-hydrolase [Fusobacterium periodonticum ATCC 33693]
+Other Aliases: FUSPEROL_RS10080, FUSPEROL_02116
+Other Designations: MBL fold metallo-hydrolase
+ID: 78420291
+
+40. BMW96_RS13380
+MBL fold metallo-hydrolase [Thomasclavelia cocleata]
+Other Aliases: BMW96_RS13380, SAMN04489758_16411
+Other Designations: MBL fold metallo-hydrolase
+ID: 78289630
+
+41. BO225_RS05685
+MBL fold metallo-hydrolase [Dubosiella newyorkensis]
+Other Aliases: BO225_RS05685, BO225_05610
+Other Designations: MBL fold metallo-hydrolase
+ID: 78275421
+
+42. N4599_RS06935
+MBL fold metallo-hydrolase [Limosilactobacillus oris]
+Other Aliases: N4599_RS06935, N4599_06935
+Other Designations: MBL fold metallo-hydrolase
+ID: 78174689
+
+43. HMPREF9448_RS07560
+MBL fold metallo-hydrolase [Barnesiella intestinihominis YIT 11860]
+Other Aliases: HMPREF9448_RS07560, HMPREF9448_01541
+Other Designations: MBL fold metallo-hydrolase
+ID: 77848801
+
+44. LL095_RS07165
+MBL fold metallo-hydrolase [Clostridium tagluense]
+Other Aliases: LL095_RS07165, LL095_07170
+Other Designations: MBL fold metallo-hydrolase
+ID: 77240782
+
+45. BN987_RS04330
+MBL fold metallo-hydrolase [Rossellomorea vietnamensis]
+Other Aliases: BN987_RS04330
+Other Designations: MBL fold metallo-hydrolase
+ID: 77235578
+
+46. BV55_RS0104780
+MBL fold metallo-hydrolase [Clostridium algidicarnis]
+Other Aliases: BV55_RS0104780
+Other Designations: MBL fold metallo-hydrolase
+ID: 75089875
+
+47. ALIPUT_RS06505
+MBL fold metallo-hydrolase [Alistipes putredinis DSM 17216]
+Other Aliases: ALIPUT_RS06505, ALIPUT_00168
+Other Designations: MBL fold metallo-hydrolase
+ID: 73803271
+
+48. TX77_RS08455
+MBL fold metallo-hydrolase [Megasphaera massiliensis]
+Other Aliases: TX77_RS08455
+Other Designations: MBL fold metallo-hydrolase
+ID: 73793217
+
+49. LDN65_RS06480
+MBL fold metallo-hydrolase [Prevotella lacticifex]
+Other Aliases: LDN65_RS06480, PRLR5067_12790
+Other Designations: MBL fold metallo-hydrolase
+ID: 72467096
+
+50. LAX73_RS00340
+MBL fold metallo-hydrolase [Listeria marthii]
+Other Aliases: LAX73_RS00340, LAX73_00340
+Other Designations: MBL fold metallo-hydrolase
+ID: 72457090
+
+
+1. LAX71_RS07330
+MBL fold metallo-hydrolase [Listeria cossartiae]
+Other Aliases: LAX71_RS07330, LAX71_07355
+Other Designations: MBL fold metallo-hydrolase
+ID: 69675446
+
+2. WJ01_RS23740
+MBL fold metallo-hydrolase [Burkholderia vietnamiensis]
+Other Aliases: WJ01_RS23740, WJ01_24175
+Other Designations: MBL fold metallo-hydrolase
+ID: 69527843
+
+3. VPA02S_RS26095
+MBL fold metallo-hydrolase [Variovorax paradoxus NBRC 15149]
+Other Aliases: VPA02S_RS26095
+Other Designations: MBL fold metallo-hydrolase
+ID: 67429810
+
+4. JC286_RS04840
+MBL fold metallo-hydrolase [Staphylococcus pseudintermedius]
+Other Aliases: JC286_RS04840, JC286_04840
+Other Designations: MBL fold metallo-hydrolase
+ID: 66876270
+
+5. SPSF3K_RS04155
+MBL fold metallo-hydrolase [Streptococcus parauberis]
+Other Aliases: SPSF3K_RS04155, SPSF3K_00848
+Other Designations: MBL fold metallo-hydrolase
+ID: 66815853
+
+6. DWW49_RS04275
+MBL fold metallo-hydrolase [Holdemanella biformis]
+Other Aliases: DWW49_RS04275, DWW49_04280
+Other Designations: MBL fold metallo-hydrolase
+ID: 66579291
+
+7. BFC19_RS07565
+MBL fold metallo-hydrolase [Brochothrix thermosphacta]
+Other Aliases: BFC19_RS07565, BFC19_07510
+Other Designations: MBL fold metallo-hydrolase
+ID: 66537486
+
+8. JKG63_RS13000
+MBL fold metallo-hydrolase [Burkholderia gladioli]
+Other Aliases: JKG63_RS13000
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: 1
+ID: 66458483
+
+9. C7385_RS00700
+MBL fold metallo-hydrolase [Acholeplasma laidlawii]
+Other Aliases: C7385_RS00700, C7385_0143
+Other Designations: MBL fold metallo-hydrolase
+ID: 66293207
+
+10. I6K69_RS00625
+MBL fold metallo-hydrolase [Coprococcus comes]
+Other Aliases: I6K69_RS00625, I6K69_00625
+Other Designations: MBL fold metallo-hydrolase
+ID: 64112314
+
+11. A6024_RS15625
+MBL fold metallo-hydrolase [Rhodovulum sulfidophilum]
+Other Aliases: A6024_RS15625, A6024_15625
+Other Designations: MBL fold metallo-hydrolase
+ID: 62372434
+
+12. WJ12_RS10575
+MBL fold metallo-hydrolase [Burkholderia seminalis]
+Other Aliases: WJ12_RS10575, WJ12_10555
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: 1
+ID: 62011561
+
+13. C4J98_RS07090
+MBL fold metallo-hydrolase [Pseudomonas orientalis]
+Other Aliases: C4J98_RS07090, C4J98_1424
+Other Designations: MBL fold metallo-hydrolase
+ID: 61616642
+
+14. G598_RS0116065
+MBL fold metallo-hydrolase [Selenomonas ruminantium subsp. ruminantium ATCC 12561]
+Other Aliases: G598_RS0116065
+Other Designations: MBL fold metallo-hydrolase
+ID: 61463477
+
+15. WMS_RS12205
+MBL fold metallo-hydrolase [Enterococcus faecalis EnGen0336]
+Other Aliases: WMS_RS12205, WMS_01810
+Other Designations: MBL fold metallo-hydrolase
+ID: 60894104
+
+16. ARB75_RS10390
+MBL fold metallo-hydrolase [Roseburia faecis]
+Other Aliases: ARB75_RS10390, ERS852420_02113
+Other Designations: MBL fold metallo-hydrolase
+ID: 60300029
+
+17. ARB75_RS02325
+MBL fold metallo-hydrolase [Roseburia faecis]
+Other Aliases: ARB75_RS02325, ERS852420_00470
+Other Designations: MBL fold metallo-hydrolase
+ID: 60298471
+
+18. F2P57_RS19025
+MBL fold metallo-hydrolase [[Clostridium] symbiosum]
+Other Aliases: F2P57_RS19025, F2P57_19025
+Other Designations: MBL fold metallo-hydrolase
+ID: 57970721
+
+19. WT74_RS10965
+MBL fold metallo-hydrolase [Burkholderia stagnalis]
+Other Aliases: WT74_RS10965, WT74_10940
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: 1
+ID: 46326624
+
+20. WS51_RS20830
+MBL fold metallo-hydrolase [Burkholderia territorii]
+Other Aliases: WS51_RS20830, WS51_20810
+Other Designations: MBL fold metallo-hydrolase
+Chromosome: 1
+ID: 46200675
+
+21. L870_RS0108745
+MBL fold metallo-hydrolase [Ruminococcus flavefaciens ATCC 19208]
+Other Aliases: L870_RS0108745
+Other Designations: MBL fold metallo-hydrolase
+ID: 42538183
+
+22. BN162_RS09155
+MBL fold metallo-hydrolase [Holdemania massiliensis AP2]
+Other Aliases: BN162_RS09155, BN162_09455
+Other Designations: MBL fold metallo-hydrolase
+ID: 42456629
+
+23. MPLDJ20_RS07940
+MBL fold metallo-hydrolase [Mesorhizobium plurifarium]
+Other Aliases: MPLDJ20_RS07940, MPLDJ20_140105
+Other Designations: MBL fold metallo-hydrolase
+ID: 31888995
+
+24. FA04_RS21775
+MBL fold metallo-hydrolase [Ensifer adhaerens]
+Other Aliases: FA04_RS21775, FA04_21745
+Other Designations: MBL fold metallo-hydrolase
+Genomic context: Plasmid pCasidaAA
+ID: 29521317
+
+25. EZS29_RS15680
+hypothetical protein [Silvanigrellales bacterium RF1110005]
+Other Aliases: EZS29_RS15680, JCM31447_32200
+Other Designations: hypothetical protein
+Genomic context: Plasmid 68K
+ID: 39493252
+
+26. NEWENTRY
+Record to support submission of GeneRIFs for a gene not in Gene (Koribacter versatilis.  Use when strain, subtype, isolate, etc. is unspecified, or when different from all specified ones in Gene.). [Candidatus Koribacter versatilis]
+ID: 8149048
+
