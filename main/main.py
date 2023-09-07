@@ -2,40 +2,44 @@ import os
 import re
 import entrez
 import phn_parser
-
-GENES = [
-    "phnC",
-    "phnD",
-    "phnE",
-    "phnF",
-    "phnG",
-    "phnH",
-    "phnI",
-    "phnJ",
-    "phnK",
-    "phnL",
-    "phnM",
-    "phnN",
-    "phnO",
-    "phnP",
-]
+import phn_filter
+from tqdm import tqdm
 
 
-def download_data(path, GENES) -> None:
-    entrez.search_fetch(path, GENES)
+GENES = {
+    "phnC": ["ABC transporter"],
+    "phnD": ["ABC transporter"],
+    "phnE": ["ABC transporter"],
+    "phnF": ["regulator"],
+    "phnG": ["C-P lyase system"],
+    "phnH": ["C-P lyase system"],
+    "phnI": ["carbon-phosphorus"],
+    "phnJ": ["alpha-D-ribose",
+             "1-methylphosphonate",
+             "5-phosphate",
+             "C-P-lyase"], # All required
+    "phnK": ["C-P-lyase system",
+             "ATP-binding",
+             "ABC transporter"], # Either required
+    "phnL": ["C-P-lyase system",
+             "ABC transporter"], # Either required
+    "phnM": ["diphosphatase",
+             "diphosphohydrolase"], # Either required
+    "phnN": ["phosphokinase"],
+    "phnO": ["N-acetyltransferase"],
+    "phnP": ["phosphonate metabolism",
+             "phosphodiesterase"], # Either required
+}
 
-def parse_ids(filename):
-    phn_parser.parser(###)
+print(GENES)
 
-
-def main() -> None:
-
-    # Change current directory to "data" in check if data already exists
+def check_existing_entrez() -> str and list[str | None]:
+    # Change current directory to "data" in check if d  ata already exists
     path = os.getcwd().split("/")
     path[-1] = "data"
     data_path = "/".join(path)
 
-    # Check for existing data
+    # Get existing data
     data_list = os.listdir(data_path)
 
     # Search existing data and append gene if it contains "phn"
@@ -52,13 +56,80 @@ def main() -> None:
             if obj not in data_exists:
                 missing_data.append(obj)
 
-    # Download missing data if necessary
-    if missing_data:
-        print("Missing:", missing_data)
-    #    download_data(data_path, missing_data)
+    return data_path, missing_data
 
-    print("Exists:", data_exists)
 
+def check_existing_id() -> list[str | None]:
+
+    # Change current directory to "data" in check if data already exists
+    path = os.getcwd().split("/")
+    path[-1] = "data"
+    data_path = "/".join(path)
+
+    # Get existing files in the directory
+    file_list = os.listdir(data_path)
+
+    # Split the file_list into two lists
+    entrez_files = []
+    id_files = []
+
+    for i in file_list:
+        if "IDs" not in i:
+            entrez_files.append(i)
+        else:
+            id_files.append(i)
+
+    # Check if each gene is in both lists
+    # If gene is not in both lists, store the name of the gene
+    id_present = False
+    missing_ids = []
+    for i in entrez_files:
+        gene_name = i.strip(".txt")
+        for j in id_files:
+            if gene_name in j:
+                id_present = True
+        if not id_present:
+            missing_ids.append(i)
+        id_present = False
+
+    return missing_ids
+
+
+def download_data(path, genes) -> None:
+    # Download missing data
+    print("Downloading data for:", ", ".join(genes))
+    entrez.search_fetch(path, genes)
+
+    return
+
+def filter_gene_ids(path, genes, missing_ids) -> None:
+    phn_filter.filter(path, genes, missing_ids)
+    return
+
+
+def parse_ids(path, filename):
+    # Parse relevant RefSeq id numbers
+    for i in tqdm(filename):
+        phn_parser.parser(path, i)
+
+    return
+
+
+def main() -> None:
+
+    print("Checking for existing data:")
+    path, genes = tqdm(check_existing_entrez())
+    if genes:
+        download_data(path, genes)
+
+
+    ids = check_existing_id()
+    if ids:
+        print("Filtering genes")
+        filter_gene_ids(path, GENES, ids)
+        return
+        print("Checking for RefSeq IDs:")
+        parse_ids(path, ids)
 
 
 if __name__ == "__main__":

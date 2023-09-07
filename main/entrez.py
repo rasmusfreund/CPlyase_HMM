@@ -1,12 +1,14 @@
 from Bio import Entrez
+from tqdm import tqdm
 
 Entrez.email = "201700273@post.au.dk"
+
 
 def search_fetch(path: str, genes: list[str]) -> None:
 
     BATCH_SIZE = 50
 
-    for gene in genes:
+    for gene in tqdm(genes):
         search_handle = Entrez.esearch(
             db="gene",
             term=f"({gene}[All Fields]) AND Bacteria[Filter] AND alive[prop]",  # alive[prop] excludes discontinued and replaced items
@@ -43,4 +45,4 @@ def search_fetch(path: str, genes: list[str]) -> None:
             out_handle.write(data)
         out_handle.close()
 
-    return()
+    return
