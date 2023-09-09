@@ -1,7 +1,6 @@
 import os
 import re
 import entrez
-import phn_parser
 import phn_filter
 from tqdm import tqdm
 
@@ -21,7 +20,7 @@ GENES = {
     "phnK": ["C-P-lyase system",
              "ATP-binding",
              "ABC transporter"], # Either required
-    "phnL": ["C-P-lyase system",
+    "phnL": ["C-P lyase system",
              "ABC transporter"], # Either required
     "phnM": ["diphosphatase",
              "diphosphohydrolase"], # Either required
@@ -31,7 +30,6 @@ GENES = {
              "phosphodiesterase"], # Either required
 }
 
-print(GENES)
 
 def check_existing_entrez() -> str and list[str | None]:
     # Change current directory to "data" in check if d  ata already exists
@@ -102,16 +100,9 @@ def download_data(path, genes) -> None:
 
     return
 
+
 def filter_gene_ids(path, genes, missing_ids) -> None:
-    phn_filter.filter(path, genes, missing_ids)
-    return
-
-
-def parse_ids(path, filename):
-    # Parse relevant RefSeq id numbers
-    for i in tqdm(filename):
-        phn_parser.parser(path, i)
-
+    phn_filter.filter_ids(path, genes, missing_ids)
     return
 
 
@@ -122,14 +113,10 @@ def main() -> None:
     if genes:
         download_data(path, genes)
 
-
     ids = check_existing_id()
     if ids:
-        print("Filtering genes")
+        print("Filtering genes and writing ID files")
         filter_gene_ids(path, GENES, ids)
-        return
-        print("Checking for RefSeq IDs:")
-        parse_ids(path, ids)
 
 
 if __name__ == "__main__":
