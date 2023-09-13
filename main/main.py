@@ -13,29 +13,36 @@ GENES = {
     "phnG": ["C-P lyase system"],
     "phnH": ["C-P lyase system"],
     "phnI": ["carbon-phosphorus"],
-    "phnJ": ["alpha-D-ribose",
-             "1-methylphosphonate",
-             "5-phosphate",
-             "C-P-lyase"], # All required
-    "phnK": ["C-P-lyase system",
-             "ATP-binding",
-             "ABC transporter"], # Either required
-    "phnL": ["C-P lyase system",
-             "ABC transporter"], # Either required
-    "phnM": ["diphosphatase",
-             "diphosphohydrolase"], # Either required
+    "phnJ": [
+        "alpha-D-ribose",
+        "1-methylphosphonate",
+        "5-phosphate",
+        "C-P-lyase",
+    ],  # All required
+    "phnK": ["C-P-lyase system", "ATP-binding", "ABC transporter"],  # Either required
+    "phnL": ["C-P lyase system", "ABC transporter"],  # Either required
+    "phnM": ["diphosphatase", "diphosphohydrolase"],  # Either required
     "phnN": ["phosphokinase"],
     "phnO": ["N-acetyltransferase"],
-    "phnP": ["phosphonate metabolism",
-             "phosphodiesterase"], # Either required
+    "phnP": ["phosphonate metabolism", "phosphodiesterase"],  # Either required
 }
 
 
+def set_path() -> str:
+    path = os.path.split(os.getcwd())
+    data_path = ""
+
+    if path[1] == "CPlyase_HMM":
+        # If current dir is CPlyase_HMM, then append "data"
+        data_path = os.path.join(path[0], path[1], "data")
+    else:
+        # If current dir is main, then exchange with "data"
+        data_path = os.path.join(path[0], "data")
+    return data_path
+
+
 def check_existing_entrez() -> str and list[str | None]:
-    # Change current directory to "data" in check if d  ata already exists
-    path = os.getcwd().split("/")
-    path[-1] = "data"
-    data_path = "/".join(path)
+    data_path = set_path()
 
     # Get existing data
     data_list = os.listdir(data_path)
@@ -58,11 +65,7 @@ def check_existing_entrez() -> str and list[str | None]:
 
 
 def check_existing_id() -> list[str | None]:
-
-    # Change current directory to "data" in check if data already exists
-    path = os.getcwd().split("/")
-    path[-1] = "data"
-    data_path = "/".join(path)
+    data_path = set_path()
 
     # Get existing files in the directory
     file_list = os.listdir(data_path)
@@ -107,7 +110,6 @@ def filter_gene_ids(path, genes, missing_ids) -> None:
 
 
 def main() -> None:
-
     print("Checking for existing data:")
     path, genes = tqdm(check_existing_entrez())
     if genes:
