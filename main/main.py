@@ -2,6 +2,7 @@ import os
 import re
 import entrez
 import phn_filter
+import phn_parser
 from tqdm import tqdm
 
 
@@ -100,13 +101,18 @@ def download_data(path, genes) -> None:
     # Download missing data
     print("Downloading data for:", ", ".join(genes))
     entrez.search_fetch(path, genes)
-
     return
 
 
 def filter_gene_ids(path, genes, missing_ids) -> None:
     phn_filter.filter_ids(path, genes, missing_ids)
     return
+
+
+def extract_ids(files: list) -> None:
+    data_path = set_path()
+    for i in range(len(files)):
+        phn_parser.parser(os.path.join(data_path, files[i]))
 
 
 def main() -> None:
@@ -119,6 +125,9 @@ def main() -> None:
     if ids:
         print("Filtering genes and writing ID files")
         filter_gene_ids(path, GENES, ids)
+
+    id_files = [i for i in os.listdir(set_path()) if "IDs" in i]
+    extract_ids(id_files)
 
 
 if __name__ == "__main__":

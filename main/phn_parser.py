@@ -1,31 +1,30 @@
 import re
+import os
 
-def parser(path: str, file: str) -> None:
-    """
-    :param file: File containing data acquired from entrez.py
-    :return: Output file with all RefSeq IDs found in the input file.
-    """
-    id_list = []
 
-    """Isolate name of input file and append '_IDs' to it"""
-    new_file_name = file.strip(".txt")
-    new_file_name += "_IDs.txt"
-
-    """Open file, read each line, locate lines containing
-     'ID:' followed by a string of numbers"""
-    entrez_file = open(f"{path}/{file}", "r")
-
-    with open(f"{path}/{new_file_name}", "w") as f:
-        for line in entrez_file:
-            if re.search("ID: \d+", line):
-                id_list.append(line.strip("ID: \n"))
-
-        """Write to output file"""
-        f.write("\n".join(id_list))
-
-        print(f"Found {len(id_list)} ID numbers in {file}.")
-        print(f"IDs written to {new_file_name}")
-
+def parser(filename: str) -> None:
+    organisms = []
+    refseq = []
+    with open(filename, 'r') as f:
+        for line in f:
+            _refseq = re.search("^\t\d+", line)
+            _organism = re.search("\[.+\]", line)
+            if _organism and _organism.group(0).strip("[]") not in organisms:
+                organisms.append(_organism.group(0).strip("[]"))
+            if _refseq and _refseq.group(0).strip("\t") not in refseq:
+                refseq.append(_refseq.group(0).strip("\t"))
     f.close()
 
-    return
+    _path = os.path.split(filename)
+    _org_path = os.path.join(_path[0], _path[1].split('_')[0] + "_organisms.txt")
+    _refseq_path = os.path.join(_path[0], _path[1].split('_')[0] + "_refseq.txt")
+
+    with open(_org_path, 'w') as f:
+        for i in range(len(organisms)):
+            f.write(organisms[i] + "\n")
+    f.close()
+
+    with open(_refseq_path, 'w') as f:
+        for i in range(len(refseq)):
+            f.write(refseq[i] + "\n")
+    f.close()
