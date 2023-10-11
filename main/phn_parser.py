@@ -7,8 +7,8 @@ def parser(filename: str) -> None:
     refseq = []
     with open(filename, 'r') as f:
         for line in f:
-            _refseq = re.search("^\t\d+", line)
-            _organism = re.search("\[.+\]", line)
+            _refseq = re.search("^\t\d+", line) # Look for digits in the first place after a tab indentation
+            _organism = re.search("\[.+\]", line) # Look for organism names inside "[]"
             if _organism and _organism.group(0).strip("[]") not in organisms:
                 organisms.append(_organism.group(0).strip("[]"))
             if _refseq and _refseq.group(0).strip("\t") not in refseq:

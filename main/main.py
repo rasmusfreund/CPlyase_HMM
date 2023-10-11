@@ -3,7 +3,8 @@ import re
 import entrez
 import phn_filter
 import phn_parser
-from tqdm import tqdm
+import time
+import logging
 
 
 GENES = {
@@ -29,6 +30,18 @@ GENES = {
 }
 
 
+def timer_decorator(func):
+    def wrapper(*args, **kwargs):
+        start_time = time.time()
+        result = func(*args, **kwargs)
+        end_time = time.time()
+        execution_time = end_time - start_time
+        #logging.info(f"Executed {func.__name__} in {execution_time} seconds")
+        print(f"Executed {func.__name__} in {execution_time} seconds")
+        return result
+    return wrapper
+
+
 def set_path() -> str:
     path = os.path.split(os.getcwd())
     data_path = ""
@@ -42,6 +55,7 @@ def set_path() -> str:
     return data_path
 
 
+@timer_decorator
 def check_existing_entrez() -> str and list[str | None]:
     data_path = set_path()
 
@@ -65,6 +79,7 @@ def check_existing_entrez() -> str and list[str | None]:
     return data_path, missing_data
 
 
+@timer_decorator
 def check_existing_id() -> list[str | None]:
     data_path = set_path()
 
@@ -96,7 +111,7 @@ def check_existing_id() -> list[str | None]:
 
     return missing_ids
 
-
+@timer_decorator
 def download_data(path, genes) -> None:
     # Download missing data
     print("Downloading data for:", ", ".join(genes))
@@ -104,11 +119,13 @@ def download_data(path, genes) -> None:
     return
 
 
+@timer_decorator
 def filter_gene_ids(path, genes, missing_ids) -> None:
     phn_filter.filter_ids(path, genes, missing_ids)
     return
 
 
+@timer_decorator
 def extract_ids(files: list) -> None:
     data_path = set_path()
     for i in range(len(files)):
@@ -117,7 +134,7 @@ def extract_ids(files: list) -> None:
 
 def main() -> None:
     print("Checking for existing data:")
-    path, genes = tqdm(check_existing_entrez())
+    path, genes = check_existing_entrez()
     if genes:
         download_data(path, genes)
 
