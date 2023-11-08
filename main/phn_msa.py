@@ -35,9 +35,9 @@ def run_msa(input_file_path, output_file_path):
             ],
             check=True
         )
-        print(f"Successfully completed MSA for {gene_family}")
+        print(f"Successfully completed MSA for {os.path.split(input_file_path)[1]}")
     except Exception as e:
-        print(f"Failed to run MSA for {gene_family}: {e}")
+        print(f"Failed to run MSA for {os.path.split(input_file_path)[1]}: {e}")
 
 
 # Check if a specific folder was specified

@@ -105,7 +105,7 @@ for family in gene_families:
     write_sequences(test_file_path, test_set)
 
     # Pipeline:
-    # 1. Generate the MSA for the training set.
-    # 2. Build the HMM model from the MSA.
+    # 1. Generate the MSA for the training set. Done
+    # 2. Build the HMM model from the MSA. Done
     # 3. Validate the HMM model using the test set.
     # 4. Save the HMM model with an appropriate naming convention in phmm_dir.
