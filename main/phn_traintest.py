@@ -109,7 +109,3 @@ for family in gene_families:
     # 2. Build the HMM model from the MSA.
     # 3. Validate the HMM model using the test set.
     # 4. Save the HMM model with an appropriate naming convention in phmm_dir.
-
-
-
-
