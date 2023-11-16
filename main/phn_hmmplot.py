@@ -26,6 +26,7 @@ def plot_e_values(df):
     max_neg = df[df['is_negative']]['neg_log_e_value'].max()
     min_pos = df[~df['is_negative']]['neg_log_e_value'].min()
     mid_point = (max_neg + min_pos) / 2
+    print(mid_point)
 
     plt.figure(figsize=(10, 6))
 
@@ -57,7 +58,12 @@ def plot_e_values(df):
     plt.tight_layout()
     plt.show()
 
+    # Save data to CSV for presentation
+    #df[['query', 'neg_log_e_value', 'is_negative']].to_csv(output_csv, index=False)
+
 
 hmmer_out_path = os.path.join(set_path(), 'validation')
 hmmer_df = parse_hmmer_output(os.path.join(hmmer_out_path, 'phnC_hmmer_output.out'))
 plot_e_values(hmmer_df)
+#output_csv = os.path.join(hmmer_out_path, 'hmmer_plot_data.csv')
+#plot_e_values(hmmer_df, output_csv)
